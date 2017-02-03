@@ -10,7 +10,7 @@ Workflow
 
 Determine which species and groups to look in (have done some prelimary work indicating presence of some genes in holozans, most genes in Metazoans, want wide sampling of groups beyond just classic model systems, would like to pay extra attention to non-Bilaterian groups, due to age of groups and potential information on evolution of animal complexity)
 
-Download transcriptomic, gene model, or genome data for taxa to be searched in
+Download transcriptomic, gene model, or genome data for taxa to be searched in from databases like Genbank and Compagen.
 	automating this would be nice
 
 Using sequence search tool such as BLAST or HMMER to discover all homologs of a gene in a  taxa and collect the data.  This part may prove difficult.  Previously I've been left with simply BLASTing the genes in one taxa and then blasting the resulting genes back against the original source taxa to determine if the sequences are each other's best hits, but this seems like it should be more rigourous.
