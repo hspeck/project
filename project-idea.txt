@@ -1,0 +1,31 @@
+Usher Syndrome and the evolution of sensation in the Metazoa
+
+My masters project centers on the human genetic disorder Usher Syndrome and the evolution of jellyfish sense organs.  I would like to use the final project for EEB C234 as a means to delve into the evolutionary history of the disorder by building gene trees for genes involved in Usher syndrome and doing further sequence level analysis of these genes.
+
+Usher syndrome is a genetic disorder involving around 10 different genes expressed in the vertebrate eye and ear.  These genes play key structural and functional roles in the ciliated sensory structures of these tissues and compose interciliary links and their anchoring complexes.  When a mutation occurs in one of these genes, blindness and deafness results.  These genes are well studied in vertebrates, but have been poorly studied in invertebrate taxa.  I have detected likely homologs for these genes in jellyfish and other invertebrate taxa. I have begun study on the expression of some of these genes in jellyfish, and there is some indication that these genes play a role in mechanosensationin Cnidarians, meaning this could be a shared function from the Cnidarian-Bilaterian ancestor.
+
+I would like to formally determine the evolutionary history of this set of genes.  It would help me a great deal to formalize my search methods and workflow, so that the work is replicable and my logic and the qualifications I used are clear to outside observers.  These gene trees are potentially very interesting due to the fact that these genes interact with one another to form separate functional complexes and are found in two separate contexts, in mechanosensors and photoreceptors.  These gene trees should be able to show something about the evolutionary assembly of the gene complex and the potential for cooptation of these genes into different structures (e.g. from mechanoreceptor components to photoreceptor components).  This inquiry should also locate possible gene duplication events and further inform the evolutionary history of these genes and sensory structures.
+
+Workflow
+
+Determine which species and groups to look in (have done some prelimary work indicating presence of some genes in holozans, most genes in Metazoans, want wide sampling of groups beyond just classic model systems, would like to pay extra attention to non-Bilaterian groups, due to age of groups and potential information on evolution of animal complexity)
+
+Download transcriptomic, gene model, or genome data for taxa to be searched in
+	automating this would be nice
+
+Using sequence search tool such as BLAST or HMMER to discover all homologs of a gene in a  taxa and collect the data.  This part may prove difficult.  Previously I've been left with simply BLASTing the genes in one taxa and then blasting the resulting genes back against the original source taxa to determine if the sequences are each other's best hits, but this seems like it should be more rigourous.
+	Ideally would like to have a score value (bit score or e-value) cutoff for matches
+		problematic due to extreme size of some sequences involved
+		problematic due to two highly repetitious cadherins being involved in the complex, difficult to delineate between each other, and other functionally different cadherins
+
+Assemble gene trees for each gene or related genes (several genes involved are part of the same family, so it makes sense to include them togeter).  Not sure which program to use.  have heard raxML as possiblity or BEAST, but not sure which is most appropriate.
+
+attempt to reconcile gene tree and species tree disagreements. Not sure how to do so or what programs to use.  Potential issue as the further back in time one goes, the more disagreement their tends to be.  Issue of Ctenophores sister to the rest of the Metazoans or Porifera as sister.  Could evaluate for both cases.
+
+Ideally use domain annotation software to annotate the sequences for all Usher genes in all species.  This can show the gain/loss of domains of genes through time, could be effective in showing the evolution of each gene.
+	annotation seems automatible, but unsure of the analysis part.  determining order and number of domains without just counting seems difficult.  Have seen diagrams of this sort of tree, for say the Myosin family, but don't know if it was done programmatically or by hand
+
+
+Visualize trees, ideally be able to point to where gains/losses of domains occured.  See if changes coincide with origin of certain mechano or photoreceptors per clade or evidence of cooptation.  Determine if components of the same complex arose the same time or if was assembled piecemeal.  Which complex arose first.  Which groups have lost these genes.  Determine if any radiations in these genes occured within specific groups or lineages.
+
+
