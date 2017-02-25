@@ -1,0 +1,905 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_88203</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_88203</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|575484578|ref|XP_006681583.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_13697 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006681583</Hit_accession>
+  <Hit_len>1569</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>525.013</Hsp_bit-score>
+      <Hsp_score>1351</Hsp_score>
+      <Hsp_evalue>2.62013e-156</Hsp_evalue>
+      <Hsp_query-from>59</Hsp_query-from>
+      <Hsp_query-to>929</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>978</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>326</Hsp_identity>
+      <Hsp_positive>502</Hsp_positive>
+      <Hsp_gaps>63</Hsp_gaps>
+      <Hsp_align-len>919</Hsp_align-len>
+      <Hsp_qseq>MHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAI--------------------SGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRG-----AIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKL-----NSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQAD----------VAMG--AETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMR--LGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFR--HRLWAVLTVQAYARGMIARR-LHQRLRAEYLWRLEAEKMRLAEE-EKLRKEMSAKKAKEEAERKHQERLAQLAREDAERELKEKEAARRKKELLEQM</Hsp_qseq>
+      <Hsp_hseq>INPPKLAGCDDLTNLSYLHEPGVLYNIQLRYAQEQIYTYSGIVLIAMNPFKRLNIYTAEIMREYSGKQRDELEPHLFAVAEQAYRNMIKEKKNQSIIISGESGAGKTQSAKYIMRYFAIVDELGVSRAGSAAEVAGNSNLAGNTTEIEEAVLSTNPIMEAFGNSKTSRNDNSSRFGKYIEIMFENKTDGPGVRITGAKIRTYLLERSRLVFQPQTERNYHIFYQLCAAAPAAERKELGLGSWEAFFYLNQGGTGVVNGMDDVAEFSITQKALSTIGISVSVQWDVFKICAALLHIGNIKIISSRDEAQIADD---DPALHTAARLLGVDPATFKKWIIKKQIVTRSEKIITSLNVVQATTGRDSIAKFIYSMLFDWIVRIVNLNLTR---EVATKDGRFIGVLDIYGFEHFKRNSFEQFCINYANEKLQQEFNAHVFKLEQEEYVAEKITWSFIEFNDNQPCIDMIENK-LGILDLLDEESRLPSGADSSLITKLYQRFGTAQSKF---FEKPRFGQQA-FTIKHYACDVTYEIEGFIDKNKDTVADEQLSMLNESSFEFLREVTKIEEVPEPEQKQSAAPGRRAATSKKA-TLGSIFKGSLVQLMDTIRQTEVHYIRCIKPNQAKVAFEFEAPMVLSQLRACGVLETIRISCAGYPNRQTFQEFSQRFYFLVRSVDWV---ADPKQLTETIVKGLISDEDKYQIGLSKIFFRAGQIAYIEKLRSDRFRECVIIIQKNMRRLLYQNQYRRQRNAAITIQTAVRGHQARVYTRKMRQTAAVIIIQKYTRRFIARRKYKKIRRSVIKIQNAYKAYKARGKLTGLRKQHAATQIQKVWRGYVARRQFKQYLKRIVLLQSCIRRKRAIREFKQLKVEARSVGKLKEVNYKLESKVVELSQNFAAKNRENNELLDRVSTLESQL</Hsp_hseq>
+      <Hsp_midline>++P  + G +D+  L  L+E G+L N+ +RY    IYTY+G +L+A+NP++ L+IY+ E +R+Y+ K+  E+ PH+FA+A+  Y NM +  ++Q  IISGESGAGKT+S K I+++ A +                    +G  + IE+ VL   PI+EAFGN+KT RNDNSSRFGKYI+I F  +       I GAKI  YLLE+SR+  Q   ERNYH+FY +       ++K+LGLG    + YL  G      G  D  E++  + A+  +  + +  W++ K+ AA+LH+GN++  +   E   A +    P+L TAA LL V+P      +  + ++TR E + T L+  QA   RD+  K IY  LF WIV  +N  + +   +      R IG+LDI+GFE+F  NSFEQ CIN+ANE LQQ F  HVFKLEQEEY  E I W  IEF DNQ  +DMI NK + I+ L+DEES+ P G D++++ KL      +Q K    +  P+   +  F I H+A  V YE +GF++KN+DT+  + + +++ S  +F++++ + +           A G  A T K++ TL S FK SL  LM T+   +  ++RCIKPN+ K    F+  + + QLR  G++ETIRI  AGYP R +F EF +R+  L+  V       D +   + + + ++   D +QIG +KIF +      +E  R     + VI++QK +R    ++ + + +NAA  IQ   RGH  R     MR     + +Q   R     ++Y+  R+ +I+ Q   +AY  R       +  A   +Q   RG +ARR   Q L+   L +    + R   E ++L+ E  +    +E   K + ++ +L++  A +  +  E   R   L  Q+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|575485054|ref|XP_006681821.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_91391 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006681821</Hit_accession>
+  <Hit_len>1072</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.269</Hsp_bit-score>
+      <Hsp_score>1131</Hsp_score>
+      <Hsp_evalue>2.65028e-131</Hsp_evalue>
+      <Hsp_query-from>86</Hsp_query-from>
+      <Hsp_query-to>771</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>692</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>255</Hsp_identity>
+      <Hsp_positive>400</Hsp_positive>
+      <Hsp_gaps>36</Hsp_gaps>
+      <Hsp_align-len>707</Hsp_align-len>
+      <Hsp_qseq>LIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW--------IEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLIT------RGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSR-RSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMI-ANKPMNIISLIDEES----KFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDM-LLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAA</Hsp_qseq>
+      <Hsp_hseq>MTRIQADLMFTYI------VNPFKKLPYFTDKEIETYHGSAAYEHPPHIYALADKMFQNMIVDEENQCVIISGESGAGKTESAKLIMNYIAAVSSRGSGTTAGLVDEIKRIILGSNPLLESFGNAKTLRNNNSSRFGKYFEINFSKNGSPMGGKISNFLLEKSRVVGPSKGERNFHIFYQMTTAASATEKEQLGMMEPKYFHYLNTSGEYHADGINDVEEFNGMKAAMDVCQISVADKHAILGLVAAILHIGNIDFVEG--EQPGTAVIRDVQTLEFPAYLLGVSVEMLQGSLLSRVMRTGGIGSKRASMYNVPLNVEQAQNTRDALSKALYSRVFDWVVQAVNRAMADLAKNMIRNNQILCLGVLDIFGFEIFDKNGFEQFCINYVNERLQQIFIELTLKSEQEEYQREGIKWTPIDYFNNKIVVELIESKKPPGVMAILDDVCFTMHAVTEGADQKFVQKLEGAVRGHKHY----QGTQSQFVIHHYAGSVTYDCDGFTESNKDTLFKDLIQLMQTTSSQFIRNLFPEEV--DDSDKKRPTTVSFKIKNQSQELVDTLMRSTPSYVRCIKPNETKRAKDWDSKRVEHQVRYLNLKENIKVRRAGFCYRNTFEKFLRRFAILTPETFPNW-QGPIKDGIGIVMNSVCMEPSEWQLGVGKVFIKSPESLFLLEEQRDRKYHHYAKIIQRAYRRWKSRKYFLEMRKKA</Hsp_hseq>
+      <Hsp_midline>+ R +  L++TY       VNP++ L  ++ + I  Y      E PPHI+A+AD  + NM  +  +QC IISGESGAGKTES KLI+ ++AA+S + S         I++ +L + P+LE+FGNAKT+RN+NSSRFGKY +I+F+K G+  G KI  +LLEKSRV   +  ERN+H+FY M    S  +K++LG+ +   ++YL        +G  D +E+  +++AM V   +  +   I  L+AAILH+GN+ +     E      +    +L   A LL V+   L   L SR + T      R    + PL+ EQA + RDA  K +Y R+F W+V  +N A+       ++N++   +G+LDIFGFE F  N FEQ CIN+ NE LQQ F+    K EQEEY  E I W  I++ +N+  +++I + KP  +++++D+         +G D   + KL    + + +Y       ++QF I+H+AG V Y+  GF E N+DTL  D+IQL+ ++ ++FI+ +F  +V      +KR  T+S + K   + L+ TL    P +VRCIKPNE K+   +D      Q+RY  + E I++RRAG+  R +F +F+ R+ +L P   P + QG ++     +  +V     +WQ+G  K+F+K    + LLE +RD+       ++Q+  R +K R  FL+++  A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|575481404|ref|XP_006679996.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_35424 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006679996</Hit_accession>
+  <Hit_len>1870</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>194.897</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>6.03801e-50</Hsp_evalue>
+      <Hsp_query-from>76</Hsp_query-from>
+      <Hsp_query-to>730</Hsp_query-to>
+      <Hsp_hit-from>44</Hsp_hit-from>
+      <Hsp_hit-to>746</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>172</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>72</Hsp_gaps>
+      <Hsp_align-len>715</Hsp_align-len>
+      <Hsp_qseq>LNEAGILRNLLIRYRDHLIYTYTGS-ILVAVNPYQLLSIYSPEHIRQYTN-------------KKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAI---SGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCIT---CEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFE--NFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVH------SSRNKFIKQIFQ------------ADVAMGAETRKRSP--------------------TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKD</Hsp_qseq>
+      <Hsp_hseq>LTTADVAICLSQRLSKDLMYTRIGNRALVAVRPARSLASNTDAASKEYADVYKTTLAPSAHPHSKITSQAPHVFGIAASAYQHMLRSSVDQAIVLLGESASGKSESQRMLMRSLCDLSKSSKKKTKTQSSILKVDTVLSAFGNATTPTNTNASCVTRYSELQFDSSGRMVGLKLIESLLEKSRVSGAQDGGYCFHIFYYLLEGATHEERVQWHLSDAAHFRFLNLSKMRTASYAQGK-GAAMLDEIRENLKTLGVGRRQQVQLWQLLAAILHLGNLTFSDSVKEG-GVCTVCNYPQLQLVANMLGVPSLALQTLLTTRSRHIGTEVVSELLNAAGAAHQRDCFARSLYAVAFDWIFEQINLRLCQPESEWAN----FVSILESPGMAGTDTSSNDFHRLLVNYTNEQLIGHAMNDFFEIPKTTFMAQSIPFPETSPFD-RSILTLLVGARTGIIPLIDHYTARNRSDEEMTAKIYESNQDSSCLISSSSKKLAFSFGVRHYGGVVEYDVRGFGQSDNDILQSEFVTLIRGNPEQPGTTNVFLRTIFSNKQISTRTLASDGSTVISANNKGRAPLRRKTTKTIDDENESLDATATVGHELRSSFNQFIDAISESQTWYIFHLKTANASSGGKPDRMVLERQITGFHLTELSCNPAVIYTSIQPHADFITRYKSVV-----SLWEREPKAACESLYRYRNWSQNDAIIGSSSIFLGE</Hsp_hseq>
+      <Hsp_midline>L  A +   L  R    L+YT  G+  LVAV P + L+  +    ++Y +              KI    PH+F IA + Y +M R+S DQ  ++ GES +GK+ES +++++ L  +   S + +  +  +L+   +L AFGNA T  N N+S   +Y ++ F+  G + G K+ + LLEKSRV         +H+FY +LEG + +++ +  L  A+ + +L +    T    +G+  +     IR  +K L     +  ++ +LLAAILHLGNL +     E    C V   P L   A++L V    L + LT+R+     E VS  L+   A   RD F + +Y   F WI ++IN  + +P S+        + +L+  G    + + N F +L +N+ NE L    +   F++ +  +  +SI +      D +  L ++      II LID  +   +  +        S    +             FG+ H+ G+V Y+ +GF + + D L  + + L+        + N F++ IF                 + A  + R+P                    T+  + + S    +  +   Q +++  +K          DR +  RQ+    + E        Y       +F+ RY+ ++     +  + + +  C+ +      + +D  IG + IFL +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|575474830|ref|XP_006676709.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_23120 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006676709</Hit_accession>
+  <Hit_len>1539</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.777</Hsp_bit-score>
+      <Hsp_score>421</Hsp_score>
+      <Hsp_evalue>1.56985e-41</Hsp_evalue>
+      <Hsp_query-from>132</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>132</Hsp_hit-from>
+      <Hsp_hit-to>586</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>53</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>PHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLA-----AISGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYL----AMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVN---SFEQLCINFANEHLQQFFV------------RHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEE------SKFPKGTDTTMLHKLNSQHKLNA---------NYIPPKNNHETQFGINHFAGIVYYE</Hsp_qseq>
+      <Hsp_hseq>PHLFDLAGSAFVHLLNDKQDQCIFLCGNSNSGKSESGRLIARHLSDLSRNTVATKKPKVHSAAIKLDHVLSVFGNAVSPQNINGSHFSRYTEYQFNDDGSMVGVKLLAYNLQKQRVTDASHTHANFNVFYYLLSGADQDMRTKFHLAEASHFYFLNRVQSKPAILSHQHHFDPENLNRLVDHLKALGIPKKAHMDIFQLLAGILHLGNINFVRTSDYANQACEAKNYQHVQIAATLLGLKPEHLLSTLTFETRAVGRELCTMILDVDGAIRQRDTLAQLLYSLLFQWIIEQINTKYCKEESE----WTRYISVVDFQGIQTSSPGLGKCLARLVSNYAAERVQGFVVSQLTAATDRLVAEHAIKIPPRSRTNSA-----LSLVSNSDVLHLLAAPATGVISILQNEYIRRETSGLP-GAGSSTANSINILERIASVSCEDPKLITYTSPRK----QFGIRHYNGVVNYE</Hsp_hseq>
+      <Hsp_midline>PH+F +A + + ++  + +DQC  + G S +GK+ES +LI + L+      ++ +   +    ++   +L  FGNA + +N N S F +Y +  FN  G++ G K+  Y L+K RV   +    N++VFY +L G  +D + K  L +AS + +L    +    ++ +   D +    +   +K L      + +I +LLA ILHLGN+ +   +     ACE      +  AA+LL + P  L+S LT  T     E  +  L  + A+  RD   + +Y  LF WI+++IN    K  S+      R I ++D  G +  +        +L  N+A E +Q F V             H  K+        +     +    N D L ++A     +IS++  E      S  P G  ++  + +N   ++ +          Y  P+     QFGI H+ G+V YE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|575471436|ref|XP_006675011.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_8502, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006675011</Hit_accession>
+  <Hit_len>1597</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.392</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>2.26074e-41</Hsp_evalue>
+      <Hsp_query-from>163</Hsp_query-from>
+      <Hsp_query-to>731</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>611</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>277</Hsp_positive>
+      <Hsp_gaps>78</Hsp_gaps>
+      <Hsp_align-len>629</Hsp_align-len>
+      <Hsp_qseq>GKTESTKLILQFLAAIS---GQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQ--EYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAV---NSFEQLCINFANEHLQQFFVR----HVFKLEQEEYDLESIDWLHIEFTDNQDALDMI-ANKPMNIISLIDEES-KFPKGTDTTMLHKLNSQHKL---NANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQL--------VHSSRNKFIKQIF-QADVAMGAETRKRSPTLSSQF--KRSLELLMR------------------------TLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPI--RYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTH----DDWQI--GKTKIFLKDH</Hsp_qseq>
+      <Hsp_hseq>GNSQCGKMISKHLCSLSLNATKKSRVISGVNKMETVLAAFGSASNTLNILLARFGRYTEYQYDERGKMIGVKLLDYLFDKDRVVNIPTSERNFDIFYCLLAGATEQERLEWSLTDNSSFTYLNRAGQLTTGPTASTQRDRFDELRQHLKSLGIGTRTQSLLFRTIVAILHLGEIEFENTDGVN-EACRVKTRDTLDIVSNLLGVNSDTFEYALTIKTKPVFNEICTVFLSAADSIIQRNEIATTLYSLLFRWVIEHLNTRLC------VEESDMCIGVLN-FGTFDCGLDEHNGFYTFMMNIANERVATYLFRGYAHRLFELYNE--GLVNINPEVLKPTTMLTATDLVWSPDATSVLSIFNSESQKLVGNTSALELKTIQQMHQVCSKNSMYI---SSGRKEFKIQHYISAVSYDITGFIESNRGMIGPDVVALFRGSAELEVAASTNLFVRNLFSEQNVGTASRTEVMAPGYQSGIPQRRASTLVRRNTKAFAVASDSNGSLTTANPGLEETLDATEIWTVCCVAPNRTVGPA--DWKYMTSQIKSMDIPRLVDIAKQSAPFAHAYTFNEFVKTYRTV---IEQLLSKSDMKDYTNEMLCNAIVSHMAMCGDQGIRQGPNKIFLSDN</Hsp_hseq>
+      <Hsp_midline>G ++  K+I + L ++S    + S +   V +   +L AFG+A    N   +RFG+Y +  +++RG + G K+  YL +K RV      ERN+ +FYC+L G +E ++ +  L   S + YL     +T      +Q   +  +R  +K L         + + + AILHLG +++E     N +AC V    +L   ++LL VN       LT +T     E  +  LS   ++  R+     +Y  LF W+++ +N  +       V+ S   IG+L+ FG  +  +   N F    +N ANE +  +  R     +F+L  E   L +I+   ++ T    A D++ +    +++S+ + ES K    T    L  +   H++   N+ YI   ++   +F I H+   V Y+  GF+E NR  +  D++ L        V +S N F++ +F + +V   + T   +P   S    +R+  L+ R                        TL A + + V C+ PN    P   D      Q++   +   + I +   P    Y+F EFV+ YR +   ++    + D++     M    + +H     D  I  G  KIFL D+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|575475564|ref|XP_006677076.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_86403 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006677076</Hit_accession>
+  <Hit_len>1052</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.872</Hsp_bit-score>
+      <Hsp_score>320</Hsp_score>
+      <Hsp_evalue>8.52255e-30</Hsp_evalue>
+      <Hsp_query-from>132</Hsp_query-from>
+      <Hsp_query-to>730</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>714</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>131</Hsp_gaps>
+      <Hsp_align-len>714</Hsp_align-len>
+      <Hsp_qseq>PHIFAIADNCYFNMKRNSRDQCCIISGES-GAGKTESTKLILQFLAAI---------SGQ-HSWIEQQVLEATPILEAFGNAKTIRNDNSSRFG-----------------KYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQ---------------ASDYNYLAMGNCITCEGRVDSQE--YANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFE--------NFAVN--SFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDN-------QDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANY---IPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQ----------LVHS-SRNKFIKQIFQADVAM------------------GAETRKRS--------------------PTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFK-KPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKD</Hsp_qseq>
+      <Hsp_hseq>PHMFDCASSAYLHMQAEATDQTIILYGTSQGSPALSILEATCRHLADLGRSDDIGNNSGQKRKDIALQIHRSHAILQAFTGITDVHGHGFETHALDSISTTPPTSSPTGCIQYNELQFDTNHQVVGIKFIPYLLQSAHI--WSTPGCNFTILYSLIEGAMHEERIHWGIDKPKNQHDSTSRHQPTVVRNFKYTA-GSANMGPAKLDQLEEKFTQLRTHLKHVGISSRIQRDIFSILAAILHLGNLVFQKNTVGDREATAVTNPTDLAIVAKLLAVDTVSLENALTLQTRLFNGESIQVHLNLDVAGKQRDALSEALYSVLFSWIVEHLNSQLCK-QEQEWEN---YIAVLDVPGFDFKAHQMSNNQAVGTRSYYQFMNNFSNELVRE-------RLWKPNYKHAELEYININRTRNSLYERSDSSLLDILMSEPFGIIPLLNTETTCGSESTNDSAFLANCAHRYNGISQFQIPSTPN--ASFKIRHCDGISEYTSCDYMVQGWTLLNTDPVQSRFVSLFRGSLDHSGTKNEFIRLLFDQHVLLRQSNENTSTVQTPRGLTRGPSMRRQAITQPKMPRLHHNEPKVADLESTVAHQFINEYAALLDVISTTKQWSIFTITPYTYQSRSDDWNEHYIKKQLQLTPILELSQSTVSLYSSMLTYSAFVKRYATVLTKHDISTQKQSYRDACTKLIELMKWQQIDAVCVRSGIYLSE</Hsp_hseq>
+      <Hsp_midline>PH+F  A + Y +M+  + DQ  I+ G S G+      +   + LA +         SGQ    I  Q+  +  IL+AF     +                          +Y ++ F+    + G K   YLL+ + +   +    N+ + Y ++EG   +++   G+ +                 ++ Y A G+      ++D  E  +  +R+ +K +  +     +I  +LAAILHLGNL ++  T  + +A  V     LA  A LL V+   L + LT +T +  GE++   L+ + A   RDA  + +Y  LF WIV+ +N+ + K   Q+ +N    I +LD+ GF+        N AV   S+ Q   NF+NE +++       +L +  Y    +++++I  T N          LD++ ++P  II L++ E+     +        N  H+ N      IP   N    F I H  GI  Y +  ++ +    L+ D +Q          L HS ++N+FI+ +F   V +                  G   R+++                     T++ QF      L+  +   + + +  I P  ++ +   ++ H   +QL+ + ++E  +   + Y    ++  FV+RY  +L     + ++   R  C ++ E +     D    ++ I+L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|575475070|ref|XP_006676829.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_34502 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006676829</Hit_accession>
+  <Hit_len>2008</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>126.331</Hsp_bit-score>
+      <Hsp_score>316</Hsp_score>
+      <Hsp_evalue>4.69714e-29</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>584</Hsp_query-to>
+      <Hsp_hit-from>88</Hsp_hit-from>
+      <Hsp_hit-to>633</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>237</Hsp_positive>
+      <Hsp_gaps>106</Hsp_gaps>
+      <Hsp_align-len>559</Hsp_align-len>
+      <Hsp_qseq>IRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG---QHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCR-QALD--ERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYL-----AMGNCITCEGRV-----------------------------------------------DSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSP-SLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCI---NFANEHLQQFF-------VRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMI--ANKPMNIISLIDEESK----FPKGTDTTMLHKLNSQHKLNANYIP-------PKNNH---------ETQFGINHF--AGIVYYETQGFLEKNRDTLHGDIIQLVHSS</Hsp_qseq>
+      <Hsp_hseq>ISTTDDDTLSPLPPHTMQLASTVFYQMLVHQENQSVVFCGMPSAGQSIDRRIFSQQLVDLSKNGKKKSRVLSGAVKMEYALDSFGMAKSPHAVDAACYGRYTEYQYSSTGRMVGVKLLDYTLDTARVTAGSSMDDGERTFNIFYQLLAGATKEEKETLHISEAASFAYLKGTKLARANTITRSGTLSRRFPTLGRSGTTSKKDGNTPVASPMAASSTSAHPSSSPEDAIPTAKDAKNFQELREHLKSLGIGRRTQSQIYQILAAILHLGNIVFGVDPNLKEDESTVVRSTETLNIAAALLGLSSKSLADSLTYRSKLVGRELCSIYLQPEGALLQRDALAETLYSLLFSWLVEHLNTRLCK--SEEEVNSF--VGLVDFPWFRSQYTGSATNFSIFIGNYTQERLIQYTQNCYYDDIDFIFKTDGLSVTLPS-------YRDNQWTVDVFRGTSRQKGLLALLDEEPESGEDFSLNRNQNLLTHLDNGLKSNPHYIASFQCSTVATASHSVATTSATVKNMFGIRHYNTESVVQYDLDSFLDQ--DICMSDFVALFRGS</Hsp_hseq>
+      <Hsp_midline>I    +  +  +PPH   +A   ++ M  +  +Q  +  G   AG++   ++  Q L  +S    + S +    ++    L++FG AK+    +++ +G+Y +  ++  G + G K+  Y L+ +RV    ++D  ER +++FY +L G ++++K+ L + +A+ + YL     A  N IT  G +                                               D++ +  +R  +K L        +I ++LAAILHLGN+ +        D   V+ S  +L  AA+LL ++   L   LT R+ +   E  S  L  E AL  RDA  + +Y  LF W+V+ +N  + K  S++  NS   +GL+D   F +    S     I   N+  E L Q+        +  +FK +     L S       + DNQ  +D+    ++   +++L+DEE +    F    +  +L  L++  K N +YI           +H         +  FGI H+    +V Y+   FL++  D    D + L   S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|575485048|ref|XP_006681818.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_91387 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006681818</Hit_accession>
+  <Hit_len>611</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>4.00902e-09</Hsp_evalue>
+      <Hsp_query-from>1157</Hsp_query-from>
+      <Hsp_query-to>1241</Hsp_query-to>
+      <Hsp_hit-from>296</Hsp_hit-from>
+      <Hsp_hit-to>382</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>IIGNGILRPALRDEIYCQISKQLTHNPSKSSYARGWILVSLCVGCFAPSEKFVKYLRNFI--HGGPPGYAPYCEERLRRTFVNGTRT</Hsp_qseq>
+      <Hsp_hseq>LLEKGIRIGGLRDEICVQLCKQLTKNPSNESLKRGWQLMDIICSTFPPSKNLDNYLKNFIQQHFGIDGPGSQLDTIIRHTSGSLLRT</Hsp_hseq>
+      <Hsp_midline>++  GI    LRDEI  Q+ KQLT NPS  S  RGW L+ +    F PS+    YL+NFI  H G  G     +  +R T  +  RT</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>4.20418e-06</Hsp_evalue>
+      <Hsp_query-from>1690</Hsp_query-from>
+      <Hsp_query-to>1859</Hsp_query-to>
+      <Hsp_hit-from>195</Hsp_hit-from>
+      <Hsp_hit-to>356</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>172</Hsp_align-len>
+      <Hsp_qseq>QRQDVVRLLQLRTAEPEV--RAKPYTLEEFSYDYFRPPPKHTLSRVMVSKARGKDRLWSHTREPLKQALLKKLLGSEELSQEACLAFIAVLKYMGDYPSKRTRSVNELTDQIFEGPLKAEPLKDEAYVQILKQLTDNHIRYSEERGWELLWLCTGLFPPSNILLPHVQRFLQ</Hsp_qseq>
+      <Hsp_hseq>QSMSLPALQSLRTLPPKLLQDITQFKIDGFAKKYFS---EH--RRGIFRRKVPLEKMLIFQKDALKAPLMQL---RPSLHKDAIKCFKAIQKIMNPRVSLESQFVD--IQELLEKGIRIGGLRDEICVQLCKQLTKNPSNESLKRGWQLMDIICSTFPPSKNLDNYLKNFIQ</Hsp_hseq>
+      <Hsp_midline>Q   +  L  LRT  P++      + ++ F+  YF    +H   R +  +    +++    ++ LK  L++       L ++A   F A+ K M    S  ++ V+    ++ E  ++   L+DE  VQ+ KQLT N    S +RGW+L+ +    FPPS  L  +++ F+Q</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|575473564|ref|XP_006676075.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_84904 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006676075</Hit_accession>
+  <Hit_len>2617</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.0694</Hsp_bit-score>
+      <Hsp_score>131</Hsp_score>
+      <Hsp_evalue>1.8306e-07</Hsp_evalue>
+      <Hsp_query-from>1905</Hsp_query-from>
+      <Hsp_query-to>2213</Hsp_query-to>
+      <Hsp_hit-from>85</Hsp_hit-from>
+      <Hsp_hit-to>389</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>324</Hsp_align-len>
+      <Hsp_qseq>KVYFPDDTDEAFEVESSTKAKDFCQNIATRLLLKSSEGFSLFVKIADKVISVPENDFFFDFVRHLT-----DWIKKARPIKD-GIVPSLTYQVFFMKKLWTT--TVPGKDPMADSIFHYYQELPKYLRGYHKCTREEVLQLGALIYRVKF---EEDKSYFPSIPKLLRELVPQDLIRQVSPDDWKRSIVAYFNKHA---GKSKEEAKLAFLKLIFKWPTFGSAFFEVKQ-TTEPNFPEILLIAINKYGVSLIDPKTKDILTTHPFTKISNWSSGNTYFHITIGNLVRGSKLLCETSLGYKMDDLLTSYISQMLTAMSKQRGSRS</Hsp_qseq>
+      <Hsp_hseq>KVKMLDDSMKAILVDESQPVRVVVAAVCERIGISNDDEYSLA---SDKTLTLNKKGDKKAKQKEAVYTEGPAWLNPDKTLREQGLTES--DAVILKKKFFFTDQNVDRSDPV-QMMLMYNQSHEMIVSGKQPCTGVESAQLGAIQLQIQYGNHEPDK-HKPGFVKV-KDYIPPEYHK--NKDIEKR----MYNEHSKLHGMSELNAKFRYVQMCRSLKTYGTTFFVVKEPAAKRKKATTMLLGVTKQSILRVDLETKEIVQEWKLTQIRRWAATAKTFTLDFGDHSE-NYYSVESTEGDQISRLISGYIDIIV----KKRNQKS</Hsp_hseq>
+      <Hsp_midline>KV   DD+ +A  V+ S   +     +  R+ + + + +SL    +DK +++ +        +         W+   + +++ G+  S    V   KK + T   V   DP+   +  Y Q     + G   CT  E  QLGA+  ++++   E DK + P   K+ ++ +P +  +  + D  KR     +N+H+   G S+  AK  ++++     T+G+ FF VK+   +      +L+ + K  +  +D +TK+I+     T+I  W++    F +  G+    +    E++ G ++  L++ YI  ++    K+R  +S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_88204</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_88205</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_88206</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_88207</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|575475784|ref|XP_006677186.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_16118 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006677186</Hit_accession>
+  <Hit_len>1039</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>5.49223e-09</Hsp_evalue>
+      <Hsp_query-from>40</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>321</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>AYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AIAGRLDILKLAIEYGAIVDISNVYGRKPLHYAAMYGHADCASHLLTLGTAIDALDHDGNSALVYAIIGGHTRCVEIF</Hsp_hseq>
+      <Hsp_midline>A  G L+ L+L +  G   D  +++G  PLH AA  GH  C S L++ G  I  LD+D ++ L  A + GH  CV   </Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>1.39472e-07</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>441</Hsp_hit-from>
+      <Hsp_hit-to>547</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>107</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGN-TPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL---DSIAAKQSSLNPKL</Hsp_qseq>
+      <Hsp_hseq>DTDGMDPLHMACREGHAEITQLLISHGANIESPDPFNNWTPVFFAASEGHFKCIQALLAVGCRIDIKDDSGWLPWTYTLYRGHIQVASLLAVTDTKVAPAATVSSKV</Hsp_hseq>
+      <Hsp_midline>D DGM P   A   G+ E  +L++S G + +  D + N TP+  AAS GH  C+  L++ G  I   D+    P      +GH++    L   D+  A  ++++ K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|575471260|ref|XP_006674923.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_5731, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006674923</Hit_accession>
+  <Hit_len>117</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>3.27537e-08</Hsp_evalue>
+      <Hsp_query-from>26</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>100</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>NAPDEDGMTPTLWAAYHGNLES-LRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>NAVDTVGLTPIYYAATAGYSECVLRLLMSKA-DTEIYDESGKGPLHQAALNNFDCIVAMLIDFGASMHAVNVAGNTPLHVAATRNSKESTKWL</Hsp_hseq>
+      <Hsp_midline>NA D  G+TP  +AA  G  E  LRL++S+  D +  D  G  PLH AA N     ++ L+ FGA++  ++   +TPL +AA +   E  ++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|575484036|ref|XP_006681312.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_5623 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006681312</Hit_accession>
+  <Hit_len>109</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.3654</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>2.81693e-07</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>GMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIW--CLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>GQTLLHHACASGNLDEICRLLMYGSDIDAADNSGWTPLHDSALAGHTECVKVLLQYGADLGESGGENGVDTPLHEAAVNCHVDVVRVL</Hsp_hseq>
+      <Hsp_midline>G T    A   GNL+ +  ++  G D D  D  G TPLH +A  GH  C+  L+ +GA++     +N   TPL  AA+  H++ VR L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|575475614|ref|XP_006677101.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_5585, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006677101</Hit_accession>
+  <Hit_len>206</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.02225e-06</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>188</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRK--ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>HWAAVRGQPACINLLCQKGASINNVDDFGASALCYAIQHHNMDCVHVLLRKGAAVDSVDIQGRTPLMWASLQGNLEVIKMLIKANAKVTVKSKSGMTALHHAAYGGHTTCCTHL</Hsp_hseq>
+      <Hsp_midline>H AA  G    +    +K   +N  D+ G +   +A  H N++ + +++ +G   D  DI G TPL  A+  G+L  +  L+   A +        T L  AA  GH  C  +L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.2098</Hsp_bit-score>
+      <Hsp_score>108</Hsp_score>
+      <Hsp_evalue>3.71979e-06</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>163</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>LELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQS</Hsp_qseq>
+      <Hsp_hseq>VEMIMLSPGSNWNALDGLKRTPLHWAAVRGQPACINLLCQKGASINNVDDFGASALCYAIQHHNMDCVHVLLRKGAAVDSVDIQGRTPLMWASLQGNLEVIKMLIKANAKVT</Hsp_hseq>
+      <Hsp_midline>+E++  +     NA D    TP  WAA  G    + L+  +G   +  D +G + L  A  + ++ C+  L+  GA +  +D    TPL  A+++G++E ++ L    AK +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|575479076|ref|XP_006678832.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_6768, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006678832</Hit_accession>
+  <Hit_len>92</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>44.2838</Hsp_bit-score>
+      <Hsp_score>103</Hsp_score>
+      <Hsp_evalue>1.92095e-06</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>90</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGN---TPLHLAASNGHLHCLSFLVSFGAN</Hsp_qseq>
+      <Hsp_hseq>DSENCTPLHWAAINNHLAVAKYLVDRGAQVDA--IGGDLSATPLHWAARTGHVQIVSFLHRRGAN</Hsp_hseq>
+      <Hsp_midline>D +  TP  WAA + +L   + +V RG   D   I G+   TPLH AA  GH+  +SFL   GAN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|575474376|ref|XP_006676482.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_5682, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006676482</Hit_accession>
+  <Hit_len>137</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.0542</Hsp_bit-score>
+      <Hsp_score>105</Hsp_score>
+      <Hsp_evalue>2.75291e-06</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>113</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>113</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKEATR--KELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLH-CLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AIESGSIELCKTLLKLGANVNSPNRSGETPLHYAAMHAQPAICVLLAEHGAHLYSQTNEGQTPLHLAIETASYNTCFSLVYEVGADVNATNRLGETPLHRAAMFAYFDICELL</Hsp_hseq>
+      <Hsp_midline>A   G +EL K   +    +N+P+  G TP  +AA H       L+   G         G TPLHLA      + C S +   GA++   +    TPL  AAM  + +    L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_88208</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|575475468|ref|XP_006677028.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_86479 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006677028</Hit_accession>
+  <Hit_len>175</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.6481</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>9.58118e-21</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>159</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>IQMPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>LAIPAIASNPLAQRLLAVFDTNGSGDVDFKEFLTGLSAFSAKGKKEDKLHFAFKVYDMDRDGFISNGELFLVLKMMVGNNLKDAQLQQIVDKTIMEADIDMDGKVSFDEFTKMV</Hsp_hseq>
+      <Hsp_midline>+ +P +  NP  +R++A F  +G G++ F +F+   S       +E K ++AFK+YD + D FI   +L L L  +  + L + ++  + DK I EAD+D DGK+ F +F  M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|575474478|ref|XP_006676533.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_9620, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006676533</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>1.38073e-19</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>127</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>137</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>KSPIVHVPMSLIIQMPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEAD-LDGDGKLGFADFE</Hsp_qseq>
+      <Hsp_hseq>KENIGRIALEELHAIPELAVNPLAQRIHAVFDLDGRNEIDFRQFLSVLSVFSKDAKREEKLNFAFRIYDVNGDGLLDKTDLTHIVKLMVGSNVPDIEVEKMVQQTIMDADTLDRDGAISFAEFK</Hsp_hseq>
+      <Hsp_midline>K  I  + +  +  +PEL  NP  +RI A F  DG   + F  F+ + SV  + A RE K N+AF+IYD N D  + K DL   +  +  S + + EV  +  + I +AD LD DG + FA+F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|575479244|ref|XP_006678916.1|</Hit_id>
+  <Hit_def>calmodulin [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006678916</Hit_accession>
+  <Hit_len>169</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>1.12455e-09</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>57</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQDMINEVDADGNGTIDFPEFLTMMARKMKDTDSEEEIKEAFKVFDKDGNGFISAAELRHVMTNLGEKLTDEE-----VDEMIREADVDGDGQINYEEFVKMM</Hsp_hseq>
+      <Hsp_midline>M  L +NP +  +    +E   DG G + F +F+ M +   +    E +   AFK++D + + FI   +L   +  L +   DEE      D++I EAD+DGDG++ + +F  M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|575486044|ref|XP_006682316.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_91935 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006682316</Hit_accession>
+  <Hit_len>216</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.6026</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>3.16754e-09</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>140</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>199</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>FKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEE---VVLVCDKVIEEADLDGDGKLGFADFEDMIAKAP---DFLSTF</Hsp_qseq>
+      <Hsp_hseq>FLERLFDAFDMDGNHHIDFHEFINGLSVFFKGTDEE-KQELSFRLYDIDKSGTIEPKELIKVLSKMYSTFYNEDQSSRITAMVHQMFEDLDINGDGSLSIVEFKLMALKEPMMIDFVDQF</Hsp_hseq>
+      <Hsp_midline>F ER+  AF  DG  ++ F++F++  SV  +    E K   +F++YD +    I  ++L   L+++  +  +E++   +  +  ++ E+ D++GDG L   +F+ M  K P   DF+  F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|575475582|ref|XP_006677085.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_86384 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006677085</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.447</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>1.03724e-08</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>140</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>174</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>ERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLAR-LTKSELDEEE--VVLVCDKVIEEADLDGDGKLGFADFEDMIAKAPDFLSTF</Hsp_qseq>
+      <Hsp_hseq>DRVFRCFDQDADNYISFDEYIKGMSVFLNGRYEE-RLKFCFRVYDLNGDRYISKEEMFQMLKNCLVKGAVEEDEDGVKDLVDLVLKKLDEDRDGRVSEADWAGAIAKETLLMEAF</Hsp_hseq>
+      <Hsp_midline>+R+   F +D +  ++F++++   SV       E +  + F++YD N D +I KE++   L   L K  ++E+E  V  + D V+++ D D DG++  AD+   IAK    +  F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|575479434|ref|XP_006679011.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_25085 [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006679011</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>4.68725e-08</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFK---ERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIA</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQEMINELDADGNGTVEFDELMTMMTSKMKDIDFEEERVEAFRMFDKNGDGFITSAELKVVMGNIGEKLTDEE-----IEEMIHEADEDKDGQVSYQEFVKIIA</Hsp_hseq>
+      <Hsp_midline>M  L +NP +   + ++     DG G + F++ + M +   +    E +   AF+++D N D FI   +L++ +  + +   DEE      +++I EAD D DG++ + +F  +IA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|575479072|ref|XP_006678830.1|</Hit_id>
+  <Hit_def>hypothetical protein BATDEDRAFT_6388, partial [Batrachochytrium dendrobatidis JAM81]</Hit_def>
+  <Hit_accession>XP_006678830</Hit_accession>
+  <Hit_len>118</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>43.5134</Hsp_bit-score>
+      <Hsp_score>101</Hsp_score>
+      <Hsp_evalue>1.09274e-06</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>85</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>108</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>ENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDL</Hsp_qseq>
+      <Hsp_hseq>KNLIAERIFAFFDQDRDGIISFKELVCGLSILCKGNLDE-RIHYAFQGYDLDGDGFVSRDEL</Hsp_hseq>
+      <Hsp_midline>+N   ERI A F +D +G ++F + V   S+LC+    E + +YAF+ YD + D F+ +++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_88209</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_88210</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_88211</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_88212</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_88213</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>8612</Statistics_db-num>
+      <Statistics_db-len>3888151</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

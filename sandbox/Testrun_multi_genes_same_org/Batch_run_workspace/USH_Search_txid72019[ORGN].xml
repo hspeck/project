@@ -1,0 +1,2106 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_140273</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_140273</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|929771116|ref|XP_014160491.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_01270 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014160491</Hit_accession>
+  <Hit_len>1937</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>504.212</Hsp_bit-score>
+      <Hsp_score>1297</Hsp_score>
+      <Hsp_evalue>8.9237e-147</Hsp_evalue>
+      <Hsp_query-from>59</Hsp_query-from>
+      <Hsp_query-to>800</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>821</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>430</Hsp_positive>
+      <Hsp_gaps>45</Hsp_gaps>
+      <Hsp_align-len>767</Hsp_align-len>
+      <Hsp_qseq>MHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQ----HSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRS-IGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFT-DNQDALDMIANKPMNIISLIDEESKF-PKGTDTTMLHKLNSQHKLNANYIPPKNNH----ETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSP----TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQG--DLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKN---AATLIQRHWRGHNCRKNYGLMRLG-----FLRLQAL</Hsp_qseq>
+      <Hsp_hseq>MNPPKFEKVEDMAELAYLNEPAVLDNLTKRYQSNLIYTYSGLFCVVVNPYKRLPIYTPDVVDMYQGKRRQEMPPHVYNIADSAYRNMLNDRENQSILITGESGAGKTENTKKVIQYIAATAAGPDKGKGQLEEQLLQCNPVLEAFGNAKTIKNDNSSRFGKFIRIEFDRSGLISGGNIETYLLEKSRAVRQQNDERTFHIFYQLLHGATPEMRQELLLDSVDAVPFLSDKASSSVEGVDDVAEFAITTEAMRVVGINDADQTEVWRTLSGIMKLGQMKF---TQDRSDQAQMPDDTIAAMVCKLFGIPLSDFTKAMLKPRIKVGRDTVTKAQRADQVVSSIEAIAKAIHERTFLWIVKKINAVL------DTRRAASSFIGILDIAGFEIFKVNSFEQLCINFTNEKLQQFFNNHMFVVEQEEYKKEGIDWQFINFGLDLQPCIDLI-EKPMGVLALLDEECHLMPRSSDSTLVEKMDKAHSGKSDKYRKLGGKIKRDDVGFNCQHYAGEVEYTCDGWLTKNTDPLNDNITALLSQSTNPFTASLW-ADMVSHDTTRSRRGGSMRTVGQNYRDQLNSLMTTLRNTTPHFVRCIIPNHEKKAGKIDQAIVLDQLRCNGVLEGIRICRKGFPNRILFQDFKQRYEILTPGAVP---KGFMDGRKACEKMIEALELSADEFRIGSSKIFFRTGVIGQLEEQRDEKLSAMVRHLQAHCRGLLARRQYRRATNHEVAVKMIQR-----NCRK-YLMLRSWPWWKLFVRVQPL</Hsp_hseq>
+      <Hsp_midline>M+P     VEDM  L  LNE  +L NL  RY+ +LIYTY+G   V VNPY+ L IY+P+ +  Y  K+  EMPPH++ IAD+ Y NM  +  +Q  +I+GESGAGKTE+TK ++Q++AA +         +E+Q+L+  P+LEAFGNAKTI+NDNSSRFGK+I I F++ G I G  IE YLLEKSR  RQ  DER +H+FY +L G + + +++L L       +L+     + EG  D  E+A    AM+V+   D +  E+ + L+ I+ LG +++   T +  D  ++      A    L  +   D    +    +    +TV+     +Q +   +A  K I+ R F+WIV KINA +      D + +  S IG+LDI GFE F VNSFEQLCINF NE LQQFF  H+F +EQEEY  E IDW  I F  D Q  +D+I  KPM +++L+DEE    P+ +D+T++ K++  H   ++            +  F   H+AG V Y   G+L KN D L+ +I  L+  S N F   ++ AD+     TR R      T+   ++  L  LM TL    P FVRCI PN  KK    D+ + + QLR +G++E IRI R G+P R  F +F +RY +L PG  P   +G  D R  C++M EA+  + D+++IG +KIF +      LE +RD+ ++  V  LQ   RG   R  + +  N   A  +IQR     NCRK Y ++R       F+R+Q L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|929757391|ref|XP_014153677.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_07848, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153677</Hit_accession>
+  <Hit_len>568</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>418.313</Hsp_bit-score>
+      <Hsp_score>1074</Hsp_score>
+      <Hsp_evalue>2.59886e-129</Hsp_evalue>
+      <Hsp_query-from>59</Hsp_query-from>
+      <Hsp_query-to>580</Hsp_query-to>
+      <Hsp_hit-from>59</Hsp_hit-from>
+      <Hsp_hit-to>568</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>321</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>524</Hsp_align-len>
+      <Hsp_qseq>MHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLL-SIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQH-SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQL</Hsp_qseq>
+      <Hsp_hseq>MSSDSVRGVEDMSALTDMHLEAILRNICVRMREQKIYTFVGSIVIAMNPYKTIEGMYTDEMRNQYANARLGDLPPHAYAISREAYCRLQEKAENQVVLISGESGAGKTETAKILIQHLSMMCGGGVGHILQQIKDSSPLLESLGNAKTVYNNNSSRFGKFIEIQYDTRYQINGARTSDYLLEKSRVTKQNKGERNFHIFYQLVRATPPQLKERFQLGQCEDFHYLNQSGCTGVDTIKDDKHFAEFQQSMTILNMAPQAQTDLLAILAGILHLGNV-----SFTNKAGAKVADRQALVIVEDLLGVSACALESGLTTKTLIMRGEKVVSNLSVDQAADSRDALAMNLYAGLFKFVVGHINSVM-------MSGEKQFIGVLDIFGFENFEVNSLEQFCINYANEKLAHYFNNHIFGMEQAEYKLEGIRWDAIDFKDNLPCLELIEAR-MGVIALLDEESRFQKATPDTLIEKLKQNHNKHS-YFSEQRLRKDAFGVVHYAGTVVYDVNSFLDKNRDTFKDDLLEV</Hsp_hseq>
+      <Hsp_midline>M   SV GVEDM  L D++   ILRN+ +R R+  IYT+ GSI++A+NPY+ +  +Y+ E   QY N ++G++PPH +AI+   Y  ++  + +Q  +ISGESGAGKTE+ K+++Q L+ + G     I QQ+ +++P+LE+ GNAKT+ N+NSSRFGK+I+I ++ R  I GA+   YLLEKSRV +Q   ERN+H+FY ++       K++  LGQ  D++YL    C   +   D + +A  + +M +L        ++  +LA ILHLGN+     +F N    +V    +L     LL V+   L S LT++TLI RGE V + LS +QA D RDA    +Y  LF ++V  IN+ +       +   ++ IG+LDIFGFENF VNS EQ CIN+ANE L  +F  H+F +EQ EY LE I W  I+F DN   L++I  + M +I+L+DEES+F K T  T++ KL   H  ++ Y   +   +  FG+ H+AG V Y+   FL+KNRDT   D++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|929759616|ref|XP_014154789.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_06769 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014154789</Hit_accession>
+  <Hit_len>584</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>352.829</Hsp_bit-score>
+      <Hsp_score>904</Hsp_score>
+      <Hsp_evalue>1.97587e-106</Hsp_evalue>
+      <Hsp_query-from>183</Hsp_query-from>
+      <Hsp_query-to>737</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>568</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>214</Hsp_identity>
+      <Hsp_positive>323</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>578</Hsp_align-len>
+      <Hsp_qseq>SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQK----KKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAA-SLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETR----------------KRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPG-VK-PAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLE</Hsp_qseq>
+      <Hsp_hseq>SEIPKKVLESNPILEAFGNAKTIHNHNSSRFGKFMEIQFDSLGVMIGAKMCDYLLEKTRIVHQAETERNFHIFYQLLA--CEDKRILDTLQLNGTTTNGFRYLNGGGCVKLDTLDDKKEFGELQNALGRF-FSPVLIEGIWKVLAAILHLGNID-----FTGADSIRGVSNESTATAAASLLGLETNDLIKFLTKKITRAGNDVVESNMRRGDAVRTRDTLAKTVYQRMFKWVLHTLNGEL----CVEADDMAHYCGLLDIFGFEVFKVNDLEQMCINYANESLQNFFNNFVFKMEQLEYRNENVKVKAVNFTDNQDCLDMIAGPKDSIFVLCDDQCQLGSSNVDSLIHNFDEKLKRNAYYSKDKKCKNT-LSVKHYAGKVTYDATLWIEKNKERTPDTLAGLVGRSQMAVVQTIFT--VGAGLERKPSKSDGNNRASVMIRGRKQQSVVSAFKKSLEELMTSLKKTQPLFIRCLKPNGAQVAKVFDQNYILNQMKSVGMVDTIRIRQIGFPVRYTFPDFNEKFLNLLPNDVKAPAMKLNDSRQLSEYIMKWLAVEDDEYAMGLSKVFVKDSQADALE</Hsp_hseq>
+      <Hsp_midline>S I ++VLE+ PILEAFGNAKTI N NSSRFGK+++I F+  G + GAK+  YLLEK+R+  QA  ERN+H+FY +L    ED++     +L     + + YL  G C+  +   D +E+  +++A+    F+      I K+LAAILHLGN+      F   D+   + + S ATAA SLL +   DL+  LT +      + V + + R  A+  RD   K +Y R+F W++  +N  +      +  +     GLLDIFGFE F VN  EQ+CIN+ANE LQ FF   VFK+EQ EY  E++    + FTDNQD LDMIA    +I  L D++ +       +++H  + + K NA Y   K    T   + H+AG V Y+   ++EKN++     +  LV  S+   ++ IF   V  G E +                ++  ++ S FK+SLE LM +L   QP F+RC+KPN  +   +FD++  + Q++  GM++TIRIR+ G+P+RY+F +F E++  LLP  VK PA K  D R   + + + +    D++ +G +K+F+KD     LE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|929757823|ref|XP_014153893.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_07634, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153893</Hit_accession>
+  <Hit_len>841</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.996</Hsp_bit-score>
+      <Hsp_score>663</Hsp_score>
+      <Hsp_evalue>2.79461e-72</Hsp_evalue>
+      <Hsp_query-from>294</Hsp_query-from>
+      <Hsp_query-to>859</Hsp_query-to>
+      <Hsp_hit-from>205</Hsp_hit-from>
+      <Hsp_hit-to>798</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>195</Hsp_identity>
+      <Hsp_positive>296</Hsp_positive>
+      <Hsp_gaps>54</Hsp_gaps>
+      <Hsp_align-len>607</Hsp_align-len>
+      <Hsp_qseq>DSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTD-TTMLHKLNSQHKLNANYIPPKNNHET-QFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIF-QADVA----MGAET----RKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVR---QLRYSGMMETI-RIRRAGYPI---------------------RYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLG--THDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQAL---HRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIARRLHQRL</Hsp_qseq>
+      <Hsp_hseq>DVKEMAATRKAFKDLGVPEKVQSDVFQVLAAILHLGQIDINQLVAKRVD--ETADNNSLAVAAQLLGVEPSKLAHMLKHRRITARGEVFYSPTSCEEAAGLRDSFAKALYLALFLWVVDQVNFCT------SADSHRNYIGILDIYGFECFAENDLEQLCINYANEKLQQQSVGHIFKEEQLLYEREGIAWSFVEYADNSPCLDLLEG-PGGVISLLNEQSSLKRAADPEAFTTRLYQEHAADAQFGQLKAGPSTCQFTVKHYAMDVTYSTGAFIGKNLDDINTEFVELVQSSPIEFVHHLFEQPDLVHSLHLGNDTPSRGRKGPSTVMSRFKSSLNDLMDMLNSTTPHYIRCIKPNYEQSGYLSSSATTVQPEATLQKLGHKPSLPSIITTAAPVRRRGGGRATGDATEPNSTLASKFDYEEFVDAYWPIY-GEAVLDESMDLRVACKKICACIPGESSPDNVQEGMTMLFLRSNEMYALDHLLHQAITRAAVTIQSWWRAINIRIMIGRWRKAVVVLQRHVRMVIARNRYQREKSACLVLQTRWRGHRARRLYIEQRNA---AVAIQSNYKALTARHSYLLRRTAVIVIQTRIRGVQARRAYLAL</Hsp_hseq>
+      <Hsp_midline>D +E A  R A K L   +    ++ ++LAAILHLG +       + +D  E   + SLA AA LL V P  L   L  R +  RGE   +P S E+A  +RD+F K +Y  LF+W+VD++N            + R  IG+LDI+GFE FA N  EQLCIN+ANE LQQ  V H+FK EQ  Y+ E I W  +E+ DN   LD++   P  +ISL++E+S   +  D      +L  +H  +A +   K    T QF + H+A  V Y T  F+ KN D ++ + ++LV SS  +F+  +F Q D+     +G +T    RK   T+ S+FK SL  LM  L +  P ++RCIKPN  +   L      V+    L+  G   ++  I     P+                     ++ + EFV+ Y  +  G     +  DLR  C+++   + G  + D+ Q G T +FL+ +    L+    +AIT   + +Q   R    R    + + A  ++QRH R    R  Y   +   L LQ     HR+R+L+ + R A    +  Q+  +A   R ++  R  AV+ +Q   RG+ ARR +  L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>72.0182</Hsp_bit-score>
+      <Hsp_score>175</Hsp_score>
+      <Hsp_evalue>1.52709e-12</Hsp_evalue>
+      <Hsp_query-from>82</Hsp_query-from>
+      <Hsp_query-to>180</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>LRNLLIRYRDHLIYTYTGSILVAVNPYQ-LLSIYSPEHIRQYTNKK----IGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG</Hsp_qseq>
+      <Hsp_hseq>MENIRVRFREESFYTYTGKSLIAINPMKPVAELYDRAHILKYNSIQELCDIHLEDPHIYAAGETAFRQMIQTQSPQSVIVSGESGAGKTVTSRYLLQYFTIVAA</Hsp_hseq>
+      <Hsp_midline>+ N+ +R+R+   YTYTG  L+A+NP + +  +Y   HI +Y + +    I    PHI+A  +  +  M +    Q  I+SGESGAGKT +++ +LQ+   ++ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|929742392|ref|XP_014146180.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_15169 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014146180</Hit_accession>
+  <Hit_len>233</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.749</Hsp_bit-score>
+      <Hsp_score>504</Hsp_score>
+      <Hsp_evalue>1.30542e-57</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>331</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>146</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>220</Hsp_align-len>
+      <Hsp_qseq>SPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQ---VLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNL</Hsp_qseq>
+      <Hsp_hseq>GPAVIKKYLGRQKHDVQPHVYAVADEMYRKLMEDNYSQCVIISGESGAGKTEASKLIMNHIAQCSGNGGEVDQVKNVILQSNPLLESFGNAKTLRNNNSSRFGKYMEINFDRSGRPSGGLITNFLLEKSRVVGQLEGERSFHIFYQLLKGATAEEKDYYGLYEPENFLYLARSNCYTVDGMDDKKEYADVLKAMSVMGIDADTQQAITRLLAAILHTGEL</Hsp_hseq>
+      <Hsp_midline> P  I++Y  ++  ++ PH++A+AD  Y  +  ++  QC IISGESGAGKTE++KLI+  +A  SG    ++Q    +L++ P+LE+FGNAKT+RN+NSSRFGKY++I+F++ G   G  I  +LLEKSRV  Q   ER++H+FY +L+G + ++K   GL +  ++ YLA  NC T +G  D +EYA++  AM V+         I++LLAAILH G L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|929746869|ref|XP_014148418.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_12941, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014148418</Hit_accession>
+  <Hit_len>258</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.392</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>4.70216e-46</Hsp_evalue>
+      <Hsp_query-from>508</Hsp_query-from>
+      <Hsp_query-to>754</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>258</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>95</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>253</Hsp_align-len>
+      <Hsp_qseq>SLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQA-----DVAMGAETRKRSP-TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKV</Hsp_qseq>
+      <Hsp_hseq>AILDEEARLPKGSNTSFLTKLETQHKTKEHFEVPRFGNGDAFIIKHFTCKVEYAIDGFLEKNKDAVSEQLSGLLEASTIPFVAQLFPAKKATKETASAAGAKKHTASTVASKFKASLGNLMATITATAPHYCRCIKPNQAKAAFEFEEESSLEQLQACGVLETVRISAAGYPSRWEFSEFRDRYQRLLS--KKQLGNGNLEDTCKTIVQTVIGDPDKYQYGKTKIYFRAGQVAHLEKLRETKRLAAAIMLQKI</Hsp_hseq>
+      <Hsp_midline>+++DEE++ PKG++T+ L KL +QHK   ++  P+  +   F I HF   V Y   GFLEKN+D +   +  L+ +S   F+ Q+F A     + A  A  +K +  T++S+FK SL  LM T+ A  P + RCIKPN+ K    F+    + QL+  G++ET+RI  AGYP R+ F EF +RY+ LL   K     G+L  TC+ + + V+G  D +Q GKTKI+ +      LE  R+       I+LQK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|929744784|ref|XP_014147376.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_13968, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014147376</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.999</Hsp_bit-score>
+      <Hsp_score>406</Hsp_score>
+      <Hsp_evalue>3.05844e-44</Hsp_evalue>
+      <Hsp_query-from>172</Hsp_query-from>
+      <Hsp_query-to>418</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>146</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>259</Hsp_align-len>
+      <Hsp_qseq>LQFLAAI--SGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKR-GAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKL---GLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY------EARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAI</Hsp_qseq>
+      <Hsp_hseq>MRYFAVVGGSGGENTMESRVLASNPIMEAFGNAKTTRNNNSSRFGKYIAIQFEKKHHSITGALVYTYLLEKSRVVFQAEEERSYHIFYQLCAAFYETNDPELEGMGLKHCMEFNYINQGDAPLVDRMDDAEEFRETNKSLTICGVDDEKRISLWKLVAAILHIGNITIGKSKGDEAQLKDD--------DPALVQASELMGIEAKDLTKWLTKALIVAGKDTLQKNMSSGQALAARDAFAKWIYASVFDWLVTQVNKSL</Hsp_hseq>
+      <Hsp_midline>+++ A +  SG  + +E +VL + PI+EAFGNAKT RN+NSSRFGKYI I F K+  +I GA +  YLLEKSRV  QA +ER+YH+FY +     E    +L   GL    ++NY+  G+    +   D++E+     ++ +    D +   + KL+AAILH+GN+        EA+  ++         P+L  A+ L+ +   DL   LT   ++   +T+   +S  QAL  RDAF K IY  +F W+V ++N ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|929743742|ref|XP_014146855.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_14486, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014146855</Hit_accession>
+  <Hit_len>122</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.2117</Hsp_bit-score>
+      <Hsp_score>243</Hsp_score>
+      <Hsp_evalue>4.08746e-24</Hsp_evalue>
+      <Hsp_query-from>65</Hsp_query-from>
+      <Hsp_query-to>186</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>122</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>HGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQ-HSWIE</Hsp_qseq>
+      <Hsp_hseq>NGFSDMTSLTRLDEKTVLNNLEKRFKRDITYTYIGSVLVSINPFQAIDGLYDNKAR-FHEKSLGDQAPHVYAIAEKAYASMLTSAQNQSFVISGESGAGKTETMKQILNYLSEASTRAHEGVE</Hsp_hseq>
+      <Hsp_midline>+G  DM  L  L+E  +L NL  R++  + YTY GS+LV++NP+Q +        R +  K +G+  PH++AIA+  Y +M  ++++Q  +ISGESGAGKTE+ K IL +L+  S + H  +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|929742736|ref|XP_014146352.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_14992 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014146352</Hit_accession>
+  <Hit_len>102</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.4185</Hsp_bit-score>
+      <Hsp_score>202</Hsp_score>
+      <Hsp_evalue>8.64943e-19</Hsp_evalue>
+      <Hsp_query-from>622</Hsp_query-from>
+      <Hsp_query-to>722</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>103</Hsp_align-len>
+      <Hsp_qseq>MRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRM--AEAVLGTHDDWQIG</Hsp_qseq>
+      <Hsp_hseq>MSSLSAAAPFFIRCLKPNLTKQPDLFVSDFVHNQLLYSGMLETVRIRRAGYPSRVGFEDFLHRYKTLT--TKRIQDSLNAAEQCRALMTAEECGVVGEEWQVG</Hsp_hseq>
+      <Hsp_midline>M +L A  PFF+RC+KPN  K+P LF       QL YSGM+ET+RIRRAGYP R  F +F+ RY+ L    K      +    C+ +  AE      ++WQ+G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|929736812|ref|XP_014143395.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_17993, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014143395</Hit_accession>
+  <Hit_len>59</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.559</Hsp_bit-score>
+      <Hsp_score>179</Hsp_score>
+      <Hsp_evalue>3.81826e-16</Hsp_evalue>
+      <Hsp_query-from>433</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>51</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>IGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQE</Hsp_qseq>
+      <Hsp_hseq>IGVLDIYGFEVFKVNSFEQFCINYANEKLQQQFNQHVFKLEQD</Hsp_hseq>
+      <Hsp_midline>IG+LDI+GFE F VNSFEQ CIN+ANE LQQ F +HVFKLEQ+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|929745932|ref|XP_014147950.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_13394, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014147950</Hit_accession>
+  <Hit_len>115</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.8474</Hsp_bit-score>
+      <Hsp_score>146</Hsp_score>
+      <Hsp_evalue>4.65153e-11</Hsp_evalue>
+      <Hsp_query-from>1749</Hsp_query-from>
+      <Hsp_query-to>1858</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>110</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>117</Hsp_align-len>
+      <Hsp_qseq>REPLKQALLKKLLGSEELSQEACLAFIAVLKYMGDYPSKR-------TRSVNELTDQIFEGPLKAEPLKDEAYVQILKQLTDNHIRYSEERGWELLWLCTGLFPPSNILLPHVQRFL</Hsp_qseq>
+      <Hsp_hseq>RNPMTNGLPK------ELKRQAADIFKMIQTYMGDRTSHKYVPERDEMREVVRLSKLAYE----HKPLRDEVFVQVCKQMTNNPNEESVIRGWEILVMLLHVFPPSHLFEGYIESFL</Hsp_hseq>
+      <Hsp_midline>R P+   L K      EL ++A   F  +  YMGD  S +        R V  L+   +E     +PL+DE +VQ+ KQ+T+N    S  RGWE+L +   +FPPS++   +++ FL</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>2.00758e-08</Hsp_evalue>
+      <Hsp_query-from>1167</Hsp_query-from>
+      <Hsp_query-to>1216</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>110</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>LRDEIYCQISKQLTHNPSKSSYARGWILVSLCVGCFAPSEKFVKYLRNFI</Hsp_qseq>
+      <Hsp_hseq>LRDEVFVQVCKQMTNNPNEESVIRGWEILVMLLHVFPPSHLFEGYIESFL</Hsp_hseq>
+      <Hsp_midline>LRDE++ Q+ KQ+T+NP++ S  RGW ++ + +  F PS  F  Y+ +F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|929745548|ref|XP_014147758.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_13586, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014147758</Hit_accession>
+  <Hit_len>321</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.16771e-09</Hsp_evalue>
+      <Hsp_query-from>2005</Hsp_query-from>
+      <Hsp_query-to>2173</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>181</Hsp_align-len>
+      <Hsp_qseq>KDPMADSIFHYYQELPKYLRGYHKCTREEVLQLGALIYRVKFEE-DKSYFPSI---PKLLRELVPQDLIRQVSPDDWKRSIVAYFNKHAGKSKEEAKLAFLKLIFKWPTFGSAFF------EVKQTTEPNFP-EILLIAINKYGVSLIDPKTKDILTTHPFTKISNWSSG-NTYFHITIGN</Hsp_qseq>
+      <Hsp_hseq>EDP-AFNILLYTEARYNVISCLYPCTETDAVQLAGIDAQLAFGDCDTSIAPEDMFHNGLIKQIIPRFLIARKSTEEWAKLLRKTHAHHAGRRSEELQALYINYCRQWGHYGSTWFYGRACNEAKEVIEQDAPTELIRIGVNYEGIHLINHVTNSVMITSHLDQIAWYASELDKLLYIEHGN</Hsp_hseq>
+      <Hsp_midline>+DP A +I  Y +     +   + CT  + +QL  +  ++ F + D S  P       L+++++P+ LI + S ++W + +      HAG+  EE +  ++    +W  +GS +F      E K+  E + P E++ I +N  G+ LI+  T  ++ T    +I+ ++S  +   +I  GN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|929737104|ref|XP_014143541.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_17847, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014143541</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.5286</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>3.66511e-09</Hsp_evalue>
+      <Hsp_query-from>541</Hsp_query-from>
+      <Hsp_query-to>598</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>PKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVA</Hsp_qseq>
+      <Hsp_hseq>PQITRPNNFTIKHYAGDVLYDCQGFVEKNKDVLFKDLVLCMQSTDQDFILDLFPEDVA</Hsp_hseq>
+      <Hsp_midline>P+      F I H+AG V Y+ QGF+EKN+D L  D++  + S+   FI  +F  DVA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|929737879|ref|XP_014143927.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_17453, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014143927</Hit_accession>
+  <Hit_len>109</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>2.09938e-08</Hsp_evalue>
+      <Hsp_query-from>451</Hsp_query-from>
+      <Hsp_query-to>529</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>QLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMI-ANKPMNIISLIDEESKF----PKGTDTTMLHKLN</Hsp_qseq>
+      <Hsp_hseq>QFCINYVNEKLQQIFIDLTIQSEQDDYIAEGIQWTPIKFFNNKVVCELIEARRPPGVLAVLDDVCKTMHREASGVDEKFIQKLS</Hsp_hseq>
+      <Hsp_midline>Q CIN+ NE LQQ F+    + EQ++Y  E I W  I+F +N+   ++I A +P  +++++D+  K       G D   + KL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|929739661|ref|XP_014144818.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_16550, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014144818</Hit_accession>
+  <Hit_len>89</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>2.83485e-08</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>109</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQ</Hsp_qseq>
+      <Hsp_hseq>AVDDMVLLGDVSQKGIEKNLSERYFEDKIYTYIGPVLISVNPYK</Hsp_hseq>
+      <Hsp_midline> V+DM+ LGD+++ GI +NL  RY +  IYTY G +L++VNPY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|929746285|ref|XP_014148126.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_13223, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014148126</Hit_accession>
+  <Hit_len>388</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>3.82544e-08</Hsp_evalue>
+      <Hsp_query-from>2001</Hsp_query-from>
+      <Hsp_query-to>2202</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>244</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>TVPGKDPMADSIFHYYQELPKYLRGYHKCTREEVLQLGALIYRVKFEEDKSYFPSIPKL----LRELVPQDLIRQVSPDDWKRS---IVAYFNKHAGKSKEEAKLAFLKLIFKWPTFGSAFFEVKQTTEPNFPEI-LLIAINKYGVSLIDPKTKDILTTHPFTKISNWSSGNTYFHITIGNLVRGSKLLCETSLGYKMDDLLTSYISQML</Hsp_qseq>
+      <Hsp_hseq>NVDRNDPVQLNLM-YVQARDDILKAAHPCTADEALQFAALQCQVQLGD---HNPDTHKAGIMDFKQYLPK------GSTDIKKSETRIASEHRKLKGMTELNAKYRYIQLCRSLKTYGMSFFLVKEKVKGKNKLVPRLLGVSRDSIMRVDEHTKEVIKTWPLSTVRRWAASPTSFTLDFGDYSQ-EYYSVQTTEGEQISRLIAGYIDFIL</Hsp_hseq>
+      <Hsp_midline> V   DP+  ++  Y Q     L+  H CT +E LQ  AL  +V+  +   + P   K      ++ +P+         D K+S   I +   K  G ++  AK  +++L     T+G +FF VK+  +     +  L+ +++  +  +D  TK+++ T P + +  W++  T F +  G+  +      +T+ G ++  L+  YI  +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|929740845|ref|XP_014145407.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_15953, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014145407</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>1.06585e-07</Hsp_evalue>
+      <Hsp_query-from>60</Hsp_query-from>
+      <Hsp_query-to>115</Hsp_query-to>
+      <Hsp_hit-from>83</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>56</Hsp_align-len>
+      <Hsp_qseq>HPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYS</Hsp_qseq>
+      <Hsp_hseq>NPMILQDVDDLTELSYLHEPAVLHTLRTRYENQEIYTYCGIVLVAMNPFASLDIYS</Hsp_hseq>
+      <Hsp_midline>+P  +  V+D+  L  L+E  +L  L  RY +  IYTY G +LVA+NP+  L IYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_140274</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_140275</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_140276</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_140277</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|929768674|ref|XP_014159270.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_02458 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014159270</Hit_accession>
+  <Hit_len>558</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>69.3218</Hsp_bit-score>
+      <Hsp_score>168</Hsp_score>
+      <Hsp_evalue>6.17644e-13</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>157</Hsp_query-to>
+      <Hsp_hit-from>272</Hsp_hit-from>
+      <Hsp_hit-to>421</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>157</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATR--KELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKLVGKLKDKA---FREAERRIRECAKLQRRH</Hsp_qseq>
+      <Hsp_hseq>HGAAWHGYEDTAKVLLECGAEINQILEDGATALFIAAQNGGIDFAEFLISRGADVDFPKIDGATPMHIASEKGHAKIVKLLLRHDANLALCKRDGASPLFMAAQSGHVDIVKLL-----LQSGANVD--QQLLDGATPIFIAAQNGLLECAECLVEH</Hsp_hseq>
+      <Hsp_midline>H AA  GY +  K       E+N   EDG T    AA +G ++    ++SRG D D   I G TP+H+A+  GH   +  L+   AN+     D  +PL MAA  GH++ V+ L      QS  N     +L D A   F  A+  + ECA+    H</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>65.855</Hsp_bit-score>
+      <Hsp_score>159</Hsp_score>
+      <Hsp_evalue>9.98836e-12</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>338</Hsp_hit-from>
+      <Hsp_hit-to>466</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRKELNAP--DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLN-PKLVG</Hsp_qseq>
+      <Hsp_hseq>HIASEKGHAKIVKLLLRHDANLALCKRDGASPLFMAAQSGHVDIVKLLLQSGANVDQQLLDGATPIFIAAQNGLLECAECLVEHGADVDAQLQDGAGPLFVASQNGHTDLVRFL--LKAAGASVNLPKVDG</Hsp_hseq>
+      <Hsp_midline>H A+  G+ +++K   R + N      DG +P   AA  G+++ ++L++  G + D+  + G TP+ +AA NG L C   LV  GA++     D   PL +A+  GH + VR+L  + A  +S+N PK+ G</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>54.299</Hsp_bit-score>
+      <Hsp_score>129</Hsp_score>
+      <Hsp_evalue>3.75899e-08</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>119</Hsp_query-to>
+      <Hsp_hit-from>439</Hsp_hit-from>
+      <Hsp_hit-to>553</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLK---EATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDS</Hsp_qseq>
+      <Hsp_hseq>ASQNGHTDLVRFLLKAAGASVNLPKVDGATPLHIAAEKGHLDLSIILLEAGADENIAKGDGATPLFMASQSGHVNIVKLLVKAGANVNQQLLNGATPLCIATQNGMNEIIECLKA</Hsp_hseq>
+      <Hsp_midline>A+++G+ +L++   +A    +N P  DG TP   AA  G+L+   +++  G D +     G TPL +A+ +GH++ +  LV  GAN+     +  TPL +A   G  E +  L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|929751156|ref|XP_014150561.1|</Hit_id>
+  <Hit_def>serine/threonine protein kinase, variant 2 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014150561</Hit_accession>
+  <Hit_len>981</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>69.3218</Hsp_bit-score>
+      <Hsp_score>168</Hsp_score>
+      <Hsp_evalue>8.43217e-13</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>71</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>QYHRAARD---GYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL----DSIAAKQSSLNPKL</Hsp_qseq>
+      <Hsp_hseq>QVHKAARTRDVTTLSNILQIDESQIGTLDENGGTPLHIASENGHKDVVELLLAKGADTHVKDETGSTPLYLASKNGHKDVVELLLAKGADIHVKDNLAWTPLRMASKNGHKDVVELLLAKGADIDVKNNGLFPPL</Hsp_hseq>
+      <Hsp_midline>Q H+AAR      L  + +    ++   DE+G TP   A+ +G+ + + L++++G D    D  G+TPL+LA+ NGH   +  L++ GA+I   DN   TPL MA+  GH + V  L      I  K + L P L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.46457e-06</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>103</Hsp_query-to>
+      <Hsp_hit-from>209</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>MTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLD</Hsp_qseq>
+      <Hsp_hseq>LTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLE</Hsp_hseq>
+      <Hsp_midline>+TP   A+ +G+ + + L++++G D    D  G TPLH A+ NGH   +  L++ GA+I   DN   TPL+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>4.38083e-06</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>163</Hsp_hit-from>
+      <Hsp_hit-to>286</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGN----TPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL----DSIAAKQSS----LNPKLVGKL</Hsp_qseq>
+      <Hsp_hseq>DIHVKDNLAWSPLRMASKNGHKDVVELLLAKGADIDVKNNGGLFSPLTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLEPEVVGEM</Hsp_hseq>
+      <Hsp_midline>+++  D    +P   A+ +G+ + + L++++G D D  +  G     TPL  A+  GH   +  L++ GA+I   DN+  TPL  A+  GH + V  L      I  K +S    L P++VG++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|929751158|ref|XP_014150562.1|</Hit_id>
+  <Hit_def>serine/threonine protein kinase, variant 1 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014150562</Hit_accession>
+  <Hit_len>981</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>68.5514</Hsp_bit-score>
+      <Hsp_score>166</Hsp_score>
+      <Hsp_evalue>1.56842e-12</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>71</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>QYHRAARD---GYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL----DSIAAKQSSLNPKL</Hsp_qseq>
+      <Hsp_hseq>QVHKAARTRDVTTLSNILQIDESQIGTLDENGGTPLHIASENGHKDVVELLLAKGADTHVKDETGSTPLYLASKNGHKDVVELLLAKGADIHVKDNVTWSPLRMASKNGHKDVVELLLAKGADIDVKNNGLFPPL</Hsp_hseq>
+      <Hsp_midline>Q H+AAR      L  + +    ++   DE+G TP   A+ +G+ + + L++++G D    D  G+TPL+LA+ NGH   +  L++ GA+I   DN   +PL MA+  GH + V  L      I  K + L P L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.46457e-06</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>103</Hsp_query-to>
+      <Hsp_hit-from>209</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>MTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLD</Hsp_qseq>
+      <Hsp_hseq>LTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLE</Hsp_hseq>
+      <Hsp_midline>+TP   A+ +G+ + + L++++G D    D  G TPLH A+ NGH   +  L++ GA+I   DN   TPL+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>4.49565e-06</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>163</Hsp_hit-from>
+      <Hsp_hit-to>286</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGN----TPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL----DSIAAKQSS----LNPKLVGKL</Hsp_qseq>
+      <Hsp_hseq>DIHVKDNLAWSPLRMASKNGHKDVVELLLAKGADIDVKNNGGLFSPLTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLEPEVVGEM</Hsp_hseq>
+      <Hsp_midline>+++  D    +P   A+ +G+ + + L++++G D D  +  G     TPL  A+  GH   +  L++ GA+I   DN+  TPL  A+  GH + V  L      I  K +S    L P++VG++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|929751154|ref|XP_014150560.1|</Hit_id>
+  <Hit_def>serine/threonine protein kinase, variant 3 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014150560</Hit_accession>
+  <Hit_len>912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>67.781</Hsp_bit-score>
+      <Hsp_score>164</Hsp_score>
+      <Hsp_evalue>2.71911e-12</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>117</Hsp_align-len>
+      <Hsp_qseq>QYHRAARD---GYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>QVHKAARTRDVTTLSNILQIDESQIGTLDENGGTPLHIASENGHKDVVELLLAKGADTHVKDETGSTPLYLASKNGHKDVVELLLAKGADIHVKDNVTWSPLRMASKNGHKDVVELL</Hsp_hseq>
+      <Hsp_midline>Q H+AAR      L  + +    ++   DE+G TP   A+ +G+ + + L++++G D    D  G+TPL+LA+ NGH   +  L++ GA+I   DN   +PL MA+  GH + V  L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.28685e-06</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>103</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>MTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLD</Hsp_qseq>
+      <Hsp_hseq>LTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLE</Hsp_hseq>
+      <Hsp_midline>+TP   A+ +G+ + + L++++G D    D  G TPLH A+ NGH   +  L++ GA+I   DN   TPL+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>48.9062</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>2.3553e-06</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>76</Hsp_hit-from>
+      <Hsp_hit-to>217</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKEATRK--ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGN----TPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL----DSIAAKQSS----LNPKLVGKL</Hsp_qseq>
+      <Hsp_hseq>ASKNGHKDVVELLLAKGADIHVKDNVTWSPLRMASKNGHKDVVELLLAKGADIDVKNNGGLFSPLTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLEPEVVGEM</Hsp_hseq>
+      <Hsp_midline>A+++G+ ++++    K  +++  D    +P   A+ +G+ + + L++++G D D  +  G     TPL  A+  GH   +  L++ GA+I   DN+  TPL  A+  GH + V  L      I  K +S    L P++VG++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|929751160|ref|XP_014150563.1|</Hit_id>
+  <Hit_def>serine/threonine protein kinase [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014150563</Hit_accession>
+  <Hit_len>1051</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>67.781</Hsp_bit-score>
+      <Hsp_score>164</Hsp_score>
+      <Hsp_evalue>2.98248e-12</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>117</Hsp_align-len>
+      <Hsp_qseq>QYHRAARD---GYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>QVHKAARTRDVTTLSNILQIDESQIGTLDENGGTPLHIASENGHKDVVELLLAKGADTHVKDETGSTPLYLASKNGHKDVVELLLAKGADIHVKDNVTWSPLRMASKNGHKDVVELL</Hsp_hseq>
+      <Hsp_midline>Q H+AAR      L  + +    ++   DE+G TP   A+ +G+ + + L++++G D    D  G+TPL+LA+ NGH   +  L++ GA+I   DN   +PL MA+  GH + V  L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.5386e-06</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>103</Hsp_query-to>
+      <Hsp_hit-from>279</Hsp_hit-from>
+      <Hsp_hit-to>349</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>MTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLD</Hsp_qseq>
+      <Hsp_hseq>LTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLE</Hsp_hseq>
+      <Hsp_midline>+TP   A+ +G+ + + L++++G D    D  G TPLH A+ NGH   +  L++ GA+I   DN   TPL+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>4.48177e-06</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>233</Hsp_hit-from>
+      <Hsp_hit-to>356</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGN----TPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL----DSIAAKQSS----LNPKLVGKL</Hsp_qseq>
+      <Hsp_hseq>DIHVKDNLAWSPLRMASKNGHKDVVELLLAKGADIDVKNNGGLFSPLTPLQEASQYGHKDVVELLLAKGADIHVKDNNGMTPLHGASQNGHKDVVELLLAKGADIHVKDNSGSTPLEPEVVGEM</Hsp_hseq>
+      <Hsp_midline>+++  D    +P   A+ +G+ + + L++++G D D  +  G     TPL  A+  GH   +  L++ GA+I   DN+  TPL  A+  GH + V  L      I  K +S    L P++VG++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|929758837|ref|XP_014154400.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_07140 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014154400</Hit_accession>
+  <Hit_len>309</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>1.13123e-10</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>147</Hsp_query-to>
+      <Hsp_hit-from>92</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>180</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDY---------------------------------HTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKL---VGKLKDKAFREAERRI</Hsp_qseq>
+      <Hsp_hseq>HSAAANGYHKVVSYLLVQGAKVDARDHNWETPLMDGAQKGQFECLQLLLQAGADPNARQKRGEQPLHWACNKGHTKCSLLLLNHGADIDAEDDDHETALHDAAGRGRVETTLFLLQKGASTSVREKDGQTPLHWAAYHGHSECVKHLVEYGADPSASDHGIKPSVSTLKQICHRAVRREI</Hsp_hseq>
+      <Hsp_midline>H AA +GY +++        +++A D +  TP +  A  G  E L+L++  G DP+     G  PLH A + GH  C   L++ GA+I   D+D+                                  TPL  AA  GH ECV++L    A  S+ +  +   V  LK    R   R I</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>46.9802</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>5.18854e-06</Hsp_evalue>
+      <Hsp_query-from>65</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>53</Hsp_align-len>
+      <Hsp_qseq>GNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>GGTPLHSAAANGYHKVVSYLLVQGAKVDARDHNWETPLMDGAQKGQFECLQLL</Hsp_hseq>
+      <Hsp_midline>G TPLH AA+NG+   +S+L+  GA +   D+++ TPL   A KG  EC++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|929757059|ref|XP_014153511.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_07997, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153511</Hit_accession>
+  <Hit_len>661</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>6.93244e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>355</Hsp_hit-from>
+      <Hsp_hit-to>466</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>MNDQY--HRAARDGYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDND-YH-TPLDMAAMKGHME</Hsp_qseq>
+      <Hsp_hseq>MVDRYSVHRFESRNKAPLRRLQTHAQQPASWEDEMTQMLWAAYRGDEKFVKQIIAKGAPVNYSDYDGRTALHLAASEGHLPMVKLLVAAGAKVKNMAKDRYHSTPL----MDAHRE</Hsp_hseq>
+      <Hsp_midline>M D+Y  HR        L +  T  +  A  ED MT  LWAAY G+ + ++ I+++G   +  D  G T LHLAAS GHL  +  LV+ GA +  +  D YH TPL    M  H E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|929773538|ref|XP_014161702.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_00057 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014161702</Hit_accession>
+  <Hit_len>765</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.6918</Hsp_bit-score>
+      <Hsp_score>143</Hsp_score>
+      <Hsp_evalue>9.95948e-10</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>356</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>95</Hsp_align-len>
+      <Hsp_qseq>LNAP-DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLD-NDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>INQPCNLAGMSPLTVACSYGHTDMAKLLLVRGADQTVCDEDHLSPLHVAARAGHSACVRVLLESGCNVNVVQPSTKRTPLFEAASEGNLECVRIL</Hsp_hseq>
+      <Hsp_midline>+N P +  GM+P   A  +G+ +  +L++ RG D   CD    +PLH+AA  GH  C+  L+  G N+  +  +   TPL  AA +G++ECVR L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>9.19697e-08</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>153</Hsp_query-to>
+      <Hsp_hit-from>302</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>152</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRKELNA--PDEDGMTPTLWAAYHGNLESLRLIVSRGGDP--DKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKLVGKLKDKAFREAERRIRECAKL</Hsp_qseq>
+      <Hsp_hseq>HYAAIGGNVDVIEKLLELKIDTTIPDSEGYLVIFYVVAQNSLSCVAKFLD-GGVPINQPCNLAGMSPLTVACSYGHTDMAKLLLVRGADQTVCDEDHLSPLHVAARAGHSACVRVLLESGCNVNVVQP---STKRTPLFEAASEGNLECVRI</Hsp_hseq>
+      <Hsp_midline>H AA  G ++++++    +++   PD +G     +     +L  +   +  GG P    C++ G +PL +A S GH      L+  GA+    D D+ +PL +AA  GH  CVR L       + + P      +   F  A     EC ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|929755706|ref|XP_014152835.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_08654 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014152835</Hit_accession>
+  <Hit_len>741</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>7.46078e-09</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>231</Hsp_query-to>
+      <Hsp_hit-from>409</Hsp_hit-from>
+      <Hsp_hit-to>626</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>220</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKLVGKLK-DKAFREAERRIRECAKLQRRHHERMERRYRRELAERSDTLS-FSSLTSSTLSRRL-----QHLALGSHLPYSQATLHGTARGKTKMQ-----KKLERRKQGGEGTF</Hsp_qseq>
+      <Hsp_hseq>KVNTKRRDGQTPLHVAAYRGNAHCCAILLLHGASLNTHDSSSRTALHLASSRGHVHIVAVLLRHGADANAQDTNGNTCAHVAAVNGHDRVLDVLGDEGADVNVLNNQ--GKTPLDCAVALSQQNVVDLLKGSYAGLRGKEVRAQAVKGERGMIMSAFDNMIDAAYERLLPDAVKSVFALSETMNKLKGTSNKKGKGMSQMRSATDPSEIERRKERVERLF</Hsp_hseq>
+      <Hsp_midline>++N    DG TP   AAY GN     +++  G   +  D    T LHLA+S GH+H ++ L+  GA+    D + +T   +AA+ GH   +  L    A  + LN +  GK   D A   +++ + +  K         E R +    ER   +S F ++  +   R L        AL   +   + T +   +G ++M+      ++ERRK+  E  F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|929772904|ref|XP_014161385.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_00417 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014161385</Hit_accession>
+  <Hit_len>2788</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>1.77288e-08</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>663</Hsp_hit-from>
+      <Hsp_hit-to>750</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>EDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>QNKTTPLLMAAAKGDLEMVQLLVELGANPVLRDKLKRGAVILAAKNGHAHVLSYLLRVGVDANARDTSDNTAAHYAAAYGWLECLKVL</Hsp_hseq>
+      <Hsp_midline>++  TP L AA  G+LE ++L+V  G +P   D      + LAA NGH H LS+L+  G +    D   +T    AA  G +EC++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|929768434|ref|XP_014159150.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_02544 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014159150</Hit_accession>
+  <Hit_len>365</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.7582</Hsp_bit-score>
+      <Hsp_score>125</Hsp_score>
+      <Hsp_evalue>8.64399e-08</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>127</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>154</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>LKEATRKEL-NAPDEDGMTPTLWAAYHGNLESLRLIVS-RGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLD-NDYHTPLDMAAMKGHMECVRYLDSIAAKQSSL</Hsp_qseq>
+      <Hsp_hseq>LTSQERKELQDKSDVYGSSFIHWVSRWGCPETVGSVLSVRKGDAKLRDKQGITPLHVAALGGHTLCVQQLIDNGADVRALTYQTHHTPLHYACIGGSVEAVSMLLSNGAESTSV</Hsp_hseq>
+      <Hsp_midline>L    RKEL +  D  G +   W +  G  E++  ++S R GD    D  G TPLH+AA  GH  C+  L+  GA++  L    +HTPL  A + G +E V  L S  A+ +S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|929763989|ref|XP_014156975.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_04650 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014156975</Hit_accession>
+  <Hit_len>328</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>1.03483e-07</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>129</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLD----------NDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>DSRNMTPLHWAASSGQVEVAELLIKRGAGLSIETVGGYTPLHVAAYSGQTETIAVLLSAGANLDALAGSTFFPRSRVNTKRTALHSAAASGNATVIDFL</Hsp_hseq>
+      <Hsp_midline>D   MTP  WAA  G +E   L++ RG       + G TPLH+AA +G    ++ L+S GAN+  L           N   T L  AA  G+   + +L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>2.12377e-06</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>135</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>DITAVDIKGSSILHEAAVSGDSACIELLVKKGADVGAKDKFGNTPLHAAVQSKNMVTINALLDIGADINAQNNHGWTVLHNAAETGHVATLSLL</Hsp_hseq>
+      <Hsp_midline>++ A D  G +    AA  G+   + L+V +G D    D +GNTPLH A  + ++  ++ L+  GA+I   +N   T L  AA  GH+  +  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|929763239|ref|XP_014156600.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_05016 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014156600</Hit_accession>
+  <Hit_len>192</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.8322</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>1.16765e-07</Hsp_evalue>
+      <Hsp_query-from>26</Hsp_query-from>
+      <Hsp_query-to>91</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>71</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>NAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANI</Hsp_qseq>
+      <Hsp_hseq>NKSTADGVTPLMFAAFEGHLDVVRLLISQKADVNKEDVSGDTALLRACDQGHFETVRYLLDNNAQV</Hsp_hseq>
+      <Hsp_midline>N    DG+TP ++AA+ G+L+ +RL++S+  D +K D+ G+T L  A   GH   + +L+   A +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|929754202|ref|XP_014152083.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_09377 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014152083</Hit_accession>
+  <Hit_len>857</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>1.9559e-07</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>251</Hsp_hit-from>
+      <Hsp_hit-to>358</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>108</Hsp_align-len>
+      <Hsp_qseq>RDGYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>NDELVEALLRQDDCDVDYANVDGETALIRAARLGRLTTVSLLLAAHANVDARDKFGDSPLICAANEGHTNVAKHLIEHEADVNAAAEHGHTALIVAAISGHFDIVQYL</Hsp_hseq>
+      <Hsp_midline> D  +E L      +++  + DG T  + AA  G L ++ L+++   + D  D +G++PL  AA+ GH +    L+   A++       HT L +AA+ GH + V+YL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|929773140|ref|XP_014161503.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_00301 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014161503</Hit_accession>
+  <Hit_len>349</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.2174</Hsp_bit-score>
+      <Hsp_score>121</Hsp_score>
+      <Hsp_evalue>2.3212e-07</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>44</Hsp_hit-from>
+      <Hsp_hit-to>157</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRKELN--APDEDGMTPTLWAAYHGNLESLRLIVSRGG--DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>HHALRRGYLDIAHYLCEHGCNIEARDDNGRHPLHEVASHGIKGGVELLVLYGCEIDPLKHADW--TPLMIACTTTHFAVIQALVEAGANLQLYNKDGWTPLHLACRVGDVDIVSYL</Hsp_hseq>
+      <Hsp_midline>H A R GYL++         N  A D++G  P    A HG    + L+V  G   DP K   W  TPL +A +  H   +  LV  GAN+   + D  TPL +A   G ++ V YL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|929748401|ref|XP_014149184.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_12189 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014149184</Hit_accession>
+  <Hit_len>566</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.2174</Hsp_bit-score>
+      <Hsp_score>121</Hsp_score>
+      <Hsp_evalue>3.52654e-07</Hsp_evalue>
+      <Hsp_query-from>35</Hsp_query-from>
+      <Hsp_query-to>199</Hsp_query-to>
+      <Hsp_hit-from>145</Hsp_hit-from>
+      <Hsp_hit-to>322</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>180</Hsp_align-len>
+      <Hsp_qseq>PTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDN-DYHTPLDMAAMKGHMECVRYL-DSIAA---KQSSLNPKL--------VGKLKDKAFREAERRIRECAKLQRRHHERMERRYRRELAERSDTLSFSSLTS--STLSRRLQHLALGSHL</Hsp_qseq>
+      <Hsp_hseq>PLHYACGHSDHTCTKILLQGGANPNLADLKGYTPLHIACKNGYMDTVAELLRYGATVHVKNGRRSRTPLHKAAQGKHTDIVTLLCDSGAAMDVKDTNLRTAVHYAAENSDIPTLHALLSRGASVNIKD--QLGYTPVKIAANQGRADIVELMKVLSTSSLTSIDSRTTHSTTHLSISPHL</Hsp_hseq>
+      <Hsp_midline>P  +A  H +    ++++  G +P+  D+ G TPLH+A  NG++  ++ L+ +GA +   +     TPL  AA   H + V  L DS AA   K ++L   +        +  L     R A   I++  +L     +    + R ++ E    LS SSLTS  S  +    HL++  HL</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.30949e-06</Hsp_evalue>
+      <Hsp_query-from>37</Hsp_query-from>
+      <Hsp_query-to>123</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>100</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>LWAAYHGNLESLRLIVSRGGD---PDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAK</Hsp_qseq>
+      <Hsp_hseq>LAAAKHGDTQAVEAILVRSTSRHTTDKRDSDGKEALHIAAADGNEKMLSLLIQYGAKLDSTDYSGRTPLHLAAEYGHVNTAKALVANGAR</Hsp_hseq>
+      <Hsp_midline>L AA HG+ +++  I+ R       DK D  G   LH+AA++G+   LS L+ +GA +   D    TPL +AA  GH+   + L +  A+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.97171e-06</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>116</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>LLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMEC</Hsp_qseq>
+      <Hsp_hseq>LVRSTSRHTTDKRDSDGKEALHIAAADGNEKMLSLLIQYGAKLDSTDYSGRTPLHLAAEYGHVNTAKALVANGARM-----DIRTKMGQYAI--HLAC</Hsp_hseq>
+      <Hsp_midline>L++  +R   +  D DG      AA  GN + L L++  G   D  D  G TPLHLAA  GH++    LV+ GA +     D  T +   A+  H+ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|929756140|ref|XP_014153052.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_08449 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153052</Hit_accession>
+  <Hit_len>362</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.8322</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.56867e-07</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>AAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCL-SFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPK</Hsp_qseq>
+      <Hsp_hseq>AAAKGDSHTVKKLMDEGVGINDEDWDGWTALHFAASNGHFETIDELLLADDINIQTANHHGDTPLHLASMWGHVKCVQVLLDHSA---SMEPK</Hsp_hseq>
+      <Hsp_midline>AA  G+  +++ ++  G   +  D  G T LH AASNGH   +   L++   NI   ++   TPL +A+M GH++CV+ L   +A   S+ PK</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>6.87043e-07</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>25</Hsp_hit-from>
+      <Hsp_hit-to>106</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>LNAPDEDGMTPTLWAAYHGNLESL-RLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>INDEDWDGWTALHFAASNGHFETIDELLLADDINIQTANHHGDTPLHLASMWGHVKCVQVLLDHSASMEPKNSNGQTPVDVA</Hsp_hseq>
+      <Hsp_midline>+N  D DG T   +AA +G+ E++  L+++   +    +  G+TPLHLA+  GH+ C+  L+   A++   +++  TP+D+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|929764631|ref|XP_014157296.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_04360 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014157296</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>3.68198e-07</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>192</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>DQYHRAARD---------GYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>DEYEHAGVDRSLLADGGMGEMRQDDEQTSLNIDAQDENGMTCLHWACDRGHPDIVRALVEKCADVGVTDNDGQSALHYAAFCGHLDVVRVLLWAGADREIEDNHGQTALDCA</Hsp_hseq>
+      <Hsp_midline>D+Y  A  D         G +    E T   ++A DE+GMT   WA   G+ + +R +V +  D    D  G + LH AA  GHL  +  L+  GA+    DN   T LD A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|929768828|ref|XP_014159347.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_02395 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014159347</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>3.84679e-07</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>110</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>111</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>106</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKEATRKE---LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGH</Hsp_qseq>
+      <Hsp_hseq>AVKTGDLECIRRKVKRNEAVSNKVNKKGESLLLCAAKYGQLEACSLLLESGADANLASADGDTPLLVATEYGRYDICELLLSGGANASAENSYEATPLICAAKRGH</Hsp_hseq>
+      <Hsp_midline>A + G LE ++   ++     N  ++ G +  L AA +G LE+  L++  G D +     G+TPL +A   G       L+S GAN    ++   TPL  AA +GH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|929758517|ref|XP_014154240.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_07296 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014154240</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.595</Hsp_bit-score>
+      <Hsp_score>109</Hsp_score>
+      <Hsp_evalue>7.33985e-07</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>96</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>100</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>MNDQYHRAARDGYLELLKEAT---RKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDN</Hsp_qseq>
+      <Hsp_hseq>MEQQVHKAARTRDVTTLSNILLIDESQIDTLDEDGWTPLHSASLSGYKDVVELLLAKGADIDVKANDGRTPLFSASETGHKDVVELLLAKGADIDVKNN</Hsp_hseq>
+      <Hsp_midline>M  Q H+AAR   +  L         +++  DEDG TP   A+  G  + + L++++G D D     G TPL  A+  GH   +  L++ GA+I   +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|929756138|ref|XP_014153051.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_08448 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153051</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>8.08749e-07</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>107</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>103</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIV-SRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>HDAAKSGDIQTITTYVANHGDVNSKDWNGWGPAHHAASAGQHEALQLLMDAEGAVVDLADNYGDTALHHASEWGKVECIKVLLEHNAGFGVKNQKGKTPVDVA</Hsp_hseq>
+      <Hsp_midline>H AA+ G ++ +    A   ++N+ D +G  P   AA  G  E+L+L++ + G   D  D +G+T LH A+  G + C+  L+   A     +    TP+D+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|929755660|ref|XP_014152812.1|</Hit_id>
+  <Hit_def>serine/threonine protein kinase [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014152812</Hit_accession>
+  <Hit_len>1130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.30227e-06</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>169</Hsp_query-to>
+      <Hsp_hit-from>38</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECV----RYLDSIAAKQSS-------LNPKLVGKLKDKAFRE-AERRIRECAKLQRRHHE-------RMERRYRREL</Hsp_qseq>
+      <Hsp_hseq>HFACEKGHTEVVQLLLETNANVEAKEQGGWSPLHCACRYGHKEAVQLLLEKGAIVDTKNNGGWTPLHSACSSGHRDVAQLLLERDADVEINNCLGWTPLHLACKCGHKDVVLLLLKWNANLEAKNKSGKTPLDLCNDDKMKQFLRKAIQQRADRQIQAMKAMEQREMEQRRIVKRKMEQRQMKQL</Hsp_hseq>
+      <Hsp_midline>H A   G+ E+++    T   + A ++ G +P   A  +G+ E+++L++ +G   D  +  G TPLH A S+GH      L+   A++   +    TPL +A   GH + V    ++  ++ AK  S        N   + +   KA ++ A+R+I+    +++R  E       +ME+R  ++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|929764493|ref|XP_014157227.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_04421 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014157227</Hit_accession>
+  <Hit_len>205</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>1.30886e-06</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>58</Hsp_hit-from>
+      <Hsp_hit-to>158</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>ELLKEATRK-ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>ELIEDASSDLSPNSKDGNGYTPMHAAAGWGHKELLEYLISKGGDANVTDNDGDSPLH---STEDVIIAQILVDAGADLAIKNDEGLTPNDVASEEGLLEMCNFF</Hsp_hseq>
+      <Hsp_midline>EL+++A+     N+ D +G TP   AA  G+ E L  ++S+GGD +  D  G++PLH   S   +     LV  GA++   +++  TP D+A+ +G +E   + </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|929748709|ref|XP_014149338.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_12039 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014149338</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>1.55215e-06</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>GNLESLRLIVSRGGDPDKCD-IWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDY-HTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>GQLKAVKLLVSRGADINDRDWTWGQNSLHWASVKAHVSVMEWLISLGMDVNALDEDKGATALHLVSSNGSLDATHLL</Hsp_hseq>
+      <Hsp_midline>G L++++L+VSRG D +  D  WG   LH A+   H+  + +L+S G ++  LD D   T L + +  G ++    L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|929748607|ref|XP_014149287.1|</Hit_id>
+  <Hit_def>TKL protein kinase [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014149287</Hit_accession>
+  <Hit_len>773</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>1.66489e-06</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>123</Hsp_query-to>
+      <Hsp_hit-from>297</Hsp_hit-from>
+      <Hsp_hit-to>443</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>147</Hsp_align-len>
+      <Hsp_qseq>LELLKEATRKE---LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFL----------------------------------VSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAK</Hsp_qseq>
+      <Hsp_hseq>LERLTKICKDENADLNACDYDRRTALHASAAKGKLSFVEVLVENGAVVNAQDRWGNTPLGDAVENGHDEIASYLRRHGANFNTKELGGIEGRMCAAASAGRLSEIKQMVAEGANVNVSDYDKRTPLHLAASENFLEIVKFLVSCGAE</Hsp_hseq>
+      <Hsp_midline>LE L +  + E   LNA D D  T    +A  G L  + ++V  G   +  D WGNTPL  A  NGH    S+L                                  V+ GAN+   D D  TPL +AA +  +E V++L S  A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|929760510|ref|XP_014155236.1|</Hit_id>
+  <Hit_def>hypothetical protein, variant 2 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014155236</Hit_accession>
+  <Hit_len>2947</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>5.13719e-06</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>AAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AASTGQVEILRLLVNAGADLHPKSKNGSRPLHFAALSLNLDAVQTLLDAGARINALDKQKNTVLHRAVMKHHIQMAKLL</Hsp_hseq>
+      <Hsp_midline>AA  G +E LRL+V+ G D       G+ PLH AA + +L  +  L+  GA I  LD   +T L  A MK H++  + L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|929760512|ref|XP_014155237.1|</Hit_id>
+  <Hit_def>hypothetical protein, variant 1 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014155237</Hit_accession>
+  <Hit_len>3014</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>5.95198e-06</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>AAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AASTGQVEILRLLVNAGADLHPKSKNGSRPLHFAALSLNLDAVQTLLDAGARINALDKQKNTVLHRAVMKHHIQMAKLL</Hsp_hseq>
+      <Hsp_midline>AA  G +E LRL+V+ G D       G+ PLH AA + +L  +  L+  GA I  LD   +T L  A MK H++  + L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|929760514|ref|XP_014155238.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_06334 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014155238</Hit_accession>
+  <Hit_len>3015</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>5.9521e-06</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>AAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AASTGQVEILRLLVNAGADLHPKSKNGSRPLHFAALSLNLDAVQTLLDAGARINALDKQKNTVLHRAVMKHHIQMAKLL</Hsp_hseq>
+      <Hsp_midline>AA  G +E LRL+V+ G D       G+ PLH AA + +L  +  L+  GA I  LD   +T L  A MK H++  + L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|929756407|ref|XP_014153185.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_08315, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153185</Hit_accession>
+  <Hit_len>333</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.9802</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>6.43258e-06</Hsp_evalue>
+      <Hsp_query-from>34</Hsp_query-from>
+      <Hsp_query-to>122</Hsp_query-to>
+      <Hsp_hit-from>112</Hsp_hit-from>
+      <Hsp_hit-to>206</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>TPTLWAAYHGNLESLRLIVSRGGDPDKC-------DIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLD-NDYHTPLDMAAMKGHMECVRYLDSIAA</Hsp_qseq>
+      <Hsp_hseq>TKVFAAARSGKTEDLRQALK--GDPDWLKDEDKLYDDTGATPLHIAASEGYLECVKVLLESGVDKDILNLASKETPLIGAARGDHAEVLKYLLSLGA</Hsp_hseq>
+      <Hsp_midline>T    AA  G  E LR  +   GDPD         D  G TPLH+AAS G+L C+  L+  G +   L+     TPL  AA   H E ++YL S+ A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|929764771|ref|XP_014157366.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_04273 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014157366</Hit_accession>
+  <Hit_len>359</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.9802</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>6.54755e-06</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>228</Hsp_hit-from>
+      <Hsp_hit-to>312</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>85</Hsp_align-len>
+      <Hsp_qseq>WAAYHG-----NLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>WAPLHACCHFQNVACAEFLYQNYANINTADKQGRTPLHVAADEGHEIMVEFLLSRGATVEVKDEEGKSPLDLALAKFHPTVVTHL</Hsp_hseq>
+      <Hsp_midline>WA  H      N+     +     + +  D  G TPLH+AA  GH   + FL+S GA +   D +  +PLD+A  K H   V +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_140278</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|929748033|ref|XP_014149000.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_12370 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014149000</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.1073</Hsp_bit-score>
+      <Hsp_score>196</Hsp_score>
+      <Hsp_evalue>7.35173e-20</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>175</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>113</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIA</Hsp_qseq>
+      <Hsp_hseq>LPELANNPLVERIIATMDTDNDGDVDFQEFIMALSIFIRGS-KESKLQFAFKIYDMDGDGFISNGELYAVLKMMVGSNLQDTQLQQIVDKTIMYSDQNGDGKISFEEFCQVIA</Hsp_hseq>
+      <Hsp_midline>+PEL  NP  ERI+A    D +G++ F +F+   S+    + +E K  +AFKIYD + D FI   +L   L  +  S L + ++  + DK I  +D +GDGK+ F +F  +IA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|929757009|ref|XP_014153486.1|</Hit_id>
+  <Hit_def>calmodulin [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014153486</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.447</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>6.18678e-09</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>147</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIA</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQDMINEVDADGNGTIDFPEFLTMMARKMKDTDSEEEIIEAFRVFDKDGNGFISAAELRHVMTSLGEKLTDEE-----VDEMIREADIDGDGQINYEEFVKMMT</Hsp_hseq>
+      <Hsp_midline>M  L +NP +  +    +E   DG G + F +F+ M +   +    E +   AF+++D + + FI   +L   +  L +   DEE      D++I EAD+DGDG++ + +F  M+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|929738461|ref|XP_014144218.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_17162, partial [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014144218</Hit_accession>
+  <Hit_len>57</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.817</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>4.69607e-06</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>81</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>RIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFIC</Hsp_qseq>
+      <Hsp_hseq>RIIAVFDTSATDSINFRDFVNVLNVFHEESDGDEKLEFAFRIYDIDNDGFIS</Hsp_hseq>
+      <Hsp_midline>RI+A F      ++ F DFV++ +V  E +  + K  +AF+IYD + D FI </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_140279</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|929748087|ref|XP_014149027.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_12341 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014149027</Hit_accession>
+  <Hit_len>737</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>67.781</Hsp_bit-score>
+      <Hsp_score>164</Hsp_score>
+      <Hsp_evalue>6.59939e-11</Hsp_evalue>
+      <Hsp_query-from>900</Hsp_query-from>
+      <Hsp_query-to>1035</Hsp_query-to>
+      <Hsp_hit-from>353</Hsp_hit-from>
+      <Hsp_hit-to>480</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>CECDSLGTLPGTICDPISGQC-LCVPNRQGRRCNQCQPGFYISPGNATGCLPCSCHTTGAVNHICNSLTGQCVCQDASIAGQRCDQCKDHYFGFDPQTGRCQPCNCHLSGALNETCHLVTGQCF-CKQFVTGSKCDAC</Hsp_qseq>
+      <Hsp_hseq>CQCSGHSTCDG------GGRCGSCEGNTEGLNCESCIPGYFGNALNNGTCAPCETEFNGVACLMCDNLTGGCTDCVGNVTGAACNECGSGFYG-DPLNGTCEVCLCNNQ---TDTCDSTTGRCVDCPPGVDGGSCDVC</Hsp_hseq>
+      <Hsp_midline>C+C    T  G       G+C  C  N +G  C  C PG++ +  N   C PC     G    +C++LTG C     ++ G  C++C   ++G DP  G C+ C C+      +TC   TG+C  C   V G  CD C</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>66.2402</Hsp_bit-score>
+      <Hsp_score>160</Hsp_score>
+      <Hsp_evalue>2.18317e-10</Hsp_evalue>
+      <Hsp_query-from>810</Hsp_query-from>
+      <Hsp_query-to>994</Hsp_query-to>
+      <Hsp_hit-from>315</Hsp_hit-from>
+      <Hsp_hit-to>488</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>190</Hsp_align-len>
+      <Hsp_qseq>AKTGQCICKPNVEGRQCNKCLEGNFYLRQNNSFLCLP----CNCDKTGTINGSLLCNKSTGQCPCKLGVTGLRCNQCEPHRYNLTIDNFQHCQMCECDSLGTLPGTICDPISGQCL-CVPNRQGRRCNQCQPGFYISPGNATGCLPCSCHTTGAVNHICNSLTGQCVCQDASIAGQRCDQCKDHYFGFDP</Hsp_qseq>
+      <Hsp_hseq>AKTGEGLC---VDGNGMGPLPSANVTCPADSTYHFAPPEPTCQCSGHSTCDGGGRCGS------CEGNTEGLNCESCIPGYFGNALNN-GTCAPCETEFNG-VACLMCDNLTGGCTDCVGNVTGAACNECGSGFYGDPLNGT-CEVCLCNNQ---TDTCDSTTGRCVDCPPGVDGGSCDVCDENYMG-DP</Hsp_hseq>
+      <Hsp_midline>AKTG+ +C   V+G         N     ++++   P    C C    T +G   C        C+    GL C  C P  +   ++N   C  CE +  G +   +CD ++G C  CV N  G  CN+C  GFY  P N T C  C C+        C+S TG+CV     + G  CD C ++Y G DP</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>1.04857e-09</Hsp_evalue>
+      <Hsp_query-from>575</Hsp_query-from>
+      <Hsp_query-to>730</Hsp_query-to>
+      <Hsp_hit-from>353</Hsp_hit-from>
+      <Hsp_hit-to>481</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>160</Hsp_align-len>
+      <Hsp_qseq>CQCNSHSKSCHYNISVDPFPFEHFRGGGGVCDDCEHNTTGRNCELCKDYFFRQVGADPSAIDVCKPCDCDTVGTRNGSILCDQIGGQC-NCKRHVSGRQCNQCQNGFYNLQELDP--DGCSPCNCNTSGTVDGDITCHQNSGQC-KCKANVIGLRCDHCN</Hsp_qseq>
+      <Hsp_hseq>CQCSGHSTC----------------DGGGRCGSCEGNTEGLNCESCIPGYFGNALNNGT----CAPCETEFNGV--ACLMCDNLTGGCTDCVGNVTGAACNECGSGFYG----DPLNGTCEVCLCNNQTD-----TCDSTTGRCVDCPPGVDGGSCDVCD</Hsp_hseq>
+      <Hsp_midline>CQC+ HS                   GGG C  CE NT G NCE C   +F     + +    C PC+ +  G     ++CD + G C +C  +V+G  CN+C +GFY     DP    C  C CN         TC   +G+C  C   V G  CD C+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>53.5286</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>1.72687e-06</Hsp_evalue>
+      <Hsp_query-from>518</Hsp_query-from>
+      <Hsp_query-to>680</Hsp_query-to>
+      <Hsp_hit-from>353</Hsp_hit-from>
+      <Hsp_hit-to>484</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>164</Hsp_align-len>
+      <Hsp_qseq>CQCHGHADNCDTTSQPYRCLCSQESFTEGLHCDRCLPLYNDKPFRQGDQVYAFNCKPCQCNSHSKSCHYNISVDPFPFEHFRGGGGVCDDCEHNTTGRNCELCKDYFFRQVGADPSAIDVCKPCDCDTVGTRNGSILCDQIGGQC-NCKRHVSGRQCNQCQNGF</Hsp_qseq>
+      <Hsp_hseq>CQCSGHS-TCDGGGRCGSC----EGNTEGLNCESCIPGYFGNALNNG------TCAPCETEFNGVAC--------LMCDNLTGG---CTDCVGNVTGAACNECGSGFY----GDP-LNGTCEVCLCN-----NQTDTCDSTTGRCVDCPPGVDGGSCDVCDENY</Hsp_hseq>
+      <Hsp_midline>CQC GH+  CD   +   C    E  TEGL+C+ C+P Y       G       C PC+   +  +C           ++  GG   C DC  N TG  C  C   F+     DP     C+ C C+     N +  CD   G+C +C   V G  C+ C   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|929749303|ref|XP_014149635.1|</Hit_id>
+  <Hit_def>hypothetical protein SARC_11747 [Sphaeroforma arctica JP610]</Hit_def>
+  <Hit_accession>XP_014149635</Hit_accession>
+  <Hit_len>1087</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.4546</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>4.82363e-07</Hsp_evalue>
+      <Hsp_query-from>617</Hsp_query-from>
+      <Hsp_query-to>1032</Hsp_query-to>
+      <Hsp_hit-from>577</Hsp_hit-from>
+      <Hsp_hit-to>1022</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>108</Hsp_identity>
+      <Hsp_positive>158</Hsp_positive>
+      <Hsp_gaps>102</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>CELCKDYFFRQVGADPSAIDVCKPCDCDTVGTRNGSILCDQIGG-QCNCKRHVSGRQCNQCQNGFYNLQELDPDGCSPCNCNTSGTVDGDITCHQNSGQCKCKANVIGLRC-------DH--CNFGFKFLRSFNDVGC---------EPCQCNLHGSVNKFCNPHSGQCE---------CKKEAKGLQC----------DTCRENFYGLDVTNCKACDCDTAGSLPGTVCNAKTGQCICKPNVEGRQCNKCLEGNFYLRQNNSFLCLPCNCDK---TGTINGSLLCNKSTG--QCPCKLGVTGLRCNQCEPHRYNLTIDNFQHC------QMCECDSLGTLPGTICD------PIS-----GQCL----CVPNRQGRRCNQCQPGFYISPGNATGCLPCSCHTTGAVNHICNSLTGQCVCQDASIAGQRCDQCKDHYFGFDPQTGR-CQPCNCHLSG-ALNETCHLVTGQCFCKQFVTGSKC</Hsp_qseq>
+      <Hsp_hseq>CQCADGYEGANCADEINECNVLTPC-------ANGAVCTDLVNGYECTCAPGFSGETCEN------NINDCDPNPC----LNGANCVDKD-----NAYECVCIAGYTGANCEVNINDCDHQLCQNGATCEDGVDSFTCNCAASGFTGEFCEENIDDCINEPCGEHGFQCIDGVNSFMCICKSGFEGLTCLVDIDECVTLNRCQNGATCTDKPNDYECDC--APGYGGKDCQVEIDNCIPSPCLHQGVCTNALN-SYTCECADGYTGPDCEIDIDECVGVVCGHGTCEDKVNSYQCVCEVGYSGDLCDVNIDDCVGVTCANGGTCVDGVNTHTCQCES--PFEGDNCEIDPRVGPVDKCATYGECQNGGKCVLDDAGEPMCECTSAYVGTFCEAEMDCPV-CENRGRCIRNWRDYTKVCMCR-AGFYGPTCSENSN-------AVGRACNRYPCGWRGQCVNDKSERGDFKCECYAGWTGRKC</Hsp_hseq>
+      <Hsp_midline>C+    Y       + +  +V  PC        NG++  D + G +C C    SG  C        N+ + DP+ C     N +  VD D     N+ +C C A   G  C       DH  C  G       +   C         E C+ N+   +N+ C  H  QC          CK   +GL C          + C+      D  N   CDC  A    G  C  +   CI  P +    C   L  ++     + +    C  D     G + G   C       QC C++G +G  C+        +T  N   C        C+C+S     G  C+      P+      G+C     CV +  G    +C   +  +   A    P  C   G         T  C+C+ A   G  C +  +         GR C    C   G  +N+       +C C    TG KC</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>2.07141e-06</Hsp_evalue>
+      <Hsp_query-from>520</Hsp_query-from>
+      <Hsp_query-to>1021</Hsp_query-to>
+      <Hsp_hit-from>259</Hsp_hit-from>
+      <Hsp_hit-to>711</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>177</Hsp_positive>
+      <Hsp_gaps>171</Hsp_gaps>
+      <Hsp_align-len>563</Hsp_align-len>
+      <Hsp_qseq>CHGHADNCDTTSQPYRCLCSQESFTEGLHCDRCLPLYNDKPFRQGDQVYAFNCKPCQCNSHSKSCHYNISVDPFPFEHFRGGGGVCDDCEHNTTGRNCELCKDYFFRQVGADPSAIDVCKPCDCDTVGTRNGSILCDQIGGQ---CNCKRHVSGRQCNQCQNGFYNLQELDPDGCSPCNCNTSGTVDGDITCHQNSGQCKCKANVIGLRCDHCNFGFKFLRSFNDVGCEPCQCNLHGSVNKFCNPHSGQCECKKEAKGLQCDT---------CRENFYGLDVTNCKACDCDTAGSLPGTVCNAKTGQCICKPNVEGRQCNKCLEGNFYLRQNNSFLCLPCNCDKTG-----------------TINGSLLCNKSTGQCPCKLGVTGLRC--NQCEPHRYN-----LTIDNF----------QHC--QMCECDSLGTLP-GTIC-DPISG-QCLCVPNRQGRRC----NQCQP------GFYISPGNATGCLPCSCHTTGAVNHICNSLTGQCVCQDASIAGQRCDQCKDHYFGFDPQTGRCQPCNCHLSGALNETCHLVTGQC</Hsp_qseq>
+      <Hsp_hseq>CTANSLRCDDDVNSYKCVCAPG--FDGEFCENNIDDCAVDPCINGNCVDLVNGFECTCDA----------------------------------GWEGDLCKD-----------DKNDCDPNPCANSGT------CTDMGVEAFTCTC---VAGYDGPDCSNEINN--------CNSQSCNMRGTCASSV----NAYTCTCDA---GFRGDDCEF------DIDECLDNPC---VNGQCSDGINDYT--CACVLGWDGKNCDNNIDDCSANPCQNNAACTDAVNDYSCAC--VGGFFGKNCEFASSGCAAEPCAHGGACTDVGDMGGFL----------CDCTGTGYNGANCEEDIIDCVEGYCQNGICTEGVNLATCECAAGYTGTNCEIDNCSAMCRNGASCIGTADNVVCQCADGYEGANCADEINECNVLTPCANGAVCTDLVNGYECTCAPGFSGETCENNINDCDPNPCLNGANCVDKDNAYECV-CIAGYTGANCEVNINDCDHQLCQNGA-------TCED---GVDSFT-----CNCAASGFTGEFCEENIDDC</Hsp_hseq>
+      <Hsp_midline>C  ++  CD     Y+C+C+     +G  C+  +      P   G+ V   N   C C++                                  G   +LCKD             + C P  C   GT      C  +G +   C C   V+G     C N   N        C+  +CN  GT    +    N+  C C A   G R D C F        ++    PC   ++G  +   N ++  C C     G  CD          C+ N    D  N  +C C   G   G  C   +  C  +P   G  C    +   +L          C+C  TG                   NG      +   C C  G TG  C  + C     N      T DN            +C  ++ EC+ L     G +C D ++G +C C P   G  C    N C P         +   NA  C+ C    TGA   +  +     +CQ+ +        C+D   G D  T     CNC  SG   E C      C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_140280</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_140281</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_140282</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_140283</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>18649</Statistics_db-num>
+      <Statistics_db-len>5628458</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

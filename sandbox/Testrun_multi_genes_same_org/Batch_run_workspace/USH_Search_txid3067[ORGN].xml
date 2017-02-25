@@ -1,0 +1,1406 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_170337</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_170337</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|302831722|ref|XP_002947426.1|</Hit_id>
+  <Hit_def>type XI myosin heavy chain MyoB [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002947426</Hit_accession>
+  <Hit_len>765</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>490.73</Hsp_bit-score>
+      <Hsp_score>1262</Hsp_score>
+      <Hsp_evalue>1.05929e-153</Hsp_evalue>
+      <Hsp_query-from>61</Hsp_query-from>
+      <Hsp_query-to>815</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>762</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>426</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>778</Hsp_align-len>
+      <Hsp_qseq>PTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQ----VLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKR--GAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQ-ASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRR----------SIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPK-NNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGF----LRLQALHRSRKLHQQYRLARQ</Hsp_qseq>
+      <Hsp_hseq>PGILRTLQDMTALSFLHEPGVLWNLQSRYKRGDIYTYTGSILIAVNPFRPVPHLYGANVIDQYRSSPREQLPPHVYATACAAFRNMIRDGAGQAILVTGESGAGKTETAKLIMACLTHLGAQHSSSRHSGAGAILESNPLLEAFGNAKTLRNNNSSRFGKYVEIFFDPAAGGMVTGAAVRTYLLERSRVVAVNNPERSFHIFYQLVYGASPGDRAAWRLPESASDFAYLARSSCFTLPGQCNVEEYHHTRRAMSHIGLSEQQQSAVLATVAAVLHLGNITFTDSDGEGAVVAGAPGRRALEAAAELLGVEPEPLAEALTTRQIQTPEGPIATPLSVQAAVDARDSMAKVVYARLFEWLVSAINTAVDEAHNGTGAGGGSSGGTPPGRHLSIGLLDIYGFESFDVNDLEQLCINLTNEKLQQHFNQHVFKWEQAEYEREGVDWSYISFRDNAEVLDLLEGR-MGLMDLLDELCRFPKASAEDLSHKYRSSAAVSANPRFTKLNRPATAFGVEHYAGSVTYSTQNFLEKNRDYVVAEHQSLLGRSRRPLLQELFAPEVP-AAQFQFRS--VSSQCRRQLAELMSALSQLQPHYVRCIKPNPSGAPGEFNAPYSLHQLRCGGVMEAVRIACAGYSYRRPFAAFLEHFWQLCP--EPVHAQED----TPRVGEVDAG--PQYHLGHTKVFLRATAAAALERRRLAATNAAATTIQAHLR----RHQEFRQERAALIMQTTWRSAVIRREY-LFTLRYWRAAVRIQTAWRGYAARQLYLQARK</Hsp_hseq>
+      <Hsp_midline>P  +  ++DM  L  L+E G+L NL  RY+   IYTYTGSIL+AVNP++ +  +Y    I QY +    ++PPH++A A   + NM R+   Q  +++GESGAGKTE+ KLI+  L  +  QHS         +LE+ P+LEAFGNAKT+RN+NSSRFGKY++I F+    G + GA +  YLLE+SRV      ER++H+FY ++ G S   +    L + ASD+ YLA  +C T  G+ + +EY + R AM  +  ++ +   +   +AA+LHLGN+ +     E           +L  AA LL V P  L   LT+R + T    ++TPLS + A+D RD+  K +Y RLF W+V  IN A+ +  +                  SIGLLDI+GFE+F VN  EQLCIN  NE LQQ F +HVFK EQ EY+ E +DW +I F DN + LD++  + M ++ L+DE  +FPK +   + HK  S   ++AN    K N   T FG+ H+AG V Y TQ FLEKNRD +  +   L+  SR   ++++F  +V   A+ + RS  +SSQ +R L  LM  L   QP +VRCIKPN    P  F+    + QLR  G+ME +RI  AGY  R  F  F+E +  L P  +P + Q D      R+ E   G    + +G TK+FL+      LE  R  A       +Q  +R    R    + + AA ++Q  WR    R+ Y L  L +    +R+Q   R     Q Y  AR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|302845917|ref|XP_002954496.1|</Hit_id>
+  <Hit_def>type XI myosin heavy chain MyoA [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002954496</Hit_accession>
+  <Hit_len>1668</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>513.072</Hsp_bit-score>
+      <Hsp_score>1320</Hsp_score>
+      <Hsp_evalue>9.40435e-153</Hsp_evalue>
+      <Hsp_query-from>60</Hsp_query-from>
+      <Hsp_query-to>935</Hsp_query-to>
+      <Hsp_hit-from>57</Hsp_hit-from>
+      <Hsp_hit-to>959</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>495</Hsp_positive>
+      <Hsp_gaps>97</Hsp_gaps>
+      <Hsp_align-len>938</Hsp_align-len>
+      <Hsp_qseq>HPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAI---------SGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKL--NSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAM--------------GAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGT---CQRMAEAVLGTHD--DWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNF-------------------------LKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQR----IIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIARRLHQRLRAEYLWRLEAEKMRLAEEEKLRKEMSAKKAKEEAERKHQERL--AQLAREDAERELKEKEAARRKKELLEQMERARHE</Hsp_qseq>
+      <Hsp_hseq>NPHNNRGVDDMTRLSYLHEPAVLWNLNTRYAYDDIYTYTGTILIAINPFTSLPHLYGEHMMNQYRGVEIGDYAPHVYAIADAAYRQMRKEMKGQSILVSGESGAGKTETSKLIMKYLAYMGGYSASGERTGSGGSVEEQVLESNPLLEAFGNAKTTRNNNSSRFGKYVEINFNDKGVISGAAIRTYLLERSRVVAINNPERNYHIFYQLCDGASPEQRAQLRLKGAQEYRYLNQSTCFQLPGTDNAEDFKRTVYAMERVGIPPADREAIFRTVAAILHLGNINFNPGP-EDSSLVTPATEDALESTAVLLGVDKEGLCKALTTRVRQTPEGPIVSPLDARAAAETRDSLAKIVYAKMFDWLVRMINAAI----GED-KSCAASVGVLDIYGFEQFQYNDFEQFCINLANEKLQQHFNQHVFKMEQAEYEREQIDWSYIQFVDNQDVLDLIEGR-IGILDLLDEVCRFVDAKGKDFAEKLYNATTCKESRRFSKPKTSM-TQFIIDHYAGPVKYDTANFIEKNKDFVVPEHQALLCSSNQPFIAALFTDTDAAGDSAAAAPTPPGRRGGAKGVKFNSVGSQFKKQLAELMVQLHAMEPHYIRCIKPNESAQPGVFENKNVLHQLKCGGVMEAVRISCAGFPSKRPYDEFVDHFWQLAP---------DLLKTDVDDKEVTKAILAKAGVTGYQLGLTKVFMRAGQMAQLDKLRTDTLNGAAITIQRFVRGTLARWRFVAARSAVLRIQCAVRAWSARKLTTQLRREKAALTIQRMWRGYKARSTYLEQRRLIMAVQSMFRGRNARQ--RLAQLRRMGAAVTIQRYWRGFKARRAFLEARRAAIAVQSGFRIKVARRELRALRQQ-----AREGTKLLED---------KKALEQKVHELQAMLETVQGQRNELRQQVKEELAAR--AELERRVEEMKAE</Hsp_hseq>
+      <Hsp_midline>+P +  GV+DM RL  L+E  +L NL  RY    IYTYTG+IL+A+NP+  L  +Y    + QY   +IG+  PH++AIAD  Y  M++  + Q  ++SGESGAGKTE++KLI+++LA +         +G    +E+QVLE+ P+LEAFGNAKT RN+NSSRFGKY++I+FN +G I GA I  YLLE+SRV      ERNYH+FY + +G S +Q+ +L L  A +Y YL    C    G  +++++     AM+ +     +   I + +AAILHLGN+ +     E+          +L + A LL V+   L   LT+R   T    + +PL    A + RD+  K +Y ++F W+V  INAAI     +D K+   S+G+LDI+GFE F  N FEQ CIN ANE LQQ F +HVFK+EQ EY+ E IDW +I+F DNQD LD+I  + + I+ L+DE  +F          KL   +  K +  +  PK +  TQF I+H+AG V Y+T  F+EKN+D +  +   L+ SS   FI  +F    A               G     +  ++ SQFK+ L  LM  L A +P ++RCIKPNE  +P +F+    + QL+  G+ME +RI  AG+P +  + EFV+ +  L P         DL  T    + + +A+L       +Q+G TK+F++      L+  R   +    I +Q+ +RG   R  F                         L+ + AA  IQR WRG+  R  Y   R   + +Q++ R R   Q  RLA+ R     +  Q   R +  R+AF     A + VQ+  R  +ARR  + LR +       E  +L E+         KKA E+   + Q  L   Q  R +  +++KE+ AAR   EL  ++E  + E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|302849137|ref|XP_002956099.1|</Hit_id>
+  <Hit_def>type VIII myosin heavy chain MyoC [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002956099</Hit_accession>
+  <Hit_len>1519</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.779</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>7.05529e-123</Hsp_evalue>
+      <Hsp_query-from>56</Hsp_query-from>
+      <Hsp_query-to>874</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>857</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>288</Hsp_identity>
+      <Hsp_positive>432</Hsp_positive>
+      <Hsp_gaps>139</Hsp_gaps>
+      <Hsp_align-len>882</Hsp_align-len>
+      <Hsp_qseq>IKPMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGL-GQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALD---MIANKPMNIISLIDEESKFPKGTDTT----MLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHG------------DIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSG---------------------------------MMETIRIRRAGYPIRYSFVEFVERYRVLLP-----GVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHRLWAVLTVQ-----AYARGMIARRLHQRLRAEYLWRLEAEKMRL</Hsp_qseq>
+      <Hsp_hseq>VVPANPVLQDGIPDVVQLSYLNEPGILYNLGHRYNLDHIYTWAGPVLIALNPCKPLPLYTPEIAAEY-----------------------KR----------------KTETTKKAMQYFATLAG-GTGVEDQVLETNPVLEAFGNAKTLRNHNSSRFGKLIQIHFNGSHHICGATIKTYLLEKSRVVLQLKGERSFHIFYQLVRGVTDEERRAFMLPPKPQDFHFLAQSGCYDIAGVDDAEEFRVVRRALEDIGVDKETQAMLFKLLSGLLWLGNIEFEESG--TGDSTKVRQTPALGNAATLLGWSQEALITALTTRRIVAPGEVVIKLLKVGDALEARNSLAKAIYAAIFNWVVARINARL----SSGKSTSGLYIAILDIYGFEQFDRNSFEQLCINYANERLQQQFTHHLFKLEQTEYESEGVDWTKVEFIDNQDCVDIFELMPPKGLGMLAVLDSQCKFPRATDATLHMQLLEALSSRSHFGTNPRVPGS-----FIIRHYAGAVQYDTTGLLDKNKDTLSAGMTIAAGWILGVNLVQLMSGSSKPLMAELGASIQEEAERSTKKGQTVITRFGQQLRELVFELDTTGLHFVRCIKPNAKLLPNTMDSVATLHQLRRKASVTNSLKIAREVACAHQETRSPLRASVPRNPMEMLSVARVSAAGFPTRYRLEEFASRYSQLLPPEEQRLLQQQQGSAGSRQVCLTLLERFGLRVGQYQLGHTKVFFRPGVLGLVE-DRWARMQAAVLTLQSWWRMYMCRVSYLKTLQAATVMQALWRTR-------VAALAYKELAAQHAA-------------AVVFQSAWRMHSARSHFLRVKRAVITIQTKGYRAWKFGRWLSRAMQADRAE----LAAEEVRV</Hsp_hseq>
+      <Hsp_midline>+ P +P    G+ D+++L  LNE GIL NL  RY    IYT+ G +L+A+NP + L +Y+PE   +Y                       KR                KTE+TK  +Q+ A ++G  + +E QVLE  P+LEAFGNAKT+RN NSSRFGK I IHFN    I GA I+ YLLEKSRV  Q   ER++H+FY ++ G+++++++   L  +  D+++LA   C    G  D++E+  +R A++ +         + KLL+ +L LGN+++E       D+ +V  +P+L  AA+LL  +   L++ LT+R ++  GE V   L    AL+ R++  K IY  +F W+V +INA +    S     S   I +LDI+GFE F  NSFEQLCIN+ANE LQQ F  H+FKLEQ EY+ E +DW  +EF DNQD +D   ++  K + +++++D + KFP+ TD T    +L  L+S+     N   P +     F I H+AG V Y+T G L+KN+DTL              +++QL+  S    + ++  +       + K+  T+ ++F + L  L+  L      FVRCIKPN    P   D    + QLR                                    M+   R+  AG+P RY   EF  RY  LLP      ++        R  C  + E        +Q+G TK+F +     L+E +R   +   V+ LQ   R +  R ++LK   AAT++Q  WR         +  L +  L A H +              + FQ+  R +  R  F     AV+T+Q     A+  G    R  Q  RAE    L AE++R+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|302829098|ref|XP_002946116.1|</Hit_id>
+  <Hit_def>Kar3 member kinesin-like protein [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002946116</Hit_accession>
+  <Hit_len>1227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>116.701</Hsp_bit-score>
+      <Hsp_score>291</Hsp_score>
+      <Hsp_evalue>1.86842e-27</Hsp_evalue>
+      <Hsp_query-from>1742</Hsp_query-from>
+      <Hsp_query-to>2175</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>525</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>466</Hsp_align-len>
+      <Hsp_qseq>DRLWSHTREPLKQALLKKLLGSEELSQEACLAFIAVLKYMGDYPSK--RTRSVNELTDQIFEGPLKAEPLKDEAYVQILKQLTDNHIRYSEERGWELLWLCTGLFPPSNILLPHVQRFLQSRKHCP--------LAIDCLQRLQKALRNGSRKYPPHLVEVEAIQHKTTQIFHKVYFPDDTDEAFEVESSTKAKDFCQNIATRLLLKSSEGFSLFV---------------KIADKVISVPENDFFFDFVRHLTDWIKKARPIKDGIVPSLTYQVFFMKKLWTTTVPGKDPMADSIFHYYQELPKYLRGYHKCTREEVLQLGALIYRVKFEEDKSYFPSIPKLL---RELVPQDLIRQVSPDDWKRSIVAYFNKHAGKSKEEAKLAFLKLIFKWPTFGSAFFEVKQTTEPN--FPEILLIAINKYGVSLIDPKTKDILTTHPFTKISNWSSGNT--YFHITIGNLV</Hsp_qseq>
+      <Hsp_hseq>DDLLMFSNESIPTSLLK--LSNDHISR-AVKMFSGILKYMGETGEQLPNIQSL-EIAQKLLHQGLKRPELKDELYMQLIKQTRGNPNIQSRVKAWELFHLVASTMPPSKEFVTMVSEYIHAVAHEEQEDSFVRQLATRTWNSLKRSAKAGPRRTLPQIEEIEALLN-SRQLTTIVFFLDETFEELTYDVTTTVLEAVEQLANLIKLQNYNTFTLFECRKAVGAKQVGGIRGPIADEHILLDDNKYVADVLCEF----RNSKLTREGFQSKL----LFKKRMFRETDETITEPQFVNLSYVQAQHDYLQGNYPVVREDASQMCAL--QIQAEHASTLNDNEEQILLCIEKYITKQVLMTRPREEWRADVTARYRALEQFSKEDARLQFLRILRSLPYGNSIFFAVKRIEDPIGLLPAKLILGINKRGVHFFRPVPKEYLHSAELRDIMQFGSSSTAVFFKMRVAGVL</Hsp_hseq>
+      <Hsp_midline>D L   + E +  +LLK  L ++ +S+ A   F  +LKYMG+   +    +S+ E+  ++    LK   LKDE Y+Q++KQ   N    S  + WEL  L     PPS   +  V  ++ +  H          LA      L+++ + G R+  P + E+EA+ + + Q+   V+F D+T E    + +T   +  + +A  + L++   F+LF                 IAD+ I + +N +  D +       + ++  ++G    L     F K+++  T             Y Q    YL+G +   RE+  Q+ AL  +++ E   +   +  ++L    + + + ++     ++W+  + A +      SKE+A+L FL+++   P   S FF VK+  +P    P  L++ INK GV    P  K+ L +     I  + S +T  +F + +  ++</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>2.30863e-15</Hsp_evalue>
+      <Hsp_query-from>1150</Hsp_query-from>
+      <Hsp_query-to>1500</Hsp_query-to>
+      <Hsp_hit-from>123</Hsp_hit-from>
+      <Hsp_hit-to>488</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>158</Hsp_positive>
+      <Hsp_gaps>49</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>NLEKLHFIIGNGILRPALRDEIYCQISKQLTHNPSKSSYARGWILVSLCVGCFAPSEKFVKYLRNFIHGGP---------PGYAPYCEERLRRTFVNGTRTQPPSWLELQATKSKKPIMLPVTFMDGTTKTLLTDSATTAKELCNALADKISLKDRFGFSLYIALFDKVSSLGS----------GSDHVMDAISQCEQYAKEQGAQERNAPW-------RLFFRKEVFTPWHSPSEDNVATNLIYQQVVRGVKFGEYRCEKEDDLAELASQQYFVDYGSEM--ILERLLNLVPTYIPDREITPLKTLEKWAQLAIAAHKKGIYAQRRTDAQKVKEDV-VSYARF--KWPLLFSRFYEAYKFSGP-SLPKNDVIVAVNWTGVYF</Hsp_qseq>
+      <Hsp_hseq>SLEIAQKLLHQGLKRPELKDELYMQLIKQTRGNPNIQSRVKAWELFHLVASTMPPSKEFVTMVSEYIHAVAHEEQEDSFVRQLATRTWNSLKRSAKAGPRRTLPQIEEIEALLNSRQLTTIVFFLDETFEELTYDVTTTVLEAVEQLANLIKLQNYNTFTL----FECRKAVGAKQVGGIRGPIADEHIL---LDDNKYVADVLCEFRNSKLTREGFQSKLLFKKRMFRETDETITEPQFVNLSYVQAQHDYLQGNYPVVRE-DASQMCALQIQAEHASTLNDNEEQILLCIEKYIT-KQVLMTRPREEW--------RADVTARYRALEQFSKEDARLQFLRILRSLPYGNSIFFAVKRIEDPIGLLPAKLILGINKRGVHF</Hsp_hseq>
+      <Hsp_midline>+LE    ++  G+ RP L+DE+Y Q+ KQ   NP+  S  + W L  L      PS++FV  +  +IH               A      L+R+   G R   P   E++A  + + +   V F+D T + L  D  TT  E    LA+ I L++   F+L    F+   ++G+            +H++       +Y  +   + RN+         +L F+K +F        +    NL Y Q       G Y   +E D +++ + Q   ++ S +    E++L  +  YI  +++   +  E+W        +  + A+ R   Q  KED  + + R     P   S F+   +   P  L    +I+ +N  GV+F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|302854184|ref|XP_002958602.1|</Hit_id>
+  <Hit_def>microtubule-associated protein Asp [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002958602</Hit_accession>
+  <Hit_len>2008</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.5286</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>3.27698e-08</Hsp_evalue>
+      <Hsp_query-from>692</Hsp_query-from>
+      <Hsp_query-to>869</Hsp_query-to>
+      <Hsp_hit-from>901</Hsp_hit-from>
+      <Hsp_hit-to>1048</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>44</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>VKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERD-KAITDRVILLQKVIRGF-----KDRSNFLKLK-NAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIARRLHQRLRAEYLWRLEA</Hsp_qseq>
+      <Hsp_hseq>LQAAWRGHMVRSRLQRERHAVIAIQTAWR-GYT-------------VRRDTQRLLNATLIIQRHVRNFFAHSWRSHKWLIALQQNAARKIQAAWRGYVARRCFQLLRASALVAQTSWRTRKACERYHLLRQAILTIQA---------AWRMR-------QAYVRGHLARR-------EALTRLES</Hsp_hseq>
+      <Hsp_midline>++ A++   +R   QR   AV+     W+ G T             V RD + + +  +++Q+ +R F     +     + L+ NAA  IQ  WRG+  R+ + L+R   L  Q   R+RK  ++Y L RQ I+  QA         A+R R       QAY RG +ARR       E L RLE+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_170338</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_170339</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_170340</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_170341</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|302841920|ref|XP_002952504.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_62523 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002952504</Hit_accession>
+  <Hit_len>171</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.5438</Hsp_bit-score>
+      <Hsp_score>153</Hsp_score>
+      <Hsp_evalue>1.22649e-13</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>146</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>148</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCD-IWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKLVGKLKDKAFREAERR</Hsp_qseq>
+      <Hsp_hseq>AAQDGDVAKLRRILQRNPAAISGGSYTPLHYAARGGHLEAVELLLRSGADPNAATRGMRATPLHRAAGQGHLKVVERLLTAGADPEAVDCDLETPLHKAAAQGHGGVCRVLLSRGPRSA--------EVEDKGGRTAVQR</Hsp_hseq>
+      <Hsp_midline>AA+DG +  L+   ++   A      TP  +AA  G+LE++ L++  G DP+        TPLH AA  GHL  +  L++ GA+   +D D  TPL  AA +GH    R L S   + +        +++DK  R A +R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|302844091|ref|XP_002953586.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_106022 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002953586</Hit_accession>
+  <Hit_len>452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.4622</Hsp_bit-score>
+      <Hsp_score>145</Hsp_score>
+      <Hsp_evalue>1.52817e-11</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>86</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>AAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AARAGNLQALHELLAQQVDVDQRDNLHRTPLHLAAWAGHTEVLKVLLAHGCKIGAAAVDDMNALHFAAQKGHSECVRHL</Hsp_hseq>
+      <Hsp_midline>AA  GNL++L  ++++  D D+ D    TPLHLAA  GH   L  L++ G  I     D    L  AA KGH ECVR+L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>53.5286</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>2.3259e-09</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>119</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRKELNAPDEDGM--TPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>HDAARAGNLQALHELLAQQVDVDQRDNLHRTPLHLAAWAGHTEVLKVLLAHGCKIGAAAVDDMNALHFAAQKGHSECVRHLLNAGLYMDSRNRKGFTPLHFAAQGGHKAVVELL</Hsp_hseq>
+      <Hsp_midline>H AAR G L+ L E   ++++    D +  TP   AA+ G+ E L+++++ G       +     LH AA  GH  C+  L++ G  +   +    TPL  AA  GH   V  L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>42.743</Hsp_bit-score>
+      <Hsp_score>99</Hsp_score>
+      <Hsp_evalue>6.14937e-06</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>39</Hsp_hit-from>
+      <Hsp_hit-to>140</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>HLAAWAGHTEVLKVLLAHGCKIGAAAVDDMNALHFAAQKGHSECVRHLLNAGLYMDSRNRKGFTPLHFAAQGGHKAVVELLLRRQANPTATSKRNETPLQLA</Hsp_hseq>
+      <Hsp_midline>H AA  G+ E+LK   A   ++ A   D M    +AA  G+ E +R +++ G   D  +  G TPLH AA  GH   +  L+   AN         TPL +A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|302836016|ref|XP_002949569.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_89949 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002949569</Hit_accession>
+  <Hit_len>927</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>2.81758e-10</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>122</Hsp_query-to>
+      <Hsp_hit-from>759</Hsp_hit-from>
+      <Hsp_hit-to>857</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>APDEDGMTPTLWAAYHGNLESLRLIV--SRGG-DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAA</Hsp_qseq>
+      <Hsp_hseq>AADREGRTPLWVASQRGHAELVQLLVGSTEGGMQVDVANASGVTPLRVAAAQGHVPVVAALLGAGASVELADKDGFTPLYVAAARSQLEVVRLLLAAAA</Hsp_hseq>
+      <Hsp_midline>A D +G TP   A+  G+ E ++L+V  + GG   D  +  G TPL +AA+ GH+  ++ L+  GA++   D D  TPL +AA +  +E VR L + AA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|302851136|ref|XP_002957093.1|</Hit_id>
+  <Hit_def>ankyrin-repeat protein [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002957093</Hit_accession>
+  <Hit_len>253</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>1.40726e-09</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>129</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>HRAARDGY---LELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>HRAAEGGHRGAFELLLMVRGIDVNARDAEGFTPLHAAATRGSAAITARLLRAGADPNIASAEGLLPLHAAAAGGHLDVVELLLDAGSLVSYKSSGGATPLHQAASNGHAVVCEVL</Hsp_hseq>
+      <Hsp_midline>HRAA  G+    ELL      ++NA D +G TP   AA  G+      ++  G DP+     G  PLH AA+ GHL  +  L+  G+ +    +   TPL  AA  GH      L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>1.62251e-08</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>83</Hsp_align-len>
+      <Hsp_qseq>EDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHME</Hsp_qseq>
+      <Hsp_hseq>EEGHTALHHAAALGHWRVVEELWPRGASIDAADSCGRTPLHFAAMAGHVETAGRLIIAGAGVHRLDCGGYTPAHHAAMRGHAE</Hsp_hseq>
+      <Hsp_midline>E+G T    AA  G+   +  +  RG   D  D  G TPLH AA  GH+     L+  GA +  LD   +TP   AAM+GH E</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>42.3578</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>4.59742e-06</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>110</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>118</Hsp_align-len>
+      <Hsp_qseq>NDQYHRAARDGYLELLKEATRK--ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>HTALHHAAALGHWRVVEELWPRGASIDAADSCGRTPLHFAAMAGHVETAGRLIIAGAGVHRLDCGGYTPAHHAAMRGH-----------AEVGGSGSGGHTALHLAATGGHCAAIAVL</Hsp_hseq>
+      <Hsp_midline>+   H AA  G+  +++E   +   ++A D  G TP  +AA  G++E+   ++  G    + D  G TP H AA  GH           A +    +  HT L +AA  GH   +  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|302841731|ref|XP_002952410.1|</Hit_id>
+  <Hit_def>ankyrin-repeat protein [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002952410</Hit_accession>
+  <Hit_len>300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.5286</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>1.56237e-09</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>128</Hsp_query-to>
+      <Hsp_hit-from>103</Hsp_hit-from>
+      <Hsp_hit-to>216</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>LELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLN</Hsp_qseq>
+      <Hsp_hseq>VEVLLKA-RADPKPVDVEGDLPIHWAATKGHSQVIELLARKGSPIDAPNKKGWTPLHRAAYNGRKEATATLIKLGAKTNGTTSDGNTPLHLACFMNQLSTIEKLCEAGASQRLLN</Hsp_hseq>
+      <Hsp_midline>+E+L +A R +    D +G  P  WAA  G+ + + L+  +G   D  +  G TPLH AA NG     + L+  GA      +D +TPL +A     +  +  L    A Q  LN</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>50.8322</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>1.14307e-08</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>59</Hsp_hit-from>
+      <Hsp_hit-to>180</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRK--ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQS</Hsp_qseq>
+      <Hsp_hseq>HVACENGELEVVEFLVKKRVDVDAGDNFKVTALHLASIENHADIVEVLLKARADPKPVDVEGDLPIHWAATKGHSQVIELLARKGSPIDAPNKKGWTPLHRAAYNGRKEATATLIKLGAKTN</Hsp_hseq>
+      <Hsp_midline>H A  +G LE+++   +K  +++A D   +T    A+   + + + +++    DP   D+ G+ P+H AA+ GH   +  L   G+ I   +    TPL  AA  G  E    L  + AK +</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>4.08986e-08</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>125</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRK--ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDM</Hsp_qseq>
+      <Hsp_hseq>HWAATKGHSQVIELLARKGSPIDAPNKKGWTPLHRAAYNGRKEATATLIKLGAKTNGTTSDGNTPLHLACFMNQLSTIEKLCEAGASQRLLNKSGQRPIEL</Hsp_hseq>
+      <Hsp_midline>H AA  G+ ++++   RK   ++AP++ G TP   AAY+G  E+   ++  G   +     GNTPLHLA     L  +  L   GA+   L+     P+++</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>46.595</Hsp_bit-score>
+      <Hsp_score>109</Hsp_score>
+      <Hsp_evalue>2.98283e-07</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>DQYHRAARDGYLELLKEATRK--ELNAPD-------ED--GMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>NTVHYAAETGDIKLLEHFVREGMAIGNPESVTLQSREDVLGMMPLHVACENGELEVVEFLVKKRVDVDAGDNFKVTALHLASIENHADIVEVLLKARADPKPVDVEGDLPIHWAATKGHSQVIELL</Hsp_hseq>
+      <Hsp_midline>+  H AA  G ++LL+   R+   +  P+       ED  GM P   A  +G LE +  +V +  D D  D +  T LHLA+   H   +  L+   A+   +D +   P+  AA KGH + +  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|302843866|ref|XP_002953474.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_63721 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002953474</Hit_accession>
+  <Hit_len>113</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>7.84976e-09</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>74</Hsp_align-len>
+      <Hsp_qseq>AAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHME</Hsp_qseq>
+      <Hsp_hseq>GARYGDLEDVDSALAQGVQPDSKDAMGRTALHMACANGHCEVIGRLLHAGALTDIQNNEGNTPLHWACLNGHKE</Hsp_hseq>
+      <Hsp_midline> A +G+LE +   +++G  PD  D  G T LH+A +NGH   +  L+  GA     +N+ +TPL  A + GH E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|302830596|ref|XP_002946864.1|</Hit_id>
+  <Hit_def>ankyrin-repeat protein [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002946864</Hit_accession>
+  <Hit_len>742</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>5.41728e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>110</Hsp_query-to>
+      <Hsp_hit-from>265</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>NDQYHRAARDGYLEL---LKEATRKE---LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGH</Hsp_qseq>
+      <Hsp_hseq>NSVLHVAASRGLLPIMVKLLELARQQHVDIDEPNIDGHTALYLACRGGHRAVVQVLLGAGALPNVASREASTPLHACAAGGHADIVRLLLDRGANLNAADSHANTPLLRAAELGH</Hsp_hseq>
+      <Hsp_midline>N   H AA  G L +   L E  R++   ++ P+ DG T    A   G+   +++++  G  P+      +TPLH  A+ GH   +  L+  GAN+   D+  +TPL  AA  GH</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>45.0542</Hsp_bit-score>
+      <Hsp_score>105</Hsp_score>
+      <Hsp_evalue>1.26168e-06</Hsp_evalue>
+      <Hsp_query-from>26</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>328</Hsp_hit-from>
+      <Hsp_hit-to>416</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>NAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>NVASREASTPLHACAAGGHADIVRLLLDRGANLNAADSHANTPLLRAAELGHAN---LLLAAGANPNISDNVGETPLIEAATAGALNLVQTL</Hsp_hseq>
+      <Hsp_midline>N    +  TP    A  G+ + +RL++ RG + +  D   NTPL  AA  GH +    L++ GAN    DN   TPL  AA  G +  V+ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|302828084|ref|XP_002945609.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_115565 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002945609</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.0542</Hsp_bit-score>
+      <Hsp_score>105</Hsp_score>
+      <Hsp_evalue>2.48815e-07</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>96</Hsp_query-to>
+      <Hsp_hit-from>78</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDN</Hsp_qseq>
+      <Hsp_hseq>IDGRDETGCTALHFAADRGHVEVTRLLIQAGADLNAQDADGQTPLHYAAITEHREVYDLLVESGADISIKDS</Hsp_hseq>
+      <Hsp_midline>++  DE G T   +AA  G++E  RL++  G D +  D  G TPLH AA   H      LV  GA+I   D+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>41.9726</Hsp_bit-score>
+      <Hsp_score>97</Hsp_score>
+      <Hsp_evalue>3.10506e-06</Hsp_evalue>
+      <Hsp_query-from>40</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>60</Hsp_hit-from>
+      <Hsp_hit-to>137</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>AYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>AGEGDVSAVASMLDAGEAIDGRDETGCTALHFAADRGHVEVTRLLIQAGADLNAQDADGQTPLHYAAITEHREVYDLL</Hsp_hseq>
+      <Hsp_midline>A  G++ ++  ++  G   D  D  G T LH AA  GH+     L+  GA++   D D  TPL  AA+  H E    L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|302851740|ref|XP_002957393.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_36100 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002957393</Hit_accession>
+  <Hit_len>76</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.743</Hsp_bit-score>
+      <Hsp_score>99</Hsp_score>
+      <Hsp_evalue>3.24364e-07</Hsp_evalue>
+      <Hsp_query-from>37</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>69</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>LWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>LHAAAYGDVDVMRLLLDEGADVNAVDAQRETALHLACVGRHVEAARLLTKYGALWSAVNDDNQTPVQLA</Hsp_hseq>
+      <Hsp_midline>L AA +G+++ +RL++  G D +  D    T LHLA    H+     L  +GA    +++D  TP+ +A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|302836161|ref|XP_002949641.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_120788 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002949641</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.8246</Hsp_bit-score>
+      <Hsp_score>107</Hsp_score>
+      <Hsp_evalue>3.87942e-07</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>149</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAM</Hsp_qseq>
+      <Hsp_hseq>AARWGDEEAVEDFIAIGKDINEPDTQGRTALHYAVAYDHAVIAKMLLDEGANVEARDSMNNTPLHYACGYGRAPLARLLLKAGANKGVQNNTGKTPLELAKL</Hsp_hseq>
+      <Hsp_midline>AAR G  E +++  A  K++N PD  G T   +A  + +    ++++  G + +  D   NTPLH A   G       L+  GAN    +N   TPL++A +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|302840886|ref|XP_002951989.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_105313 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002951989</Hit_accession>
+  <Hit_len>561</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.595</Hsp_bit-score>
+      <Hsp_score>109</Hsp_score>
+      <Hsp_evalue>4.73905e-07</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>108</Hsp_query-to>
+      <Hsp_hit-from>105</Hsp_hit-from>
+      <Hsp_hit-to>226</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>DQYHRAAR----DGYLELLKEATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGAN-----------IWCLDNDYHT-PLDMAAMK</Hsp_qseq>
+      <Hsp_hseq>DKWWTAVRKADLDTLVRMLGGARELLANVVDENRRSALHFAAALGNADCTRLLVEAGADVDLQDREGFTPLHMAAGYMHTSSMAVLLEAGANPELRDNTGRDVVTLIDNLKATMPLNMASVQ</Hsp_hseq>
+      <Hsp_midline>D++  A R    D  + +L  A     N  DE+  +   +AA  GN +  RL+V  G D D  D  G TPLH+AA   H   ++ L+  GAN           +  +DN   T PL+MA+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|302847520|ref|XP_002955294.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_106756 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002955294</Hit_accession>
+  <Hit_len>1228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.595</Hsp_bit-score>
+      <Hsp_score>109</Hsp_score>
+      <Hsp_evalue>4.90161e-07</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>119</Hsp_query-to>
+      <Hsp_hit-from>25</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>YHRAARDG---YLELLKEATRKELNAPDEDGMTPTLWAAY----HGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDN-DYHTPLDMAAMKGHMECVRYLDS</Hsp_qseq>
+      <Hsp_hseq>FHLAARYGRIDVLETVVEAVRFNPAGPDK-------WTKLLRMGHSTEALLRAFV------NFQDARGQTPLHLACIYGHHEMAERLLQLGATPWSWDELGGRTPLHYAASMGHVDVIRVIIS</Hsp_hseq>
+      <Hsp_midline>+H AAR G    LE + EA R     PD+       W       H     LR  V      +  D  G TPLHLA   GH      L+  GA  W  D     TPL  AA  GH++ +R + S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|302838532|ref|XP_002950824.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_35590 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002950824</Hit_accession>
+  <Hit_len>115</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.743</Hsp_bit-score>
+      <Hsp_score>99</Hsp_score>
+      <Hsp_evalue>7.44002e-07</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>152</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>108</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>107</Hsp_align-len>
+      <Hsp_qseq>LRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAA--KQSSLNPKLVGKLKDKAFREAERRIRECAK</Hsp_qseq>
+      <Hsp_hseq>VEMLLSAGGNPNRRGKRQETALMLAAQRGHVDVLRVLLGRGAQATAVDQRGWTALHFGAFAGHAASVRAILTATAPSARSSLLELRTGKGETALALAAFGRKEECCR</Hsp_hseq>
+      <Hsp_midline>+ +++S GG+P++      T L LAA  GH+  L  L+  GA    +D    T L   A  GH   VR + +  A   +SSL     GK +      A  R  EC +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|302850991|ref|XP_002957021.1|</Hit_id>
+  <Hit_def>ankyrin-repeat protein [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002957021</Hit_accession>
+  <Hit_len>259</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>44.2838</Hsp_bit-score>
+      <Hsp_score>103</Hsp_score>
+      <Hsp_evalue>1.08089e-06</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>RKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>RCAVNCSSVTRSTPLHLAAERGSAGVVSKLLAAGAVVDARDTAGSTALFLASEAGHTAVVERLLAAGSDPRLGNSAGETPLYIAALRGHLGCVKEL</Hsp_hseq>
+      <Hsp_midline>R  +N       TP   AA  G+   +  +++ G   D  D  G+T L LA+  GH   +  L++ G++    ++   TPL +AA++GH+ CV+ L</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>42.3578</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>4.65653e-06</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>123</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>176</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWC-----------LDNDYHTPLDMAAMKGHMECVRYLDSIAAK</Hsp_qseq>
+      <Hsp_hseq>HLAAERGSAGVVSKLLAAGAVVDARDTAGSTALFLASEAGHTAVVERLLAAGSDPRLGNSAGETPLYIAALRGHLGCVKELL-----LYCKARGIDWQDPEMYGDSWTPLHAAAVANRADVAAYLLQVGAR</Hsp_hseq>
+      <Hsp_midline>H AA  G   ++ +  A    ++A D  G T    A+  G+   +  +++ G DP   +  G TPL++AA  GHL C+  L+     ++C           +  D  TPL  AA+    +   YL  + A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|302845614|ref|XP_002954345.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_106351 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002954345</Hit_accession>
+  <Hit_len>178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.9726</Hsp_bit-score>
+      <Hsp_score>97</Hsp_score>
+      <Hsp_evalue>3.71845e-06</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>86</Hsp_query-to>
+      <Hsp_hit-from>42</Hsp_hit-from>
+      <Hsp_hit-to>120</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>GYLELLKEATRK-ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGH---LHCLSFLVS</Hsp_qseq>
+      <Hsp_hseq>GYIKKIAERTLDFNVNMRDQLQRTALHWAAELGNIEAAELLIDFGIDVKAVECNGRTAVHLAARSGDRGMLECIMELIS</Hsp_hseq>
+      <Hsp_midline>GY++ + E T    +N  D+   T   WAA  GN+E+  L++  G D    +  G T +HLAA +G    L C+  L+S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_170342</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|302839840|ref|XP_002951476.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_75021 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002951476</Hit_accession>
+  <Hit_len>167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.3806</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>7.77161e-13</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>132</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIAK</Hsp_qseq>
+      <Hsp_hseq>MVELGGNPFIPRIFKLFDESGDGTLSLEEFTRALEYFGQLDVEEEQYKFAFRIYDEDKDGLISSEELFNVLQTLLGNAYPDAQLEQVVHNTMSEFDRDGDNKLDLDEFKTLLSR</Hsp_hseq>
+      <Hsp_midline>M EL  NPF  RI   F E G+G L+  +F        +    E +  +AF+IYD + D  I  E+L   L  L  +   + ++  V    + E D DGD KL   +F+ ++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|302847992|ref|XP_002955529.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_65983 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002955529</Hit_accession>
+  <Hit_len>159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.4546</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>3.12127e-12</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>146</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>117</Hsp_align-len>
+      <Hsp_qseq>IQMPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIAKA</Hsp_qseq>
+      <Hsp_hseq>LSIPELSINPVAQRLVR-YCE----CPNFTTFVEMVAPFSPRASREDKLAFMFAVYDVDGDGFISREDMSMMLKQLAGSTLSEEDRQDIIGRVLVLA--GGADRLDYAAFQTALSGA</Hsp_hseq>
+      <Hsp_midline>+ +PEL  NP  +R+V  + E       F  FV+M +     A RE K  + F +YD + D FI +ED+ + L +L  S L EE+   +  +V+  A   G  +L +A F+  ++ A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|302830252|ref|XP_002946692.1|</Hit_id>
+  <Hit_def>calmodulin [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002946692</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>6.38214e-10</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>118</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIAKA</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQDMISEVDADGNGTIDFPEFLMLMARKMKDHDHEDELREAFKVFDKDGNGFISAAELRHVMTNLGEKLSDEE-----VDEMIREADCDGDGQVNYEEFVKMMTSS</Hsp_hseq>
+      <Hsp_midline>M  L +NP +  +    SE   DG G + F +F+ + +   +    E +   AFK++D + + FI   +L   +  L +   DEE      D++I EAD DGDG++ + +F  M+  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|302830604|ref|XP_002946868.1|</Hit_id>
+  <Hit_def>calmodulin-like protein Fap272 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002946868</Hit_accession>
+  <Hit_len>169</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>43.8986</Hsp_bit-score>
+      <Hsp_score>102</Hsp_score>
+      <Hsp_evalue>8.89544e-08</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>57</Hsp_hit-from>
+      <Hsp_hit-to>167</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIA</Hsp_qseq>
+      <Hsp_hseq>MRGLGQTPTEEELSIMMTEVDKDGSGYVDFGEFVGLMSKQPSPADPEEDLRRAFRMFDRDGNGQINAAELKHIMTNIGET-LTEEQV----DDMIQEADIDQDGMINYEEFIRMMA</Hsp_hseq>
+      <Hsp_midline>M  L + P +E +    +E   DG G + F +FV + S     A  E     AF+++D + +  I   +L+  +  + ++ L EE+V    D +I+EAD+D DG + + +F  M+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|302842201|ref|XP_002952644.1|</Hit_id>
+  <Hit_def>centrin [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002952644</Hit_accession>
+  <Hit_len>170</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.4318</Hsp_bit-score>
+      <Hsp_score>93</Hsp_score>
+      <Hsp_evalue>1.61901e-06</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>121</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>113</Hsp_align-len>
+      <Hsp_qseq>LIIQMPELRENPFKERI---VAAFSEDGEGNLTFNDFVDMFSV-LCESAPRE--LKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKL</Hsp_qseq>
+      <Hsp_hseq>LKVAMRALGFEPKKEEIKKMISDIDKDGSGTIDFEEFLQMMTAKMGERDSREEILKA---FRLFDDDGSGTITLKDLRRVAKELGENLTDEE-----LQEMIDEADRDGDGEI</Hsp_hseq>
+      <Hsp_midline>L + M  L   P KE I   ++   +DG G + F +F+ M +  + E   RE  LKA   F+++D +    I  +DL      L ++  DEE       ++I+EAD DGDG++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|302850021|ref|XP_002956539.1|</Hit_id>
+  <Hit_def>centrin [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002956539</Hit_accession>
+  <Hit_len>168</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.6614</Hsp_bit-score>
+      <Hsp_score>91</Hsp_score>
+      <Hsp_evalue>2.27514e-06</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>126</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>158</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>118</Hsp_align-len>
+      <Hsp_qseq>LIIQMPELRENPFKERI---VAAFSEDGEGNLTFNDFVDMFSV-LCESAPRE--LKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADF</Hsp_qseq>
+      <Hsp_hseq>LKVAMRALGFEPKKEEIKKMISDIDKDGSGTIDFEEFLNLMTAKMGERDSREEILKA---FKLFDDDGSGTITFKDLKRVAKELGENLTDEE-----LQEMIDEADRDGDGEVNEEEF</Hsp_hseq>
+      <Hsp_midline>L + M  L   P KE I   ++   +DG G + F +F+++ +  + E   RE  LKA   FK++D +    I  +DL+     L ++  DEE       ++I+EAD DGDG++   +F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_170343</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|302852285|ref|XP_002957663.1|</Hit_id>
+  <Hit_def>hypothetical protein VOLCADRAFT_119739 [Volvox carteri f. nagariensis]</Hit_def>
+  <Hit_accession>XP_002957663</Hit_accession>
+  <Hit_len>891</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.6557</Hsp_bit-score>
+      <Hsp_score>213</Hsp_score>
+      <Hsp_evalue>5.21743e-18</Hsp_evalue>
+      <Hsp_query-from>2387</Hsp_query-from>
+      <Hsp_query-to>2971</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>579</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>111</Hsp_gaps>
+      <Hsp_align-len>621</Hsp_align-len>
+      <Hsp_qseq>MYSGEETNLWVLIDGLVPFTNYTVQVNISNSQG----SLITDPITIAMPPGAPDGVLPPRLSSATPTSLQVVWSTPARNNAPGSP--RYQLQMRSGDSTHGFLELFSNPSASLSYEVSDLQPYTEYMFRLVASNGFGSAHSSWIPFMTAEDKPGPVVPPILLDVKSRM---MLVTWQHPRKSNG-----------VITHYNIYLHGRLYLRT-PGNVTNCTVMHLHPYTAYKFQVEACTSKGCSLSPESQTVWTLPGAPEGIPSPELFSDTPTSVIISWQPPTHPNGLVENFTIERRVKGKEEVTTLVTLPRSHSMRFIDKTSALSPWTKYEYRVLMSTLHGGTNSSAWVEVTTRPSRPAGVQPPVVTVLEPDAVQVTWKPPLIQNGDILSYEIHMPDPHITLTNVTSAVLSQKVTHLIPFTNYSVTIVACSGGNGYLGGCTESLPTYVTTH--PTVPQNVGPLSVIPLSESYVVISWQPPSKPNGPNLRYELLRRKIQQPLASNPPEDLNRWHNIYSGTQWLYEDKGLSRFTTYEYMLFVHNSVGFTPSRE-VTVTTLAGLPERGANLTASVLNHTAIDVRWAKP--------TVQDLQGEV----EYYTLFWSSATSND</Hsp_qseq>
+      <Hsp_hseq>VYRGPERSY--KVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPE---PPVVQAAASNALTLQWTPPPDN---GSPIIGYRLERDDGPGTE-FRHCYVGPN--TWHTVTKLSPGTVYRFRLRADNDEG--QSTWSPTASLLTGAAPPDSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAGWGDWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREHVGAELRN---LQPGCRYIFRLQAVPNFG-------------PPGPAG-----IITDQRLIVGLSFKP--CYRGPDTSCEVRGLEPKSTY------ALRLRAHNDVGPSEWS----ACAAA--------------ITSHAPPTCPVSV---VAQPASCCKILLCWMPPEKDNGAAV------------FSYTGGSNSTSWSQLYLGEACACSADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVTTYKLEGAPAGTDEWTTLYEGSEATGD</Hsp_hseq>
+      <Hsp_midline>+Y G E +    +  L P   YT +V   N  G    SL +   T A  P AP+   PP + +A   +L + W+ P  N   GSP   Y+L+   G  T  F   +  P+    + V+ L P T Y FRL A N  G   S+W P  +      P   P  L V + +     + W  P K  G            I+   +   G  +L+   G    CT+  L P  AY  +V A  S G         + T P  PE   S +  S + ++++ISW PP H  G   + T   R    +  + LV   R H    +     L P  +Y +R+      G             P  PAG     +   +   V +++KP     G   S E+   +P  T        L  +  + +  + +S    AC+                +T+H  PT P +V      P S   +++ W PP K NG  +             +     +   W  +Y G        GL+   TY++ +   N  G  PS   VT TTLA  P             T I VRW +P        T   L+G      E+ TL+  S  + D</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>81.6481</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.76753e-16</Hsp_evalue>
+      <Hsp_query-from>3541</Hsp_query-from>
+      <Hsp_query-to>4000</Hsp_query-to>
+      <Hsp_hit-from>32</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>208</Hsp_positive>
+      <Hsp_gaps>90</Hsp_gaps>
+      <Hsp_align-len>538</Hsp_align-len>
+      <Hsp_qseq>IERFRGTSLSFSDKEGIQPFQEYSYQLKACTVAGCATSSKVVAATTQG-VPESILPPSITALSAVALHLSWSVPEKSNGVIKEYQI-RQVGKG--LIHTDTTDRRQHTVTGLQPYTNYSFTLTACTSAGCTSSEPFLGQTLQAAPEGVWVTPRHIIINSTTVELYWSLPEKPNG-----------LVSQYQLSRNGNL-LFLGGSEEQNFTDKNLEPNSRYTYKLEVKTGGGSSASDDYIVQTPMST-PEEIYPPYNI--TVIGPYSIFVAWIPP----GILIPEIPVEYNVLLNDGSVTPLAFSVGHHQSTLLENLTPFTQYEIRIQACQN----GSCGV--SSRMFV--------KTPE--------------------------------AAPMDLNSP------VLKALGSAC-IEIKWMPPEKPNGIIINYFIYRRPAGIEEESVLFVWSEGALEFMDEGDTLRPFTLYEYRVRACNSKGSVESLWSLTQ-TLEAPPQDFPAPWAQATSAHSVLLNWTKPESPNG-IISHYRV</Hsp_qseq>
+      <Hsp_hseq>VEVYRGPERSYKVTK-LQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPEPPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPDSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAGWG---DWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQS--PLVVYNREHVGAELRNLQPGCRYIFRLQAVPNFGPPGPAGIITDQRLIVGLSFKPCYRGPDTSCEVRGLEPKSTYALRLRAHNDVGPSEWSACAAAITSHAPPTCPVSVVAQPASCCKILLCWMPPEKDNGAAV--FSYTGGSNSTSWSQLYLGEACAC----SADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVTTYKL</Hsp_hseq>
+      <Hsp_midline>+E +RG   S+   + +QP   Y+ +++A    G    S   A TTQ  VP +  PP + A ++ AL L W+ P  +   I  Y++ R  G G    H        HTVT L P T Y F L A    G ++  P       AAP       + +   +T+  L WS PEK  G            +S+  ++  G   L +   E    T  +L P   Y  ++  +   G     D+     ++T P+    P ++  T     +I ++W PP    G       +   VL    S  PL      H    L NL P  +Y  R+QA  N    G  G+    R+ V        + P+                                AA +  ++P      V+    S C I + WMPPEK NG  +  F Y   +     S L++    A       D L P   Y++RVRA N  G   S   +T  TL APP     P   + +A ++ + W +PE   G +++ Y++</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>4.01476e-15</Hsp_evalue>
+      <Hsp_query-from>1054</Hsp_query-from>
+      <Hsp_query-to>1495</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>549</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>121</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>59</Hsp_gaps>
+      <Hsp_align-len>485</Hsp_align-len>
+      <Hsp_qseq>PFQQPPPRGQVQSSSAINLSWSPPDSPNAHWLTYSLLRDGFEIYTTEDQYPYSIQYFLDTDLLPYTKYSYYIETTNVHG-STRSVAVTYKTKPGVPEGNLTLSYIIPIGSDSVTLTWTTLSNQSGP------IEKYILSCAPLA--GGQPCVSYEGHETSATIWNLVPFAKYDFSVQACTSGGCLH-SLPITVTTAQAPPQRLSPPKMQKISSTE--LHVEWSPPAELNG--------------------IIIRYELYMRRLRSTKETTSEESRVFQSSGWLSPHSFVESANEN-----ALKP----PQTMTTITGLEPYTKYEFRVLAVNMAG-SVSSAWVSERTGESAPVFMIPPSVFPLSSYSLNISWEKPADNVTRGKVVGYDINMLSEQSPQQSIPMAFSQLLHTAKSQELSYTVEGLKPYRIYEFTITLCNSVGC-VTSASGAGQTLAAAPAQLRPPLVKGINSTTIHLRWFPPEELNG</Hsp_qseq>
+      <Hsp_hseq>PAAPEPPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPDSPAALQVVTPL-TTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAGWGDWATPVNLTTAPDVPE--APLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREHVGAELRNLQPGCRYIFRLQAVPNFGPPGPAGIITDQRLIVGLSFKPCYRGPDTSCEVRGLEPKSTYALRLRAHNDVGPSEWSACAAAITSHAPPTCPVSVVAQPASCCKILLCWMPPEKD-NGAAVFSYTGGSNS---------TSWSQLYL---GEACACSADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYG</Hsp_hseq>
+      <Hsp_midline>P    PP  Q  +S+A+ L W+PP    +  + Y L RD          Y     +   T L P T Y + +   N  G ST S   +  T    P+    L  + P+ + S TL W+      G       +E   +S A +A  G      +EG   + TI +L P   Y   V+A  S G    + P+ +TTA   P+  +P  +Q  S +E  + + W+PP    G                    ++   E     LR+ +       R+     +  P       ++      + KP    P T   + GLEP + Y  R+ A N  G S  SA  +  T  + P   +     P S   + + W  P  +     V  Y     S          ++SQL      +  + + +GL P R Y+F +   N  GC  +SA     TLAA P+    P+V    +T I +RW  PE   G</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>73.559</Hsp_bit-score>
+      <Hsp_score>179</Hsp_score>
+      <Hsp_evalue>5.48155e-14</Hsp_evalue>
+      <Hsp_query-from>4022</Hsp_query-from>
+      <Hsp_query-to>4564</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>553</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>142</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>73</Hsp_gaps>
+      <Hsp_align-len>567</Hsp_align-len>
+      <Hsp_qseq>KGTSHQAHLYGLEPFTTYRIGVVAANHAGE----ILSPWTLIQTLESSPSGLRNFIVEQKENGRALLLQWSEPMRTNGVIKTYNIFSDG-----FLE-YSGLNRQFLFRRLDPFTLYTLTLEACTRAGCAHSAPQP-LWTDEAPPDSQLAPTVHSVKSTSVELSWSEPVNPNG-KIIRYEVIRRCFEGKAWGNQTIQADEKIVFTEYNTERNTFMYNDTGLQPWTQCEYKIYTWNSAGHTCSSWNVVRTLQAPPEGLSPPV-ISYVSMNPQKLLISWIPPEQSNGIIQSYRLQRNEMLYPFSFDPVTFNYTD-----EELLPFSTYSYALQACTSGGCSTSKPTSITTLEAAPSEVSPPDLWAVSATQMNVCWSPPTVQNGKITKYLVRYDNKESLAGQGLCLLVSHLQPYSQYNFSLVACTNGGCTA-SVSKSAWTMEALPENMDSPTLQVTGSESIEITWKPPRNPNG-QIRSYELRRDGTI---VYTGLETRYRDFTLTPGVEYSYTVTASNSQG-GILSPLVKDRTSPSAPSGMEPPKLQARGPQEILVNWDPPVRTNGDIIN</Hsp_qseq>
+      <Hsp_hseq>RGPERSYKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAP----EPPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPDSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEV-----ELQAISRAAVACMGTAWLKIFEGEALACTINS--LCPGCAYFVRVRARNSAGW--GDWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREHVGAELRNLQPGCRYIFRLQAVPNFG--------------------PPGPAGIITDQ----------------RLIVGLSFKPCYRGPDTSCEVRGLEPKSTYALRLRAHNDVGPSEWSACAAAITSHAPPTCPVSVVAQPASCCKILLCWMPPEKDNGAAVFSYTGGSNSTSWSQLYLGEACACSADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVT</Hsp_hseq>
+      <Hsp_midline>+G      +  L+P   Y   V A N  GE    + S +T   T+ ++P       V Q     AL LQW+ P      I  Y +  D      F   Y G N      +L P T+Y   L A    G +  +P   L T  APPDS  A  V +  +TS  L+WS P    G K++ YEV     E +A     +          +  E      N   L P      ++   NSAG     W     L   P+    P+ +   S +   ++ISW PP    G   S       +L       V +N          L P   Y + LQA  + G                    PP    +   Q                + +V    K    G      V  L+P S Y   L A  + G +  S   +A T  A P    S   Q      I + W PP   NG  + SY    + T    +Y G         L P   Y + V ASN  G G  S +V   T  + PS    P + +R    I V WD P  + G ++ </Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>5</Hsp_num>
+      <Hsp_bit-score>70.8626</Hsp_bit-score>
+      <Hsp_score>172</Hsp_score>
+      <Hsp_evalue>3.58298e-13</Hsp_evalue>
+      <Hsp_query-from>2019</Hsp_query-from>
+      <Hsp_query-to>2716</Hsp_query-to>
+      <Hsp_hit-from>44</Hsp_hit-from>
+      <Hsp_hit-to>713</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>173</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>146</Hsp_gaps>
+      <Hsp_align-len>757</Hsp_align-len>
+      <Hsp_qseq>LTGLLPFKNYAVTLTACTLAGCTESSHALNISTPQEAPQEVQPPVAKSLPS-SLLLSWNPPKKANGIITQYCLYMDG------RLIYSGSEENYIVTDLAVFTPHQFLLSACTHVGCTNSSW---VLLYTAQLPPEHVDSP----VLTVLDSRTIHIQWKQPRKISGI------LERYVLYMSNHTHDFTIWSVIYNSTELFQDHMLQYVLPGNKYLIKLGACTGGGCTVSEASEALTDE-DIPEGVPAPKAHSYSPDSFNVSWTEPEYPNGVITSYGLYLDGIL--------IHNSSELSYRAYGFAPWSLHSFRVQACTAKGCALGPLVENRTLEAPPEGTVNVFVKTQGSRKAHVRWEAPFRPNGLLTHSVLFTGIFYVDPVGNNYTLLNVTKVMYSGEETNLWVLIDGLVPFTNYTVQVNISNSQG----SLITDPITIAMPPGAPDGVLPPRLSSATPTS---LQVVWSTPARNNAPGSPRYQLQMRSGDSTHGFLELFSNPSASLSYEVSDLQPYTEYMFRLVASNGFGSAHSSWIPFMTAEDKPGPVVP--PILLDVKSRMMLVTWQHPRKSNG-VITHYNIYLHGR---------LY--LRTPGNVTNC---TVMHLHPYTAYKFQVEACTSKGCSLSPESQTVWTLPGAPEGIPSPELFSDTPTSVIISWQ--PPTHPNGLVENFTIERRVKGKEEVTTL----VTLPRSHSMRFIDKTSALSPWTKYEYRVLMSTLHGGTNSSAWVE</Hsp_qseq>
+      <Hsp_hseq>VTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPEPPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEG--QSTWSPTASLLTGAAPP---DSPAALQVVTPLTT-SATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALA--CTINSLCPGCAYFVRVRARNSAGWGDWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREHVGAELRNLQPGCRYIFRLQAVPNFG--------------------------------------PPGPAGIITDQRLIVGLSF--------------KPCYRGPDTSC--EVRGLEPKSTYALRLRAHNDVGPSEWSACAAAITSHAPPTCPVSVV------AQPASCCKILLCWMPPEKDNGAAVFSYT----GGSNSTSWSQLYLGEACACSAD--GLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAP-PSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVTTYK--LEGAPAGTDEWTTLYEGSEATGDYSECEAITTAMMAPMPPTNVLVSSDSTEDAAASGPAETAF---------PSDGARAETIPIVTVTWQDPPAVSPHAAAMGYEVEARPKPGSDVAGASGGGVVKVTVASRRCDTRLEGLVPGCTYAVRVRSVGVE-GTGHSSWSE</Hsp_hseq>
+      <Hsp_midline>+T L P   Y   + A    G    S     +T    P   +PPV ++  S +L L W PP      I  Y L  D       R  Y G    + VT L+  T ++F L A    G   S+W     L T   PP   DSP    V+T L + +  + W  P K  G       +E   +  +      T W  I+    L     +  + PG  Y +++ A    G         LT   D+PE   + +  S S  +  +SW  P +  G   S       +L        ++N   +        P   + FR+QA    G                                      P  P G++T   L  G+ +              K  Y G +T+    + GL P + Y +++   N  G    S     IT   PP  P  V+      A P S   + + W  P ++N      Y      G ++  + +L+   + + S +   L P   Y FR+ ASN  G   SS +   T    P P  P  P++L   +  + V W  P  S G V+T Y   L G          LY      G+ + C   T   + P       V + +++  + S  ++T +         PS    ++T   V ++WQ  P   P+     + +E R K   +V       V      S R   +   L P   Y  RV    +  GT  S+W E</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>6</Hsp_num>
+      <Hsp_bit-score>70.8626</Hsp_bit-score>
+      <Hsp_score>172</Hsp_score>
+      <Hsp_evalue>3.80146e-13</Hsp_evalue>
+      <Hsp_query-from>3824</Hsp_query-from>
+      <Hsp_query-to>4386</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>551</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>82</Hsp_gaps>
+      <Hsp_align-len>580</Hsp_align-len>
+      <Hsp_qseq>GHHQSTLLENLTPFTQYEIRIQACQNGSCGVSSRMFVKTPEA-APMDLNSPVLKALGSACIEIKWMPPEKPNGIIINYFIYRRPAGIEEESVLFVWSEGALEFMDEGDTLRPFTLYEYRVRACNSKGSVESLWSLTQTL--EAPPQDFPAPWAQATS-AHSVLLNWTKPESPNG-IISHYRVVYQERPDDPTFNSPTVHAFTVKGTSHQAHLYGLEPFTTYRIGVVAANHAGEILSPWTLIQTLESSPSGLRNFIVEQKE--NGRALLLQWSEPMRTNGVIKTYNIFSDGFL--EYSGL---NRQFL---FRRLDPFTLYTLTLEACTRAGCAHSAPQPLWTDEAPPDSQLAPTVHSVKSTSVELSWSEPVNPNGKIIRYEVIRRCFEGKAWGNQTIQADEKIVFTEYNTERNTFMYNDTGLQPWTQCEYKIYTWNSAGHTCSSWNVVRTLQAPPEGLSPPVISYVSMNPQKLLISWIPPEQSNG-IIQSYRLQRNEMLYPFSFDPVTFNYTDEELLPFSTYSYALQACTSGGCS-TSKPTSITTLEAAPSEVSPPDLWAVSATQMNVCWSPPTVQNGKI</Hsp_qseq>
+      <Hsp_hseq>GPERSYKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPEPPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYV----GPNTWHTVTKLSPGTVYRFRLRADNDEG--QSTWSPTASLLTGAAPPDSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAG--WGDWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREHVGAELRNLQPGCRYIFRLQAVPNFG--PPGPAGIITDQ-------------------------------RLIVGLSFKPCYRGPDTSCEVRGLEPKSTYA-----LRLRAHNDVGPSEWSACAAAI-----------------TSHAPP--TCPVSVVAQPASCCKILLCWMPPEKDNGAAVFSYTGGSNSTSWSQLYLGEACACSADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAV</Hsp_hseq>
+      <Hsp_midline>G  +S  +  L P  +Y  R+QA      G  S     T +A  P     PV++A  S  + ++W PP      II Y + R      E    +V              L P T+Y +R+RA N +G  +S WS T +L   A P D PA     T    S  L W+ PE   G  +  Y V  Q           T      +G +    +  L P   Y + V A N AG     W     L ++P      +  Q    +   +++ W+ P    G   +        L    S L   NR+ +    R L P   Y   L+A    G     P  + TD+                               ++I     + C+ G     +    + K  +           +ND G   W+ C   I                 T  APP    P  +     +  K+L+ W+PPE+ NG  + SY    N   +   +       + + L P  TY + ++A    GC  +S   + TTL A PS    P + + +AT + V W  P    G +</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>7</Hsp_num>
+      <Hsp_bit-score>63.1586</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>8.78955e-11</Hsp_evalue>
+      <Hsp_query-from>4225</Hsp_query-from>
+      <Hsp_query-to>4922</Hsp_query-to>
+      <Hsp_hit-from>42</Hsp_hit-from>
+      <Hsp_hit-to>711</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>144</Hsp_gaps>
+      <Hsp_align-len>756</Hsp_align-len>
+      <Hsp_qseq>YNDTGLQPWTQCEYKIYTWNSAGH----TCSSWNVVRTLQAPPEGLSPPVISYVSMNPQKLLISWIPPEQSNGIIQSYRLQRN-----EMLYPFSFDPVTFNYTDEELLPFSTYSYALQACTSGGCSTSKPTSITTLEAAPSEVSPPDLWAVS--ATQMNVCWSPPTVQNG-KITKYLVRYDNKESLA-------------GQGLCLLVSHLQPYSQYNFSLVACTNGGCTASVSKSAWTMEALPENM----DSP----TLQVTG-SES-IEITWKPPR-------NPNGQIRSYELRRDGTIV-----YTGLETRYRDFTLTPGVEYSYTVTASNSQGGILSPLVKDRTSPSAPSGMEPPKLQARGPQEILVNWDPPVRTNGDIINYTLFIRELFERETKIIHINTTHNSFGMQSYIVNQLKPFHRYEIRIQACTTLGCASSDWTFIQTPEIAPLMQPPPHLEVQMAPGGFQPT----VSLLWTGPLQPNGKVLYYELYRRQIATQPRKSNPVLIYNGSSTSFIDSELLPFTEYEYQVWAVNSAGKAPSSWTWCRTG-PAPPEGLRAPTFHVISSTQAVVNISAPGKPNG-IVSLYRLFSSSAHGAE-TVLSEGMATQQTLHGLQAFTNYSIGVEACTCFNCCSKGPTAELRTHPA----PPSGLSSPQIGTLASRTASFRWSPPMFPNGVIHSYELQFHVACPPDSALPCTPSQIETKYTGLGQKASLGGLQPYTTYKLRVVAHNEVGSTASEW</Hsp_qseq>
+      <Hsp_hseq>YKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPE---PPVVQAAASN--ALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCY-VGPNTW-HTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPD-SPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAG---------WGDWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREHVGAELR----NLQPGCRYIF-------------------------------RLQA------VPNFGPP-GPAGIITDQRLIVGLSFKPCYR--GPDTSCEVRGLE--------PKSTYALRLRAHNDVG--PSEWSACAA---AITSHAPPTCPVSVV---AQPASCCKILLCWMPPEKDNGAAVFSYTGGSNSTSWSQ------LYLGEACACSADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVTTYKLEGAPAGTDEWTTLYEGSEATGDYSECEAITTAMMAPMPPTNVLVSSDSTEDAAASGPAETAFPSDGARAETIPIV---TVTWQDPPAVSPHAAAMGYEVEARPKPGSDVAGASGGGVVKVTVASRRCDTRLEGLVPGCTYAVRVRSVGVEGTGHSSW</Hsp_hseq>
+      <Hsp_midline>Y  T LQP  +   ++   N  G      CS++    T+ A PE   PPV+   + N   L + W PP  +   I  YRL+R+     E  + +   P T+ +T  +L P + Y + L+A    G ST  PT+     AAP + SP  L  V+   T   + WSPP    G K+  Y V        A             G+ L   ++ L P   Y   + A  + G         W   A P N+    D P    +LQ T  SES I I+W PPR       +P    R    +    +V     + G E R     L PG  Y +                               +LQA      + N+ PP    G I +  L +   F+   +    +T+    G++        P   Y +R++A   +G   S+W+       A     PP   V +     QP     + L W  P + NG  ++         +  +      +Y G + +     L P   Y+++V A N  G  PSS     T   APP     P     ++T   V    P    G +V+ Y+L  + A   E T L EG          +A T   +     T     S        + PA    P  G  +  I  +   T +++  P + P+     YE++       D A       ++           L GL P  TY +RV +    G+  S W</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>8</Hsp_num>
+      <Hsp_bit-score>62.7734</Hsp_bit-score>
+      <Hsp_score>151</Hsp_score>
+      <Hsp_evalue>1.11356e-10</Hsp_evalue>
+      <Hsp_query-from>4317</Hsp_query-from>
+      <Hsp_query-to>4865</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>558</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>103</Hsp_gaps>
+      <Hsp_align-len>585</Hsp_align-len>
+      <Hsp_qseq>NYTDEELLPFSTYSYALQACTS-GGCSTSKPTSITTLEAAPSEVSPPDLWAVSATQMNVCWSPPTVQNGKITKYLVRYDN------KESLAGQGLCLLVSHLQPYSQYNFSLVACTN-GGCTASVSKSAWTMEALPENMDSP-TLQVTG--SESIEITWKPPRNPNG-QIRSYELRRD----------GTI---VYTGLETRYRDFTLTPGVEYSYTVTASNSQG-GILSPLVKDRTSPSAPSGMEPPKLQARGPQE--ILVNWDPPVRTNGDIINYTLFIRELF-ERETKIIHINTTHNSFGMQSYIVNQLKPFHRYEIRIQACTTLGCASSDWTFIQTPEIAPLMQPPPHLEVQMAPGGFQPTVSLLWTGPLQPNGKVLYYELYRRQIATQPRKSNPVLIYNGSSTSFIDSELLPFTEYEYQVWAVNSAGKAPSSWTWCR---TGPAPPEGLRAPTFHVISSTQAVVNISAPGKPNGIVSLYRLFSSSAHGAETVLSEGMATQQTLHGLQAFTNYSIGVEACTCFNCCSKGPTAELRTH---PAPPSGLSSPQIGTLASRTASFRWSPPMFPNG-VIHSYELQ</Hsp_qseq>
+      <Hsp_hseq>SYKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPEPPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPP---DSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAGWGDWATPVNLTTAPDVPEA--PLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYNREH--VGAE---LRNLQPGCRYIFRLQAVPNFG-------------------PP-------GPAGIITDQRLIVGLSFKP--------CYR-----------------GPDTSCEVRGLEPKSTYALRLRAHNDVG--PSEWSACAAAITSHAPPTCPVSVVAQPASCCKILLCWMPPEKDNG-AAVFSYTGGSNSTSWSQLYLGEACACSADGLAPARTYQFRVRAS---NVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVTTYKLE</Hsp_hseq>
+      <Hsp_midline>+Y   +L P   Y+  +QA    G    S  ++ TT    P+   PP + A ++  + + W+PP      I  Y +  D+      +    G      V+ L P + Y F L A  + G  T S + S  T  A P   DSP  LQV    + S  + W PP    G ++ +YE+             GT    ++ G        +L PG  Y   V A NS G G  +  V   T+P  P    P  LQ     E  I+++W PP    G   + T   R +  + ++ ++  N  H   G +   +  L+P  RY  R+QA    G                   PP        P G      L+     +P         YR                 G  TS     L P + Y  ++ A N  G  PS W+ C    T  APP    +      S  + ++    P K NG  +++     S   + + L  G A   +  GL     Y   V A    N C  GP++ + T     APPS    P + + A+     RW  P    G V+ +Y+L+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>9</Hsp_num>
+      <Hsp_bit-score>60.4622</Hsp_bit-score>
+      <Hsp_score>145</Hsp_score>
+      <Hsp_evalue>5.09504e-10</Hsp_evalue>
+      <Hsp_query-from>4687</Hsp_query-from>
+      <Hsp_query-to>4952</Hsp_query-to>
+      <Hsp_hit-from>32</Hsp_hit-from>
+      <Hsp_hit-to>300</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>278</Hsp_align-len>
+      <Hsp_qseq>VLIYNGSSTSFIDSELLPFTEYEYQVWAVNSAGKAP----SSWTWCRTGPAPPEGLRAPTFHVISSTQAVVNISAPGKPNGIVSLYRLFSSSAHGAE-TVLSEGMATQQTLHGLQAFTNYSIGVEACTCFNCCSKGPTAELRTHPAPPSGLSSPQIGTLASRTASFRWSPPMFPNGV-IHSYELQFHVACPPDSALPCTPSQIETKYTGLGQKASLGGLQPYTTYKLRVVAHNEVGSTASEW---ISFTTQKELPQYRAPFSVDS---NLSVVCVNWS</Hsp_qseq>
+      <Hsp_hseq>VEVYRGPERSYKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPE---PPVVQAAASNALTLQWTPPPDNGSPIIGYRLERDDGPGTEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPDSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAIS--RAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAGW--GDWATPVNLTTAPDVPE--APLSLQPTSCSESTIVISWA</Hsp_hseq>
+      <Hsp_midline>V +Y G   S+  ++L P   Y  +V AVN  G+ P    S++T   T PA PE    P     +S    +  + P      +  YRL      G E      G  T  T+  L   T Y   + A       +  PTA L T  APP   ++ Q+ T  + +A+  WSPP    G  + +YE++        +A+ C  +     + G     ++  L P   Y +RV A N  G    +W   ++ TT  ++P+  AP S+     + S + ++W+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>10</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>7.32656e-10</Hsp_evalue>
+      <Hsp_query-from>4486</Hsp_query-from>
+      <Hsp_query-to>4719</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>VYTGLETRYRDFTLTPGVEYSYTVTASNSQG-GILSPLVKDRTSPSAPSGMEPPKLQARGPQEILVNWDPPVRTNGDIINYTLFIRELFERE----TKIIHINTTHNSFGMQSYIVNQLKPFHRYEIRIQACTTLGCASSDWTFIQTPEIAPLMQPPPHLEVQMAPGGFQPTVSLLWTGPLQPNG-KVLYYELYRRQI---ATQPRKSNPVLIYNGSSTSFIDSELLPFTEYEYQVWAVNSAG</Hsp_qseq>
+      <Hsp_hseq>VYRGPERSYKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPEPPVVQAAASNALTLQWTPPPDNGSPIIGYRL------ERDDGPGTEFRHCYVGPNTW----HTVTKLSPGTVYRFRLRADNDEG--QSTWS--PTASLLTGAAPPDSPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINSLCPGCAYFVRVRARNSAG</Hsp_hseq>
+      <Hsp_midline>VY G E  Y+   L PGV Y+  V A N  G G  S      T  + P+  EPP +QA     + + W PP      II Y L      ER+    T+  H     N++    + V +L P   Y  R++A    G   S W+   T  +     PP              + +L W+ P +  G KV+ YE+  + I   A     +  + I+ G + +   + L P   Y  +V A NSAG</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>11</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.96834e-09</Hsp_evalue>
+      <Hsp_query-from>3457</Hsp_query-from>
+      <Hsp_query-to>4057</Hsp_query-to>
+      <Hsp_hit-from>134</Hsp_hit-from>
+      <Hsp_hit-to>712</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>104</Hsp_gaps>
+      <Hsp_align-len>642</Hsp_align-len>
+      <Hsp_qseq>NTYSYTDVNLKPYMTYEYRISAWNSYGRGLSKAVRARTKEDVPQGVSPPTWTKIDNLEDTIVLNWRKPIQSNG-PIIYYILLRNGIER-------------FRGTSLSFSDKEGIQPFQEYSYQLKACTVAGCATSSKVVAATTQ-GVPESILPPSITALSAVALHLSWSVPEKSNG------VIKEYQIRQVGKGLIHTDTTDRRQHT---VTGLQPYTNYSFTLTACTSAGCTSSEPFLGQTLQAAPEGVWVTPRHIIINSTTVELYWSLPEKPNGLVSQYQLSRNGNLLFLGGSEEQNFTDKNLEPNSRYTYKLEVKTGGG----SSASDDYIVQTPMSTPEEIYPPYNITVIGPYS---IFVAWIPPGILIPEIPVEYNVLLNDGSVTPLAFSVGHHQSTLLENLTPFTQYEIRIQACQNGSCGVSSRMFVKTPEAAPMDL-NSPVLKALGSACIEIKWMPPEKPNG-IIINYFIYRRPAGIEEESVLFVWSEGALEFMD-EGDT---LRPFTLYEYRVRACNSKGSVESLWSLTQTLEAPPQDFPAPWAQATSAHSVLLNWTKPE--SPNGIISHYRVVYQERP--DDPTFNSPTVHAFTVKGTSHQAHLYGLEPFTTYRIGVVAANHAGEILSPWT</Hsp_qseq>
+      <Hsp_hseq>NTW-HTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPD-SPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAVACMGTAWLKIFEGEALACTINS-LCPGCAYFVRVRARNSAGWGDWATPVNLTTAPDVPEAPLSLQPTSCSESTIVISWAPPRHDGGSKGSPTALPRPVLCKAQSPLVVYN----REHVGAELRNLQPGCRYIFRLQAVPNFG---------------------------------------PPGPAGIITDQRLIVGLSFKPCYRGPDTSCEVRGLEPKSTYALRLRAHNDVGPSEWSACAAAITSHAPPTCPVSV-------VAQPASCCKILLCWMPPEKDNGAAVFSYTGGSNSTSWSQLYL--GEACACSADGLAPARTYQFRVRASNVCGCGPSSAVVTATTLAAPPSAPGKPVVLSRAATNIRVRWDEPEHSYGAVVTTYKLEGAPAGTDEWTTLYEGSEATGDYSECEAITTAMMAPMPPTNVLVSSDSTEDAAASGPAETA--------FPSDGARAETIPIVTVTWQDPPAVSPHAAAMGYEVEARPKPGSDVAGASGGGVVKVTVASRRCDTRLEGLVPGCTYAVRVRSVGVEGTGHSSWS</Hsp_hseq>
+      <Hsp_midline>NT+ +T   L P   Y +R+ A N  G+       +      P   SP     +  L  +  L W  P +  G  ++ Y +    I R             F G +L+ +    + P   Y  +++A   AG    +  V  TT   VPE+ L    T+ S   + +SW+ P    G       +    + +    L+  +    R+H    +  LQP   Y F L A  + G                                       P  P G+++  +L    +        + +   + LEP S Y  +L      G    S+ +       P + P  +       V  P S   I + W+PP          Y    N  S + L    G   +   + L P   Y+ R++A     CG SS +   T  AAP      PV+ +  +  I ++W  PE   G ++  Y +   PAG +E + L+  SE   ++ + E  T   + P       V + +++ +  S  + T         FP+  A+A +   V + W  P   SP+     Y V  + +P  D    +   V   TV        L GL P  TY + V +    G   S W+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>12</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>8.81602e-07</Hsp_evalue>
+      <Hsp_query-from>1320</Hsp_query-from>
+      <Hsp_query-to>1512</Hsp_query-to>
+      <Hsp_hit-from>38</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>PQTMTTITGLEPYTKYEFRVLAVNMAG----SVSSAWVSERTGESAPVFMIPPSVFPLSSYSLNISWEKPADNVTRGKVVGYDINMLSEQSPQQSIPMAFSQLLHTAKSQELSYTVEGLKPYRIYEFTITLCNSVGCVTSASGAGQTLAAAPAQLRPPLVKGIN--STTIHLRWFPPEELNGPSPI-YQLERRESSLPAL</Hsp_qseq>
+      <Hsp_hseq>PERSYKVTKLQPGVRYTSRVQAVNPLGEGPFSLCSAYTTQATVPAAPE---PPVVQAAASNALTLQWTPPPDNGS--PIIGYRLER--DDGPG-------TEFRHCYVGPNTWHTVTKLSPGTVYRFRLRADNDEGQSTWSPTASLLTGAAPPD-SPAALQVVTPLTTSATLAWSPPEKDYGSKVVAYEVELQAISRAAV</Hsp_hseq>
+      <Hsp_midline>P+    +T L+P  +Y  RV AVN  G    S+ SA+ ++ T  +AP    PP V   +S +L + W  P DN +   ++GY +    +  P        ++  H        +TV  L P  +Y F +   N  G  T +  A     AAP    P  ++ +   +T+  L W PPE+  G   + Y++E +  S  A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_170344</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_170345</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_170346</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_170347</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>14354</Statistics_db-num>
+      <Statistics_db-len>8191379</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
