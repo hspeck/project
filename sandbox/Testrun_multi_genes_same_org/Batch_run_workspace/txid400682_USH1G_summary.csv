@@ -1,0 +1,50 @@
+gi: 761911057,ref_number: XP_011404829.1,annotation:  PREDICTED: ankyrin repeat and SAM domain-containing protein 4B-like [Amphimedon queenslandica],best_score: 303.0,evalue: 1.94443e-30,length: 379
+gi: 340386920,ref_number: XP_003391956.1,annotation:  PREDICTED: 26S proteasome non-ATPase regulatory subunit 10-like [Amphimedon queenslandica],best_score: 187.0,evalue: 3.39185e-15,length: 390
+gi: 761901430,ref_number: XP_011404431.1,annotation:  PREDICTED: caskin-1-like [Amphimedon queenslandica],best_score: 185.0,evalue: 1.87421e-14,length: 1404
+gi: 1133487554,ref_number: XP_019861243.1,annotation:  PREDICTED: serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A-like, partial [Amphimedon queenslandica],best_score: 183.0,evalue: 2.6232e-14,length: 691
+gi: 1133465786,ref_number: XP_019853444.1,annotation:  PREDICTED: E3 ubiquitin-protein ligase HACE1-like [Amphimedon queenslandica],best_score: 173.0,evalue: 5.27615e-13,length: 1059
+gi: 1133467949,ref_number: XP_003387972.2,annotation:  PREDICTED: uncharacterized protein LOC100636120 [Amphimedon queenslandica],best_score: 170.0,evalue: 1.31271e-12,length: 3508
+gi: 340376373,ref_number: XP_003386707.1,annotation:  PREDICTED: espin-like [Amphimedon queenslandica],best_score: 168.0,evalue: 1.48985e-12,length: 619
+gi: 1133448820,ref_number: XP_003382815.3,annotation:  PREDICTED: ankyrin-3-like [Amphimedon queenslandica],best_score: 169.0,evalue: 1.50666e-12,length: 1120
+gi: 761913222,ref_number: XP_011405783.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 66-like [Amphimedon queenslandica],best_score: 150.0,evalue: 5.62242e-12,length: 123
+gi: 1133485624,ref_number: XP_003390936.2,annotation:  PREDICTED: serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A-like, partial [Amphimedon queenslandica],best_score: 164.0,evalue: 6.29756e-12,length: 829
+gi: 1133449159,ref_number: XP_019853523.1,annotation:  PREDICTED: inversin-A-like [Amphimedon queenslandica],best_score: 162.0,evalue: 1.25177e-11,length: 1180
+gi: 761920776,ref_number: XP_011409276.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 27-like, partial [Amphimedon queenslandica],best_score: 152.0,evalue: 1.59117e-11,length: 201
+gi: 340374818,ref_number: XP_003385934.1,annotation:  PREDICTED: acyl-CoA-binding domain-containing protein 1-like [Amphimedon queenslandica],best_score: 152.0,evalue: 3.05459e-11,length: 249
+gi: 761916200,ref_number: XP_011407106.1,annotation:  PREDICTED: ankyrin repeat and protein kinase domain-containing protein 1-like [Amphimedon queenslandica],best_score: 155.0,evalue: 3.1141e-11,length: 331
+gi: 1133480258,ref_number: XP_019859001.1,annotation:  PREDICTED: tankyrase-1-like [Amphimedon queenslandica],best_score: 144.0,evalue: 4.89738e-11,length: 140
+gi: 1133448497,ref_number: XP_011403428.2,annotation:  PREDICTED: serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A-like isoform X1 [Amphimedon queenslandica],best_score: 156.0,evalue: 5.21698e-11,length: 1010
+gi: 1133448499,ref_number: XP_011402859.2,annotation:  PREDICTED: serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A-like isoform X2 [Amphimedon queenslandica],best_score: 156.0,evalue: 5.22956e-11,length: 990
+gi: 1133447432,ref_number: XP_019852665.1,annotation:  PREDICTED: death-associated protein kinase 1-like [Amphimedon queenslandica],best_score: 155.0,evalue: 6.60452e-11,length: 1042
+gi: 340379387,ref_number: XP_003388208.1,annotation:  PREDICTED: protein phosphatase 1 regulatory subunit 12C-like [Amphimedon queenslandica],best_score: 155.0,evalue: 7.32796e-11,length: 957
+gi: 1133468430,ref_number: XP_019854451.1,annotation:  PREDICTED: serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit B-like isoform X1 [Amphimedon queenslandica],best_score: 152.0,evalue: 1.84885e-10,length: 1408
+gi: 1133465068,ref_number: XP_019853173.1,annotation:  PREDICTED: inversin-A-like [Amphimedon queenslandica],best_score: 152.0,evalue: 1.86145e-10,length: 888
+gi: 1133487552,ref_number: XP_011408176.2,annotation:  PREDICTED: ankyrin-1-like, partial [Amphimedon queenslandica],best_score: 151.0,evalue: 1.8623e-10,length: 538
+gi: 1133468432,ref_number: XP_019854452.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 17-like isoform X2 [Amphimedon queenslandica],best_score: 152.0,evalue: 1.86579e-10,length: 1476
+gi: 1133473066,ref_number: XP_019856209.1,annotation:  PREDICTED: espin-like [Amphimedon queenslandica],best_score: 151.0,evalue: 1.87967e-10,length: 672
+gi: 1133471538,ref_number: XP_019855630.1,annotation:  PREDICTED: ankyrin repeat, PH and SEC7 domain containing protein secG-like [Amphimedon queenslandica],best_score: 151.0,evalue: 2.2306e-10,length: 929
+gi: 1133451803,ref_number: XP_019863490.1,annotation:  PREDICTED: inversin-like [Amphimedon queenslandica],best_score: 151.0,evalue: 2.27443e-10,length: 1047
+gi: 1133472684,ref_number: XP_019856059.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 50-like [Amphimedon queenslandica],best_score: 142.0,evalue: 2.62874e-10,length: 180
+gi: 1133468434,ref_number: XP_019854453.1,annotation:  PREDICTED: ankyrin-1-like isoform X3 [Amphimedon queenslandica],best_score: 151.0,evalue: 2.63707e-10,length: 1242
+gi: 1133468384,ref_number: XP_019854434.1,annotation:  PREDICTED: 26S proteasome non-ATPase regulatory subunit 10-like [Amphimedon queenslandica],best_score: 144.0,evalue: 4.20579e-10,length: 264
+gi: 1133449761,ref_number: XP_019855971.1,annotation:  PREDICTED: uncharacterized protein LOC109584598 isoform X2 [Amphimedon queenslandica],best_score: 148.0,evalue: 4.7269e-10,length: 1164
+gi: 1133449759,ref_number: XP_019855966.1,annotation:  PREDICTED: uncharacterized protein LOC109584598 isoform X1 [Amphimedon queenslandica],best_score: 148.0,evalue: 5.2923e-10,length: 1255
+gi: 1133472800,ref_number: XP_019856099.1,annotation:  PREDICTED: ankyrin-1-like [Amphimedon queenslandica],best_score: 148.0,evalue: 5.41183e-10,length: 952
+gi: 1133474433,ref_number: XP_019856737.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 17-like [Amphimedon queenslandica],best_score: 148.0,evalue: 5.49229e-10,length: 2780
+gi: 761901533,ref_number: XP_011404873.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 54-like [Amphimedon queenslandica],best_score: 142.0,evalue: 7.44592e-10,length: 263
+gi: 1133481546,ref_number: XP_019863903.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 29-like, partial [Amphimedon queenslandica],best_score: 143.0,evalue: 9.73494e-10,length: 374
+gi: 761903248,ref_number: XP_003383735.2,annotation:  PREDICTED: ankyrin and armadillo repeat-containing protein-like [Amphimedon queenslandica],best_score: 145.0,evalue: 1.38356e-09,length: 1418
+gi: 1133464150,ref_number: XP_019852816.1,annotation:  PREDICTED: uncharacterized protein LOC109582513 [Amphimedon queenslandica],best_score: 141.0,evalue: 2.52299e-09,length: 519
+gi: 1133461785,ref_number: XP_019851880.1,annotation:  PREDICTED: inversin-like [Amphimedon queenslandica],best_score: 142.0,evalue: 2.76786e-09,length: 793
+gi: 1133474737,ref_number: XP_003389398.2,annotation:  PREDICTED: ankyrin repeat and SAM domain-containing protein 3-like isoform X2 [Amphimedon queenslandica],best_score: 141.0,evalue: 3.0154e-09,length: 556
+gi: 1133452343,ref_number: XP_011409906.2,annotation:  PREDICTED: protein phosphatase 1 regulatory subunit 16A-like [Amphimedon queenslandica],best_score: 141.0,evalue: 3.04051e-09,length: 534
+gi: 1133474735,ref_number: XP_019856852.1,annotation:  PREDICTED: ankyrin repeat and SAM domain-containing protein 3-like isoform X1 [Amphimedon queenslandica],best_score: 141.0,evalue: 3.10977e-09,length: 560
+gi: 1133484739,ref_number: XP_019860508.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 50-like, partial [Amphimedon queenslandica],best_score: 140.0,evalue: 3.69797e-09,length: 583
+gi: 1133483240,ref_number: XP_019859935.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 50-like, partial [Amphimedon queenslandica],best_score: 139.0,evalue: 5.69091e-09,length: 1012
+gi: 1133450152,ref_number: XP_019857603.1,annotation:  PREDICTED: uncharacterized protein LOC109585900 [Amphimedon queenslandica],best_score: 139.0,evalue: 5.76331e-09,length: 840
+gi: 1133448915,ref_number: XP_019852596.1,annotation:  PREDICTED: ankyrin repeat and SOCS box protein 13-like [Amphimedon queenslandica],best_score: 136.0,evalue: 5.8829e-09,length: 329
+gi: 1133477264,ref_number: XP_019857831.1,annotation:  PREDICTED: ankyrin repeat domain-containing protein 29-like [Amphimedon queenslandica],best_score: 134.0,evalue: 5.92063e-09,length: 246
+gi: 1133472682,ref_number: XP_019856058.1,annotation:  PREDICTED: tankyrase-2-like [Amphimedon queenslandica],best_score: 134.0,evalue: 6.56684e-09,length: 240
+gi: 1133479159,ref_number: XP_019858578.1,annotation:  PREDICTED: uncharacterized protein LOC109586804 [Amphimedon queenslandica],best_score: 134.0,evalue: 6.7792e-09,length: 256
+gi: 1133482013,ref_number: XP_011407509.2,annotation:  PREDICTED: ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1-like [Amphimedon queenslandica],best_score: 128.0,evalue: 8.29114e-09,length: 140
+gi: 1133477762,ref_number: XP_019858024.1,annotation:  PREDICTED: serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit B-like isoform X1 [Amphimedon queenslandica],best_score: 138.0,evalue: 8.32109e-09,length: 1441

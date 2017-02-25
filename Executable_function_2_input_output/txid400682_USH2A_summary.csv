@@ -1,0 +1,50 @@
+gi: 1133461696,ref_number: XP_011403870.2,annotation:  PREDICTED: usherin-like [Amphimedon queenslandica],best_score: 3623.0,evalue: 0.0,length: 4885
+gi: 1133465961,ref_number: XP_011404698.2,annotation:  PREDICTED: uncharacterized protein LOC105313185 [Amphimedon queenslandica],best_score: 561.0,evalue: 1.28983e-56,length: 3914
+gi: 1133456134,ref_number: XP_019849782.1,annotation:  PREDICTED: laminin subunit gamma-1-like [Amphimedon queenslandica],best_score: 525.0,evalue: 1.47047e-52,length: 2015
+gi: 1133452958,ref_number: XP_019848635.1,annotation:  PREDICTED: titin-like [Amphimedon queenslandica],best_score: 520.0,evalue: 7.17529e-52,length: 3566
+gi: 1133494490,ref_number: XP_019863641.1,annotation:  PREDICTED: usherin-like, partial [Amphimedon queenslandica],best_score: 453.0,evalue: 1.80941e-50,length: 210
+gi: 1133447430,ref_number: XP_019852585.1,annotation:  PREDICTED: laminin subunit alpha-like [Amphimedon queenslandica],best_score: 492.0,evalue: 1.32727e-48,length: 2675
+gi: 1133449678,ref_number: XP_019855647.1,annotation:  PREDICTED: laminin subunit beta-4-like [Amphimedon queenslandica],best_score: 469.0,evalue: 4.02377e-46,length: 1698
+gi: 1133468016,ref_number: XP_019854276.1,annotation:  PREDICTED: laminin subunit gamma-1-like [Amphimedon queenslandica],best_score: 459.0,evalue: 6.55577e-45,length: 2092
+gi: 1133475582,ref_number: XP_019857180.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X3 [Amphimedon queenslandica],best_score: 446.0,evalue: 2.74434e-43,length: 3088
+gi: 1133475588,ref_number: XP_019857183.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X6 [Amphimedon queenslandica],best_score: 446.0,evalue: 2.76744e-43,length: 3088
+gi: 1133475590,ref_number: XP_019857184.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X7 [Amphimedon queenslandica],best_score: 446.0,evalue: 2.76744e-43,length: 3088
+gi: 1133475592,ref_number: XP_019857185.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X8 [Amphimedon queenslandica],best_score: 446.0,evalue: 2.98432e-43,length: 3088
+gi: 1133475586,ref_number: XP_019857182.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X5 [Amphimedon queenslandica],best_score: 446.0,evalue: 3.24529e-43,length: 3088
+gi: 1133475584,ref_number: XP_019857181.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X4 [Amphimedon queenslandica],best_score: 445.0,evalue: 3.32795e-43,length: 3088
+gi: 1133475594,ref_number: XP_019857186.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X9 [Amphimedon queenslandica],best_score: 445.0,evalue: 3.80859e-43,length: 3024
+gi: 1133475580,ref_number: XP_019857179.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X2 [Amphimedon queenslandica],best_score: 444.0,evalue: 4.80377e-43,length: 3146
+gi: 1133475578,ref_number: XP_019857178.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X1 [Amphimedon queenslandica],best_score: 444.0,evalue: 5.40254e-43,length: 3147
+gi: 1133475600,ref_number: XP_019857189.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X12 [Amphimedon queenslandica],best_score: 443.0,evalue: 5.79802e-43,length: 2965
+gi: 1133475598,ref_number: XP_019857188.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X11 [Amphimedon queenslandica],best_score: 443.0,evalue: 6.04626e-43,length: 2965
+gi: 1133475596,ref_number: XP_019857187.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X10 [Amphimedon queenslandica],best_score: 443.0,evalue: 6.35821e-43,length: 2965
+gi: 1133475602,ref_number: XP_019857190.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X13 [Amphimedon queenslandica],best_score: 442.0,evalue: 7.51565e-43,length: 2778
+gi: 1133452960,ref_number: XP_019848636.1,annotation:  PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score: 441.0,evalue: 9.65739e-43,length: 2830
+gi: 1133475604,ref_number: XP_019857191.1,annotation:  PREDICTED: uncharacterized protein LOC100638611 isoform X14 [Amphimedon queenslandica],best_score: 440.0,evalue: 1.19742e-42,length: 2596
+gi: 1133469522,ref_number: XP_019854865.1,annotation:  PREDICTED: uncharacterized protein LOC100634904 [Amphimedon queenslandica],best_score: 368.0,evalue: 2.20428e-34,length: 1478
+gi: 1133475182,ref_number: XP_019857023.1,annotation:  PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score: 333.0,evalue: 2.6872e-30,length: 1343
+gi: 1133451038,ref_number: XP_019860969.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Amphimedon queenslandica],best_score: 296.0,evalue: 5.93486e-26,length: 1198
+gi: 1133484749,ref_number: XP_019860513.1,annotation:  PREDICTED: uncharacterized protein LOC109588843 [Amphimedon queenslandica],best_score: 266.0,evalue: 1.65241e-22,length: 1177
+gi: 761920936,ref_number: XP_011409348.1,annotation:  PREDICTED: netrin-3-like, partial [Amphimedon queenslandica],best_score: 234.0,evalue: 2.91028e-22,length: 113
+gi: 1133468154,ref_number: XP_019854335.1,annotation:  PREDICTED: protein sidekick-like [Amphimedon queenslandica],best_score: 257.0,evalue: 2.83598e-21,length: 2067
+gi: 1133470362,ref_number: XP_019855186.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X1 [Amphimedon queenslandica],best_score: 251.0,evalue: 1.59524e-20,length: 3503
+gi: 1133470364,ref_number: XP_019855187.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X2 [Amphimedon queenslandica],best_score: 251.0,evalue: 1.6634e-20,length: 3502
+gi: 1133470366,ref_number: XP_019855188.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X3 [Amphimedon queenslandica],best_score: 250.0,evalue: 2.04636e-20,length: 3103
+gi: 1133470370,ref_number: XP_019855189.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X5 [Amphimedon queenslandica],best_score: 250.0,evalue: 2.08094e-20,length: 3103
+gi: 1133470372,ref_number: XP_019855190.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X6 [Amphimedon queenslandica],best_score: 250.0,evalue: 2.2252e-20,length: 3103
+gi: 1133470368,ref_number: XP_011405560.2,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X4 [Amphimedon queenslandica],best_score: 249.0,evalue: 2.30104e-20,length: 3103
+gi: 1133453517,ref_number: XP_019848824.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase S-like, partial [Amphimedon queenslandica],best_score: 235.0,evalue: 5.59323e-19,length: 749
+gi: 1133462243,ref_number: XP_019852063.1,annotation:  PREDICTED: LOW QUALITY PROTEIN: laminin subunit gamma-1-like [Amphimedon queenslandica],best_score: 234.0,evalue: 8.65246e-19,length: 956
+gi: 1133461258,ref_number: XP_019851680.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Amphimedon queenslandica],best_score: 232.0,evalue: 2.11716e-18,length: 1739
+gi: 1133479633,ref_number: XP_019858755.1,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Amphimedon queenslandica],best_score: 231.0,evalue: 2.2721e-18,length: 1245
+gi: 1133453423,ref_number: XP_019848789.1,annotation:  PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score: 210.0,evalue: 4.88177e-16,length: 773
+gi: 1133465811,ref_number: XP_019853456.1,annotation:  PREDICTED: hemicentin-1-like isoform X1 [Amphimedon queenslandica],best_score: 197.0,evalue: 2.84358e-14,length: 2966
+gi: 1133465813,ref_number: XP_011404665.2,annotation:  PREDICTED: receptor-type tyrosine-protein phosphatase delta-like isoform X2 [Amphimedon queenslandica],best_score: 197.0,evalue: 3.18339e-14,length: 2559
+gi: 1133464990,ref_number: XP_019853141.1,annotation:  PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score: 185.0,evalue: 5.65187e-13,length: 901
+gi: 1133456750,ref_number: XP_019849996.1,annotation:  PREDICTED: protein sidekick-2-like [Amphimedon queenslandica],best_score: 185.0,evalue: 7.12798e-13,length: 1756
+gi: 1133489053,ref_number: XP_019861768.1,annotation:  PREDICTED: hemicentin-1-like [Amphimedon queenslandica],best_score: 182.0,evalue: 1.44543e-12,length: 1099
+gi: 1133453427,ref_number: XP_019848791.1,annotation:  PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score: 180.0,evalue: 1.73583e-12,length: 718
+gi: 1133479635,ref_number: XP_019858756.1,annotation:  PREDICTED: uncharacterized threonine-rich GPI-anchored glycoprotein PJ4664.02-like [Amphimedon queenslandica],best_score: 175.0,evalue: 1.1035e-11,length: 2127
+gi: 1133480251,ref_number: XP_019858998.1,annotation:  PREDICTED: protein sidekick-1-like [Amphimedon queenslandica],best_score: 173.0,evalue: 1.53536e-11,length: 941
+gi: 1133487396,ref_number: XP_019861186.1,annotation:  PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score: 168.0,evalue: 1.91738e-11,length: 388
+gi: 1133469400,ref_number: XP_019854824.1,annotation:  PREDICTED: neural cell adhesion molecule L1-like protein [Amphimedon queenslandica],best_score: 171.0,evalue: 1.93673e-11,length: 795
