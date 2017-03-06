@@ -1,0 +1,23 @@
+gi:24415398,ref_number:NP_700434.1,annotation: clarin-1 isoform 2 [Mus musculus],best_score:1133.0,evalue:4.3437e-159,length:232
+gi:23510293,ref_number:NP_700433.1,annotation: clarin-1 isoform 1 [Mus musculus],best_score:1101.0,evalue:6.27568e-154,length:250
+gi:24415402,ref_number:NP_700435.1,annotation: clarin-1 isoform 3 [Mus musculus],best_score:429.0,evalue:6.5444e-53,length:172
+gi:257743461,ref_number:NP_001156789.1,annotation: clarin-2 [Mus musculus],best_score:373.0,evalue:1.09581e-43,length:232
+gi:30520041,ref_number:NP_848784.1,annotation: clarin-3 [Mus musculus],best_score:171.0,evalue:3.97704e-14,length:226
+gi:291229971,ref_number:XP_002734946.1,annotation: PREDICTED: clarin-2-like [Saccoglossus kowalevskii],best_score:137.0,evalue:6.30944e-10,length:245
+gi:676462533,ref_number:XP_009056299.1,annotation: hypothetical protein LOTGIDRAFT_232832 [Lottia gigantea],best_score:121.0,evalue:6.17124e-08,length:236
+gi:957846169,ref_number:XP_014673540.1,annotation: PREDICTED: clarin-3-like isoform X2 [Priapulus caudatus],best_score:170.0,evalue:1.1802e-14,length:245
+gi:957846167,ref_number:XP_014673539.1,annotation: PREDICTED: clarin-3-like isoform X1 [Priapulus caudatus],best_score:149.0,evalue:1.33082e-11,length:272
+gi:957849183,ref_number:XP_014675119.1,annotation: PREDICTED: clarin-3-like [Priapulus caudatus],best_score:131.0,evalue:2.87686e-09,length:243
+gi:961132538,ref_number:XP_014786516.1,annotation: PREDICTED: clarin-2-like [Octopus bimaculoides],best_score:125.0,evalue:2.23934e-08,length:226
+gi:156372686,ref_number:XP_001629167.1,annotation: predicted protein [Nematostella vectensis],best_score:109.0,evalue:1.69714e-06,length:230
+gi:919082583,ref_number:XP_013378707.1,annotation: PREDICTED: clarin-3-like isoform X3 [Lingula anatina],best_score:123.0,evalue:7.05534e-08,length:232
+gi:390337099,ref_number:XP_781677.3,annotation: PREDICTED: clarin-1 [Strongylocentrotus purpuratus],best_score:172.0,evalue:1.93272e-14,length:256
+gi:390337129,ref_number:XP_003724495.1,annotation: PREDICTED: uncharacterized protein LOC100891878 [Strongylocentrotus purpuratus],best_score:122.0,evalue:8.2153e-08,length:241
+gi:50540410,ref_number:NP_001002671.1,annotation: clarin-1 [Danio rerio],best_score:776.0,evalue:7.47156e-105,length:232
+gi:167963528,ref_number:NP_001108162.1,annotation: clarin-2 [Danio rerio],best_score:380.0,evalue:6.04158e-45,length:233
+gi:28144908,ref_number:NP_777367.1,annotation: clarin-1 isoform a [Homo sapiens],best_score:1220.0,evalue:2.53238e-172,length:232
+gi:307775403,ref_number:NP_001182723.1,annotation: clarin-1 isoform d [Homo sapiens],best_score:1196.0,evalue:1.89777e-168,length:245
+gi:16506281,ref_number:NP_443721.1,annotation: clarin-1 isoform c [Homo sapiens] >gi,best_score:548.0,evalue:1.1683e-71,length:120
+gi:378744208,ref_number:NP_001243748.1,annotation: clarin-1 isoform e [Homo sapiens],best_score:452.0,evalue:3.60232e-56,length:185
+gi:150010645,ref_number:NP_001073296.1,annotation: clarin-2 [Homo sapiens],best_score:390.0,evalue:3.15376e-46,length:232
+gi:22748685,ref_number:NP_689524.1,annotation: clarin-3 [Homo sapiens],best_score:162.0,evalue:9.10044e-13,length:226

@@ -1,0 +1,765 @@
+gi:124517680,ref_number:NP_075859.2,annotation: cadherin-23 isoform 1 precursor [Mus musculus],best_score:16784.0,evalue:0.0,length:3354
+gi:1039732893,ref_number:XP_017169419.1,annotation: PREDICTED: cadherin-23 isoform X4 [Mus musculus],best_score:16764.0,evalue:0.0,length:3361
+gi:358001060,ref_number:NP_001239564.1,annotation: cadherin-23 isoform 2 precursor [Mus musculus],best_score:16761.0,evalue:0.0,length:3352
+gi:1039732884,ref_number:XP_017169415.1,annotation: PREDICTED: cadherin-23 isoform X1 [Mus musculus] >gi,best_score:16552.0,evalue:0.0,length:3319
+gi:1039732888,ref_number:XP_017169417.1,annotation: PREDICTED: cadherin-23 isoform X2 [Mus musculus],best_score:16039.0,evalue:0.0,length:3283
+gi:568967465,ref_number:XP_006513665.1,annotation: PREDICTED: cadherin-23 isoform X3 [Mus musculus] >gi,best_score:5365.0,evalue:0.0,length:1079
+gi:153792706,ref_number:NP_899044.3,annotation: protocadherin Fat 4 precursor [Mus musculus] >gi,best_score:2513.0,evalue:0.0,length:4981
+gi:568950268,ref_number:XP_006507718.1,annotation: PREDICTED: protocadherin-16 isoform X1 [Mus musculus],best_score:2266.0,evalue:0.0,length:3431
+gi:242397490,ref_number:NP_001156415.1,annotation: protocadherin-16 precursor [Mus musculus],best_score:2262.0,evalue:0.0,length:3291
+gi:157951641,ref_number:NP_001074755.2,annotation: protocadherin Fat 1 precursor [Mus musculus] >gi,best_score:2105.0,evalue:0.0,length:4590
+gi:568954523,ref_number:XP_006509334.1,annotation: PREDICTED: protocadherin Fat 1 isoform X3 [Mus musculus],best_score:2104.0,evalue:0.0,length:4622
+gi:568954535,ref_number:XP_006509340.1,annotation: PREDICTED: protocadherin Fat 1 isoform X9 [Mus musculus],best_score:2102.0,evalue:0.0,length:4602
+gi:568954533,ref_number:XP_006509339.1,annotation: PREDICTED: protocadherin Fat 1 isoform X8 [Mus musculus],best_score:2102.0,evalue:0.0,length:4412
+gi:568954527,ref_number:XP_006509336.1,annotation: PREDICTED: protocadherin Fat 1 isoform X5 [Mus musculus],best_score:2100.0,evalue:0.0,length:4608
+gi:568954515,ref_number:XP_006509330.1,annotation: PREDICTED: protocadherin Fat 1 isoform X1 [Mus musculus] >gi,best_score:2096.0,evalue:0.0,length:4645
+gi:1039783013,ref_number:XP_017168053.1,annotation: PREDICTED: protocadherin Fat 1 isoform X7 [Mus musculus],best_score:2095.0,evalue:0.0,length:4576
+gi:755528858,ref_number:XP_011240846.1,annotation: PREDICTED: protocadherin Fat 3 isoform X7 [Mus musculus],best_score:2095.0,evalue:0.0,length:4145
+gi:755528853,ref_number:XP_011240844.1,annotation: PREDICTED: protocadherin Fat 3 isoform X5 [Mus musculus],best_score:2095.0,evalue:0.0,length:4579
+gi:755528850,ref_number:XP_011240843.1,annotation: PREDICTED: protocadherin Fat 3 isoform X3 [Mus musculus],best_score:2095.0,evalue:0.0,length:4591
+gi:568954525,ref_number:XP_006509335.1,annotation: PREDICTED: protocadherin Fat 1 isoform X4 [Mus musculus],best_score:2094.0,evalue:0.0,length:4613
+gi:1039793347,ref_number:XP_017168887.1,annotation: PREDICTED: protocadherin Fat 3 isoform X2 [Mus musculus],best_score:2093.0,evalue:0.0,length:4599
+gi:568954521,ref_number:XP_006509333.1,annotation: PREDICTED: protocadherin Fat 1 isoform X2 [Mus musculus],best_score:2093.0,evalue:0.0,length:4625
+gi:755528856,ref_number:XP_011240845.1,annotation: PREDICTED: protocadherin Fat 3 isoform X1 [Mus musculus],best_score:2091.0,evalue:0.0,length:4611
+gi:568959586,ref_number:XP_006510436.1,annotation: PREDICTED: protocadherin Fat 3 isoform X6 [Mus musculus],best_score:2090.0,evalue:0.0,length:4556
+gi:568959584,ref_number:XP_006510435.1,annotation: PREDICTED: protocadherin Fat 3 isoform X4 [Mus musculus],best_score:2088.0,evalue:0.0,length:4588
+gi:124249105,ref_number:NP_001074283.1,annotation: protocadherin Fat 3 precursor [Mus musculus],best_score:2084.0,evalue:0.0,length:4551
+gi:71725377,ref_number:NP_001025159.1,annotation: protocadherin Fat 2 precursor [Mus musculus] >gi,best_score:1865.0,evalue:0.0,length:4351
+gi:755538628,ref_number:XP_011247321.1,annotation: PREDICTED: protocadherin Fat 2 isoform X2 [Mus musculus],best_score:1786.0,evalue:0.0,length:2963
+gi:1039732895,ref_number:XP_017169420.1,annotation: PREDICTED: cadherin-23 isoform X5 [Mus musculus],best_score:1157.0,evalue:2.52649e-144,length:235
+gi:568991234,ref_number:XP_006520443.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X2 [Mus musculus],best_score:1090.0,evalue:2.97681e-118,length:3038
+gi:568991232,ref_number:XP_006520442.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X1 [Mus musculus],best_score:1090.0,evalue:3.29638e-118,length:3039
+gi:568991236,ref_number:XP_006520444.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X3 [Mus musculus],best_score:1089.0,evalue:3.91826e-118,length:3032
+gi:115648153,ref_number:NP_034016.2,annotation: cadherin EGF LAG seven-pass G-type receptor 1 precursor [Mus musculus],best_score:1089.0,evalue:4.26901e-118,length:3034
+gi:114050897,ref_number:NP_001004177.2,annotation: cadherin EGF LAG seven-pass G-type receptor 2 isoform 2 precursor [Mus musculus],best_score:1059.0,evalue:1.08806e-114,length:2917
+gi:114050895,ref_number:NP_059088.2,annotation: cadherin EGF LAG seven-pass G-type receptor 2 isoform 1 precursor [Mus musculus],best_score:1059.0,evalue:1.39196e-114,length:2919
+gi:568923233,ref_number:XP_006501754.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X1 [Mus musculus],best_score:1058.0,evalue:1.59067e-114,length:2858
+gi:1039764647,ref_number:XP_017175138.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X2 [Mus musculus],best_score:1057.0,evalue:2.01224e-114,length:2856
+gi:568962739,ref_number:XP_006511689.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X6 [Mus musculus],best_score:936.0,evalue:1.41654e-100,length:2061
+gi:125719165,ref_number:NP_536685.2,annotation: cadherin EGF LAG seven-pass G-type receptor 3 precursor [Mus musculus],best_score:937.0,evalue:2.63585e-100,length:3301
+gi:568962728,ref_number:XP_006511684.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X1 [Mus musculus],best_score:937.0,evalue:3.07521e-100,length:3309
+gi:1039791912,ref_number:XP_017168585.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X2 [Mus musculus],best_score:936.0,evalue:3.37243e-100,length:3308
+gi:568962732,ref_number:XP_006511686.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X4 [Mus musculus],best_score:936.0,evalue:3.42401e-100,length:3303
+gi:568962730,ref_number:XP_006511685.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X3 [Mus musculus],best_score:936.0,evalue:3.42514e-100,length:3304
+gi:568962736,ref_number:XP_006511688.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X5 [Mus musculus],best_score:934.0,evalue:5.0952e-100,length:2745
+gi:282165827,ref_number:NP_001028536.2,annotation: cadherin-related family member 2 precursor [Mus musculus],best_score:712.0,evalue:4.53084e-75,length:1308
+gi:568987181,ref_number:XP_006518840.1,annotation: PREDICTED: protocadherin-9 isoform X4 [Mus musculus],best_score:682.0,evalue:1.62918e-72,length:1020
+gi:422744222,ref_number:NP_001258729.1,annotation: protocadherin-9 isoform d precursor [Mus musculus] >gi,best_score:684.0,evalue:4.46764e-72,length:1161
+gi:124487029,ref_number:NP_001074846.1,annotation: protocadherin-9 isoform a precursor [Mus musculus] >gi,best_score:684.0,evalue:7.03177e-72,length:1237
+gi:568966532,ref_number:XP_006513219.1,annotation: PREDICTED: protocadherin-15 isoform X3 [Mus musculus],best_score:690.0,evalue:7.93015e-72,length:1677
+gi:1092878831,ref_number:NP_001333651.1,annotation: protocadherin-9 isoform e precursor [Mus musculus],best_score:683.0,evalue:8.54419e-72,length:1195
+gi:585701545,ref_number:XP_006822896.1,annotation: PREDICTED: LOW QUALITY PROTEIN: cadherin-23 [Saccoglossus kowalevskii],best_score:3836.0,evalue:0.0,length:3713
+gi:585665611,ref_number:XP_006816965.1,annotation: PREDICTED: protein dachsous-like [Saccoglossus kowalevskii],best_score:2012.0,evalue:0.0,length:2708
+gi:585697328,ref_number:XP_006822364.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1980.0,evalue:0.0,length:3260
+gi:585683736,ref_number:XP_006812462.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1924.0,evalue:0.0,length:3525
+gi:585646285,ref_number:XP_006811702.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1918.0,evalue:0.0,length:4018
+gi:585648327,ref_number:XP_006814197.1,annotation: PREDICTED: protocadherin Fat 3-like [Saccoglossus kowalevskii],best_score:1864.0,evalue:0.0,length:3940
+gi:585683625,ref_number:XP_006812445.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1705.0,evalue:0.0,length:4050
+gi:585670187,ref_number:XP_002735779.2,annotation: PREDICTED: uncharacterized protein LOC100329017 [Saccoglossus kowalevskii],best_score:1595.0,evalue:1.11592e-177,length:7316
+gi:585719073,ref_number:XP_006825996.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1563.0,evalue:3.87893e-174,length:4096
+gi:291231670,ref_number:XP_002735781.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1501.0,evalue:1.42311e-167,length:2902
+gi:585719077,ref_number:XP_006825997.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1487.0,evalue:4.7278e-167,length:2406
+gi:291228270,ref_number:XP_002734103.1,annotation: PREDICTED: cadherin-23-like [Saccoglossus kowalevskii],best_score:1463.0,evalue:2.27774e-163,length:2680
+gi:585719081,ref_number:XP_006825998.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Saccoglossus kowalevskii],best_score:1406.0,evalue:7.89756e-156,length:3454
+gi:585670172,ref_number:XP_006817814.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1342.0,evalue:1.36497e-149,length:2295
+gi:585695260,ref_number:XP_006821987.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Saccoglossus kowalevskii],best_score:1323.0,evalue:3.21951e-147,length:2340
+gi:585663149,ref_number:XP_006816874.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1318.0,evalue:2.99741e-146,length:2455
+gi:585646289,ref_number:XP_002730888.2,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1223.0,evalue:5.3084e-135,length:2404
+gi:291221993,ref_number:XP_002731003.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:1110.0,evalue:5.54626e-122,length:2057
+gi:585707803,ref_number:XP_006824052.1,annotation: PREDICTED: cadherin-23-like, partial [Saccoglossus kowalevskii],best_score:1039.0,evalue:5.99531e-113,length:2636
+gi:585710355,ref_number:XP_006824531.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 [Saccoglossus kowalevskii],best_score:995.0,evalue:1.10933e-107,length:3095
+gi:585672644,ref_number:XP_006818278.1,annotation: PREDICTED: neural-cadherin-like [Saccoglossus kowalevskii],best_score:978.0,evalue:9.01968e-106,length:2656
+gi:585683732,ref_number:XP_006812461.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:902.0,evalue:4.58172e-101,length:1034
+gi:585650254,ref_number:XP_006814542.1,annotation: PREDICTED: cadherin-23-like [Saccoglossus kowalevskii],best_score:854.0,evalue:1.20103e-95,length:940
+gi:585670176,ref_number:XP_006817815.1,annotation: PREDICTED: protocadherin Fat 1-like [Saccoglossus kowalevskii],best_score:866.0,evalue:8.82065e-94,length:1516
+gi:585678623,ref_number:XP_006819360.1,annotation: PREDICTED: cadherin-related tumor suppressor-like [Saccoglossus kowalevskii],best_score:816.0,evalue:9.12515e-89,length:1228
+gi:585678629,ref_number:XP_006819362.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:796.0,evalue:1.19174e-84,length:2028
+gi:585717566,ref_number:XP_006825721.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:729.0,evalue:5.82061e-77,length:1802
+gi:585683496,ref_number:XP_006812420.1,annotation: PREDICTED: protocadherin-15-like [Saccoglossus kowalevskii],best_score:664.0,evalue:1.31682e-69,length:1373
+gi:291242993,ref_number:XP_002741390.1,annotation: PREDICTED: protocadherin-18-like [Saccoglossus kowalevskii],best_score:564.0,evalue:7.23881e-58,length:1257
+gi:585704468,ref_number:XP_002740246.2,annotation: PREDICTED: neural-cadherin-like isoform X1 [Saccoglossus kowalevskii] >gi,best_score:533.0,evalue:7.53687e-54,length:1965
+gi:585696789,ref_number:XP_006822265.1,annotation: PREDICTED: cadherin-related family member 1-like [Saccoglossus kowalevskii],best_score:475.0,evalue:2.65322e-49,length:612
+gi:585708138,ref_number:XP_006824116.1,annotation: PREDICTED: cadherin-related family member 1-like [Saccoglossus kowalevskii],best_score:479.0,evalue:3.62628e-49,length:713
+gi:585672640,ref_number:XP_006818277.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:474.0,evalue:3.97234e-47,length:1384
+gi:585713275,ref_number:XP_006825064.1,annotation: PREDICTED: protocadherin-like wing polarity protein stan-like, partial [Saccoglossus kowalevskii],best_score:399.0,evalue:4.96349e-42,length:321
+gi:585650262,ref_number:XP_006814544.1,annotation: PREDICTED: cadherin-23-like [Saccoglossus kowalevskii],best_score:399.0,evalue:1.97838e-40,length:486
+gi:585679469,ref_number:XP_006819520.1,annotation: PREDICTED: protocadherin-like wing polarity protein stan-like, partial [Saccoglossus kowalevskii],best_score:414.0,evalue:2.68977e-40,length:991
+gi:585665615,ref_number:XP_006816966.1,annotation: PREDICTED: protein dachsous-like [Saccoglossus kowalevskii],best_score:386.0,evalue:8.2622e-39,length:476
+gi:585652949,ref_number:XP_006815019.1,annotation: PREDICTED: protocadherin-like wing polarity protein stan-like, partial [Saccoglossus kowalevskii],best_score:388.0,evalue:2.88715e-37,length:916
+gi:291240672,ref_number:XP_002740242.1,annotation: PREDICTED: neural-cadherin-like [Saccoglossus kowalevskii],best_score:389.0,evalue:5.92062e-37,length:1645
+gi:585696793,ref_number:XP_006822266.1,annotation: PREDICTED: cadherin-related family member 1-like [Saccoglossus kowalevskii],best_score:368.0,evalue:6.21371e-36,length:561
+gi:585658874,ref_number:XP_006816087.1,annotation: PREDICTED: neural-cadherin-like [Saccoglossus kowalevskii],best_score:368.0,evalue:1.25887e-34,length:1414
+gi:585649897,ref_number:XP_006814472.1,annotation: PREDICTED: cadherin-related family member 1-like [Saccoglossus kowalevskii],best_score:289.0,evalue:8.25536e-27,length:405
+gi:585720101,ref_number:XP_006813023.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:284.0,evalue:2.01289e-25,length:586
+gi:269785153,ref_number:NP_001161532.1,annotation: FAT tumor suppressor-like protein [Saccoglossus kowalevskii],best_score:287.0,evalue:4.22201e-25,length:1331
+gi:585668098,ref_number:XP_006817437.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:279.0,evalue:4.24063e-24,length:2350
+gi:585668102,ref_number:XP_006817438.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:273.0,evalue:1.23895e-23,length:921
+gi:585694747,ref_number:XP_006821883.1,annotation: PREDICTED: uncharacterized protein LOC102808653 [Saccoglossus kowalevskii],best_score:274.0,evalue:1.28902e-23,length:1201
+gi:585668094,ref_number:XP_006817436.1,annotation: PREDICTED: uncharacterized protein LOC102809566 [Saccoglossus kowalevskii],best_score:270.0,evalue:5.68699e-23,length:3594
+gi:585667526,ref_number:XP_006817332.1,annotation: PREDICTED: protocadherin Fat 4-like [Saccoglossus kowalevskii],best_score:245.0,evalue:7.26225e-21,length:498
+gi:291234690,ref_number:XP_002737277.1,annotation: PREDICTED: protocadherin Fat 2-like [Saccoglossus kowalevskii],best_score:227.0,evalue:1.98752e-18,length:610
+gi:196006169,ref_number:XP_002112951.1,annotation: hypothetical protein TRIADDRAFT_25152 [Trichoplax adhaerens],best_score:2164.0,evalue:0.0,length:2391
+gi:196004380,ref_number:XP_002112057.1,annotation: hypothetical protein TRIADDRAFT_84 [Trichoplax adhaerens],best_score:1720.0,evalue:0.0,length:2004
+gi:196014155,ref_number:XP_002116937.1,annotation: hypothetical protein TRIADDRAFT_31660 [Trichoplax adhaerens],best_score:1049.0,evalue:6.21909e-115,length:2067
+gi:196016717,ref_number:XP_002118209.1,annotation: hypothetical protein TRIADDRAFT_62266 [Trichoplax adhaerens],best_score:880.0,evalue:1.56362e-94,length:3089
+gi:196012451,ref_number:XP_002116088.1,annotation: hypothetical protein TRIADDRAFT_10055 [Trichoplax adhaerens],best_score:789.0,evalue:5.90539e-87,length:1027
+gi:196009019,ref_number:XP_002114375.1,annotation: hypothetical protein TRIADDRAFT_58116 [Trichoplax adhaerens],best_score:368.0,evalue:2.4315e-36,length:552
+gi:196009348,ref_number:XP_002114539.1,annotation: hypothetical protein TRIADDRAFT_4071 [Trichoplax adhaerens],best_score:320.0,evalue:2.14461e-32,length:272
+gi:196006606,ref_number:XP_002113169.1,annotation: hypothetical protein TRIADDRAFT_57050 [Trichoplax adhaerens],best_score:167.0,evalue:2.56672e-11,length:2647
+gi:196014147,ref_number:XP_002116933.1,annotation: hypothetical protein TRIADDRAFT_8508 [Trichoplax adhaerens],best_score:144.0,evalue:5.78819e-11,length:84
+gi:754345555,ref_number:XP_011270174.1,annotation: hypothetical protein CAOG_08574 [Capsaspora owczarzaki ATCC 30864],best_score:208.0,evalue:4.46707e-16,length:2208
+gi:676459786,ref_number:XP_009055414.1,annotation: hypothetical protein LOTGIDRAFT_105163 [Lottia gigantea],best_score:2265.0,evalue:0.0,length:4946
+gi:676460562,ref_number:XP_009055664.1,annotation: hypothetical protein LOTGIDRAFT_104487 [Lottia gigantea],best_score:2151.0,evalue:0.0,length:4389
+gi:676446766,ref_number:XP_009051188.1,annotation: hypothetical protein LOTGIDRAFT_174335 [Lottia gigantea],best_score:1957.0,evalue:0.0,length:2825
+gi:676474501,ref_number:XP_009060166.1,annotation: hypothetical protein LOTGIDRAFT_154208 [Lottia gigantea],best_score:1849.0,evalue:0.0,length:3004
+gi:676480283,ref_number:XP_009062011.1,annotation: hypothetical protein LOTGIDRAFT_154544 [Lottia gigantea],best_score:1525.0,evalue:3.00486e-174,length:1934
+gi:676471922,ref_number:XP_009059329.1,annotation: hypothetical protein LOTGIDRAFT_164541 [Lottia gigantea],best_score:1277.0,evalue:1.40701e-142,length:2032
+gi:676471919,ref_number:XP_009059328.1,annotation: hypothetical protein LOTGIDRAFT_124131, partial [Lottia gigantea],best_score:1196.0,evalue:6.21062e-137,length:1286
+gi:676461846,ref_number:XP_009056075.1,annotation: hypothetical protein LOTGIDRAFT_161953 [Lottia gigantea],best_score:1144.0,evalue:5.66176e-126,length:2163
+gi:676472056,ref_number:XP_009059372.1,annotation: hypothetical protein LOTGIDRAFT_164592 [Lottia gigantea],best_score:1145.0,evalue:1.56985e-125,length:2675
+gi:676480289,ref_number:XP_009062013.1,annotation: hypothetical protein LOTGIDRAFT_229249 [Lottia gigantea],best_score:1127.0,evalue:1.107e-124,length:1893
+gi:676490038,ref_number:XP_009065140.1,annotation: hypothetical protein LOTGIDRAFT_229554 [Lottia gigantea],best_score:1131.0,evalue:1.21416e-123,length:3166
+gi:676472050,ref_number:XP_009059370.1,annotation: hypothetical protein LOTGIDRAFT_164590, partial [Lottia gigantea],best_score:1079.0,evalue:5.61973e-119,length:1827
+gi:676472059,ref_number:XP_009059373.1,annotation: hypothetical protein LOTGIDRAFT_164593 [Lottia gigantea],best_score:1043.0,evalue:5.52559e-114,length:2100
+gi:676480286,ref_number:XP_009062012.1,annotation: hypothetical protein LOTGIDRAFT_229248 [Lottia gigantea],best_score:980.0,evalue:7.63335e-107,length:1844
+gi:676428893,ref_number:XP_009045423.1,annotation: hypothetical protein LOTGIDRAFT_230236 [Lottia gigantea],best_score:912.0,evalue:1.25518e-100,length:1292
+gi:676472053,ref_number:XP_009059371.1,annotation: hypothetical protein LOTGIDRAFT_234028 [Lottia gigantea],best_score:930.0,evalue:1.84508e-100,length:2205
+gi:676482638,ref_number:XP_009062767.1,annotation: hypothetical protein LOTGIDRAFT_167053 [Lottia gigantea],best_score:918.0,evalue:8.62679e-99,length:2740
+gi:676454421,ref_number:XP_009053675.1,annotation: hypothetical protein LOTGIDRAFT_231995 [Lottia gigantea],best_score:917.0,evalue:1.10654e-98,length:2762
+gi:676459332,ref_number:XP_009055266.1,annotation: hypothetical protein LOTGIDRAFT_71692, partial [Lottia gigantea],best_score:632.0,evalue:1.14639e-68,length:736
+gi:676435214,ref_number:XP_009047484.1,annotation: hypothetical protein LOTGIDRAFT_139015 [Lottia gigantea],best_score:615.0,evalue:2.39127e-65,length:907
+gi:676459335,ref_number:XP_009055267.1,annotation: hypothetical protein LOTGIDRAFT_71700, partial [Lottia gigantea],best_score:599.0,evalue:4.80289e-65,length:654
+gi:676434093,ref_number:XP_009047114.1,annotation: hypothetical protein LOTGIDRAFT_52062, partial [Lottia gigantea],best_score:601.0,evalue:3.43893e-64,length:798
+gi:676459298,ref_number:XP_009055256.1,annotation: hypothetical protein LOTGIDRAFT_51526, partial [Lottia gigantea],best_score:595.0,evalue:1.86965e-63,length:797
+gi:676459341,ref_number:XP_009055269.1,annotation: hypothetical protein LOTGIDRAFT_71708, partial [Lottia gigantea],best_score:574.0,evalue:1.46724e-61,length:689
+gi:676459338,ref_number:XP_009055268.1,annotation: hypothetical protein LOTGIDRAFT_71703, partial [Lottia gigantea],best_score:570.0,evalue:1.59269e-61,length:633
+gi:676461843,ref_number:XP_009056074.1,annotation: hypothetical protein LOTGIDRAFT_161952 [Lottia gigantea],best_score:594.0,evalue:2.30983e-61,length:1360
+gi:676440651,ref_number:XP_009049245.1,annotation: hypothetical protein LOTGIDRAFT_51965, partial [Lottia gigantea],best_score:577.0,evalue:3.18601e-61,length:791
+gi:676460316,ref_number:XP_009055583.1,annotation: hypothetical protein LOTGIDRAFT_105112 [Lottia gigantea],best_score:579.0,evalue:8.99412e-61,length:909
+gi:676448741,ref_number:XP_009051830.1,annotation: hypothetical protein LOTGIDRAFT_62221, partial [Lottia gigantea],best_score:557.0,evalue:4.50161e-60,length:602
+gi:676460307,ref_number:XP_009055580.1,annotation: hypothetical protein LOTGIDRAFT_104632 [Lottia gigantea],best_score:561.0,evalue:1.53902e-58,length:919
+gi:676435217,ref_number:XP_009047485.1,annotation: hypothetical protein LOTGIDRAFT_139034 [Lottia gigantea],best_score:545.0,evalue:2.23797e-56,length:958
+gi:676459370,ref_number:XP_009055278.1,annotation: hypothetical protein LOTGIDRAFT_82027, partial [Lottia gigantea],best_score:533.0,evalue:6.87703e-56,length:741
+gi:676459301,ref_number:XP_009055257.1,annotation: hypothetical protein LOTGIDRAFT_51683, partial [Lottia gigantea],best_score:525.0,evalue:1.3423e-54,length:797
+gi:676458681,ref_number:XP_009055055.1,annotation: hypothetical protein LOTGIDRAFT_161417 [Lottia gigantea],best_score:536.0,evalue:1.93489e-54,length:1491
+gi:676458663,ref_number:XP_009055049.1,annotation: hypothetical protein LOTGIDRAFT_232460 [Lottia gigantea],best_score:521.0,evalue:1.36913e-52,length:1538
+gi:676460310,ref_number:XP_009055581.1,annotation: hypothetical protein LOTGIDRAFT_104890 [Lottia gigantea],best_score:498.0,evalue:3.5039e-51,length:793
+gi:676469820,ref_number:XP_009058655.1,annotation: hypothetical protein LOTGIDRAFT_123092, partial [Lottia gigantea],best_score:490.0,evalue:8.03174e-51,length:675
+gi:676461897,ref_number:XP_009056092.1,annotation: hypothetical protein LOTGIDRAFT_232792 [Lottia gigantea],best_score:500.0,evalue:5.82634e-50,length:2279
+gi:676446754,ref_number:XP_009051184.1,annotation: hypothetical protein LOTGIDRAFT_143094 [Lottia gigantea],best_score:469.0,evalue:1.13959e-48,length:604
+gi:676460313,ref_number:XP_009055582.1,annotation: hypothetical protein LOTGIDRAFT_105110 [Lottia gigantea],best_score:462.0,evalue:1.28579e-46,length:831
+gi:676432530,ref_number:XP_009046604.1,annotation: hypothetical protein LOTGIDRAFT_62427, partial [Lottia gigantea],best_score:414.0,evalue:9.09112e-42,length:579
+gi:676460196,ref_number:XP_009055544.1,annotation: hypothetical protein LOTGIDRAFT_209451 [Lottia gigantea],best_score:418.0,evalue:1.88357e-41,length:743
+gi:676474819,ref_number:XP_009060267.1,annotation: hypothetical protein LOTGIDRAFT_106548, partial [Lottia gigantea],best_score:312.0,evalue:4.74421e-30,length:381
+gi:676480280,ref_number:XP_009062010.1,annotation: hypothetical protein LOTGIDRAFT_229247 [Lottia gigantea],best_score:312.0,evalue:6.30272e-29,length:572
+gi:676457133,ref_number:XP_009054550.1,annotation: hypothetical protein LOTGIDRAFT_232259 [Lottia gigantea],best_score:303.0,evalue:4.37243e-27,length:1183
+gi:676439978,ref_number:XP_009049026.1,annotation: hypothetical protein LOTGIDRAFT_238618 [Lottia gigantea],best_score:300.0,evalue:4.5567e-27,length:765
+gi:676451881,ref_number:XP_009052851.1,annotation: hypothetical protein LOTGIDRAFT_159914 [Lottia gigantea],best_score:292.0,evalue:7.12429e-26,length:1021
+gi:676490041,ref_number:XP_009065141.1,annotation: hypothetical protein LOTGIDRAFT_229555 [Lottia gigantea],best_score:278.0,evalue:8.26299e-25,length:548
+gi:676432644,ref_number:XP_009046641.1,annotation: hypothetical protein LOTGIDRAFT_171821 [Lottia gigantea],best_score:244.0,evalue:4.36296e-20,length:2147
+gi:676480598,ref_number:XP_009062112.1,annotation: hypothetical protein LOTGIDRAFT_107411, partial [Lottia gigantea],best_score:226.0,evalue:1.94032e-19,length:312
+gi:957816907,ref_number:XP_014662007.1,annotation: PREDICTED: cadherin-related tumor suppressor-like, partial [Priapulus caudatus],best_score:1493.0,evalue:1.0399e-172,length:1603
+gi:957816909,ref_number:XP_014662017.1,annotation: PREDICTED: cadherin-related tumor suppressor-like [Priapulus caudatus],best_score:1450.0,evalue:3.46064e-161,length:3276
+gi:957862532,ref_number:XP_014679629.1,annotation: PREDICTED: cadherin-23-like [Priapulus caudatus],best_score:912.0,evalue:2.20897e-99,length:1565
+gi:957854539,ref_number:XP_014676997.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin Fat 1-like, partial [Priapulus caudatus],best_score:857.0,evalue:1.1107e-91,length:2505
+gi:957816073,ref_number:XP_014664051.1,annotation: PREDICTED: neural-cadherin-like [Priapulus caudatus],best_score:781.0,evalue:8.14947e-83,length:2524
+gi:957860325,ref_number:XP_014678894.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin-9-like [Priapulus caudatus],best_score:599.0,evalue:3.34566e-64,length:772
+gi:957830899,ref_number:XP_014665412.1,annotation: PREDICTED: protocadherin-11 X-linked-like, partial [Priapulus caudatus],best_score:595.0,evalue:6.62489e-63,length:884
+gi:957854413,ref_number:XP_014676956.1,annotation: PREDICTED: fat-like cadherin-related tumor suppressor homolog, partial [Priapulus caudatus],best_score:552.0,evalue:3.79181e-58,length:763
+gi:957848855,ref_number:XP_014674949.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin-9-like [Priapulus caudatus],best_score:520.0,evalue:5.4472e-53,length:1046
+gi:957844497,ref_number:XP_014672648.1,annotation: PREDICTED: protein dachsous-like [Priapulus caudatus],best_score:460.0,evalue:1.64786e-45,length:1371
+gi:957858907,ref_number:XP_014678446.1,annotation: PREDICTED: protocadherin Fat 4-like [Priapulus caudatus],best_score:432.0,evalue:2.94056e-42,length:1251
+gi:957853243,ref_number:XP_014676573.1,annotation: PREDICTED: cadherin-23-like [Priapulus caudatus],best_score:407.0,evalue:4.65965e-42,length:431
+gi:957851372,ref_number:XP_014675945.1,annotation: PREDICTED: protocadherin-16-like, partial [Priapulus caudatus],best_score:347.0,evalue:1.70975e-34,length:403
+gi:957861241,ref_number:XP_014679222.1,annotation: PREDICTED: cadherin-related family member 1-like, partial [Priapulus caudatus],best_score:307.0,evalue:1.8454e-29,length:377
+gi:957822083,ref_number:XP_014681386.1,annotation: PREDICTED: protocadherin Fat 3-like isoform X3 [Priapulus caudatus],best_score:311.0,evalue:4.53259e-28,length:1152
+gi:957822077,ref_number:XP_014681382.1,annotation: PREDICTED: protocadherin Fat 3-like isoform X1 [Priapulus caudatus] >gi,best_score:310.0,evalue:5.65139e-28,length:1174
+gi:957822081,ref_number:XP_014681385.1,annotation: PREDICTED: protocadherin Fat 3-like isoform X2 [Priapulus caudatus],best_score:310.0,evalue:5.76969e-28,length:1168
+gi:957861253,ref_number:XP_014679226.1,annotation: PREDICTED: cadherin-related family member 1-like [Priapulus caudatus],best_score:275.0,evalue:1.59332e-25,length:353
+gi:957829799,ref_number:XP_014664826.1,annotation: PREDICTED: cadherin-23-like [Priapulus caudatus],best_score:280.0,evalue:1.18216e-24,length:773
+gi:957822085,ref_number:XP_014681387.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X4 [Priapulus caudatus],best_score:281.0,evalue:1.71631e-24,length:1139
+gi:957861507,ref_number:XP_014679303.1,annotation: PREDICTED: cadherin-23-like, partial [Priapulus caudatus],best_score:269.0,evalue:4.54912e-24,length:448
+gi:957857958,ref_number:XP_014678138.1,annotation: PREDICTED: protocadherin-like wing polarity protein stan, partial [Priapulus caudatus],best_score:226.0,evalue:7.26728e-19,length:416
+gi:957861235,ref_number:XP_014679221.1,annotation: PREDICTED: cadherin-87A-like [Priapulus caudatus],best_score:189.0,evalue:4.297e-16,length:144
+gi:957861342,ref_number:XP_014679258.1,annotation: PREDICTED: protocadherin Fat 1-like, partial [Priapulus caudatus],best_score:185.0,evalue:8.62757e-15,length:219
+gi:957864967,ref_number:XP_014680392.1,annotation: PREDICTED: protocadherin gamma-B4-like, partial [Priapulus caudatus],best_score:177.0,evalue:1.30608e-14,length:132
+gi:957857070,ref_number:XP_014677832.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like [Priapulus caudatus],best_score:178.0,evalue:3.29317e-14,length:183
+gi:957864681,ref_number:XP_014680294.1,annotation: PREDICTED: protocadherin beta-3-like, partial [Priapulus caudatus],best_score:139.0,evalue:1.2962e-09,length:126
+gi:957862974,ref_number:XP_014679769.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like, partial [Priapulus caudatus],best_score:137.0,evalue:3.74512e-09,length:140
+gi:957854846,ref_number:XP_014677090.1,annotation: PREDICTED: cadherin-87A-like [Priapulus caudatus],best_score:142.0,evalue:6.77859e-09,length:284
+gi:957846257,ref_number:XP_014673587.1,annotation: PREDICTED: cadherin-23-like, partial [Priapulus caudatus],best_score:109.0,evalue:9.97799e-06,length:115
+gi:961116161,ref_number:XP_014780822.1,annotation: PREDICTED: protocadherin Fat 1-like, partial [Octopus bimaculoides],best_score:2057.0,evalue:0.0,length:4314
+gi:961100189,ref_number:XP_014775136.1,annotation: PREDICTED: protein dachsous-like [Octopus bimaculoides],best_score:1939.0,evalue:0.0,length:2716
+gi:961069049,ref_number:XP_014770790.1,annotation: PREDICTED: cadherin-related tumor suppressor-like, partial [Octopus bimaculoides],best_score:1511.0,evalue:1.60681e-173,length:1772
+gi:961140534,ref_number:XP_014789284.1,annotation: PREDICTED: cadherin-related tumor suppressor-like [Octopus bimaculoides],best_score:1439.0,evalue:6.46824e-160,length:3003
+gi:961111469,ref_number:XP_014779065.1,annotation: PREDICTED: protocadherin Fat 4-like [Octopus bimaculoides],best_score:1288.0,evalue:3.08308e-142,length:2810
+gi:961087927,ref_number:XP_014770934.1,annotation: PREDICTED: cadherin-23-like [Octopus bimaculoides],best_score:1201.0,evalue:2.3662e-137,length:1305
+gi:961092262,ref_number:XP_014772442.1,annotation: PREDICTED: cadherin-87A-like [Octopus bimaculoides],best_score:1075.0,evalue:1.17668e-118,length:1758
+gi:961126330,ref_number:XP_014784345.1,annotation: PREDICTED: cadherin-87A-like [Octopus bimaculoides],best_score:970.0,evalue:2.99843e-106,length:1606
+gi:961119182,ref_number:XP_014781876.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Octopus bimaculoides],best_score:911.0,evalue:7.86748e-98,length:3092
+gi:961119185,ref_number:XP_014781877.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Octopus bimaculoides],best_score:911.0,evalue:8.11814e-98,length:3086
+gi:961119191,ref_number:XP_014781879.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X4 [Octopus bimaculoides],best_score:909.0,evalue:1.25902e-97,length:3025
+gi:961119188,ref_number:XP_014781878.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like isoform X3 [Octopus bimaculoides],best_score:909.0,evalue:1.31371e-97,length:3026
+gi:961119194,ref_number:XP_014781880.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X5 [Octopus bimaculoides],best_score:908.0,evalue:1.70075e-97,length:3019
+gi:961076356,ref_number:XP_014790893.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X3 [Octopus bimaculoides],best_score:869.0,evalue:2.84881e-93,length:2008
+gi:961076353,ref_number:XP_014790892.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X2 [Octopus bimaculoides],best_score:869.0,evalue:3.33058e-93,length:2014
+gi:961076350,ref_number:XP_014790890.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X1 [Octopus bimaculoides],best_score:868.0,evalue:3.7237e-93,length:2019
+gi:961107238,ref_number:XP_014777593.1,annotation: PREDICTED: protocadherin Fat 1-like, partial [Octopus bimaculoides],best_score:873.0,evalue:3.98738e-93,length:5454
+gi:961076359,ref_number:XP_014790894.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X4 [Octopus bimaculoides],best_score:867.0,evalue:4.4314e-93,length:2003
+gi:961142210,ref_number:XP_014789865.1,annotation: PREDICTED: protocadherin Fat 1-like, partial [Octopus bimaculoides],best_score:846.0,evalue:2.6014e-90,length:2349
+gi:961075023,ref_number:XP_014790448.1,annotation: PREDICTED: neural-cadherin-like, partial [Octopus bimaculoides],best_score:698.0,evalue:3.14544e-73,length:1743
+gi:961070026,ref_number:XP_014774158.1,annotation: PREDICTED: protocadherin-9-like [Octopus bimaculoides],best_score:635.0,evalue:1.22087e-67,length:919
+gi:961119952,ref_number:XP_014782137.1,annotation: PREDICTED: protocadherin Fat 4-like [Octopus bimaculoides],best_score:641.0,evalue:1.84997e-66,length:2008
+gi:961127207,ref_number:XP_014784648.1,annotation: PREDICTED: protocadherin-11 X-linked-like isoform X2 [Octopus bimaculoides],best_score:543.0,evalue:3.88501e-56,length:913
+gi:961127204,ref_number:XP_014784647.1,annotation: PREDICTED: protocadherin-11 X-linked-like isoform X1 [Octopus bimaculoides],best_score:542.0,evalue:1.87487e-55,length:1119
+gi:961099534,ref_number:XP_014774907.1,annotation: PREDICTED: protocadherin-11 X-linked-like isoform X5 [Octopus bimaculoides],best_score:535.0,evalue:6.46027e-55,length:965
+gi:961099537,ref_number:XP_014774908.1,annotation: PREDICTED: protocadherin-11 X-linked-like isoform X6 [Octopus bimaculoides],best_score:533.0,evalue:8.46749e-55,length:960
+gi:961099531,ref_number:XP_014774906.1,annotation: PREDICTED: protocadherin-11 X-linked-like isoform X4 [Octopus bimaculoides],best_score:533.0,evalue:1.6192e-54,length:1038
+gi:961099528,ref_number:XP_014774905.1,annotation: PREDICTED: protocadherin gamma-A3-like isoform X3 [Octopus bimaculoides],best_score:533.0,evalue:2.14772e-54,length:1111
+gi:961099525,ref_number:XP_014774904.1,annotation: PREDICTED: protocadherin gamma-A3-like isoform X2 [Octopus bimaculoides],best_score:533.0,evalue:2.65054e-54,length:1125
+gi:961140564,ref_number:XP_014789295.1,annotation: PREDICTED: protocadherin beta-13-like isoform X2 [Octopus bimaculoides],best_score:525.0,evalue:4.13079e-54,length:860
+gi:961140561,ref_number:XP_014789294.1,annotation: PREDICTED: protocadherin beta-13-like isoform X1 [Octopus bimaculoides],best_score:525.0,evalue:4.63191e-54,length:873
+gi:961099522,ref_number:XP_014774903.1,annotation: PREDICTED: protocadherin gamma-A3-like isoform X1 [Octopus bimaculoides],best_score:532.0,evalue:4.84892e-54,length:1203
+gi:961140567,ref_number:XP_014789296.1,annotation: PREDICTED: protocadherin gamma-A4-like isoform X3 [Octopus bimaculoides],best_score:522.0,evalue:5.38842e-54,length:817
+gi:961069922,ref_number:XP_014773796.1,annotation: PREDICTED: protocadherin-11 X-linked-like [Octopus bimaculoides],best_score:524.0,evalue:1.16262e-53,length:944
+gi:961113120,ref_number:XP_014779638.1,annotation: PREDICTED: protocadherin beta-15-like, partial [Octopus bimaculoides],best_score:487.0,evalue:1.88587e-49,length:854
+gi:961099391,ref_number:XP_014774859.1,annotation: PREDICTED: protocadherin-18-like isoform X2 [Octopus bimaculoides],best_score:475.0,evalue:3.49979e-48,length:796
+gi:961099394,ref_number:XP_014774860.1,annotation: PREDICTED: protocadherin-18-like isoform X3 [Octopus bimaculoides],best_score:474.0,evalue:4.28239e-48,length:792
+gi:961099388,ref_number:XP_014774858.1,annotation: PREDICTED: putative protocadherin beta-18 isoform X1 [Octopus bimaculoides],best_score:475.0,evalue:9.44809e-48,length:933
+gi:961099322,ref_number:XP_014774837.1,annotation: PREDICTED: uncharacterized protein LOC106872378 [Octopus bimaculoides],best_score:477.0,evalue:3.9397e-47,length:2719
+gi:961102656,ref_number:XP_014776008.1,annotation: PREDICTED: putative protocadherin beta-18 isoform X7 [Octopus bimaculoides],best_score:466.0,evalue:5.17643e-47,length:810
+gi:961102644,ref_number:XP_014776003.1,annotation: PREDICTED: putative protocadherin beta-18 isoform X3 [Octopus bimaculoides],best_score:466.0,evalue:6.67905e-47,length:836
+gi:961093197,ref_number:XP_014772753.1,annotation: PREDICTED: protocadherin beta-2-like [Octopus bimaculoides],best_score:467.0,evalue:1.207e-46,length:991
+gi:961120274,ref_number:XP_014782248.1,annotation: PREDICTED: protocadherin beta-15-like isoform X1 [Octopus bimaculoides],best_score:461.0,evalue:3.80299e-46,length:867
+gi:961120278,ref_number:XP_014782249.1,annotation: PREDICTED: protocadherin-11 X-linked-like isoform X2 [Octopus bimaculoides],best_score:459.0,evalue:4.03694e-46,length:829
+gi:961082106,ref_number:XP_014768892.1,annotation: PREDICTED: protocadherin beta-4-like [Octopus bimaculoides],best_score:460.0,evalue:5.23648e-46,length:876
+gi:961128824,ref_number:XP_014785206.1,annotation: PREDICTED: protein dachsous-like, partial [Octopus bimaculoides],best_score:451.0,evalue:5.70544e-46,length:646
+gi:961078659,ref_number:XP_014767708.1,annotation: PREDICTED: protocadherin gamma-A10-like isoform X3 [Octopus bimaculoides],best_score:457.0,evalue:5.75448e-46,length:806
+gi:961078661,ref_number:XP_014767709.1,annotation: PREDICTED: protocadherin gamma-A10-like isoform X4 [Octopus bimaculoides],best_score:456.0,evalue:8.36474e-46,length:797
+gi:961135465,ref_number:XP_014787538.1,annotation: PREDICTED: protocadherin-17-like isoform X2 [Octopus bimaculoides],best_score:456.0,evalue:8.50117e-46,length:815
+gi:961099307,ref_number:XP_014774831.1,annotation: PREDICTED: uncharacterized protein LOC106872373 [Octopus bimaculoides],best_score:465.0,evalue:8.57941e-46,length:1978
+gi:1133449996,ref_number:XP_011407489.2,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:2100.0,evalue:0.0,length:4222
+gi:1133460344,ref_number:XP_019851325.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:2059.0,evalue:0.0,length:7157
+gi:1133456359,ref_number:XP_019849856.1,annotation: PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score:1798.0,evalue:0.0,length:2929
+gi:761902972,ref_number:XP_011409706.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica] >gi,best_score:1551.0,evalue:5.63564e-173,length:3368
+gi:340372651,ref_number:XP_003384857.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:1359.0,evalue:6.20423e-150,length:5831
+gi:1133469689,ref_number:XP_019854931.1,annotation: PREDICTED: cadherin-23, partial [Amphimedon queenslandica],best_score:1337.0,evalue:1.53276e-147,length:4212
+gi:1133460441,ref_number:XP_011403606.2,annotation: PREDICTED: uncharacterized protein LOC105312562 [Amphimedon queenslandica],best_score:1110.0,evalue:9.77265e-121,length:9044
+gi:1133477134,ref_number:XP_011406816.2,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:915.0,evalue:2.59732e-98,length:3005
+gi:340379309,ref_number:XP_003388169.1,annotation: PREDICTED: protocadherin Fat 4 [Amphimedon queenslandica],best_score:873.0,evalue:1.60286e-93,length:2416
+gi:1133454584,ref_number:XP_011410447.2,annotation: PREDICTED: uncharacterized protein LOC105316885 [Amphimedon queenslandica],best_score:837.0,evalue:5.66045e-89,length:5650
+gi:1133459127,ref_number:XP_019850869.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:833.0,evalue:1.61494e-88,length:5185
+gi:1133461122,ref_number:XP_019851623.1,annotation: PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score:814.0,evalue:1.26092e-86,length:2407
+gi:1133491143,ref_number:XP_011408723.2,annotation: PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score:643.0,evalue:1.12824e-68,length:930
+gi:1133462033,ref_number:XP_011403950.2,annotation: PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score:612.0,evalue:2.96715e-63,length:1549
+gi:1133460434,ref_number:XP_019851361.1,annotation: PREDICTED: protocadherin-16-like, partial [Amphimedon queenslandica],best_score:532.0,evalue:3.05191e-54,length:1130
+gi:1133490791,ref_number:XP_011408651.2,annotation: PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score:410.0,evalue:7.76815e-40,length:995
+gi:1133451519,ref_number:XP_019862670.1,annotation: PREDICTED: protocadherin alpha-12-like [Amphimedon queenslandica] >gi,best_score:393.0,evalue:1.35074e-37,length:1315
+gi:1133494371,ref_number:XP_011409268.2,annotation: PREDICTED: protocadherin gamma-A4-like, partial [Amphimedon queenslandica],best_score:367.0,evalue:3.53789e-36,length:502
+gi:1133469726,ref_number:XP_011405435.2,annotation: PREDICTED: uncharacterized protein LOC105313586 [Amphimedon queenslandica],best_score:347.0,evalue:4.18671e-32,length:1695
+gi:1133454538,ref_number:XP_019849207.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score:337.0,evalue:9.25769e-31,length:3314
+gi:1133486406,ref_number:XP_019864165.1,annotation: PREDICTED: protocadherin gamma-A2-like, partial [Amphimedon queenslandica],best_score:252.0,evalue:4.3354e-24,length:176
+gi:1133494781,ref_number:XP_011409312.2,annotation: PREDICTED: protocadherin-11 X-linked-like, partial [Amphimedon queenslandica],best_score:257.0,evalue:2.56407e-22,length:477
+gi:1133486608,ref_number:XP_019864228.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3-like, partial [Amphimedon queenslandica],best_score:235.0,evalue:6.49667e-21,length:263
+gi:1133456690,ref_number:XP_019849969.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Amphimedon queenslandica],best_score:210.0,evalue:5.08018e-16,length:2825
+gi:1133456692,ref_number:XP_019849970.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Amphimedon queenslandica],best_score:210.0,evalue:5.8575e-16,length:2821
+gi:1133459129,ref_number:XP_019850870.1,annotation: PREDICTED: uncharacterized protein LOC109581301 [Amphimedon queenslandica],best_score:130.0,evalue:9.74707e-07,length:1207
+gi:1133459828,ref_number:XP_019851134.1,annotation: PREDICTED: uncharacterized protein LOC109581456 [Amphimedon queenslandica],best_score:127.0,evalue:2.43087e-06,length:1735
+gi:156382383,ref_number:XP_001632533.1,annotation: predicted protein [Nematostella vectensis],best_score:2335.0,evalue:0.0,length:2676
+gi:156398552,ref_number:XP_001638252.1,annotation: predicted protein [Nematostella vectensis],best_score:2165.0,evalue:0.0,length:1852
+gi:156386258,ref_number:XP_001633830.1,annotation: predicted protein [Nematostella vectensis],best_score:1990.0,evalue:0.0,length:4187
+gi:156351334,ref_number:XP_001622464.1,annotation: predicted protein [Nematostella vectensis],best_score:1825.0,evalue:0.0,length:2058
+gi:156406024,ref_number:XP_001641031.1,annotation: predicted protein [Nematostella vectensis],best_score:1728.0,evalue:0.0,length:4697
+gi:156399515,ref_number:XP_001638547.1,annotation: predicted protein [Nematostella vectensis],best_score:1637.0,evalue:0.0,length:3186
+gi:156368055,ref_number:XP_001627512.1,annotation: predicted protein [Nematostella vectensis],best_score:1582.0,evalue:0.0,length:1677
+gi:156379093,ref_number:XP_001631293.1,annotation: predicted protein [Nematostella vectensis],best_score:1614.0,evalue:2.51315e-180,length:4354
+gi:156399381,ref_number:XP_001638480.1,annotation: predicted protein [Nematostella vectensis],best_score:1520.0,evalue:2.47681e-169,length:3766
+gi:156399383,ref_number:XP_001638481.1,annotation: predicted protein [Nematostella vectensis],best_score:1402.0,evalue:5.09586e-159,length:1888
+gi:156383896,ref_number:XP_001633068.1,annotation: predicted protein [Nematostella vectensis],best_score:1357.0,evalue:3.6512e-155,length:1610
+gi:156383976,ref_number:XP_001633108.1,annotation: predicted protein [Nematostella vectensis],best_score:1336.0,evalue:1.44832e-147,length:4639
+gi:156368057,ref_number:XP_001627513.1,annotation: predicted protein [Nematostella vectensis],best_score:1141.0,evalue:7.74612e-127,length:1781
+gi:156365971,ref_number:XP_001626915.1,annotation: predicted protein [Nematostella vectensis],best_score:1062.0,evalue:8.02732e-124,length:850
+gi:156404209,ref_number:XP_001640300.1,annotation: predicted protein [Nematostella vectensis],best_score:943.0,evalue:7.43489e-102,length:2493
+gi:156361307,ref_number:XP_001625459.1,annotation: predicted protein [Nematostella vectensis],best_score:859.0,evalue:1.72696e-97,length:814
+gi:156379563,ref_number:XP_001631526.1,annotation: predicted protein [Nematostella vectensis],best_score:860.0,evalue:4.14837e-97,length:868
+gi:156365975,ref_number:XP_001626917.1,annotation: predicted protein [Nematostella vectensis],best_score:719.0,evalue:2.66932e-78,length:943
+gi:156347842,ref_number:XP_001621773.1,annotation: hypothetical protein NEMVEDRAFT_v1g221587 [Nematostella vectensis],best_score:715.0,evalue:2.0331e-77,length:1012
+gi:156361309,ref_number:XP_001625460.1,annotation: predicted protein [Nematostella vectensis],best_score:590.0,evalue:6.03814e-66,length:460
+gi:156365973,ref_number:XP_001626916.1,annotation: predicted protein [Nematostella vectensis],best_score:590.0,evalue:9.12173e-66,length:471
+gi:156383974,ref_number:XP_001633107.1,annotation: predicted protein [Nematostella vectensis],best_score:603.0,evalue:5.14221e-63,length:1096
+gi:156361305,ref_number:XP_001625458.1,annotation: predicted protein [Nematostella vectensis],best_score:541.0,evalue:3.27347e-59,length:479
+gi:156371437,ref_number:XP_001628770.1,annotation: predicted protein [Nematostella vectensis],best_score:510.0,evalue:3.07272e-55,length:470
+gi:156365969,ref_number:XP_001626914.1,annotation: predicted protein [Nematostella vectensis],best_score:500.0,evalue:6.34696e-55,length:377
+gi:156311353,ref_number:XP_001617773.1,annotation: hypothetical protein NEMVEDRAFT_v1g48709 [Nematostella vectensis],best_score:446.0,evalue:3.93332e-48,length:347
+gi:156397095,ref_number:XP_001637727.1,annotation: predicted protein [Nematostella vectensis],best_score:441.0,evalue:1.8726e-45,length:550
+gi:156379561,ref_number:XP_001631525.1,annotation: predicted protein [Nematostella vectensis],best_score:426.0,evalue:2.85975e-44,length:459
+gi:156603040,ref_number:XP_001618766.1,annotation: hypothetical protein NEMVEDRAFT_v1g153449 [Nematostella vectensis],best_score:420.0,evalue:3.78106e-44,length:389
+gi:156390721,ref_number:XP_001635418.1,annotation: predicted protein [Nematostella vectensis],best_score:348.0,evalue:3.63779e-35,length:351
+gi:156351338,ref_number:XP_001622466.1,annotation: predicted protein [Nematostella vectensis],best_score:344.0,evalue:1.26007e-34,length:341
+gi:156333666,ref_number:XP_001619382.1,annotation: hypothetical protein NEMVEDRAFT_v1g4597 [Nematostella vectensis],best_score:247.0,evalue:1.26454e-23,length:175
+gi:156383900,ref_number:XP_001633070.1,annotation: predicted protein [Nematostella vectensis],best_score:246.0,evalue:1.45461e-22,length:257
+gi:156379559,ref_number:XP_001631524.1,annotation: predicted protein [Nematostella vectensis],best_score:221.0,evalue:4.30751e-20,length:180
+gi:156339187,ref_number:XP_001620105.1,annotation: hypothetical protein NEMVEDRAFT_v1g223469 [Nematostella vectensis],best_score:200.0,evalue:1.51193e-17,length:150
+gi:156363834,ref_number:XP_001626245.1,annotation: predicted protein [Nematostella vectensis],best_score:191.0,evalue:8.45696e-17,length:116
+gi:156382200,ref_number:XP_001632442.1,annotation: predicted protein [Nematostella vectensis],best_score:214.0,evalue:1.08376e-16,length:1003
+gi:156339537,ref_number:XP_001620191.1,annotation: hypothetical protein NEMVEDRAFT_v1g148827 [Nematostella vectensis],best_score:181.0,evalue:2.48703e-14,length:228
+gi:156307468,ref_number:XP_001617637.1,annotation: hypothetical protein NEMVEDRAFT_v1g225923 [Nematostella vectensis],best_score:162.0,evalue:5.36801e-13,length:107
+gi:156363832,ref_number:XP_001626244.1,annotation: predicted protein [Nematostella vectensis],best_score:161.0,evalue:1.24623e-12,length:119
+gi:156405044,ref_number:XP_001640542.1,annotation: predicted protein [Nematostella vectensis],best_score:160.0,evalue:2.45505e-12,length:136
+gi:156360905,ref_number:XP_001625263.1,annotation: predicted protein [Nematostella vectensis],best_score:171.0,evalue:6.09937e-12,length:491
+gi:156379565,ref_number:XP_001631527.1,annotation: predicted protein [Nematostella vectensis],best_score:154.0,evalue:7.10338e-12,length:104
+gi:156385274,ref_number:XP_001633556.1,annotation: predicted protein [Nematostella vectensis],best_score:169.0,evalue:1.79867e-11,length:738
+gi:156307405,ref_number:XP_001617626.1,annotation: hypothetical protein NEMVEDRAFT_v1g225928 [Nematostella vectensis],best_score:144.0,evalue:1.23479e-10,length:102
+gi:156363838,ref_number:XP_001626247.1,annotation: predicted protein [Nematostella vectensis],best_score:131.0,evalue:4.98528e-09,length:91
+gi:156358459,ref_number:XP_001624536.1,annotation: predicted protein [Nematostella vectensis],best_score:146.0,evalue:9.05026e-09,length:1362
+gi:156354326,ref_number:XP_001623348.1,annotation: predicted protein [Nematostella vectensis],best_score:142.0,evalue:2.15443e-08,length:593
+gi:156354330,ref_number:XP_001623350.1,annotation: predicted protein [Nematostella vectensis],best_score:138.0,evalue:4.54189e-08,length:389
+gi:156318733,ref_number:XP_001618103.1,annotation: hypothetical protein NEMVEDRAFT_v1g225510 [Nematostella vectensis],best_score:122.0,evalue:3.86646e-07,length:155
+gi:828214001,ref_number:XP_012559514.1,annotation: PREDICTED: protocadherin Fat 4-like [Hydra vulgaris],best_score:1809.0,evalue:0.0,length:2694
+gi:828211629,ref_number:XP_012558722.1,annotation: PREDICTED: protocadherin-like protein [Hydra vulgaris],best_score:1566.0,evalue:6.7661e-176,length:4431
+gi:828205881,ref_number:XP_012556768.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin Fat 4-like [Hydra vulgaris],best_score:1376.0,evalue:6.08466e-157,length:1884
+gi:828210350,ref_number:XP_012558268.1,annotation: PREDICTED: protocadherin Fat 1 [Hydra vulgaris],best_score:1147.0,evalue:1.12672e-126,length:4393
+gi:828233487,ref_number:XP_004212674.2,annotation: PREDICTED: protocadherin Fat 1, partial [Hydra vulgaris],best_score:1105.0,evalue:6.87976e-122,length:3565
+gi:449689758,ref_number:XP_004212135.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Hydra vulgaris],best_score:903.0,evalue:6.95141e-99,length:1883
+gi:828194136,ref_number:XP_012565243.1,annotation: PREDICTED: protocadherin-23-like [Hydra vulgaris],best_score:877.0,evalue:1.37337e-95,length:2059
+gi:828210029,ref_number:XP_002163241.3,annotation: PREDICTED: LOW QUALITY PROTEIN: cadherin EGF LAG seven-pass G-type receptor 2-like [Hydra vulgaris],best_score:716.0,evalue:1.76164e-76,length:2554
+gi:828203393,ref_number:XP_012555927.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like [Hydra vulgaris],best_score:566.0,evalue:4.36694e-60,length:987
+gi:828191910,ref_number:XP_012558347.1,annotation: PREDICTED: fat-like cadherin-related tumor suppressor homolog [Hydra vulgaris],best_score:496.0,evalue:3.61684e-51,length:1230
+gi:828200292,ref_number:XP_012554875.1,annotation: PREDICTED: fat-like cadherin-related tumor suppressor homolog [Hydra vulgaris],best_score:374.0,evalue:1.42592e-38,length:480
+gi:828233500,ref_number:XP_012565789.1,annotation: PREDICTED: protocadherin-like protein, partial [Hydra vulgaris],best_score:375.0,evalue:3.58772e-37,length:887
+gi:828234597,ref_number:XP_012566147.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin gamma-B3-like, partial [Hydra vulgaris],best_score:314.0,evalue:3.79969e-32,length:325
+gi:828205262,ref_number:XP_012556552.1,annotation: PREDICTED: protocadherin Fat 4-like [Hydra vulgaris],best_score:334.0,evalue:7.95449e-32,length:3804
+gi:828197447,ref_number:XP_012553892.1,annotation: PREDICTED: fat-like cadherin-related tumor suppressor homolog [Hydra vulgaris],best_score:304.0,evalue:2.31754e-28,length:1919
+gi:449692156,ref_number:XP_004212922.1,annotation: PREDICTED: protocadherin-1-like, partial [Hydra vulgaris],best_score:222.0,evalue:4.78464e-21,length:213
+gi:828235144,ref_number:XP_012566306.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Hydra vulgaris],best_score:173.0,evalue:4.24167e-15,length:154
+gi:828190931,ref_number:XP_012555123.1,annotation: PREDICTED: uncharacterized protein LOC101240553 [Hydra vulgaris],best_score:126.0,evalue:1.09215e-07,length:1063
+gi:828191907,ref_number:XP_012558338.1,annotation: PREDICTED: uncharacterized protein LOC100214881, partial [Hydra vulgaris],best_score:113.0,evalue:4.16437e-06,length:1259
+gi:844834765,ref_number:XP_012791921.1,annotation: Fat-like cadherin-related tumor suppressor-like protein, partial [Schistosoma haematobium],best_score:455.0,evalue:4.45492e-45,length:1426
+gi:844851448,ref_number:XP_012795706.1,annotation: Protocadherin alpha-2 [Schistosoma haematobium],best_score:431.0,evalue:2.27736e-42,length:1234
+gi:844859801,ref_number:XP_012797716.1,annotation: Protocadherin-1 [Schistosoma haematobium],best_score:425.0,evalue:8.09876e-42,length:1028
+gi:844847016,ref_number:XP_012794766.1,annotation: Protocadherin gamma-A1 [Schistosoma haematobium],best_score:402.0,evalue:6.30723e-39,length:1456
+gi:844868683,ref_number:XP_012799852.1,annotation: Protocadherin-11 X-linked [Schistosoma haematobium],best_score:385.0,evalue:2.02206e-37,length:792
+gi:844834654,ref_number:XP_012791896.1,annotation: Protocadherin Fat 3 [Schistosoma haematobium],best_score:368.0,evalue:8.10308e-35,length:2369
+gi:844845782,ref_number:XP_012794380.1,annotation: Protocadherin alpha-C2 [Schistosoma haematobium],best_score:341.0,evalue:1.16245e-32,length:612
+gi:844836785,ref_number:XP_012792327.1,annotation: Protocadherin-1 [Schistosoma haematobium],best_score:333.0,evalue:8.3028e-31,length:1492
+gi:844856843,ref_number:XP_012797049.1,annotation: Protocadherin-9 [Schistosoma haematobium],best_score:330.0,evalue:2.07617e-30,length:1468
+gi:844836585,ref_number:XP_012792281.1,annotation: Protocadherin-11 Y-linked [Schistosoma haematobium],best_score:330.0,evalue:2.09326e-30,length:1611
+gi:844835757,ref_number:XP_012792126.1,annotation: Protocadherin Fat 4 [Schistosoma haematobium],best_score:328.0,evalue:3.19765e-30,length:1472
+gi:844838775,ref_number:XP_012792737.1,annotation: Protocadherin-11 X-linked, partial [Schistosoma haematobium],best_score:318.0,evalue:4.23579e-29,length:1390
+gi:844843127,ref_number:XP_012793749.1,annotation: Protocadherin beta-13 [Schistosoma haematobium],best_score:304.0,evalue:9.27862e-28,length:712
+gi:844857186,ref_number:XP_012797144.1,annotation: Protein dachsous [Schistosoma haematobium],best_score:299.0,evalue:2.31947e-27,length:642
+gi:844844884,ref_number:XP_012794154.1,annotation: Protocadherin Fat 4 [Schistosoma haematobium],best_score:300.0,evalue:5.89138e-27,length:1429
+gi:844853477,ref_number:XP_012796172.1,annotation: Protocadherin-1 [Schistosoma haematobium],best_score:294.0,evalue:3.21507e-26,length:1501
+gi:844843135,ref_number:XP_012793751.1,annotation: Protocadherin-23 [Schistosoma haematobium],best_score:286.0,evalue:9.43097e-26,length:670
+gi:844834683,ref_number:XP_012791903.1,annotation: Protocadherin Fat 3, partial [Schistosoma haematobium],best_score:285.0,evalue:1.46348e-25,length:669
+gi:844860018,ref_number:XP_012797770.1,annotation: Protocadherin 18 [Schistosoma haematobium],best_score:282.0,evalue:1.79058e-25,length:558
+gi:844835681,ref_number:XP_012792112.1,annotation: Protocadherin alpha-13 [Schistosoma haematobium],best_score:277.0,evalue:2.79282e-24,length:1224
+gi:844853081,ref_number:XP_012796069.1,annotation: Protocadherin alpha-2 [Schistosoma haematobium],best_score:275.0,evalue:4.78644e-24,length:1426
+gi:844843451,ref_number:XP_012793835.1,annotation: Protocadherin-9 [Schistosoma haematobium],best_score:269.0,evalue:2.52839e-23,length:1349
+gi:844836543,ref_number:XP_012792272.1,annotation: Protocadherin-11 Y-linked [Schistosoma haematobium],best_score:264.0,evalue:5.70037e-23,length:791
+gi:844855767,ref_number:XP_012796716.1,annotation: Protocadherin-12 [Schistosoma haematobium],best_score:260.0,evalue:7.10925e-23,length:516
+gi:844863031,ref_number:XP_012798472.1,annotation: Protocadherin-11 X-linked [Schistosoma haematobium],best_score:264.0,evalue:9.20069e-23,length:1027
+gi:844857182,ref_number:XP_012797143.1,annotation: Protocadherin-17 [Schistosoma haematobium],best_score:244.0,evalue:7.84085e-21,length:553
+gi:844871529,ref_number:XP_012800539.1,annotation: Protocadherin-11 Y-linked [Schistosoma haematobium],best_score:243.0,evalue:2.11228e-20,length:846
+gi:844834743,ref_number:XP_012791916.1,annotation: Cadherin EGF LAG seven-pass G-type receptor 1 [Schistosoma haematobium],best_score:241.0,evalue:4.60809e-20,length:995
+gi:844864409,ref_number:XP_012798850.1,annotation: Protocadherin gamma-A10 [Schistosoma haematobium],best_score:240.0,evalue:5.01655e-20,length:817
+gi:844866043,ref_number:XP_012799217.1,annotation: Protocadherin gamma-A10 [Schistosoma haematobium],best_score:239.0,evalue:8.4573e-20,length:1231
+gi:844842191,ref_number:XP_012793476.1,annotation: Protocadherin-1 [Schistosoma haematobium],best_score:236.0,evalue:1.67626e-19,length:1213
+gi:844873295,ref_number:XP_012801009.1,annotation: Protocadherin alpha-C2 [Schistosoma haematobium],best_score:233.0,evalue:2.04871e-19,length:590
+gi:844845779,ref_number:XP_012794379.1,annotation: Protocadherin-20 [Schistosoma haematobium],best_score:232.0,evalue:2.22267e-19,length:584
+gi:844851151,ref_number:XP_012795634.1,annotation: Cadherin-related tumor suppressor, partial [Schistosoma haematobium],best_score:233.0,evalue:3.88914e-19,length:1317
+gi:844854176,ref_number:XP_012796352.1,annotation: Protocadherin gamma-A1 [Schistosoma haematobium],best_score:221.0,evalue:9.64092e-18,length:1139
+gi:844842882,ref_number:XP_012793684.1,annotation: Protocadherin gamma-A6 [Schistosoma haematobium],best_score:219.0,evalue:1.68424e-17,length:1320
+gi:844873206,ref_number:XP_012800988.1,annotation: Protocadherin-20 [Schistosoma haematobium],best_score:212.0,evalue:1.0049e-16,length:842
+gi:844863137,ref_number:XP_012798497.1,annotation: Cadherin-related tumor suppressor [Schistosoma haematobium],best_score:212.0,evalue:1.15079e-16,length:960
+gi:844854489,ref_number:XP_012796430.1,annotation: Protocadherin-19 [Schistosoma haematobium],best_score:207.0,evalue:4.93724e-16,length:1289
+gi:844842182,ref_number:XP_012793473.1,annotation: Protocadherin beta-11 [Schistosoma haematobium],best_score:199.0,evalue:4.84548e-15,length:1749
+gi:844834756,ref_number:XP_012791919.1,annotation: Protocadherin Fat 1 [Schistosoma haematobium],best_score:199.0,evalue:5.16367e-15,length:2076
+gi:844864401,ref_number:XP_012798848.1,annotation: Protocadherin-9 [Schistosoma haematobium],best_score:187.0,evalue:4.80212e-14,length:525
+gi:844837977,ref_number:XP_012792554.1,annotation: Protocadherin 18 [Schistosoma haematobium],best_score:189.0,evalue:6.28331e-14,length:1573
+gi:844855761,ref_number:XP_012796715.1,annotation: Protocadherin-11 X-linked, partial [Schistosoma haematobium],best_score:184.0,evalue:1.00682e-13,length:490
+gi:844835825,ref_number:XP_012792140.1,annotation: Protocadherin-1 [Schistosoma haematobium],best_score:187.0,evalue:1.1571e-13,length:1553
+gi:844874787,ref_number:XP_012801365.1,annotation: Protocadherin alpha-2 [Schistosoma haematobium],best_score:178.0,evalue:1.26904e-13,length:281
+gi:844834747,ref_number:XP_012791917.1,annotation: Cadherin-23, partial [Schistosoma haematobium],best_score:176.0,evalue:1.87279e-13,length:287
+gi:844876379,ref_number:XP_012801739.1,annotation: Protocadherin alpha-2, partial [Schistosoma haematobium],best_score:171.0,evalue:4.05842e-12,length:466
+gi:844834255,ref_number:XP_012791807.1,annotation: Protocadherin-11 X-linked [Schistosoma haematobium],best_score:162.0,evalue:6.71257e-11,length:828
+gi:844860013,ref_number:XP_012797769.1,annotation: Cadherin EGF LAG seven-pass G-type receptor 1 [Schistosoma haematobium],best_score:162.0,evalue:7.69849e-11,length:875
+gi:1061385181,ref_number:NP_001317871.1,annotation: LOW QUALITY PROTEIN: Cadherin-4 [Caenorhabditis elegans],best_score:1166.0,evalue:1.7649e-127,length:4328
+gi:71989522,ref_number:NP_497641.2,annotation: CaDHerin family [Caenorhabditis elegans],best_score:943.0,evalue:1.55063e-101,length:2779
+gi:193207741,ref_number:NP_506256.3,annotation: FlaMIngo (cadherin plus 7TM domain) homolog [Caenorhabditis elegans],best_score:815.0,evalue:1.23414e-86,length:2596
+gi:71991933,ref_number:NP_001021650.1,annotation: Cadherin-related hmr-1 [Caenorhabditis elegans],best_score:797.0,evalue:2.02279e-84,length:2920
+gi:922581002,ref_number:NP_001300071.1,annotation: FlaMIngo (cadherin plus 7TM domain) homolog [Caenorhabditis elegans],best_score:678.0,evalue:1.08243e-70,length:2237
+gi:808357778,ref_number:NP_001294415.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:517.0,evalue:5.59662e-52,length:1604
+gi:922580237,ref_number:NP_498687.2,annotation: Cadherin-3 [Caenorhabditis elegans],best_score:516.0,evalue:1.27295e-51,length:3361
+gi:808357780,ref_number:NP_001294416.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:497.0,evalue:1.37383e-49,length:1669
+gi:808357772,ref_number:NP_001294412.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:496.0,evalue:1.60279e-49,length:1684
+gi:808357770,ref_number:NP_001294411.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:494.0,evalue:2.69065e-49,length:1619
+gi:808357766,ref_number:NP_001294409.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:475.0,evalue:5.68971e-47,length:1653
+gi:808357774,ref_number:NP_001294413.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:473.0,evalue:8.8858e-47,length:1638
+gi:808357776,ref_number:NP_001294414.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:436.0,evalue:2.06678e-42,length:1573
+gi:808357768,ref_number:NP_001294410.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:412.0,evalue:1.37323e-39,length:1588
+gi:455835687,ref_number:NP_497340.4,annotation: CaDHerin family [Caenorhabditis elegans],best_score:305.0,evalue:4.59226e-27,length:2904
+gi:808356996,ref_number:NP_001294026.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:301.0,evalue:1.07491e-26,length:1299
+gi:17539700,ref_number:NP_501487.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:300.0,evalue:1.47461e-26,length:1306
+gi:808355900,ref_number:NP_500204.3,annotation: CaDHerin family [Caenorhabditis elegans],best_score:258.0,evalue:1.34882e-21,length:1775
+gi:71993236,ref_number:NP_497075.2,annotation: CaDHerin family [Caenorhabditis elegans],best_score:238.0,evalue:2.79285e-19,length:1364
+gi:808356994,ref_number:NP_001294025.1,annotation: CaDHerin family [Caenorhabditis elegans],best_score:226.0,evalue:6.61769e-18,length:1443
+gi:808356156,ref_number:NP_501486.2,annotation: CaDHerin family [Caenorhabditis elegans],best_score:226.0,evalue:6.62995e-18,length:1450
+gi:71992223,ref_number:NP_510685.2,annotation: CaDHerin family [Caenorhabditis elegans],best_score:201.0,evalue:3.11313e-15,length:623
+gi:339258504,ref_number:XP_003369438.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:1493.0,evalue:9.43651e-169,length:2240
+gi:339263904,ref_number:XP_003366920.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:1166.0,evalue:4.53682e-128,length:2935
+gi:339242823,ref_number:XP_003377337.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:1149.0,evalue:4.52871e-126,length:3005
+gi:339241777,ref_number:XP_003376814.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:1132.0,evalue:7.31424e-124,length:4414
+gi:339242691,ref_number:XP_003377271.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:1020.0,evalue:1.05253e-114,length:1264
+gi:339248645,ref_number:XP_003373310.1,annotation: cadherin-related hmr-1 [Trichinella spiralis],best_score:875.0,evalue:4.31476e-94,length:2378
+gi:339235513,ref_number:XP_003379311.1,annotation: putative cadherin EGF LAG seven-pass G-type receptor 3 [Trichinella spiralis],best_score:816.0,evalue:4.2013e-90,length:1072
+gi:339247983,ref_number:XP_003375625.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:560.0,evalue:2.83841e-57,length:2247
+gi:339258508,ref_number:XP_003369440.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:428.0,evalue:9.92541e-44,length:584
+gi:339256456,ref_number:XP_003370397.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:425.0,evalue:3.48677e-43,length:611
+gi:339263900,ref_number:XP_003366918.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:354.0,evalue:9.75259e-36,length:386
+gi:339235887,ref_number:XP_003379498.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:346.0,evalue:2.22325e-32,length:1375
+gi:339259694,ref_number:XP_003368778.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:251.0,evalue:8.22637e-24,length:223
+gi:339263902,ref_number:XP_003366919.1,annotation: putative cadherin domain protein [Trichinella spiralis],best_score:162.0,evalue:1.48645e-11,length:308
+gi:339264360,ref_number:XP_003366694.1,annotation: conserved hypothetical protein [Trichinella spiralis],best_score:115.0,evalue:1.09706e-06,length:124
+gi:675856048,ref_number:XP_009013584.1,annotation: hypothetical protein HELRODRAFT_169542 [Helobdella robusta],best_score:877.0,evalue:4.75272e-94,length:2426
+gi:675881778,ref_number:XP_009026391.1,annotation: hypothetical protein HELRODRAFT_179299 [Helobdella robusta],best_score:813.0,evalue:1.4472e-86,length:2502
+gi:675871848,ref_number:XP_009021484.1,annotation: hypothetical protein HELRODRAFT_83154, partial [Helobdella robusta],best_score:678.0,evalue:2.99097e-75,length:666
+gi:675868006,ref_number:XP_009019563.1,annotation: hypothetical protein HELRODRAFT_188599 [Helobdella robusta],best_score:647.0,evalue:2.00586e-68,length:1098
+gi:675867680,ref_number:XP_009019400.1,annotation: hypothetical protein HELRODRAFT_94350 [Helobdella robusta],best_score:582.0,evalue:1.17615e-60,length:1028
+gi:675847730,ref_number:XP_009009425.1,annotation: hypothetical protein HELRODRAFT_159291 [Helobdella robusta],best_score:563.0,evalue:2.8329e-58,length:1050
+gi:675863178,ref_number:XP_009017149.1,annotation: hypothetical protein HELRODRAFT_191626 [Helobdella robusta],best_score:537.0,evalue:1.05932e-54,length:1290
+gi:675891434,ref_number:XP_009031219.1,annotation: hypothetical protein HELRODRAFT_71159 [Helobdella robusta],best_score:509.0,evalue:1.25848e-53,length:626
+gi:675886720,ref_number:XP_009028862.1,annotation: hypothetical protein HELRODRAFT_69804, partial [Helobdella robusta],best_score:512.0,evalue:2.5802e-53,length:743
+gi:675886072,ref_number:XP_009028538.1,annotation: hypothetical protein HELRODRAFT_88858, partial [Helobdella robusta],best_score:502.0,evalue:4.93846e-52,length:745
+gi:675862944,ref_number:XP_009017032.1,annotation: hypothetical protein HELRODRAFT_78584, partial [Helobdella robusta],best_score:491.0,evalue:1.14298e-50,length:725
+gi:675859046,ref_number:XP_009015083.1,annotation: hypothetical protein HELRODRAFT_171023 [Helobdella robusta],best_score:503.0,evalue:1.90586e-50,length:1841
+gi:675861672,ref_number:XP_009016396.1,annotation: hypothetical protein HELRODRAFT_77422, partial [Helobdella robusta],best_score:479.0,evalue:2.49615e-50,length:564
+gi:675874578,ref_number:XP_009022849.1,annotation: hypothetical protein HELRODRAFT_107069 [Helobdella robusta],best_score:469.0,evalue:8.07039e-48,length:744
+gi:675858034,ref_number:XP_009014577.1,annotation: hypothetical protein HELRODRAFT_170509 [Helobdella robusta],best_score:478.0,evalue:1.70259e-47,length:1792
+gi:675881374,ref_number:XP_009026189.1,annotation: hypothetical protein HELRODRAFT_139423, partial [Helobdella robusta],best_score:458.0,evalue:2.48071e-47,length:600
+gi:675868660,ref_number:XP_009019890.1,annotation: hypothetical protein HELRODRAFT_65492, partial [Helobdella robusta],best_score:455.0,evalue:2.85325e-47,length:557
+gi:675849190,ref_number:XP_009010155.1,annotation: hypothetical protein HELRODRAFT_71274, partial [Helobdella robusta],best_score:452.0,evalue:1.0657e-46,length:569
+gi:675847622,ref_number:XP_009009371.1,annotation: hypothetical protein HELRODRAFT_159227 [Helobdella robusta],best_score:465.0,evalue:2.26145e-46,length:1081
+gi:675869894,ref_number:XP_009020507.1,annotation: hypothetical protein HELRODRAFT_82104, partial [Helobdella robusta],best_score:445.0,evalue:4.82186e-46,length:540
+gi:675867692,ref_number:XP_009019406.1,annotation: hypothetical protein HELRODRAFT_65571, partial [Helobdella robusta],best_score:445.0,evalue:1.5137e-45,length:617
+gi:675889176,ref_number:XP_009030090.1,annotation: hypothetical protein HELRODRAFT_70064 [Helobdella robusta],best_score:442.0,evalue:2.74069e-45,length:597
+gi:675863452,ref_number:XP_009017286.1,annotation: hypothetical protein HELRODRAFT_191702 [Helobdella robusta],best_score:454.0,evalue:5.82302e-45,length:1109
+gi:675891442,ref_number:XP_009031223.1,annotation: hypothetical protein HELRODRAFT_71181, partial [Helobdella robusta],best_score:442.0,evalue:7.23975e-45,length:668
+gi:675850802,ref_number:XP_009010961.1,annotation: hypothetical protein HELRODRAFT_72088 [Helobdella robusta],best_score:423.0,evalue:4.6702e-43,length:556
+gi:675873386,ref_number:XP_009022253.1,annotation: hypothetical protein HELRODRAFT_84140, partial [Helobdella robusta],best_score:417.0,evalue:1.58105e-42,length:530
+gi:675886714,ref_number:XP_009028859.1,annotation: hypothetical protein HELRODRAFT_69777, partial [Helobdella robusta],best_score:422.0,evalue:4.6366e-42,length:707
+gi:675865836,ref_number:XP_009018478.1,annotation: hypothetical protein HELRODRAFT_131091, partial [Helobdella robusta],best_score:397.0,evalue:1.53338e-39,length:594
+gi:675867686,ref_number:XP_009019403.1,annotation: hypothetical protein HELRODRAFT_161213 [Helobdella robusta],best_score:387.0,evalue:3.60718e-37,length:992
+gi:675893034,ref_number:XP_009032019.1,annotation: hypothetical protein HELRODRAFT_120472, partial [Helobdella robusta],best_score:376.0,evalue:5.76461e-37,length:571
+gi:675878388,ref_number:XP_009024754.1,annotation: hypothetical protein HELRODRAFT_178411 [Helobdella robusta],best_score:384.0,evalue:1.01181e-36,length:1075
+gi:675846784,ref_number:XP_009008952.1,annotation: hypothetical protein HELRODRAFT_187800 [Helobdella robusta],best_score:378.0,evalue:4.60178e-36,length:961
+gi:675883506,ref_number:XP_009027255.1,annotation: hypothetical protein HELRODRAFT_69097, partial [Helobdella robusta],best_score:346.0,evalue:6.92465e-34,length:469
+gi:675881880,ref_number:XP_009026442.1,annotation: hypothetical protein HELRODRAFT_141021, partial [Helobdella robusta],best_score:340.0,evalue:7.49889e-34,length:363
+gi:675892346,ref_number:XP_009031675.1,annotation: hypothetical protein HELRODRAFT_182698 [Helobdella robusta],best_score:349.0,evalue:8.47558e-34,length:528
+gi:675857944,ref_number:XP_009014532.1,annotation: hypothetical protein HELRODRAFT_76594, partial [Helobdella robusta],best_score:338.0,evalue:1.13052e-33,length:365
+gi:675854810,ref_number:XP_009012965.1,annotation: hypothetical protein HELRODRAFT_74602 [Helobdella robusta],best_score:330.0,evalue:1.61962e-31,length:503
+gi:675874956,ref_number:XP_009023038.1,annotation: hypothetical protein HELRODRAFT_162640 [Helobdella robusta],best_score:328.0,evalue:3.84994e-30,length:953
+gi:675890636,ref_number:XP_009030820.1,annotation: hypothetical protein HELRODRAFT_139327, partial [Helobdella robusta],best_score:316.0,evalue:4.64924e-30,length:461
+gi:675875658,ref_number:XP_009023389.1,annotation: hypothetical protein HELRODRAFT_176894 [Helobdella robusta],best_score:328.0,evalue:8.20476e-30,length:4650
+gi:675885106,ref_number:XP_009028055.1,annotation: hypothetical protein HELRODRAFT_120792, partial [Helobdella robusta],best_score:312.0,evalue:9.17345e-30,length:417
+gi:675880490,ref_number:XP_009025747.1,annotation: hypothetical protein HELRODRAFT_150274, partial [Helobdella robusta],best_score:294.0,evalue:4.37999e-28,length:343
+gi:675887758,ref_number:XP_009029381.1,annotation: hypothetical protein HELRODRAFT_140157, partial [Helobdella robusta],best_score:293.0,evalue:2.38731e-27,length:413
+gi:675865710,ref_number:XP_009018415.1,annotation: hypothetical protein HELRODRAFT_142277, partial [Helobdella robusta],best_score:277.0,evalue:5.36077e-27,length:228
+gi:675889858,ref_number:XP_009030431.1,annotation: hypothetical protein HELRODRAFT_132264, partial [Helobdella robusta],best_score:273.0,evalue:1.12758e-26,length:211
+gi:675846232,ref_number:XP_009008676.1,annotation: hypothetical protein HELRODRAFT_131165, partial [Helobdella robusta],best_score:276.0,evalue:1.2398e-24,length:536
+gi:675851106,ref_number:XP_009011113.1,annotation: hypothetical protein HELRODRAFT_72100, partial [Helobdella robusta],best_score:265.0,evalue:4.93415e-24,length:379
+gi:675888334,ref_number:XP_009029669.1,annotation: hypothetical protein HELRODRAFT_89774 [Helobdella robusta],best_score:251.0,evalue:3.58987e-22,length:379
+gi:675850416,ref_number:XP_009010768.1,annotation: hypothetical protein HELRODRAFT_91727, partial [Helobdella robusta],best_score:230.0,evalue:1.54555e-21,length:154
+gi:675863244,ref_number:XP_009017182.1,annotation: hypothetical protein HELRODRAFT_79067, partial [Helobdella robusta],best_score:242.0,evalue:2.9874e-21,length:361
+gi:240975980,ref_number:XP_002402241.1,annotation: protocadherin-16, putative [Ixodes scapularis],best_score:2006.0,evalue:0.0,length:2493
+gi:241148648,ref_number:XP_002405854.1,annotation: protocadherin-16, putative [Ixodes scapularis],best_score:1869.0,evalue:0.0,length:3222
+gi:241811212,ref_number:XP_002414573.1,annotation: cadherin-repeats domain-containing protein [Ixodes scapularis],best_score:1726.0,evalue:0.0,length:2790
+gi:241121657,ref_number:XP_002403288.1,annotation: protocadherin fat, putative [Ixodes scapularis],best_score:1598.0,evalue:1.7758e-179,length:2933
+gi:241148644,ref_number:XP_002405852.1,annotation: protocadherin fat, putative [Ixodes scapularis],best_score:1289.0,evalue:9.27488e-147,length:1590
+gi:241758144,ref_number:XP_002401744.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:939.0,evalue:1.72064e-101,length:2750
+gi:241703739,ref_number:XP_002402998.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:925.0,evalue:9.76238e-101,length:1692
+gi:241615388,ref_number:XP_002407732.1,annotation: hypothetical protein IscW_ISCW020853 [Ixodes scapularis],best_score:802.0,evalue:4.57167e-88,length:1103
+gi:242000160,ref_number:XP_002434723.1,annotation: cadherin, putative [Ixodes scapularis],best_score:762.0,evalue:7.07436e-83,length:1123
+gi:242001600,ref_number:XP_002435443.1,annotation: protocadherin-21, putative [Ixodes scapularis],best_score:731.0,evalue:4.06131e-82,length:695
+gi:240975974,ref_number:XP_002402238.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:381.0,evalue:2.34985e-40,length:278
+gi:241735363,ref_number:XP_002413931.1,annotation: Gb2-cadherin, putative [Ixodes scapularis],best_score:390.0,evalue:2.1104e-37,length:1518
+gi:241735373,ref_number:XP_002413935.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:364.0,evalue:1.14144e-36,length:432
+gi:241744911,ref_number:XP_002414247.1,annotation: hypothetical protein IscW_ISCW013312 [Ixodes scapularis],best_score:278.0,evalue:6.98693e-26,length:372
+gi:241156890,ref_number:XP_002407884.1,annotation: protocadherin beta-6, putative [Ixodes scapularis],best_score:249.0,evalue:2.39678e-21,length:577
+gi:241811209,ref_number:XP_002414572.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:178.0,evalue:6.30322e-14,length:236
+gi:240977542,ref_number:XP_002402723.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:157.0,evalue:2.32434e-12,length:117
+gi:242001602,ref_number:XP_002435444.1,annotation: hypothetical protein IscW_ISCW018782 [Ixodes scapularis],best_score:159.0,evalue:3.37506e-11,length:281
+gi:241735377,ref_number:XP_002413936.1,annotation: hypothetical protein IscW_ISCW022281 [Ixodes scapularis],best_score:155.0,evalue:2.74051e-10,length:421
+gi:241709518,ref_number:XP_002413381.1,annotation: hypothetical protein IscW_ISCW022531 [Ixodes scapularis],best_score:140.0,evalue:2.24591e-08,length:535
+gi:17352473,ref_number:NP_477497.1,annotation: fat [Drosophila melanogaster],best_score:2243.0,evalue:0.0,length:5147
+gi:24580686,ref_number:NP_523446.2,annotation: dachsous, isoform A [Drosophila melanogaster] >gi,best_score:1946.0,evalue:0.0,length:3556
+gi:442633558,ref_number:NP_001027138.2,annotation: kugelei, isoform D [Drosophila melanogaster],best_score:1810.0,evalue:0.0,length:4699
+gi:442633556,ref_number:NP_649171.3,annotation: kugelei, isoform C [Drosophila melanogaster] >gi,best_score:1808.0,evalue:0.0,length:4689
+gi:24665868,ref_number:NP_648973.1,annotation: cadherin 74A, isoform A [Drosophila melanogaster] >gi,best_score:1228.0,evalue:3.46901e-137,length:1820
+gi:665394067,ref_number:NP_731930.3,annotation: cadherin 88C [Drosophila melanogaster],best_score:1191.0,evalue:4.85533e-132,length:1981
+gi:45551880,ref_number:NP_731649.2,annotation: cadherin 87A [Drosophila melanogaster],best_score:1126.0,evalue:4.63777e-124,length:1975
+gi:24584871,ref_number:NP_724070.1,annotation: Cadherin-N, isoform F [Drosophila melanogaster],best_score:1013.0,evalue:1.2711e-109,length:3096
+gi:24584873,ref_number:NP_724071.1,annotation: Cadherin-N, isoform D [Drosophila melanogaster],best_score:1012.0,evalue:1.62398e-109,length:3097
+gi:24584867,ref_number:NP_724068.1,annotation: Cadherin-N, isoform H [Drosophila melanogaster],best_score:1001.0,evalue:2.80332e-108,length:3095
+gi:24584869,ref_number:NP_724069.1,annotation: Cadherin-N, isoform B [Drosophila melanogaster],best_score:1001.0,evalue:3.58137e-108,length:3096
+gi:442623252,ref_number:NP_001260871.1,annotation: starry night, isoform F [Drosophila melanogaster],best_score:993.0,evalue:3.11276e-107,length:3648
+gi:665400088,ref_number:NP_001286291.1,annotation: starry night, isoform G [Drosophila melanogaster],best_score:993.0,evalue:3.48709e-107,length:3603
+gi:386767716,ref_number:NP_001246258.1,annotation: starry night, isoform E [Drosophila melanogaster],best_score:993.0,evalue:3.55042e-107,length:3578
+gi:221330158,ref_number:NP_724962.3,annotation: starry night, isoform A [Drosophila melanogaster] >gi,best_score:992.0,evalue:3.96209e-107,length:3579
+gi:281363131,ref_number:NP_001163113.1,annotation: starry night, isoform B [Drosophila melanogaster] >gi,best_score:992.0,evalue:4.02344e-107,length:3574
+gi:24584879,ref_number:NP_724074.1,annotation: Cadherin-N, isoform G [Drosophila melanogaster],best_score:953.0,evalue:1.32026e-102,length:3096
+gi:24584881,ref_number:NP_724075.1,annotation: Cadherin-N, isoform E [Drosophila melanogaster],best_score:953.0,evalue:1.43691e-102,length:3097
+gi:24584875,ref_number:NP_724072.1,annotation: Cadherin-N, isoform C [Drosophila melanogaster],best_score:944.0,evalue:1.4438e-101,length:3095
+gi:24584877,ref_number:NP_724073.1,annotation: Cadherin-N, isoform A [Drosophila melanogaster],best_score:944.0,evalue:1.57134e-101,length:3096
+gi:78706946,ref_number:NP_001027278.1,annotation: Cadherin-N, isoform K [Drosophila melanogaster],best_score:944.0,evalue:1.58726e-101,length:3100
+gi:78706944,ref_number:NP_001027277.1,annotation: Cadherin-N, isoform L [Drosophila melanogaster],best_score:943.0,evalue:1.8479e-101,length:3101
+gi:78706948,ref_number:NP_001027279.1,annotation: Cadherin-N, isoform J [Drosophila melanogaster],best_score:935.0,evalue:1.50379e-100,length:3099
+gi:78706950,ref_number:NP_001027280.1,annotation: Cadherin-N, isoform I [Drosophila melanogaster],best_score:934.0,evalue:2.10708e-100,length:3100
+gi:24651170,ref_number:NP_733314.1,annotation: cadherin 99C, isoform A [Drosophila melanogaster] >gi,best_score:599.0,evalue:1.68988e-61,length:1706
+gi:320545183,ref_number:NP_001036368.2,annotation: Cadherin-N2, isoform C [Drosophila melanogaster] >gi,best_score:538.0,evalue:2.8413e-54,length:1799
+gi:386765519,ref_number:NP_001247034.1,annotation: cadherin 86C, isoform G [Drosophila melanogaster],best_score:461.0,evalue:1.00331e-45,length:1008
+gi:281361542,ref_number:NP_788635.3,annotation: cadherin 86C, isoform C [Drosophila melanogaster] >gi,best_score:457.0,evalue:8.04099e-45,length:1943
+gi:386765517,ref_number:NP_001247033.1,annotation: cadherin 86C, isoform F [Drosophila melanogaster],best_score:457.0,evalue:9.22199e-45,length:1949
+gi:386765515,ref_number:NP_001247032.1,annotation: cadherin 86C, isoform E [Drosophila melanogaster],best_score:443.0,evalue:3.99092e-43,length:1915
+gi:17136470,ref_number:NP_476722.1,annotation: shotgun [Drosophila melanogaster],best_score:432.0,evalue:6.70806e-42,length:1507
+gi:281361934,ref_number:NP_650554.3,annotation: cadherin 89D [Drosophila melanogaster],best_score:371.0,evalue:1.07171e-34,length:2240
+gi:665395062,ref_number:NP_001287524.1,annotation: cadherin 96Cb, isoform D [Drosophila melanogaster],best_score:273.0,evalue:1.59798e-23,length:789
+gi:281362550,ref_number:NP_001163727.1,annotation: cadherin 96Cb, isoform C [Drosophila melanogaster],best_score:273.0,evalue:1.65415e-23,length:785
+gi:281362552,ref_number:NP_651355.3,annotation: cadherin 96Cb, isoform B [Drosophila melanogaster],best_score:271.0,evalue:2.41576e-23,length:786
+gi:918997468,ref_number:XP_013393116.1,annotation: PREDICTED: protein dachsous-like [Lingula anatina],best_score:2430.0,evalue:0.0,length:3328
+gi:919020443,ref_number:XP_013394175.1,annotation: PREDICTED: protocadherin Fat 1-like [Lingula anatina],best_score:2041.0,evalue:0.0,length:4738
+gi:919012943,ref_number:XP_013390955.1,annotation: PREDICTED: cadherin-related tumor suppressor-like [Lingula anatina],best_score:1780.0,evalue:0.0,length:3098
+gi:919036210,ref_number:XP_013401576.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X5 [Lingula anatina],best_score:1689.0,evalue:0.0,length:3200
+gi:919036208,ref_number:XP_013401575.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X4 [Lingula anatina],best_score:1687.0,evalue:0.0,length:3338
+gi:919036206,ref_number:XP_013401574.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X3 [Lingula anatina],best_score:1687.0,evalue:0.0,length:3338
+gi:919036203,ref_number:XP_013401573.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X2 [Lingula anatina],best_score:1687.0,evalue:0.0,length:3345
+gi:919036201,ref_number:XP_013401572.1,annotation: PREDICTED: protocadherin Fat 4-like isoform X1 [Lingula anatina],best_score:1683.0,evalue:0.0,length:3690
+gi:919003097,ref_number:XP_013415882.1,annotation: PREDICTED: LOW QUALITY PROTEIN: cadherin-related tumor suppressor-like, partial [Lingula anatina],best_score:1467.0,evalue:1.36114e-167,length:1780
+gi:919038207,ref_number:XP_013402573.1,annotation: PREDICTED: cadherin-23-like [Lingula anatina],best_score:1416.0,evalue:3.40406e-160,length:1908
+gi:919014180,ref_number:XP_013391558.1,annotation: PREDICTED: cadherin-23-like isoform X2 [Lingula anatina],best_score:1288.0,evalue:3.14741e-144,length:1902
+gi:919014162,ref_number:XP_013391551.1,annotation: PREDICTED: cadherin-23-like isoform X1 [Lingula anatina] >gi,best_score:1288.0,evalue:4.03058e-144,length:1908
+gi:919014182,ref_number:XP_013391559.1,annotation: PREDICTED: cadherin-23-like isoform X3 [Lingula anatina],best_score:1275.0,evalue:5.29664e-143,length:1806
+gi:919102066,ref_number:XP_013387416.1,annotation: PREDICTED: cadherin-87A-like [Lingula anatina],best_score:1230.0,evalue:4.29873e-135,length:2805
+gi:919001884,ref_number:XP_013409584.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:1098.0,evalue:1.59839e-119,length:2903
+gi:919007698,ref_number:XP_013388719.1,annotation: PREDICTED: uncharacterized protein LOC106157571 [Lingula anatina],best_score:1037.0,evalue:5.61594e-112,length:9457
+gi:919053433,ref_number:XP_013408639.1,annotation: PREDICTED: neural-cadherin-like isoform X2 [Lingula anatina],best_score:1005.0,evalue:1.64216e-108,length:3008
+gi:919053431,ref_number:XP_013408638.1,annotation: PREDICTED: neural-cadherin-like isoform X1 [Lingula anatina],best_score:992.0,evalue:4.80507e-107,length:3014
+gi:918997541,ref_number:XP_013393380.1,annotation: PREDICTED: neural-cadherin-like [Lingula anatina],best_score:936.0,evalue:1.47626e-100,length:2505
+gi:919081789,ref_number:XP_013421946.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X3 [Lingula anatina],best_score:911.0,evalue:1.38037e-97,length:2980
+gi:919081787,ref_number:XP_013421945.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Lingula anatina],best_score:911.0,evalue:1.58114e-97,length:3002
+gi:919081785,ref_number:XP_013421944.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Lingula anatina],best_score:911.0,evalue:1.6216e-97,length:3002
+gi:919052666,ref_number:XP_013408259.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:822.0,evalue:4.1783e-87,length:3508
+gi:919099074,ref_number:XP_013386073.1,annotation: PREDICTED: uncharacterized protein LOC106155684 isoform X1 [Lingula anatina] >gi,best_score:820.0,evalue:9.51199e-87,length:5061
+gi:919099079,ref_number:XP_013386075.1,annotation: PREDICTED: uncharacterized protein LOC106155684 isoform X3 [Lingula anatina],best_score:820.0,evalue:1.01726e-86,length:5061
+gi:919011106,ref_number:XP_013389981.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:805.0,evalue:5.98582e-85,length:5015
+gi:919002286,ref_number:XP_013411494.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:738.0,evalue:3.52158e-77,length:3993
+gi:919014121,ref_number:XP_013391535.1,annotation: PREDICTED: cadherin-87A-like [Lingula anatina],best_score:686.0,evalue:1.69189e-72,length:1190
+gi:919065057,ref_number:XP_013414156.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:638.0,evalue:6.83639e-66,length:1815
+gi:919062923,ref_number:XP_013413109.1,annotation: PREDICTED: protocadherin-1-like [Lingula anatina] >gi,best_score:555.0,evalue:1.82684e-56,length:1229
+gi:919101524,ref_number:XP_013387129.1,annotation: PREDICTED: cadherin-20-like [Lingula anatina],best_score:516.0,evalue:5.70868e-52,length:1135
+gi:919031151,ref_number:XP_013399200.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Lingula anatina],best_score:507.0,evalue:2.30208e-50,length:3161
+gi:919100088,ref_number:XP_013386469.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:499.0,evalue:2.17009e-49,length:2737
+gi:919012939,ref_number:XP_013390952.1,annotation: PREDICTED: cadherin-related tumor suppressor-like, partial [Lingula anatina],best_score:468.0,evalue:3.72898e-48,length:609
+gi:919020660,ref_number:XP_013394251.1,annotation: PREDICTED: cadherin-87A-like, partial [Lingula anatina],best_score:344.0,evalue:1.17424e-31,length:1022
+gi:919015434,ref_number:XP_013392044.1,annotation: PREDICTED: cadherin-87A-like [Lingula anatina],best_score:307.0,evalue:5.48537e-29,length:389
+gi:919020130,ref_number:XP_013394052.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like [Lingula anatina],best_score:300.0,evalue:1.61456e-27,length:469
+gi:919010119,ref_number:XP_013389502.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:306.0,evalue:2.62924e-27,length:824
+gi:919002054,ref_number:XP_013410307.1,annotation: PREDICTED: protocadherin-like wing polarity protein stan [Lingula anatina],best_score:294.0,evalue:5.20809e-27,length:426
+gi:918996870,ref_number:XP_013391196.1,annotation: PREDICTED: cadherin-23-like, partial [Lingula anatina],best_score:287.0,evalue:4.94823e-25,length:783
+gi:919014219,ref_number:XP_013391574.1,annotation: PREDICTED: protocadherin gamma-A4-like [Lingula anatina],best_score:262.0,evalue:1.2374e-22,length:482
+gi:919054876,ref_number:XP_013409390.1,annotation: PREDICTED: angiopoietin-related protein 1-like, partial [Lingula anatina],best_score:254.0,evalue:7.84947e-22,length:441
+gi:919047360,ref_number:XP_013406874.1,annotation: PREDICTED: cadherin-89D-like [Lingula anatina],best_score:247.0,evalue:4.18925e-21,length:430
+gi:919083440,ref_number:XP_013379066.1,annotation: PREDICTED: protocadherin-11 X-linked-like [Lingula anatina],best_score:210.0,evalue:1.45739e-17,length:245
+gi:919045938,ref_number:XP_013406176.1,annotation: PREDICTED: cadherin-related family member 1-like [Lingula anatina],best_score:203.0,evalue:2.13555e-17,length:169
+gi:919090451,ref_number:XP_013382277.1,annotation: PREDICTED: uncharacterized protein LOC106153054, partial [Lingula anatina],best_score:220.0,evalue:7.07936e-17,length:3186
+gi:919065010,ref_number:XP_013414137.1,annotation: PREDICTED: uncharacterized protein LOC106176343 [Lingula anatina],best_score:219.0,evalue:1.07023e-16,length:3997
+gi:919020071,ref_number:XP_013394028.1,annotation: PREDICTED: cadherin-23-like [Lingula anatina],best_score:212.0,evalue:1.47224e-16,length:468
+gi:918996330,ref_number:XP_013389615.1,annotation: PREDICTED: protocadherin Fat 4-like [Lingula anatina],best_score:202.0,evalue:1.09929e-15,length:375
+gi:919033618,ref_number:XP_013400488.1,annotation: PREDICTED: hemicentin-1-like, partial [Lingula anatina],best_score:207.0,evalue:1.15595e-15,length:686
+gi:115666275,ref_number:XP_785445.2,annotation: PREDICTED: protein dachsous [Strongylocentrotus purpuratus],best_score:2388.0,evalue:0.0,length:3342
+gi:780055014,ref_number:XP_011669659.1,annotation: PREDICTED: cadherin-23 [Strongylocentrotus purpuratus],best_score:2288.0,evalue:0.0,length:3444
+gi:390337821,ref_number:XP_785601.3,annotation: PREDICTED: protocadherin Fat 4 [Strongylocentrotus purpuratus],best_score:2253.0,evalue:0.0,length:5000
+gi:780165413,ref_number:XP_011683690.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin Fat 1 [Strongylocentrotus purpuratus],best_score:1981.0,evalue:0.0,length:4794
+gi:390335673,ref_number:XP_003724198.1,annotation: PREDICTED: protocadherin Fat 4 [Strongylocentrotus purpuratus],best_score:1492.0,evalue:4.5016e-171,length:1754
+gi:780090625,ref_number:XP_011673975.1,annotation: PREDICTED: cadherin-23 [Strongylocentrotus purpuratus],best_score:1302.0,evalue:1.02981e-147,length:1619
+gi:780152526,ref_number:XP_011681917.1,annotation: PREDICTED: cadherin-23 [Strongylocentrotus purpuratus],best_score:979.0,evalue:1.80327e-112,length:857
+gi:390341791,ref_number:XP_785997.3,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 [Strongylocentrotus purpuratus],best_score:813.0,evalue:2.08753e-87,length:1431
+gi:390347058,ref_number:XP_794702.3,annotation: PREDICTED: neural-cadherin [Strongylocentrotus purpuratus],best_score:797.0,evalue:2.32852e-84,length:2800
+gi:780055021,ref_number:XP_011669660.1,annotation: PREDICTED: cadherin-23-like, partial [Strongylocentrotus purpuratus],best_score:756.0,evalue:1.20435e-83,length:829
+gi:72005046,ref_number:XP_787157.1,annotation: PREDICTED: protocadherin-11 X-linked [Strongylocentrotus purpuratus],best_score:545.0,evalue:3.10349e-55,length:1326
+gi:780152519,ref_number:XP_011681916.1,annotation: PREDICTED: cadherin-23-like [Strongylocentrotus purpuratus],best_score:448.0,evalue:2.14217e-46,length:516
+gi:779994793,ref_number:XP_011673382.1,annotation: PREDICTED: protocadherin Fat 4 [Strongylocentrotus purpuratus],best_score:422.0,evalue:6.61079e-41,length:1155
+gi:780023595,ref_number:XP_011665576.1,annotation: PREDICTED: protocadherin-15 [Strongylocentrotus purpuratus],best_score:334.0,evalue:1.97854e-30,length:1273
+gi:780081616,ref_number:XP_011672866.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Strongylocentrotus purpuratus],best_score:292.0,evalue:5.19908e-28,length:284
+gi:780183707,ref_number:XP_011662381.1,annotation: PREDICTED: protocadherin Fat 1 [Strongylocentrotus purpuratus],best_score:243.0,evalue:2.04138e-21,length:307
+gi:780045980,ref_number:XP_011668857.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like [Strongylocentrotus purpuratus],best_score:231.0,evalue:2.09236e-18,length:956
+gi:780128924,ref_number:XP_011679004.1,annotation: PREDICTED: protocadherin-like protein [Strongylocentrotus purpuratus],best_score:173.0,evalue:9.86932e-12,length:624
+gi:780023591,ref_number:XP_011665575.1,annotation: PREDICTED: protocadherin-15-like [Strongylocentrotus purpuratus],best_score:165.0,evalue:5.62146e-11,length:461
+gi:780111210,ref_number:XP_011676517.1,annotation: PREDICTED: calsyntenin-1 [Strongylocentrotus purpuratus],best_score:121.0,evalue:8.73814e-06,length:327
+gi:1087806274,ref_number:XP_009861501.2,annotation: PREDICTED: cadherin-23-like [Ciona intestinalis],best_score:2310.0,evalue:0.0,length:2199
+gi:1087816114,ref_number:XP_018670260.1,annotation: PREDICTED: protocadherin Fat 1, partial [Ciona intestinalis],best_score:1643.0,evalue:0.0,length:4757
+gi:1087820346,ref_number:XP_018673315.1,annotation: PREDICTED: protocadherin-16-like [Ciona intestinalis],best_score:1393.0,evalue:4.80574e-155,length:2629
+gi:1087802650,ref_number:XP_002124308.4,annotation: PREDICTED: protocadherin Fat 4 [Ciona intestinalis],best_score:959.0,evalue:1.25775e-103,length:2578
+gi:1087826386,ref_number:XP_018667811.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X1 [Ciona intestinalis],best_score:814.0,evalue:1.7303e-86,length:2821
+gi:198437132,ref_number:XP_002124366.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X2 [Ciona intestinalis],best_score:812.0,evalue:2.66682e-86,length:2808
+gi:699250986,ref_number:XP_009857749.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Ciona intestinalis],best_score:766.0,evalue:1.75132e-83,length:1047
+gi:1087796494,ref_number:XP_018672160.1,annotation: PREDICTED: LOW QUALITY PROTEIN: protocadherin Fat 4-like, partial [Ciona intestinalis],best_score:726.0,evalue:1.07199e-76,length:1648
+gi:1087795637,ref_number:XP_018671701.1,annotation: PREDICTED: cadherin-23-like, partial [Ciona intestinalis],best_score:598.0,evalue:6.37537e-68,length:374
+gi:1087815389,ref_number:XP_018670051.1,annotation: PREDICTED: protocadherin-like wing polarity protein stan [Ciona intestinalis],best_score:546.0,evalue:2.91703e-57,length:775
+gi:1087831291,ref_number:XP_018669096.1,annotation: PREDICTED: protocadherin beta-15-like [Ciona intestinalis],best_score:493.0,evalue:1.7099e-49,length:1148
+gi:198428748,ref_number:XP_002121500.1,annotation: PREDICTED: protocadherin-11 X-linked [Ciona intestinalis] >gi,best_score:493.0,evalue:1.97052e-49,length:1300
+gi:198436174,ref_number:XP_002129128.1,annotation: PREDICTED: putative protocadherin beta-18 [Ciona intestinalis],best_score:478.0,evalue:3.62581e-48,length:918
+gi:459174333,ref_number:XP_002120984.2,annotation: PREDICTED: protocadherin-16-like [Ciona intestinalis],best_score:436.0,evalue:1.99508e-44,length:601
+gi:1087830947,ref_number:XP_018668990.1,annotation: PREDICTED: protocadherin beta-16-like isoform X2 [Ciona intestinalis],best_score:435.0,evalue:7.48343e-43,length:944
+gi:198428580,ref_number:XP_002123285.1,annotation: PREDICTED: protocadherin beta-16-like isoform X1 [Ciona intestinalis],best_score:433.0,evalue:1.93425e-42,length:1076
+gi:198421354,ref_number:XP_002120352.1,annotation: PREDICTED: protocadherin 18-like [Ciona intestinalis],best_score:421.0,evalue:4.27739e-41,length:1024
+gi:198430891,ref_number:XP_002125453.1,annotation: PREDICTED: protocadherin-18 [Ciona intestinalis],best_score:400.0,evalue:1.87039e-38,length:1178
+gi:1087815018,ref_number:XP_018669953.1,annotation: PREDICTED: cadherin-7 isoform X1 [Ciona intestinalis],best_score:347.0,evalue:2.22956e-32,length:918
+gi:1087815020,ref_number:XP_018669954.1,annotation: PREDICTED: cadherin-7 isoform X2 [Ciona intestinalis],best_score:344.0,evalue:4.5777e-32,length:918
+gi:699248893,ref_number:XP_009860471.1,annotation: PREDICTED: cadherin-7 isoform X3 [Ciona intestinalis],best_score:344.0,evalue:4.7372e-32,length:918
+gi:189409073,ref_number:NP_001121583.1,annotation: cadherin precursor [Ciona intestinalis],best_score:339.0,evalue:1.51575e-31,length:798
+gi:699245687,ref_number:XP_009859529.1,annotation: PREDICTED: cadherin isoform X1 [Ciona intestinalis],best_score:337.0,evalue:2.24285e-31,length:801
+gi:1087801043,ref_number:XP_018672315.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Ciona intestinalis],best_score:253.0,evalue:8.9543e-23,length:335
+gi:1087828362,ref_number:XP_018668378.1,annotation: PREDICTED: mucin-3A-like isoform X3 [Ciona intestinalis],best_score:163.0,evalue:1.32149e-10,length:1246
+gi:1087828360,ref_number:XP_018668377.1,annotation: PREDICTED: mucin-5AC-like isoform X2 [Ciona intestinalis],best_score:162.0,evalue:1.53894e-10,length:1249
+gi:1087828358,ref_number:XP_018668376.1,annotation: PREDICTED: mucin-3A-like isoform X1 [Ciona intestinalis],best_score:162.0,evalue:1.69374e-10,length:1263
+gi:1087803434,ref_number:XP_018670559.1,annotation: PREDICTED: uncharacterized protein LOC100183460 [Ciona intestinalis],best_score:142.0,evalue:3.2966e-08,length:876
+gi:1087816077,ref_number:XP_018670248.1,annotation: PREDICTED: protocadherin-7-like [Ciona intestinalis],best_score:120.0,evalue:1.54189e-06,length:187
+gi:47551325,ref_number:NP_999974.1,annotation: cadherin-23 precursor [Danio rerio],best_score:12091.0,evalue:0.0,length:3366
+gi:528502196,ref_number:XP_002664697.2,annotation: PREDICTED: protocadherin-16 [Danio rerio],best_score:2385.0,evalue:0.0,length:3275
+gi:688532650,ref_number:XP_009289636.1,annotation: PREDICTED: protocadherin-23 isoform X1 [Danio rerio],best_score:2271.0,evalue:0.0,length:3264
+gi:829569653,ref_number:NP_998132.2,annotation: protocadherin Fat 1 precursor [Danio rerio],best_score:2187.0,evalue:0.0,length:4611
+gi:688532031,ref_number:XP_009305532.1,annotation: PREDICTED: protocadherin Fat 1 isoform X3 [Danio rerio],best_score:2186.0,evalue:0.0,length:4623
+gi:1040654205,ref_number:XP_017208124.1,annotation: PREDICTED: protocadherin Fat 1 isoform X4 [Danio rerio],best_score:2177.0,evalue:0.0,length:4426
+gi:528467770,ref_number:XP_005168402.1,annotation: PREDICTED: protocadherin Fat 1 isoform X2 [Danio rerio],best_score:2174.0,evalue:0.0,length:4634
+gi:528467766,ref_number:XP_005168400.1,annotation: PREDICTED: protocadherin Fat 1 isoform X1 [Danio rerio] >gi,best_score:2172.0,evalue:0.0,length:4646
+gi:1036551159,ref_number:NP_001071045.2,annotation: protocadherin Fat 3 precursor [Danio rerio],best_score:2154.0,evalue:0.0,length:4546
+gi:1040663812,ref_number:XP_017206476.1,annotation: PREDICTED: protocadherin Fat 3 isoform X2 [Danio rerio],best_score:2149.0,evalue:0.0,length:4578
+gi:1040663816,ref_number:XP_017206478.1,annotation: PREDICTED: protocadherin Fat 3 isoform X4 [Danio rerio],best_score:2143.0,evalue:0.0,length:3944
+gi:1040663814,ref_number:XP_017206477.1,annotation: PREDICTED: protocadherin Fat 3 isoform X3 [Danio rerio],best_score:2137.0,evalue:0.0,length:4569
+gi:1040663810,ref_number:XP_017206475.1,annotation: PREDICTED: protocadherin Fat 3 isoform X1 [Danio rerio],best_score:2136.0,evalue:0.0,length:4601
+gi:1040663066,ref_number:XP_009289440.2,annotation: PREDICTED: protocadherin Fat 1 [Danio rerio],best_score:2064.0,evalue:0.0,length:4481
+gi:292620786,ref_number:XP_001920058.2,annotation: PREDICTED: protocadherin Fat 2 [Danio rerio],best_score:2030.0,evalue:0.0,length:4342
+gi:688574242,ref_number:XP_009303578.1,annotation: PREDICTED: protocadherin Fat 3-like isoform X1 [Danio rerio],best_score:1969.0,evalue:0.0,length:4669
+gi:1040656979,ref_number:XP_017213540.1,annotation: PREDICTED: protocadherin Fat 3-like isoform X3 [Danio rerio],best_score:1968.0,evalue:0.0,length:4634
+gi:1040656977,ref_number:XP_017213539.1,annotation: PREDICTED: protocadherin Fat 3-like isoform X2 [Danio rerio],best_score:1967.0,evalue:0.0,length:4647
+gi:688574426,ref_number:XP_009303619.1,annotation: PREDICTED: protocadherin-16 [Danio rerio],best_score:1962.0,evalue:0.0,length:2758
+gi:688588486,ref_number:XP_005157778.2,annotation: PREDICTED: protocadherin Fat 4-like [Danio rerio],best_score:1471.0,evalue:2.36394e-163,length:3016
+gi:1040655223,ref_number:XP_017211583.1,annotation: PREDICTED: protocadherin-23 isoform X2 [Danio rerio],best_score:1331.0,evalue:4.93188e-150,length:1786
+gi:528485764,ref_number:XP_001920988.3,annotation: PREDICTED: neural-cadherin [Danio rerio],best_score:1242.0,evalue:2.74483e-136,length:2902
+gi:1040662690,ref_number:XP_005173110.2,annotation: PREDICTED: protocadherin Fat 4 [Danio rerio],best_score:1164.0,evalue:2.56865e-127,length:2624
+gi:528504705,ref_number:XP_001921123.3,annotation: PREDICTED: neural-cadherin [Danio rerio],best_score:1120.0,evalue:5.78492e-122,length:2780
+gi:1040677429,ref_number:XP_017208744.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like [Danio rerio],best_score:1038.0,evalue:3.72094e-118,length:1035
+gi:292628237,ref_number:XP_001920772.2,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 [Danio rerio],best_score:1057.0,evalue:1.61745e-114,length:3006
+gi:688568132,ref_number:XP_009302291.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X3 [Danio rerio],best_score:1028.0,evalue:5.77176e-111,length:3654
+gi:123704351,ref_number:NP_001074046.1,annotation: cadherin EGF LAG seven-pass G-type receptor 2 precursor [Danio rerio],best_score:1026.0,evalue:6.84061e-111,length:2941
+gi:688568129,ref_number:XP_009302290.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X2 [Danio rerio],best_score:1027.0,evalue:7.12785e-111,length:3656
+gi:688568126,ref_number:XP_009302289.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X1 [Danio rerio],best_score:1027.0,evalue:7.45603e-111,length:3666
+gi:1040697402,ref_number:XP_017212965.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3 isoform X4 [Danio rerio],best_score:1026.0,evalue:8.05463e-111,length:3587
+gi:688548734,ref_number:XP_009298735.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X1 [Danio rerio],best_score:987.0,evalue:2.63275e-106,length:3045
+gi:688548745,ref_number:XP_009298736.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X3 [Danio rerio],best_score:987.0,evalue:2.6368e-106,length:3031
+gi:528476947,ref_number:XP_005168604.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X2 [Danio rerio],best_score:986.0,evalue:2.98616e-106,length:3044
+gi:688548747,ref_number:XP_009298737.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X4 [Danio rerio],best_score:986.0,evalue:3.20724e-106,length:3018
+gi:528469252,ref_number:XP_002660608.3,annotation: PREDICTED: protocadherin Fat 3-like [Danio rerio],best_score:833.0,evalue:3.32494e-89,length:1578
+gi:1040663288,ref_number:XP_017214654.1,annotation: PREDICTED: cadherin-related family member 2 [Danio rerio],best_score:783.0,evalue:3.95414e-88,length:704
+gi:688583673,ref_number:XP_009305802.1,annotation: PREDICTED: protocadherin-related 15a isoform X2 [Danio rerio],best_score:763.0,evalue:1.9257e-80,length:1801
+gi:688583666,ref_number:XP_009305800.1,annotation: PREDICTED: protocadherin-related 15a isoform X1 [Danio rerio] >gi,best_score:761.0,evalue:3.05354e-80,length:1806
+gi:60279655,ref_number:NP_001012500.1,annotation: protocadherin-related 15a precursor [Danio rerio],best_score:759.0,evalue:4.58628e-80,length:1796
+gi:1040660746,ref_number:XP_017214203.1,annotation: PREDICTED: protocadherin-related 15a isoform X8 [Danio rerio],best_score:756.0,evalue:9.23167e-80,length:1713
+gi:1040660742,ref_number:XP_017214201.1,annotation: PREDICTED: protocadherin-related 15a isoform X6 [Danio rerio],best_score:756.0,evalue:9.33727e-80,length:1725
+gi:1040660740,ref_number:XP_017214200.1,annotation: PREDICTED: protocadherin-related 15a isoform X5 [Danio rerio],best_score:756.0,evalue:1.02811e-79,length:1726
+gi:1040660744,ref_number:XP_017214202.1,annotation: PREDICTED: protocadherin-related 15a isoform X7 [Danio rerio],best_score:754.0,evalue:1.89716e-79,length:1714
+gi:688578996,ref_number:XP_009304715.1,annotation: PREDICTED: protocadherin-15 isoform X4 [Danio rerio],best_score:754.0,evalue:1.90594e-79,length:1727
+gi:1040660738,ref_number:XP_017214199.1,annotation: PREDICTED: protocadherin-related 15a isoform X4 [Danio rerio],best_score:753.0,evalue:2.00157e-79,length:1726
+gi:1040660736,ref_number:XP_017214198.1,annotation: PREDICTED: protocadherin-related 15a isoform X3 [Danio rerio],best_score:753.0,evalue:2.04071e-79,length:1727
+gi:688578987,ref_number:XP_009304712.1,annotation: PREDICTED: protocadherin-15 isoform X1 [Danio rerio],best_score:753.0,evalue:3.41646e-79,length:1964
+gi:688578989,ref_number:XP_009304713.1,annotation: PREDICTED: protocadherin-15 isoform X2 [Danio rerio],best_score:753.0,evalue:3.57264e-79,length:1959
+gi:688578992,ref_number:XP_009304714.1,annotation: PREDICTED: protocadherin-15 isoform X3 [Danio rerio],best_score:752.0,evalue:4.3352e-79,length:1951
+gi:167516998,ref_number:XP_001742840.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1967.0,evalue:0.0,length:7042
+gi:167517024,ref_number:XP_001742853.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1651.0,evalue:0.0,length:3395
+gi:167538373,ref_number:XP_001750851.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1490.0,evalue:1.52941e-165,length:10056
+gi:167536805,ref_number:XP_001750073.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1466.0,evalue:9.68746e-163,length:10110
+gi:167526375,ref_number:XP_001747521.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1139.0,evalue:1.36692e-124,length:5317
+gi:167535171,ref_number:XP_001749260.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:873.0,evalue:1.7518e-93,length:7041
+gi:167526868,ref_number:XP_001747767.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:503.0,evalue:2.33261e-50,length:8735
+gi:167536885,ref_number:XP_001750113.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:396.0,evalue:5.80258e-38,length:5119
+gi:167526870,ref_number:XP_001747768.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:361.0,evalue:3.8073e-34,length:1222
+gi:167535686,ref_number:XP_001749516.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:301.0,evalue:8.21932e-27,length:5741
+gi:167534724,ref_number:XP_001749037.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:254.0,evalue:1.91263e-21,length:5417
+gi:167517325,ref_number:XP_001743003.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:206.0,evalue:7.4732e-16,length:1989
+gi:167533815,ref_number:XP_001748586.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:204.0,evalue:1.19572e-15,length:1784
+gi:167517675,ref_number:XP_001743178.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:200.0,evalue:3.27918e-15,length:1786
+gi:167528387,ref_number:XP_001748133.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:162.0,evalue:1.00937e-10,length:2820
+gi:167534951,ref_number:XP_001749150.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:155.0,evalue:6.05675e-10,length:1794
+gi:167535479,ref_number:XP_001749413.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:125.0,evalue:2.00376e-06,length:2014
+gi:514679933,ref_number:XP_004987734.1,annotation: tyrosine phosphatase [Salpingoeca rosetta],best_score:2143.0,evalue:0.0,length:8158
+gi:514686224,ref_number:XP_004990690.1,annotation: PRCDH1 protein [Salpingoeca rosetta],best_score:1786.0,evalue:0.0,length:9674
+gi:514683505,ref_number:XP_004989334.1,annotation: hypothetical protein PTSG_12970 [Salpingoeca rosetta],best_score:1458.0,evalue:1.14974e-161,length:10593
+gi:514688525,ref_number:XP_004991838.1,annotation: cadherin [Salpingoeca rosetta],best_score:1363.0,evalue:6.83351e-151,length:3697
+gi:514697717,ref_number:XP_004996428.1,annotation: FAT3 protein [Salpingoeca rosetta],best_score:1153.0,evalue:5.5229e-126,length:7553
+gi:514689707,ref_number:XP_004992428.1,annotation: hypothetical protein PTSG_07016 [Salpingoeca rosetta],best_score:855.0,evalue:3.33858e-91,length:8457
+gi:514688935,ref_number:XP_004992043.1,annotation: NOTCH2 protein [Salpingoeca rosetta],best_score:472.0,evalue:1.2274e-46,length:7004
+gi:514684364,ref_number:XP_004989762.1,annotation: hypothetical protein PTSG_08964 [Salpingoeca rosetta],best_score:339.0,evalue:1.84449e-31,length:996
+gi:514700780,ref_number:XP_004997958.1,annotation: protocadherin gamma B6 [Salpingoeca rosetta],best_score:294.0,evalue:3.2795e-26,length:1024
+gi:514688110,ref_number:XP_004991631.1,annotation: hypothetical protein PTSG_07827 [Salpingoeca rosetta],best_score:217.0,evalue:4.85823e-17,length:1886
+gi:514700716,ref_number:XP_004997926.1,annotation: hypothetical protein PTSG_11807 [Salpingoeca rosetta],best_score:203.0,evalue:2.45609e-15,length:2673
+gi:514689104,ref_number:XP_004992127.1,annotation: notch-1 [Salpingoeca rosetta],best_score:184.0,evalue:4.6111e-13,length:6376
+gi:514688573,ref_number:XP_004991862.1,annotation: hypothetical protein PTSG_06480 [Salpingoeca rosetta],best_score:171.0,evalue:9.0809e-12,length:843
+gi:514693815,ref_number:XP_004994479.1,annotation: hypothetical protein PTSG_04390 [Salpingoeca rosetta],best_score:165.0,evalue:6.35738e-11,length:1838
+gi:514700810,ref_number:XP_004997973.1,annotation: NOTCH2 protein [Salpingoeca rosetta],best_score:163.0,evalue:1.00982e-10,length:1763
+gi:514690700,ref_number:XP_004992924.1,annotation: hypothetical protein PTSG_12381 [Salpingoeca rosetta],best_score:156.0,evalue:8.15515e-10,length:2415
+gi:514690402,ref_number:XP_004992775.1,annotation: hypothetical protein PTSG_05882 [Salpingoeca rosetta],best_score:152.0,evalue:2.01116e-09,length:1856
+gi:514700438,ref_number:XP_004997787.1,annotation: hypothetical protein PTSG_01807 [Salpingoeca rosetta],best_score:145.0,evalue:1.47209e-08,length:2795
+gi:514700454,ref_number:XP_004997795.1,annotation: hypothetical protein PTSG_01815 [Salpingoeca rosetta],best_score:144.0,evalue:1.6431e-08,length:2821
+gi:514699819,ref_number:XP_004997478.1,annotation: hypothetical protein PTSG_01501 [Salpingoeca rosetta],best_score:131.0,evalue:3.45902e-07,length:565
+gi:514696446,ref_number:XP_004995793.1,annotation: NOTCH2 protein [Salpingoeca rosetta],best_score:121.0,evalue:9.82679e-06,length:2421
+gi:1034569094,ref_number:XP_016871988.1,annotation: PREDICTED: cadherin-23 isoform X3 [Homo sapiens],best_score:17658.0,evalue:0.0,length:3399
+gi:189571674,ref_number:NP_071407.4,annotation: cadherin-23 isoform 1 precursor [Homo sapiens],best_score:17648.0,evalue:0.0,length:3354
+gi:578819692,ref_number:XP_006718005.1,annotation: PREDICTED: cadherin-23 isoform X4 [Homo sapiens],best_score:17633.0,evalue:0.0,length:3397
+gi:767963484,ref_number:XP_011538346.1,annotation: PREDICTED: cadherin-23 isoform X8 [Homo sapiens],best_score:17627.0,evalue:0.0,length:3374
+gi:578819688,ref_number:XP_006718003.1,annotation: PREDICTED: cadherin-23 isoform X1 [Homo sapiens],best_score:17611.0,evalue:0.0,length:3419
+gi:767963473,ref_number:XP_011538341.1,annotation: PREDICTED: cadherin-23 isoform X2 [Homo sapiens],best_score:17594.0,evalue:0.0,length:3418
+gi:767963480,ref_number:XP_011538344.1,annotation: PREDICTED: cadherin-23 isoform X5 [Homo sapiens],best_score:17427.0,evalue:0.0,length:3389
+gi:767963482,ref_number:XP_011538345.1,annotation: PREDICTED: cadherin-23 isoform X6 [Homo sapiens],best_score:17393.0,evalue:0.0,length:3384
+gi:1034569099,ref_number:XP_016871989.1,annotation: PREDICTED: cadherin-23 isoform X7 [Homo sapiens],best_score:17344.0,evalue:0.0,length:3377
+gi:767963486,ref_number:XP_011538347.1,annotation: PREDICTED: cadherin-23 isoform X9 [Homo sapiens],best_score:17051.0,evalue:0.0,length:3313
+gi:767963488,ref_number:XP_011538348.1,annotation: PREDICTED: cadherin-23 isoform X10 [Homo sapiens],best_score:16832.0,evalue:0.0,length:3239
+gi:767963490,ref_number:XP_011538349.1,annotation: PREDICTED: cadherin-23 isoform X11 [Homo sapiens],best_score:15649.0,evalue:0.0,length:3025
+gi:1034569105,ref_number:XP_016871990.1,annotation: PREDICTED: cadherin-23 isoform X12 [Homo sapiens] >gi,best_score:13510.0,evalue:0.0,length:2565
+gi:767963494,ref_number:XP_011538351.1,annotation: PREDICTED: cadherin-23 isoform X14 [Homo sapiens],best_score:11707.0,evalue:0.0,length:2330
+gi:767963499,ref_number:XP_011538353.1,annotation: PREDICTED: cadherin-23 isoform X15 [Homo sapiens],best_score:11702.0,evalue:0.0,length:2306
+gi:767963492,ref_number:XP_011538350.1,annotation: PREDICTED: cadherin-23 isoform X13 [Homo sapiens],best_score:11687.0,evalue:0.0,length:2388
+gi:767963501,ref_number:XP_011538354.1,annotation: PREDICTED: cadherin-23 isoform X16 [Homo sapiens],best_score:11554.0,evalue:0.0,length:2195
+gi:1034569114,ref_number:XP_016871992.1,annotation: PREDICTED: cadherin-23 isoform X17 [Homo sapiens],best_score:10468.0,evalue:0.0,length:2022
+gi:1034569116,ref_number:XP_016871993.1,annotation: PREDICTED: cadherin-23 isoform X18 [Homo sapiens],best_score:9565.0,evalue:0.0,length:1832
+gi:1034569118,ref_number:XP_016871994.1,annotation: PREDICTED: cadherin-23 isoform X19 [Homo sapiens],best_score:9397.0,evalue:0.0,length:1781
+gi:1034569120,ref_number:XP_016871995.1,annotation: PREDICTED: cadherin-23 isoform X20 [Homo sapiens],best_score:9074.0,evalue:0.0,length:1722
+gi:1034569122,ref_number:XP_016871996.1,annotation: PREDICTED: cadherin-23 isoform X21 [Homo sapiens],best_score:7302.0,evalue:0.0,length:1386
+gi:284925128,ref_number:NP_001165401.1,annotation: cadherin-23 isoform 3 precursor [Homo sapiens],best_score:7190.0,evalue:0.0,length:1381
+gi:284925134,ref_number:NP_001165404.1,annotation: cadherin-23 isoform 6 [Homo sapiens] >gi,best_score:5907.0,evalue:0.0,length:1114
+gi:284925136,ref_number:NP_001165405.1,annotation: cadherin-23 isoform 7 [Homo sapiens],best_score:5672.0,evalue:0.0,length:1079
+gi:284925130,ref_number:NP_001165402.1,annotation: cadherin-23 isoform 4 precursor [Homo sapiens],best_score:5438.0,evalue:0.0,length:1061
+gi:604723349,ref_number:NP_001278232.1,annotation: protocadherin Fat 4 isoform 1 precursor [Homo sapiens] >gi,best_score:2546.0,evalue:0.0,length:4983
+gi:603844373,ref_number:NP_001278214.1,annotation: protocadherin Fat 4 isoform 2 precursor [Homo sapiens],best_score:2545.0,evalue:0.0,length:4982
+gi:16507964,ref_number:NP_443068.1,annotation: cadherin-23 isoform 2 precursor [Homo sapiens],best_score:2542.0,evalue:0.0,length:530
+gi:165932370,ref_number:NP_078858.4,annotation: protocadherin Fat 4 isoform 3 precursor [Homo sapiens],best_score:2526.0,evalue:0.0,length:4981
+gi:16933557,ref_number:NP_003728.1,annotation: protocadherin-16 precursor [Homo sapiens],best_score:2238.0,evalue:0.0,length:3298
+gi:767932148,ref_number:XP_011530347.1,annotation: PREDICTED: protocadherin-23 isoform X1 [Homo sapiens],best_score:2098.0,evalue:0.0,length:3371
+gi:66346693,ref_number:NP_005236.2,annotation: protocadherin Fat 1 precursor [Homo sapiens] >gi,best_score:2089.0,evalue:0.0,length:4588
+gi:530377362,ref_number:XP_005262891.1,annotation: PREDICTED: protocadherin Fat 1 isoform X1 [Homo sapiens] >gi,best_score:2087.0,evalue:0.0,length:4600
+gi:13787217,ref_number:NP_001438.1,annotation: protocadherin Fat 2 precursor [Homo sapiens] >gi,best_score:2074.0,evalue:0.0,length:4349
+gi:1034571943,ref_number:XP_016872673.1,annotation: PREDICTED: protocadherin Fat 3 isoform X6 [Homo sapiens],best_score:2020.0,evalue:0.0,length:4395
+gi:1034571931,ref_number:XP_016872667.1,annotation: PREDICTED: protocadherin Fat 3 isoform X1 [Homo sapiens] >gi,best_score:2020.0,evalue:0.0,length:4612
+gi:1034571935,ref_number:XP_016872669.1,annotation: PREDICTED: protocadherin Fat 3 isoform X2 [Homo sapiens],best_score:2018.0,evalue:0.0,length:4592
+gi:1034571939,ref_number:XP_016872671.1,annotation: PREDICTED: protocadherin Fat 3 isoform X4 [Homo sapiens],best_score:2016.0,evalue:0.0,length:4580
+gi:1034571937,ref_number:XP_016872670.1,annotation: PREDICTED: protocadherin Fat 3 isoform X3 [Homo sapiens],best_score:2013.0,evalue:0.0,length:4589
+gi:148886692,ref_number:NP_001008781.2,annotation: protocadherin Fat 3 precursor [Homo sapiens] >gi,best_score:2013.0,evalue:0.0,length:4557
+gi:284925132,ref_number:NP_001165403.1,annotation: cadherin-23 isoform 5 precursor [Homo sapiens],best_score:1990.0,evalue:0.0,length:406
+gi:767932611,ref_number:XP_011530539.1,annotation: PREDICTED: protocadherin Fat 4 isoform X2 [Homo sapiens],best_score:1915.0,evalue:0.0,length:3240
+gi:1034644186,ref_number:XP_016864715.1,annotation: PREDICTED: protocadherin Fat 2 isoform X2 [Homo sapiens],best_score:1810.0,evalue:0.0,length:3051
+gi:1034644188,ref_number:XP_016864716.1,annotation: PREDICTED: protocadherin Fat 2 isoform X3 [Homo sapiens],best_score:1807.0,evalue:0.0,length:3015
+gi:47059046,ref_number:NP_060109.2,annotation: protocadherin-23 isoform 1 [Homo sapiens],best_score:1769.0,evalue:0.0,length:2916
+gi:767932150,ref_number:XP_011530348.1,annotation: PREDICTED: protocadherin-23 isoform X2 [Homo sapiens],best_score:1757.0,evalue:0.0,length:2594
+gi:1034571945,ref_number:XP_016872674.1,annotation: PREDICTED: protocadherin Fat 3 isoform X7 [Homo sapiens],best_score:1732.0,evalue:0.0,length:3540
+gi:1034571947,ref_number:XP_016872675.1,annotation: PREDICTED: protocadherin Fat 3 isoform X8 [Homo sapiens] >gi,best_score:1719.0,evalue:0.0,length:3502
+gi:284925138,ref_number:NP_001165406.1,annotation: cadherin-23 isoform 8 [Homo sapiens],best_score:1218.0,evalue:3.77085e-152,length:251

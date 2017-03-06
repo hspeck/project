@@ -1,0 +1,941 @@
+gi:145699097,ref_number:NP_067383.3,annotation: usherin precursor [Mus musculus],best_score:20245.0,evalue:0.0,length:5193
+gi:1039728384,ref_number:XP_017175358.1,annotation: PREDICTED: usherin isoform X1 [Mus musculus],best_score:12682.0,evalue:0.0,length:3282
+gi:568920137,ref_number:XP_006500638.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X1 [Mus musculus],best_score:912.0,evalue:6.15081e-97,length:3745
+gi:124487155,ref_number:NP_001074640.1,annotation: laminin subunit alpha-5 precursor [Mus musculus],best_score:908.0,evalue:1.68731e-96,length:3718
+gi:1039759224,ref_number:XP_017171320.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X2 [Mus musculus],best_score:902.0,evalue:8.66706e-96,length:3576
+gi:1039759226,ref_number:XP_017171321.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X3 [Mus musculus],best_score:866.0,evalue:9.00458e-92,length:2510
+gi:569003360,ref_number:XP_006525754.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X7 [Mus musculus],best_score:729.0,evalue:3.83598e-76,length:1709
+gi:114326497,ref_number:NP_032508.2,annotation: laminin subunit beta-1 [Mus musculus],best_score:677.0,evalue:7.39321e-70,length:1834
+gi:113865981,ref_number:NP_032510.2,annotation: laminin subunit beta-3 precursor [Mus musculus] >gi,best_score:665.0,evalue:1.60804e-69,length:1168
+gi:568977546,ref_number:XP_006515056.1,annotation: PREDICTED: laminin subunit beta-1 isoform X1 [Mus musculus] >gi,best_score:673.0,evalue:1.70942e-69,length:1786
+gi:1039732964,ref_number:XP_017169428.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ isoform X3 [Mus musculus],best_score:642.0,evalue:1.21734e-65,length:2301
+gi:31982223,ref_number:NP_032509.2,annotation: laminin subunit beta-2 precursor [Mus musculus] >gi,best_score:638.0,evalue:2.56876e-65,length:1799
+gi:226423935,ref_number:NP_034810.1,annotation: laminin subunit alpha-3 isoform 3B precursor [Mus musculus],best_score:636.0,evalue:6.90136e-65,length:3330
+gi:569003347,ref_number:XP_006525748.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X1 [Mus musculus],best_score:636.0,evalue:6.96061e-65,length:3331
+gi:124487427,ref_number:NP_001074901.1,annotation: phosphatidylinositol phosphatase PTPRQ precursor [Mus musculus],best_score:635.0,evalue:8.70943e-65,length:2300
+gi:568967537,ref_number:XP_006513698.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ isoform X1 [Mus musculus],best_score:632.0,evalue:1.32715e-64,length:2001
+gi:569003349,ref_number:XP_006525749.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X2 [Mus musculus],best_score:628.0,evalue:5.71266e-64,length:3011
+gi:1039732962,ref_number:XP_017169427.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ isoform X2 [Mus musculus],best_score:617.0,evalue:8.08701e-63,length:1903
+gi:117647249,ref_number:NP_032507.2,annotation: laminin subunit alpha-2 precursor [Mus musculus],best_score:599.0,evalue:1.57649e-60,length:3118
+gi:755532856,ref_number:XP_011241436.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X1 [Mus musculus],best_score:599.0,evalue:1.6297e-60,length:3116
+gi:1039732207,ref_number:XP_017169304.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X3 [Mus musculus],best_score:596.0,evalue:3.05494e-60,length:3112
+gi:755532858,ref_number:XP_011241437.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X2 [Mus musculus],best_score:596.0,evalue:3.08175e-60,length:3114
+gi:153791270,ref_number:NP_034813.2,annotation: laminin subunit gamma-1 precursor [Mus musculus],best_score:569.0,evalue:2.79562e-57,length:1607
+gi:568965053,ref_number:XP_006512629.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X4 [Mus musculus],best_score:564.0,evalue:1.45543e-56,length:1965
+gi:66392579,ref_number:NP_035966.2,annotation: laminin subunit gamma-3 precursor [Mus musculus],best_score:549.0,evalue:5.6573e-55,length:1581
+gi:117168301,ref_number:NP_032506.2,annotation: laminin subunit alpha-1 precursor [Mus musculus],best_score:551.0,evalue:5.7647e-55,length:3083
+gi:568999141,ref_number:XP_006523780.1,annotation: PREDICTED: laminin subunit alpha-1 isoform X1 [Mus musculus],best_score:551.0,evalue:6.12397e-55,length:3042
+gi:568999143,ref_number:XP_006523781.1,annotation: PREDICTED: laminin subunit alpha-1 isoform X2 [Mus musculus],best_score:507.0,evalue:5.04337e-50,length:1564
+gi:112363094,ref_number:NP_032770.2,annotation: netrin-1 precursor [Mus musculus],best_score:467.0,evalue:1.73498e-47,length:604
+gi:568973811,ref_number:XP_006533316.1,annotation: PREDICTED: protein sidekick-2 isoform X1 [Mus musculus],best_score:448.0,evalue:5.36801e-43,length:2157
+gi:226442874,ref_number:NP_067295.2,annotation: netrin-4 precursor [Mus musculus],best_score:429.0,evalue:1.6741e-42,length:628
+gi:40254254,ref_number:NP_766388.2,annotation: protein sidekick-2 precursor [Mus musculus],best_score:442.0,evalue:2.68514e-42,length:2176
+gi:568973813,ref_number:XP_006533317.1,annotation: PREDICTED: protein sidekick-2 isoform X2 [Mus musculus],best_score:441.0,evalue:3.30379e-42,length:2052
+gi:568973815,ref_number:XP_006533318.1,annotation: PREDICTED: protein sidekick-2 isoform X3 [Mus musculus],best_score:440.0,evalue:3.93149e-42,length:2018
+gi:6754904,ref_number:NP_035077.1,annotation: netrin-3 precursor [Mus musculus],best_score:407.0,evalue:5.37164e-40,length:580
+gi:164518930,ref_number:NP_808547.3,annotation: protein sidekick-1 [Mus musculus],best_score:366.0,evalue:2.20962e-33,length:2193
+gi:568938739,ref_number:XP_006504775.1,annotation: PREDICTED: protein sidekick-1 isoform X1 [Mus musculus],best_score:364.0,evalue:3.66957e-33,length:2128
+gi:569003352,ref_number:XP_006525750.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X3 [Mus musculus],best_score:360.0,evalue:8.49898e-33,length:2170
+gi:568947877,ref_number:XP_006540952.1,annotation: PREDICTED: netrin-5 isoform X5 [Mus musculus],best_score:345.0,evalue:1.02676e-32,length:488
+gi:568947875,ref_number:XP_006540951.1,annotation: PREDICTED: netrin-5 isoform X4 [Mus musculus],best_score:345.0,evalue:1.0761e-32,length:496
+gi:568947871,ref_number:XP_006540949.1,annotation: PREDICTED: netrin-5 isoform X2 [Mus musculus],best_score:343.0,evalue:2.69971e-32,length:518
+gi:568947873,ref_number:XP_006540950.1,annotation: PREDICTED: netrin-5 isoform X3 [Mus musculus],best_score:343.0,evalue:3.31709e-32,length:515
+gi:568947869,ref_number:XP_006540948.1,annotation: PREDICTED: netrin-5 isoform X1 [Mus musculus],best_score:342.0,evalue:3.83546e-32,length:523
+gi:576067833,ref_number:NP_001276622.1,annotation: netrin-5 isoform c [Mus musculus],best_score:333.0,evalue:5.71258e-32,length:383
+gi:568947885,ref_number:XP_006540956.1,annotation: PREDICTED: netrin-5 isoform X8 [Mus musculus],best_score:320.0,evalue:3.32376e-30,length:386
+gi:568947883,ref_number:XP_006540955.1,annotation: PREDICTED: netrin-5 isoform X7 [Mus musculus],best_score:320.0,evalue:3.45409e-30,length:391
+gi:755506139,ref_number:XP_011248252.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X4 [Mus musculus],best_score:336.0,evalue:5.52024e-30,length:1979
+gi:1039766968,ref_number:XP_017175535.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X1 [Mus musculus],best_score:336.0,evalue:5.61502e-30,length:1980
+gi:755506136,ref_number:XP_011248251.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X2 [Mus musculus],best_score:336.0,evalue:5.80558e-30,length:1979
+gi:1039766982,ref_number:XP_017175542.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X11 [Mus musculus],best_score:336.0,evalue:5.83036e-30,length:1925
+gi:585720991,ref_number:XP_006813188.1,annotation: PREDICTED: usherin [Saccoglossus kowalevskii],best_score:9828.0,evalue:0.0,length:4953
+gi:585681109,ref_number:XP_006819813.1,annotation: PREDICTED: laminin subunit alpha-like [Saccoglossus kowalevskii],best_score:884.0,evalue:1.327e-94,length:2251
+gi:585719045,ref_number:XP_006825989.1,annotation: PREDICTED: laminin subunit beta-1-like [Saccoglossus kowalevskii],best_score:613.0,evalue:6.05851e-63,length:1770
+gi:585703478,ref_number:XP_006823268.1,annotation: PREDICTED: laminin subunit alpha-2-like [Saccoglossus kowalevskii],best_score:605.0,evalue:6.91236e-62,length:2646
+gi:585663983,ref_number:XP_002731086.2,annotation: PREDICTED: laminin subunit gamma-1-like [Saccoglossus kowalevskii],best_score:559.0,evalue:9.47745e-57,length:1624
+gi:585689422,ref_number:XP_006820869.1,annotation: PREDICTED: laminin subunit beta-4-like [Saccoglossus kowalevskii],best_score:523.0,evalue:6.25417e-55,length:652
+gi:585689418,ref_number:XP_006820868.1,annotation: PREDICTED: laminin subunit beta-1-like [Saccoglossus kowalevskii],best_score:531.0,evalue:1.93045e-53,length:1592
+gi:259013386,ref_number:NP_001158400.1,annotation: netrin1 precursor [Saccoglossus kowalevskii],best_score:441.0,evalue:6.7619e-45,length:596
+gi:284005150,ref_number:NP_001164710.1,annotation: netrin 4 precursor [Saccoglossus kowalevskii],best_score:426.0,evalue:7.48807e-43,length:610
+gi:585702154,ref_number:XP_006823015.1,annotation: PREDICTED: titin-like [Saccoglossus kowalevskii],best_score:414.0,evalue:1.49479e-39,length:3117
+gi:585644341,ref_number:XP_006813849.1,annotation: PREDICTED: laminin subunit gamma-1-like [Saccoglossus kowalevskii],best_score:402.0,evalue:1.24462e-38,length:1001
+gi:585702146,ref_number:XP_006823013.1,annotation: PREDICTED: titin [Saccoglossus kowalevskii],best_score:398.0,evalue:1.00641e-37,length:3783
+gi:585702150,ref_number:XP_006823014.1,annotation: PREDICTED: titin-like [Saccoglossus kowalevskii],best_score:380.0,evalue:1.17317e-35,length:1873
+gi:585722233,ref_number:XP_006813413.1,annotation: PREDICTED: laminin-like protein epi-1-like [Saccoglossus kowalevskii],best_score:367.0,evalue:1.24994e-34,length:891
+gi:585702158,ref_number:XP_006823016.1,annotation: PREDICTED: titin-like [Saccoglossus kowalevskii],best_score:359.0,evalue:3.78443e-33,length:4695
+gi:585702142,ref_number:XP_006823012.1,annotation: PREDICTED: titin-like [Saccoglossus kowalevskii],best_score:356.0,evalue:7.75395e-33,length:2911
+gi:585716379,ref_number:XP_006825511.1,annotation: PREDICTED: protein sidekick-2-like [Saccoglossus kowalevskii],best_score:355.0,evalue:9.92096e-33,length:2111
+gi:585715286,ref_number:XP_006825306.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 9-like [Saccoglossus kowalevskii],best_score:304.0,evalue:4.87633e-28,length:493
+gi:291231913,ref_number:XP_002735906.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3a-like [Saccoglossus kowalevskii],best_score:261.0,evalue:6.10526e-22,length:1133
+gi:284005146,ref_number:NP_001164709.1,annotation: neogenin [Saccoglossus kowalevskii],best_score:257.0,evalue:1.99878e-21,length:1398
+gi:585644021,ref_number:XP_006813789.1,annotation: PREDICTED: uncharacterized protein LOC102801071 [Saccoglossus kowalevskii],best_score:250.0,evalue:1.18293e-20,length:1030
+gi:585676890,ref_number:XP_006819045.1,annotation: PREDICTED: uncharacterized protein LOC102807909 [Saccoglossus kowalevskii],best_score:243.0,evalue:9.22746e-20,length:1225
+gi:585643206,ref_number:XP_006811310.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Saccoglossus kowalevskii],best_score:241.0,evalue:1.10123e-19,length:845
+gi:585688373,ref_number:XP_006820667.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Saccoglossus kowalevskii],best_score:237.0,evalue:4.44854e-19,length:1198
+gi:585688337,ref_number:XP_002738152.2,annotation: PREDICTED: tyrosine-protein kinase receptor Tie-1-like [Saccoglossus kowalevskii],best_score:230.0,evalue:2.90597e-18,length:1230
+gi:585641944,ref_number:XP_006811105.1,annotation: PREDICTED: laminin subunit alpha-2-like [Saccoglossus kowalevskii],best_score:210.0,evalue:5.52654e-17,length:339
+gi:585644472,ref_number:XP_006813873.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 11-like [Saccoglossus kowalevskii],best_score:213.0,evalue:3.48297e-16,length:1334
+gi:585702138,ref_number:XP_006823011.1,annotation: PREDICTED: titin-like [Saccoglossus kowalevskii],best_score:209.0,evalue:1.0004e-15,length:1870
+gi:585711017,ref_number:XP_006824661.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Saccoglossus kowalevskii],best_score:206.0,evalue:1.3098e-15,length:703
+gi:585718370,ref_number:XP_006825869.1,annotation: PREDICTED: Down syndrome cell adhesion molecule-like [Saccoglossus kowalevskii],best_score:199.0,evalue:1.4728e-14,length:2134
+gi:585712077,ref_number:XP_006824853.1,annotation: PREDICTED: neurexin-1b [Saccoglossus kowalevskii],best_score:197.0,evalue:2.71364e-14,length:1693
+gi:585693128,ref_number:XP_002738822.2,annotation: PREDICTED: protogenin-like [Saccoglossus kowalevskii],best_score:194.0,evalue:4.59549e-14,length:827
+gi:585688369,ref_number:XP_006820666.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Saccoglossus kowalevskii],best_score:190.0,evalue:6.81326e-14,length:492
+gi:585701114,ref_number:XP_006822819.1,annotation: PREDICTED: multiple EGF-like-domains 10 [Saccoglossus kowalevskii],best_score:193.0,evalue:6.90529e-14,length:1385
+gi:585642074,ref_number:XP_006811125.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 6-like [Saccoglossus kowalevskii],best_score:190.0,evalue:1.56094e-13,length:1600
+gi:585667449,ref_number:XP_006817318.1,annotation: PREDICTED: protein sidekick-2-like [Saccoglossus kowalevskii],best_score:187.0,evalue:3.28653e-13,length:1531
+gi:585655683,ref_number:XP_006815526.1,annotation: PREDICTED: laminin-like protein epi-1-like, partial [Saccoglossus kowalevskii],best_score:185.0,evalue:4.94516e-13,length:842
+gi:585693304,ref_number:XP_006821610.1,annotation: PREDICTED: uncharacterized protein LOC102806175, partial [Saccoglossus kowalevskii],best_score:180.0,evalue:2.38362e-12,length:1427
+gi:585681854,ref_number:XP_006819938.1,annotation: PREDICTED: LOW QUALITY PROTEIN: agrin [Saccoglossus kowalevskii],best_score:170.0,evalue:3.21834e-11,length:1556
+gi:585694532,ref_number:XP_006821841.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like [Saccoglossus kowalevskii],best_score:170.0,evalue:3.63276e-11,length:1524
+gi:585688253,ref_number:XP_006820646.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like, partial [Saccoglossus kowalevskii],best_score:165.0,evalue:6.84343e-11,length:461
+gi:585664629,ref_number:XP_006812052.1,annotation: PREDICTED: protogenin-like [Saccoglossus kowalevskii],best_score:164.0,evalue:1.16055e-10,length:724
+gi:585724181,ref_number:XP_006813777.1,annotation: PREDICTED: laminin subunit alpha-1-like, partial [Saccoglossus kowalevskii],best_score:154.0,evalue:1.27645e-10,length:203
+gi:585710355,ref_number:XP_006824531.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 [Saccoglossus kowalevskii],best_score:162.0,evalue:3.19922e-10,length:3095
+gi:585716440,ref_number:XP_006825525.1,annotation: PREDICTED: neuronal cell adhesion molecule, partial [Saccoglossus kowalevskii],best_score:153.0,evalue:2.0501e-09,length:525
+gi:284005168,ref_number:NP_001164715.1,annotation: protogenin precursor [Saccoglossus kowalevskii],best_score:154.0,evalue:2.23617e-09,length:849
+gi:585664825,ref_number:XP_006812086.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 6-like [Saccoglossus kowalevskii],best_score:153.0,evalue:2.38088e-09,length:703
+gi:585647905,ref_number:XP_006814129.1,annotation: PREDICTED: tenascin-X-like [Saccoglossus kowalevskii],best_score:153.0,evalue:3.50352e-09,length:1185
+gi:585697445,ref_number:XP_006822387.1,annotation: PREDICTED: titin-like, partial [Saccoglossus kowalevskii],best_score:149.0,evalue:1.04846e-08,length:1364
+gi:585705279,ref_number:XP_006823606.1,annotation: PREDICTED: uncharacterized protein LOC102810035 [Saccoglossus kowalevskii],best_score:147.0,evalue:1.43617e-08,length:1289
+gi:196003946,ref_number:XP_002111840.1,annotation: hypothetical protein TRIADDRAFT_24524 [Trichoplax adhaerens],best_score:565.0,evalue:3.32505e-58,length:1161
+gi:196008815,ref_number:XP_002114273.1,annotation: hypothetical protein TRIADDRAFT_27868 [Trichoplax adhaerens],best_score:436.0,evalue:5.38009e-43,length:995
+gi:195999444,ref_number:XP_002109590.1,annotation: hypothetical protein TRIADDRAFT_53774 [Trichoplax adhaerens],best_score:423.0,evalue:5.33987e-41,length:2013
+gi:195998782,ref_number:XP_002109259.1,annotation: hypothetical protein TRIADDRAFT_21436 [Trichoplax adhaerens],best_score:409.0,evalue:8.85946e-40,length:991
+gi:196008067,ref_number:XP_002113899.1,annotation: hypothetical protein TRIADDRAFT_64052 [Trichoplax adhaerens],best_score:349.0,evalue:1.93681e-32,length:1537
+gi:195999892,ref_number:XP_002109814.1,annotation: hypothetical protein TRIADDRAFT_53080 [Trichoplax adhaerens],best_score:220.0,evalue:3.73403e-19,length:263
+gi:196016717,ref_number:XP_002118209.1,annotation: hypothetical protein TRIADDRAFT_62266 [Trichoplax adhaerens],best_score:221.0,evalue:2.41066e-17,length:3089
+gi:196012375,ref_number:XP_002116050.1,annotation: hypothetical protein TRIADDRAFT_30409 [Trichoplax adhaerens],best_score:212.0,evalue:1.28861e-16,length:645
+gi:196002057,ref_number:XP_002110896.1,annotation: predicted protein [Trichoplax adhaerens],best_score:213.0,evalue:1.56663e-16,length:1514
+gi:195995555,ref_number:XP_002107646.1,annotation: hypothetical protein TRIADDRAFT_51357 [Trichoplax adhaerens],best_score:194.0,evalue:1.99191e-14,length:895
+gi:196007920,ref_number:XP_002113826.1,annotation: hypothetical protein TRIADDRAFT_26220 [Trichoplax adhaerens],best_score:181.0,evalue:5.01447e-13,length:601
+gi:196005787,ref_number:XP_002112760.1,annotation: hypothetical protein TRIADDRAFT_56233 [Trichoplax adhaerens],best_score:169.0,evalue:1.8697e-11,length:967
+gi:196006680,ref_number:XP_002113206.1,annotation: hypothetical protein TRIADDRAFT_57125 [Trichoplax adhaerens],best_score:162.0,evalue:6.53934e-11,length:419
+gi:196003074,ref_number:XP_002111404.1,annotation: hypothetical protein TRIADDRAFT_55384 [Trichoplax adhaerens],best_score:160.0,evalue:2.3734e-10,length:1788
+gi:196012425,ref_number:XP_002116075.1,annotation: hypothetical protein TRIADDRAFT_59976 [Trichoplax adhaerens],best_score:157.0,evalue:3.13005e-10,length:556
+gi:196008089,ref_number:XP_002113910.1,annotation: hypothetical protein TRIADDRAFT_57814 [Trichoplax adhaerens],best_score:147.0,evalue:3.95411e-10,length:191
+gi:195997369,ref_number:XP_002108553.1,annotation: hypothetical protein TRIADDRAFT_51581 [Trichoplax adhaerens],best_score:152.0,evalue:5.00688e-10,length:301
+gi:196016263,ref_number:XP_002117985.1,annotation: hypothetical protein TRIADDRAFT_62006 [Trichoplax adhaerens],best_score:157.0,evalue:5.32144e-10,length:1318
+gi:196007928,ref_number:XP_002113830.1,annotation: hypothetical protein TRIADDRAFT_57635 [Trichoplax adhaerens],best_score:157.0,evalue:5.57818e-10,length:1556
+gi:196004634,ref_number:XP_002112184.1,annotation: hypothetical protein TRIADDRAFT_55971 [Trichoplax adhaerens],best_score:157.0,evalue:6.32098e-10,length:2647
+gi:196006604,ref_number:XP_002113168.1,annotation: predicted protein [Trichoplax adhaerens],best_score:148.0,evalue:3.12859e-09,length:403
+gi:196016443,ref_number:XP_002118074.1,annotation: hypothetical protein TRIADDRAFT_62104 [Trichoplax adhaerens],best_score:145.0,evalue:1.65476e-08,length:2216
+gi:195998904,ref_number:XP_002109320.1,annotation: hypothetical protein TRIADDRAFT_53229 [Trichoplax adhaerens],best_score:140.0,evalue:5.35827e-08,length:1026
+gi:195997181,ref_number:XP_002108459.1,annotation: expressed hypothetical protein [Trichoplax adhaerens],best_score:137.0,evalue:8.51829e-08,length:718
+gi:196015988,ref_number:XP_002117849.1,annotation: hypothetical protein TRIADDRAFT_13460 [Trichoplax adhaerens],best_score:130.0,evalue:2.99791e-07,length:305
+gi:195999996,ref_number:XP_002109866.1,annotation: hypothetical protein TRIADDRAFT_53185 [Trichoplax adhaerens],best_score:128.0,evalue:8.10529e-07,length:399
+gi:196008747,ref_number:XP_002114239.1,annotation: predicted protein [Trichoplax adhaerens],best_score:122.0,evalue:5.72592e-06,length:968
+gi:196005733,ref_number:XP_002112733.1,annotation: hypothetical protein TRIADDRAFT_56157 [Trichoplax adhaerens],best_score:120.0,evalue:8.47091e-06,length:715
+gi:470293655,ref_number:XP_004343931.1,annotation: hypothetical protein CAOG_07207 [Capsaspora owczarzaki ATCC 30864],best_score:397.0,evalue:6.8629e-38,length:3184
+gi:470308774,ref_number:XP_004363905.1,annotation: hypothetical protein CAOG_03066 [Capsaspora owczarzaki ATCC 30864],best_score:368.0,evalue:1.46881e-34,length:2395
+gi:470323444,ref_number:XP_004349491.1,annotation: hypothetical protein CAOG_02741 [Capsaspora owczarzaki ATCC 30864],best_score:367.0,evalue:2.18663e-34,length:2316
+gi:470297577,ref_number:XP_004345667.1,annotation: hypothetical protein CAOG_06077 [Capsaspora owczarzaki ATCC 30864],best_score:325.0,evalue:1.71127e-29,length:2246
+gi:470297786,ref_number:XP_004345727.1,annotation: hypothetical protein CAOG_06137 [Capsaspora owczarzaki ATCC 30864],best_score:323.0,evalue:2.73174e-29,length:2286
+gi:754347327,ref_number:XP_004347817.2,annotation: hypothetical protein CAOG_03992 [Capsaspora owczarzaki ATCC 30864],best_score:263.0,evalue:1.03689e-22,length:692
+gi:754349006,ref_number:XP_004347036.2,annotation: keratin-associated protein 5-4 [Capsaspora owczarzaki ATCC 30864],best_score:263.0,evalue:3.011e-22,length:2194
+gi:754349004,ref_number:XP_004347035.2,annotation: hypothetical protein CAOG_05350 [Capsaspora owczarzaki ATCC 30864] >gi,best_score:208.0,evalue:6.71788e-16,length:2143
+gi:470299775,ref_number:XP_004346710.1,annotation: hypothetical protein CAOG_05025 [Capsaspora owczarzaki ATCC 30864],best_score:205.0,evalue:1.14293e-15,length:790
+gi:754341965,ref_number:XP_004365141.2,annotation: receptor-linked protein tyrosine phosphatase [Capsaspora owczarzaki ATCC 30864],best_score:198.0,evalue:9.34508e-15,length:1960
+gi:470298087,ref_number:XP_004346067.1,annotation: protein tyrosine kinase [Capsaspora owczarzaki ATCC 30864],best_score:183.0,evalue:5.94397e-13,length:2810
+gi:470363498,ref_number:XP_004365629.1,annotation: hypothetical protein CAOG_00758 [Capsaspora owczarzaki ATCC 30864],best_score:175.0,evalue:4.58184e-12,length:2958
+gi:470290755,ref_number:XP_004343210.1,annotation: hypothetical protein CAOG_07351 [Capsaspora owczarzaki ATCC 30864],best_score:153.0,evalue:1.30548e-09,length:880
+gi:754352447,ref_number:XP_004343315.2,annotation: hypothetical protein CAOG_07456 [Capsaspora owczarzaki ATCC 30864] >gi,best_score:137.0,evalue:1.20055e-07,length:1306
+gi:676458584,ref_number:XP_009055023.1,annotation: hypothetical protein LOTGIDRAFT_118598, partial [Lottia gigantea],best_score:9041.0,evalue:0.0,length:4922
+gi:676456698,ref_number:XP_009054407.1,annotation: hypothetical protein LOTGIDRAFT_144813 [Lottia gigantea],best_score:960.0,evalue:3.1259e-103,length:3645
+gi:676421970,ref_number:XP_009043900.1,annotation: hypothetical protein LOTGIDRAFT_227981 [Lottia gigantea],best_score:742.0,evalue:6.63469e-78,length:3247
+gi:676491041,ref_number:XP_009065467.1,annotation: hypothetical protein LOTGIDRAFT_132702 [Lottia gigantea],best_score:675.0,evalue:9.64566e-75,length:660
+gi:676468132,ref_number:XP_009058110.1,annotation: hypothetical protein LOTGIDRAFT_209765 [Lottia gigantea],best_score:632.0,evalue:2.32326e-65,length:1760
+gi:676425479,ref_number:XP_009044345.1,annotation: hypothetical protein LOTGIDRAFT_211656 [Lottia gigantea],best_score:536.0,evalue:4.16761e-54,length:1493
+gi:676473047,ref_number:XP_009059688.1,annotation: hypothetical protein LOTGIDRAFT_164938 [Lottia gigantea],best_score:483.0,evalue:9.64278e-48,length:2844
+gi:676445237,ref_number:XP_009050689.1,annotation: hypothetical protein LOTGIDRAFT_201560 [Lottia gigantea],best_score:417.0,evalue:5.94306e-42,length:573
+gi:676491047,ref_number:XP_009065469.1,annotation: hypothetical protein LOTGIDRAFT_168935 [Lottia gigantea],best_score:398.0,evalue:8.03393e-38,length:2111
+gi:676474182,ref_number:XP_009060061.1,annotation: hypothetical protein LOTGIDRAFT_106770, partial [Lottia gigantea],best_score:389.0,evalue:9.90434e-37,length:2149
+gi:676477934,ref_number:XP_009061266.1,annotation: hypothetical protein LOTGIDRAFT_126794 [Lottia gigantea],best_score:325.0,evalue:1.39013e-29,length:930
+gi:676482141,ref_number:XP_009062602.1,annotation: hypothetical protein LOTGIDRAFT_128794, partial [Lottia gigantea],best_score:245.0,evalue:4.94279e-20,length:1874
+gi:676424830,ref_number:XP_009044270.1,annotation: hypothetical protein LOTGIDRAFT_155985 [Lottia gigantea],best_score:229.0,evalue:2.92372e-18,length:1129
+gi:676475604,ref_number:XP_009060525.1,annotation: hypothetical protein LOTGIDRAFT_125410, partial [Lottia gigantea],best_score:213.0,evalue:2.30425e-16,length:1276
+gi:676489036,ref_number:XP_009064808.1,annotation: hypothetical protein LOTGIDRAFT_176120, partial [Lottia gigantea],best_score:209.0,evalue:7.18837e-16,length:1631
+gi:676441609,ref_number:XP_009049548.1,annotation: hypothetical protein LOTGIDRAFT_141638 [Lottia gigantea],best_score:204.0,evalue:2.59636e-15,length:988
+gi:676435048,ref_number:XP_009047431.1,annotation: hypothetical protein LOTGIDRAFT_172309 [Lottia gigantea],best_score:202.0,evalue:5.02579e-15,length:1176
+gi:676464407,ref_number:XP_009056912.1,annotation: hypothetical protein LOTGIDRAFT_216788 [Lottia gigantea],best_score:186.0,evalue:3.54223e-13,length:910
+gi:676491200,ref_number:XP_009065518.1,annotation: hypothetical protein LOTGIDRAFT_236413 [Lottia gigantea],best_score:178.0,evalue:1.89599e-12,length:533
+gi:676442866,ref_number:XP_009049938.1,annotation: hypothetical protein LOTGIDRAFT_231078 [Lottia gigantea],best_score:177.0,evalue:4.1248e-12,length:1639
+gi:676465954,ref_number:XP_009057410.1,annotation: hypothetical protein LOTGIDRAFT_91265, partial [Lottia gigantea],best_score:177.0,evalue:4.72985e-12,length:1447
+gi:676469847,ref_number:XP_009058664.1,annotation: hypothetical protein LOTGIDRAFT_163888 [Lottia gigantea],best_score:176.0,evalue:6.53299e-12,length:1685
+gi:676489369,ref_number:XP_009064912.1,annotation: hypothetical protein LOTGIDRAFT_132259, partial [Lottia gigantea],best_score:173.0,evalue:1.16095e-11,length:1154
+gi:676487273,ref_number:XP_009064239.1,annotation: hypothetical protein LOTGIDRAFT_131001, partial [Lottia gigantea],best_score:168.0,evalue:3.70777e-11,length:648
+gi:676493723,ref_number:XP_009066330.1,annotation: hypothetical protein LOTGIDRAFT_134177, partial [Lottia gigantea],best_score:163.0,evalue:1.08522e-10,length:491
+gi:676454421,ref_number:XP_009053675.1,annotation: hypothetical protein LOTGIDRAFT_231995 [Lottia gigantea],best_score:165.0,evalue:1.15605e-10,length:2762
+gi:676477912,ref_number:XP_009061258.1,annotation: hypothetical protein LOTGIDRAFT_71684, partial [Lottia gigantea],best_score:158.0,evalue:5.41099e-10,length:646
+gi:676458953,ref_number:XP_009055143.1,annotation: hypothetical protein LOTGIDRAFT_118711, partial [Lottia gigantea],best_score:155.0,evalue:1.65294e-09,length:1210
+gi:676470113,ref_number:XP_009058749.1,annotation: hypothetical protein LOTGIDRAFT_71215, partial [Lottia gigantea],best_score:151.0,evalue:4.12369e-09,length:887
+gi:676441612,ref_number:XP_009049549.1,annotation: hypothetical protein LOTGIDRAFT_141610, partial [Lottia gigantea],best_score:137.0,evalue:1.23116e-07,length:565
+gi:676463674,ref_number:XP_009056672.1,annotation: hypothetical protein LOTGIDRAFT_120635, partial [Lottia gigantea],best_score:136.0,evalue:2.86623e-07,length:2131
+gi:676440397,ref_number:XP_009049164.1,annotation: hypothetical protein LOTGIDRAFT_141333 [Lottia gigantea],best_score:132.0,evalue:7.083e-07,length:1056
+gi:676478213,ref_number:XP_009061360.1,annotation: hypothetical protein LOTGIDRAFT_97249, partial [Lottia gigantea],best_score:120.0,evalue:1.68623e-06,length:171
+gi:676429303,ref_number:XP_009045556.1,annotation: hypothetical protein LOTGIDRAFT_156685 [Lottia gigantea],best_score:125.0,evalue:1.94548e-06,length:294
+gi:676441543,ref_number:XP_009049527.1,annotation: hypothetical protein LOTGIDRAFT_53633, partial [Lottia gigantea],best_score:125.0,evalue:2.57086e-06,length:370
+gi:676441615,ref_number:XP_009049550.1,annotation: hypothetical protein LOTGIDRAFT_141663, partial [Lottia gigantea],best_score:125.0,evalue:3.37487e-06,length:567
+gi:302852285,ref_number:XP_002957663.1,annotation: hypothetical protein VOLCADRAFT_119739 [Volvox carteri f. nagariensis],best_score:213.0,evalue:5.21743e-18,length:891
+gi:957841359,ref_number:XP_014671007.1,annotation: PREDICTED: LOW QUALITY PROTEIN: usherin-like [Priapulus caudatus],best_score:6124.0,evalue:0.0,length:3448
+gi:957841361,ref_number:XP_014671008.1,annotation: PREDICTED: usherin-like [Priapulus caudatus],best_score:2027.0,evalue:0.0,length:1340
+gi:957845929,ref_number:XP_014673412.1,annotation: PREDICTED: laminin subunit alpha-like [Priapulus caudatus],best_score:901.0,evalue:1.24085e-96,length:2255
+gi:957851146,ref_number:XP_014675870.1,annotation: PREDICTED: laminin subunit alpha-2-like, partial [Priapulus caudatus],best_score:613.0,evalue:3.00548e-63,length:1537
+gi:957848981,ref_number:XP_014675013.1,annotation: PREDICTED: laminin subunit gamma-1-like [Priapulus caudatus],best_score:464.0,evalue:1.22939e-47,length:634
+gi:957851884,ref_number:XP_014676120.1,annotation: PREDICTED: laminin subunit beta-1-like, partial [Priapulus caudatus],best_score:469.0,evalue:2.02591e-46,length:1193
+gi:957831427,ref_number:XP_014665696.1,annotation: PREDICTED: LOW QUALITY PROTEIN: netrin-1-like [Priapulus caudatus],best_score:422.0,evalue:1.88079e-42,length:599
+gi:957840526,ref_number:XP_014670570.1,annotation: PREDICTED: laminin subunit gamma-1-like [Priapulus caudatus],best_score:394.0,evalue:1.03127e-37,length:1006
+gi:957848979,ref_number:XP_014675012.1,annotation: PREDICTED: laminin subunit gamma-1-like, partial [Priapulus caudatus],best_score:309.0,evalue:2.01151e-28,length:571
+gi:957846535,ref_number:XP_014673732.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3A-like isoform X1 [Priapulus caudatus],best_score:313.0,evalue:2.78228e-28,length:854
+gi:957846538,ref_number:XP_014673734.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3A-like isoform X2 [Priapulus caudatus],best_score:300.0,evalue:9.52117e-27,length:842
+gi:957832483,ref_number:XP_014666255.1,annotation: PREDICTED: protein sidekick-like [Priapulus caudatus],best_score:301.0,evalue:1.16715e-26,length:1051
+gi:957840376,ref_number:XP_014670487.1,annotation: PREDICTED: laminin subunit gamma-1-like, partial [Priapulus caudatus],best_score:289.0,evalue:1.24615e-25,length:675
+gi:957822456,ref_number:XP_014681582.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like [Priapulus caudatus],best_score:246.0,evalue:3.35316e-20,length:1576
+gi:957816089,ref_number:XP_014673076.1,annotation: PREDICTED: titin-like [Priapulus caudatus],best_score:237.0,evalue:4.88975e-19,length:14997
+gi:957847746,ref_number:XP_014674365.1,annotation: PREDICTED: neogenin-like [Priapulus caudatus],best_score:212.0,evalue:3.46671e-16,length:1746
+gi:957831431,ref_number:XP_014665698.1,annotation: PREDICTED: twitchin-like, partial [Priapulus caudatus],best_score:209.0,evalue:8.54363e-16,length:6536
+gi:957830389,ref_number:XP_014665136.1,annotation: PREDICTED: neogenin-like [Priapulus caudatus],best_score:204.0,evalue:2.5978e-15,length:888
+gi:957847080,ref_number:XP_014674017.1,annotation: PREDICTED: serine/arginine repetitive matrix protein 1-like [Priapulus caudatus],best_score:196.0,evalue:2.20823e-14,length:1046
+gi:957844641,ref_number:XP_014672723.1,annotation: PREDICTED: Down syndrome cell adhesion molecule-like protein Dscam2 [Priapulus caudatus],best_score:187.0,evalue:1.11353e-13,length:442
+gi:957845927,ref_number:XP_014673411.1,annotation: PREDICTED: laminin-like protein epi-1 [Priapulus caudatus],best_score:182.0,evalue:6.25634e-13,length:541
+gi:957824914,ref_number:XP_014662216.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like [Priapulus caudatus],best_score:184.0,evalue:7.22181e-13,length:5371
+gi:957826369,ref_number:XP_014662996.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 11 [Priapulus caudatus],best_score:183.0,evalue:7.58052e-13,length:1008
+gi:957829417,ref_number:XP_014664618.1,annotation: PREDICTED: protogenin-like [Priapulus caudatus],best_score:180.0,evalue:1.9412e-12,length:1176
+gi:957845937,ref_number:XP_014673416.1,annotation: PREDICTED: laminin subunit alpha-4-like, partial [Priapulus caudatus],best_score:168.0,evalue:2.84271e-12,length:241
+gi:957829867,ref_number:XP_014664862.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta-like [Priapulus caudatus],best_score:173.0,evalue:1.09843e-11,length:899
+gi:957832491,ref_number:XP_014666260.1,annotation: PREDICTED: protein sidekick-like isoform X2 [Priapulus caudatus],best_score:168.0,evalue:2.50719e-11,length:481
+gi:957832489,ref_number:XP_014666258.1,annotation: PREDICTED: protein sidekick-2-like isoform X1 [Priapulus caudatus],best_score:167.0,evalue:2.90833e-11,length:490
+gi:957830081,ref_number:XP_014664976.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 6 [Priapulus caudatus],best_score:170.0,evalue:3.01718e-11,length:2550
+gi:957851153,ref_number:XP_014675873.1,annotation: PREDICTED: laminin subunit alpha-2-like [Priapulus caudatus],best_score:160.0,evalue:1.1576e-10,length:357
+gi:957830981,ref_number:XP_014665459.1,annotation: PREDICTED: twitchin-like isoform X5 [Priapulus caudatus],best_score:160.0,evalue:4.73293e-10,length:5408
+gi:957830983,ref_number:XP_014665460.1,annotation: PREDICTED: twitchin-like isoform X6 [Priapulus caudatus],best_score:160.0,evalue:4.81275e-10,length:5407
+gi:957830969,ref_number:XP_014665453.1,annotation: PREDICTED: twitchin-like isoform X1 [Priapulus caudatus] >gi,best_score:160.0,evalue:4.85328e-10,length:5409
+gi:957830991,ref_number:XP_014665464.1,annotation: PREDICTED: twitchin-like isoform X9 [Priapulus caudatus],best_score:160.0,evalue:4.89121e-10,length:5351
+gi:957830975,ref_number:XP_014665456.1,annotation: PREDICTED: twitchin-like isoform X2 [Priapulus caudatus],best_score:160.0,evalue:4.93514e-10,length:5408
+gi:957830979,ref_number:XP_014665458.1,annotation: PREDICTED: twitchin-like isoform X4 [Priapulus caudatus],best_score:160.0,evalue:4.9766e-10,length:5408
+gi:957830987,ref_number:XP_014665462.1,annotation: PREDICTED: twitchin-like isoform X8 [Priapulus caudatus] >gi,best_score:160.0,evalue:5.05774e-10,length:5352
+gi:957830977,ref_number:XP_014665457.1,annotation: PREDICTED: twitchin-like isoform X3 [Priapulus caudatus],best_score:160.0,evalue:5.10311e-10,length:5408
+gi:957830993,ref_number:XP_014665465.1,annotation: PREDICTED: twitchin-like isoform X10 [Priapulus caudatus],best_score:160.0,evalue:5.22983e-10,length:5351
+gi:957830985,ref_number:XP_014665461.1,annotation: PREDICTED: twitchin-like isoform X7 [Priapulus caudatus] >gi,best_score:159.0,evalue:6.17158e-10,length:5181
+gi:957843318,ref_number:XP_014672023.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase S-like isoform X2 [Priapulus caudatus],best_score:158.0,evalue:6.71642e-10,length:876
+gi:957843316,ref_number:XP_014672022.1,annotation: PREDICTED: tyrosine-protein phosphatase 10D-like isoform X1 [Priapulus caudatus],best_score:157.0,evalue:7.17941e-10,length:1011
+gi:957827057,ref_number:XP_014663366.1,annotation: PREDICTED: galaxin-2-like [Priapulus caudatus],best_score:145.0,evalue:1.10445e-09,length:190
+gi:957827513,ref_number:XP_014663607.1,annotation: PREDICTED: neuroglian-like [Priapulus caudatus],best_score:153.0,evalue:1.11942e-09,length:433
+gi:957824616,ref_number:XP_014662056.1,annotation: PREDICTED: neuronal cell adhesion molecule-like [Priapulus caudatus],best_score:149.0,evalue:7.57845e-09,length:1387
+gi:957842669,ref_number:XP_014671680.1,annotation: PREDICTED: laminin subunit gamma-1-like [Priapulus caudatus],best_score:143.0,evalue:1.19317e-08,length:306
+gi:957817302,ref_number:XP_014664122.1,annotation: PREDICTED: titin-like [Priapulus caudatus],best_score:138.0,evalue:1.59177e-07,length:14342
+gi:957841472,ref_number:XP_014671061.1,annotation: PREDICTED: tyrosine-protein phosphatase 10D-like [Priapulus caudatus],best_score:137.0,evalue:1.73469e-07,length:1030
+gi:957843544,ref_number:XP_014672142.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase kappa-like [Priapulus caudatus],best_score:137.0,evalue:1.87677e-07,length:1647
+gi:957828220,ref_number:XP_014663978.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase kappa-like [Priapulus caudatus],best_score:135.0,evalue:3.58351e-07,length:1313
+gi:961124388,ref_number:XP_014783674.1,annotation: PREDICTED: laminin subunit alpha-like, partial [Octopus bimaculoides],best_score:851.0,evalue:2.03501e-90,length:3452
+gi:961118223,ref_number:XP_014781544.1,annotation: PREDICTED: laminin subunit beta-1-like [Octopus bimaculoides],best_score:624.0,evalue:3.21367e-64,length:1779
+gi:961139209,ref_number:XP_014788823.1,annotation: PREDICTED: laminin subunit gamma-1-like, partial [Octopus bimaculoides],best_score:502.0,evalue:4.5721e-50,length:1459
+gi:961137826,ref_number:XP_014788341.1,annotation: PREDICTED: laminin subunit alpha-like, partial [Octopus bimaculoides],best_score:460.0,evalue:1.5879e-49,length:358
+gi:961071770,ref_number:XP_014780157.1,annotation: PREDICTED: netrin-1-like isoform X2 [Octopus bimaculoides],best_score:413.0,evalue:3.23012e-41,length:588
+gi:961071767,ref_number:XP_014780148.1,annotation: PREDICTED: netrin-1-like isoform X1 [Octopus bimaculoides],best_score:412.0,evalue:6.72103e-41,length:625
+gi:961095095,ref_number:XP_014773413.1,annotation: PREDICTED: protein sidekick-1-like [Octopus bimaculoides],best_score:384.0,evalue:4.08095e-36,length:1844
+gi:961075942,ref_number:XP_014790756.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3A-like, partial [Octopus bimaculoides],best_score:326.0,evalue:1.65058e-29,length:1057
+gi:961106490,ref_number:XP_014777335.1,annotation: PREDICTED: laminin subunit alpha-5-like, partial [Octopus bimaculoides],best_score:297.0,evalue:6.29764e-28,length:372
+gi:961072194,ref_number:XP_014781659.1,annotation: PREDICTED: titin-like [Octopus bimaculoides],best_score:285.0,evalue:1.87767e-24,length:24710
+gi:961095640,ref_number:XP_014773612.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X8 [Octopus bimaculoides],best_score:277.0,evalue:1.13785e-23,length:1720
+gi:961095631,ref_number:XP_014773609.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X5 [Octopus bimaculoides],best_score:263.0,evalue:5.78394e-22,length:1778
+gi:961095634,ref_number:XP_014773610.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X6 [Octopus bimaculoides],best_score:252.0,evalue:9.8089e-21,length:1776
+gi:961095637,ref_number:XP_014773611.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X7 [Octopus bimaculoides],best_score:252.0,evalue:1.18883e-20,length:1771
+gi:961138372,ref_number:XP_014788531.1,annotation: PREDICTED: laminin subunit alpha-like [Octopus bimaculoides],best_score:250.0,evalue:1.36897e-20,length:1146
+gi:961108089,ref_number:XP_014777890.1,annotation: PREDICTED: neogenin-like [Octopus bimaculoides],best_score:243.0,evalue:1.16546e-19,length:1562
+gi:961095619,ref_number:XP_014773605.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X1 [Octopus bimaculoides],best_score:238.0,evalue:4.76438e-19,length:1788
+gi:961095625,ref_number:XP_014773607.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X3 [Octopus bimaculoides],best_score:237.0,evalue:5.22193e-19,length:1784
+gi:961095628,ref_number:XP_014773608.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X4 [Octopus bimaculoides],best_score:237.0,evalue:5.63101e-19,length:1783
+gi:961095622,ref_number:XP_014773606.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X2 [Octopus bimaculoides],best_score:237.0,evalue:6.02553e-19,length:1786
+gi:961125597,ref_number:XP_014784091.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X6 [Octopus bimaculoides],best_score:232.0,evalue:2.7033e-18,length:4868
+gi:961125594,ref_number:XP_014784090.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X5 [Octopus bimaculoides],best_score:232.0,evalue:2.79538e-18,length:4869
+gi:961125591,ref_number:XP_014784088.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X4 [Octopus bimaculoides],best_score:232.0,evalue:2.79554e-18,length:4872
+gi:961125581,ref_number:XP_014784085.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X1 [Octopus bimaculoides],best_score:231.0,evalue:3.62607e-18,length:4908
+gi:961125587,ref_number:XP_014784087.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X3 [Octopus bimaculoides],best_score:231.0,evalue:3.7166e-18,length:4884
+gi:961125584,ref_number:XP_014784086.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X2 [Octopus bimaculoides],best_score:231.0,evalue:3.78026e-18,length:4897
+gi:961125600,ref_number:XP_014784092.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like isoform X7 [Octopus bimaculoides],best_score:229.0,evalue:5.44671e-18,length:4739
+gi:961095643,ref_number:XP_014773613.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta-like isoform X9 [Octopus bimaculoides],best_score:220.0,evalue:6.32059e-17,length:1685
+gi:961082554,ref_number:XP_014769049.1,annotation: PREDICTED: Down syndrome cell adhesion molecule homolog [Octopus bimaculoides],best_score:215.0,evalue:2.14476e-16,length:2162
+gi:961105405,ref_number:XP_014776958.1,annotation: PREDICTED: chondroitin sulfate proteoglycan 4-like [Octopus bimaculoides],best_score:213.0,evalue:4.22936e-16,length:2453
+gi:961118683,ref_number:XP_014781698.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta-like, partial [Octopus bimaculoides],best_score:204.0,evalue:1.15756e-15,length:471
+gi:961130050,ref_number:XP_014785633.1,annotation: PREDICTED: kielin/chordin-like protein isoform X1 [Octopus bimaculoides] >gi,best_score:205.0,evalue:3.28611e-15,length:1403
+gi:961107821,ref_number:XP_014777794.1,annotation: PREDICTED: tyrosine-protein phosphatase 10D-like [Octopus bimaculoides],best_score:199.0,evalue:1.55801e-14,length:1403
+gi:961074761,ref_number:XP_014790249.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta-like [Octopus bimaculoides],best_score:182.0,evalue:1.68922e-12,length:1450
+gi:961088383,ref_number:XP_014771091.1,annotation: PREDICTED: twitchin-like isoform X3 [Octopus bimaculoides],best_score:172.0,evalue:2.35591e-11,length:4077
+gi:961088377,ref_number:XP_014771089.1,annotation: PREDICTED: twitchin-like isoform X1 [Octopus bimaculoides],best_score:172.0,evalue:2.56433e-11,length:4132
+gi:961088380,ref_number:XP_014771090.1,annotation: PREDICTED: twitchin-like isoform X2 [Octopus bimaculoides],best_score:172.0,evalue:2.58579e-11,length:4130
+gi:961095646,ref_number:XP_014773614.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X10 [Octopus bimaculoides],best_score:170.0,evalue:4.10503e-11,length:1581
+gi:961123313,ref_number:XP_014783301.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 10 [Octopus bimaculoides],best_score:165.0,evalue:1.12453e-10,length:723
+gi:961119188,ref_number:XP_014781878.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like isoform X3 [Octopus bimaculoides],best_score:162.0,evalue:3.92113e-10,length:3026
+gi:961119185,ref_number:XP_014781877.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Octopus bimaculoides],best_score:161.0,evalue:4.23654e-10,length:3086
+gi:961119191,ref_number:XP_014781879.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X4 [Octopus bimaculoides],best_score:161.0,evalue:4.26362e-10,length:3025
+gi:961119182,ref_number:XP_014781876.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Octopus bimaculoides],best_score:161.0,evalue:4.38175e-10,length:3092
+gi:961119194,ref_number:XP_014781880.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X5 [Octopus bimaculoides],best_score:161.0,evalue:4.63526e-10,length:3019
+gi:961121170,ref_number:XP_014782548.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 8 [Octopus bimaculoides],best_score:160.0,evalue:5.52412e-10,length:1260
+gi:961101687,ref_number:XP_014775667.1,annotation: PREDICTED: galaxin-like [Octopus bimaculoides],best_score:155.0,evalue:1.21965e-09,length:535
+gi:961079658,ref_number:XP_014768044.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 6 isoform X2 [Octopus bimaculoides],best_score:155.0,evalue:1.88588e-09,length:1150
+gi:961068534,ref_number:XP_014769067.1,annotation: PREDICTED: agrin-like, partial [Octopus bimaculoides],best_score:151.0,evalue:7.07362e-09,length:1453
+gi:961124538,ref_number:XP_014783729.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase T-like isoform X4 [Octopus bimaculoides],best_score:150.0,evalue:9.27374e-09,length:1593
+gi:961124541,ref_number:XP_014783730.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase T-like isoform X5 [Octopus bimaculoides],best_score:149.0,evalue:9.74841e-09,length:1589
+gi:1133461696,ref_number:XP_011403870.2,annotation: PREDICTED: usherin-like [Amphimedon queenslandica],best_score:3623.0,evalue:0.0,length:4885
+gi:1133465961,ref_number:XP_011404698.2,annotation: PREDICTED: uncharacterized protein LOC105313185 [Amphimedon queenslandica],best_score:561.0,evalue:1.28983e-56,length:3914
+gi:1133456134,ref_number:XP_019849782.1,annotation: PREDICTED: laminin subunit gamma-1-like [Amphimedon queenslandica],best_score:525.0,evalue:1.47047e-52,length:2015
+gi:1133452958,ref_number:XP_019848635.1,annotation: PREDICTED: titin-like [Amphimedon queenslandica],best_score:520.0,evalue:7.17529e-52,length:3566
+gi:1133494490,ref_number:XP_019863641.1,annotation: PREDICTED: usherin-like, partial [Amphimedon queenslandica],best_score:453.0,evalue:1.80941e-50,length:210
+gi:1133447430,ref_number:XP_019852585.1,annotation: PREDICTED: laminin subunit alpha-like [Amphimedon queenslandica],best_score:492.0,evalue:1.32727e-48,length:2675
+gi:1133449678,ref_number:XP_019855647.1,annotation: PREDICTED: laminin subunit beta-4-like [Amphimedon queenslandica],best_score:469.0,evalue:4.02377e-46,length:1698
+gi:1133468016,ref_number:XP_019854276.1,annotation: PREDICTED: laminin subunit gamma-1-like [Amphimedon queenslandica],best_score:459.0,evalue:6.55577e-45,length:2092
+gi:1133475582,ref_number:XP_019857180.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X3 [Amphimedon queenslandica],best_score:446.0,evalue:2.74434e-43,length:3088
+gi:1133475588,ref_number:XP_019857183.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X6 [Amphimedon queenslandica],best_score:446.0,evalue:2.76744e-43,length:3088
+gi:1133475590,ref_number:XP_019857184.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X7 [Amphimedon queenslandica],best_score:446.0,evalue:2.76744e-43,length:3088
+gi:1133475592,ref_number:XP_019857185.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X8 [Amphimedon queenslandica],best_score:446.0,evalue:2.98432e-43,length:3088
+gi:1133475586,ref_number:XP_019857182.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X5 [Amphimedon queenslandica],best_score:446.0,evalue:3.24529e-43,length:3088
+gi:1133475584,ref_number:XP_019857181.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X4 [Amphimedon queenslandica],best_score:445.0,evalue:3.32795e-43,length:3088
+gi:1133475594,ref_number:XP_019857186.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X9 [Amphimedon queenslandica],best_score:445.0,evalue:3.80859e-43,length:3024
+gi:1133475580,ref_number:XP_019857179.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X2 [Amphimedon queenslandica],best_score:444.0,evalue:4.80377e-43,length:3146
+gi:1133475578,ref_number:XP_019857178.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X1 [Amphimedon queenslandica],best_score:444.0,evalue:5.40254e-43,length:3147
+gi:1133475600,ref_number:XP_019857189.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X12 [Amphimedon queenslandica],best_score:443.0,evalue:5.79802e-43,length:2965
+gi:1133475598,ref_number:XP_019857188.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X11 [Amphimedon queenslandica],best_score:443.0,evalue:6.04626e-43,length:2965
+gi:1133475596,ref_number:XP_019857187.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X10 [Amphimedon queenslandica],best_score:443.0,evalue:6.35821e-43,length:2965
+gi:1133475602,ref_number:XP_019857190.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X13 [Amphimedon queenslandica],best_score:442.0,evalue:7.51565e-43,length:2778
+gi:1133452960,ref_number:XP_019848636.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score:441.0,evalue:9.65739e-43,length:2830
+gi:1133475604,ref_number:XP_019857191.1,annotation: PREDICTED: uncharacterized protein LOC100638611 isoform X14 [Amphimedon queenslandica],best_score:440.0,evalue:1.19742e-42,length:2596
+gi:1133469522,ref_number:XP_019854865.1,annotation: PREDICTED: uncharacterized protein LOC100634904 [Amphimedon queenslandica],best_score:368.0,evalue:2.20428e-34,length:1478
+gi:1133475182,ref_number:XP_019857023.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score:333.0,evalue:2.6872e-30,length:1343
+gi:1133451038,ref_number:XP_019860969.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Amphimedon queenslandica],best_score:296.0,evalue:5.93486e-26,length:1198
+gi:1133484749,ref_number:XP_019860513.1,annotation: PREDICTED: uncharacterized protein LOC109588843 [Amphimedon queenslandica],best_score:266.0,evalue:1.65241e-22,length:1177
+gi:761920936,ref_number:XP_011409348.1,annotation: PREDICTED: netrin-3-like, partial [Amphimedon queenslandica],best_score:234.0,evalue:2.91028e-22,length:113
+gi:1133468154,ref_number:XP_019854335.1,annotation: PREDICTED: protein sidekick-like [Amphimedon queenslandica],best_score:257.0,evalue:2.83598e-21,length:2067
+gi:1133470362,ref_number:XP_019855186.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X1 [Amphimedon queenslandica],best_score:251.0,evalue:1.59524e-20,length:3503
+gi:1133470364,ref_number:XP_019855187.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X2 [Amphimedon queenslandica],best_score:251.0,evalue:1.6634e-20,length:3502
+gi:1133470366,ref_number:XP_019855188.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X3 [Amphimedon queenslandica],best_score:250.0,evalue:2.04636e-20,length:3103
+gi:1133470370,ref_number:XP_019855189.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X5 [Amphimedon queenslandica],best_score:250.0,evalue:2.08094e-20,length:3103
+gi:1133470372,ref_number:XP_019855190.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X6 [Amphimedon queenslandica],best_score:250.0,evalue:2.2252e-20,length:3103
+gi:1133470368,ref_number:XP_011405560.2,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X4 [Amphimedon queenslandica],best_score:249.0,evalue:2.30104e-20,length:3103
+gi:1133453517,ref_number:XP_019848824.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase S-like, partial [Amphimedon queenslandica],best_score:235.0,evalue:5.59323e-19,length:749
+gi:1133462243,ref_number:XP_019852063.1,annotation: PREDICTED: LOW QUALITY PROTEIN: laminin subunit gamma-1-like [Amphimedon queenslandica],best_score:234.0,evalue:8.65246e-19,length:956
+gi:1133461258,ref_number:XP_019851680.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Amphimedon queenslandica],best_score:232.0,evalue:2.11716e-18,length:1739
+gi:1133479633,ref_number:XP_019858755.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Amphimedon queenslandica],best_score:231.0,evalue:2.2721e-18,length:1245
+gi:1133453423,ref_number:XP_019848789.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score:210.0,evalue:4.88177e-16,length:773
+gi:1133465811,ref_number:XP_019853456.1,annotation: PREDICTED: hemicentin-1-like isoform X1 [Amphimedon queenslandica],best_score:197.0,evalue:2.84358e-14,length:2966
+gi:1133465813,ref_number:XP_011404665.2,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta-like isoform X2 [Amphimedon queenslandica],best_score:197.0,evalue:3.18339e-14,length:2559
+gi:1133464990,ref_number:XP_019853141.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score:185.0,evalue:5.65187e-13,length:901
+gi:1133456750,ref_number:XP_019849996.1,annotation: PREDICTED: protein sidekick-2-like [Amphimedon queenslandica],best_score:185.0,evalue:7.12798e-13,length:1756
+gi:1133489053,ref_number:XP_019861768.1,annotation: PREDICTED: hemicentin-1-like [Amphimedon queenslandica],best_score:182.0,evalue:1.44543e-12,length:1099
+gi:1133453427,ref_number:XP_019848791.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score:180.0,evalue:1.73583e-12,length:718
+gi:1133479635,ref_number:XP_019858756.1,annotation: PREDICTED: uncharacterized threonine-rich GPI-anchored glycoprotein PJ4664.02-like [Amphimedon queenslandica],best_score:175.0,evalue:1.1035e-11,length:2127
+gi:1133480251,ref_number:XP_019858998.1,annotation: PREDICTED: protein sidekick-1-like [Amphimedon queenslandica],best_score:173.0,evalue:1.53536e-11,length:941
+gi:1133487396,ref_number:XP_019861186.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Amphimedon queenslandica],best_score:168.0,evalue:1.91738e-11,length:388
+gi:1133469400,ref_number:XP_019854824.1,annotation: PREDICTED: neural cell adhesion molecule L1-like protein [Amphimedon queenslandica],best_score:171.0,evalue:1.93673e-11,length:795
+gi:66823823,ref_number:XP_645266.1,annotation: hypothetical protein DDB_G0272450 [Dictyostelium discoideum AX4],best_score:147.0,evalue:1.0248e-08,length:1540
+gi:166240101,ref_number:XP_646829.2,annotation: IPT/TIG domain-containing protein [Dictyostelium discoideum AX4],best_score:143.0,evalue:3.0166e-08,length:1830
+gi:66826469,ref_number:XP_646589.1,annotation: hypothetical protein DDB_G0271042 [Dictyostelium discoideum AX4],best_score:134.0,evalue:3.44333e-07,length:999
+gi:66808837,ref_number:XP_638141.1,annotation: hypothetical protein DDB_G0285585 [Dictyostelium discoideum AX4],best_score:132.0,evalue:4.84545e-07,length:932
+gi:66819725,ref_number:XP_643521.1,annotation: hypothetical protein DDB_G0275659 [Dictyostelium discoideum AX4],best_score:132.0,evalue:5.20343e-07,length:998
+gi:66824239,ref_number:XP_645474.1,annotation: EGF-like domain-containing protein [Dictyostelium discoideum AX4],best_score:132.0,evalue:5.42597e-07,length:1501
+gi:268638298,ref_number:XP_647228.2,annotation: EGF-like domain-containing protein [Dictyostelium discoideum AX4],best_score:129.0,evalue:1.3048e-06,length:1182
+gi:66807561,ref_number:XP_637503.1,annotation: hypothetical protein DDB_G0286881 [Dictyostelium discoideum AX4],best_score:122.0,evalue:7.24957e-06,length:950
+gi:156400070,ref_number:XP_001638823.1,annotation: predicted protein [Nematostella vectensis],best_score:4106.0,evalue:0.0,length:3129
+gi:156400072,ref_number:XP_001638824.1,annotation: predicted protein [Nematostella vectensis],best_score:2692.0,evalue:0.0,length:2044
+gi:156400068,ref_number:XP_001638822.1,annotation: predicted protein [Nematostella vectensis],best_score:1124.0,evalue:4.07436e-131,length:906
+gi:156371064,ref_number:XP_001628586.1,annotation: predicted protein [Nematostella vectensis],best_score:579.0,evalue:3.76875e-59,length:1586
+gi:156371020,ref_number:XP_001628564.1,annotation: predicted protein [Nematostella vectensis],best_score:569.0,evalue:7.20434e-58,length:1855
+gi:156379641,ref_number:XP_001631565.1,annotation: predicted protein [Nematostella vectensis],best_score:554.0,evalue:3.27585e-56,length:1759
+gi:156381281,ref_number:XP_001632194.1,annotation: predicted protein [Nematostella vectensis],best_score:527.0,evalue:5.91622e-53,length:1851
+gi:156380828,ref_number:XP_001631969.1,annotation: predicted protein [Nematostella vectensis],best_score:471.0,evalue:3.64566e-52,length:270
+gi:156371018,ref_number:XP_001628563.1,annotation: predicted protein [Nematostella vectensis],best_score:513.0,evalue:2.42644e-51,length:1806
+gi:156371698,ref_number:XP_001628899.1,annotation: predicted protein [Nematostella vectensis],best_score:416.0,evalue:4.96748e-42,length:552
+gi:156354022,ref_number:XP_001623203.1,annotation: predicted protein [Nematostella vectensis],best_score:348.0,evalue:3.60195e-32,length:1440
+gi:156348297,ref_number:XP_001621795.1,annotation: hypothetical protein NEMVEDRAFT_v1g221570 [Nematostella vectensis],best_score:317.0,evalue:8.05573e-29,length:840
+gi:156328720,ref_number:XP_001618982.1,annotation: hypothetical protein NEMVEDRAFT_v1g6703 [Nematostella vectensis],best_score:256.0,evalue:2.76951e-25,length:125
+gi:156384297,ref_number:XP_001633267.1,annotation: predicted protein [Nematostella vectensis],best_score:286.0,evalue:6.45603e-25,length:1520
+gi:156320366,ref_number:XP_001618170.1,annotation: hypothetical protein NEMVEDRAFT_v1g155465 [Nematostella vectensis],best_score:259.0,evalue:2.63438e-24,length:239
+gi:156380830,ref_number:XP_001631970.1,annotation: predicted protein [Nematostella vectensis],best_score:258.0,evalue:5.00814e-24,length:256
+gi:156343661,ref_number:XP_001621071.1,annotation: hypothetical protein NEMVEDRAFT_v1g146135 [Nematostella vectensis],best_score:223.0,evalue:9.84275e-21,length:132
+gi:156397131,ref_number:XP_001637745.1,annotation: predicted protein [Nematostella vectensis],best_score:226.0,evalue:1.93891e-20,length:183
+gi:156400888,ref_number:XP_001639024.1,annotation: predicted protein [Nematostella vectensis],best_score:244.0,evalue:6.04571e-20,length:1874
+gi:156390387,ref_number:XP_001635252.1,annotation: predicted protein [Nematostella vectensis],best_score:216.0,evalue:1.16237e-16,length:2210
+gi:156333873,ref_number:XP_001619435.1,annotation: hypothetical protein NEMVEDRAFT_v1g224185 [Nematostella vectensis],best_score:205.0,evalue:1.58703e-16,length:326
+gi:156379329,ref_number:XP_001631410.1,annotation: predicted protein [Nematostella vectensis],best_score:201.0,evalue:6.61201e-15,length:1265
+gi:156351500,ref_number:XP_001622540.1,annotation: hypothetical protein NEMVEDRAFT_v1g248399 [Nematostella vectensis],best_score:201.0,evalue:6.64287e-15,length:4612
+gi:156379182,ref_number:XP_001631337.1,annotation: predicted protein [Nematostella vectensis],best_score:178.0,evalue:8.43478e-14,length:208
+gi:156357397,ref_number:XP_001624206.1,annotation: predicted protein [Nematostella vectensis],best_score:160.0,evalue:8.92748e-13,length:83
+gi:156363655,ref_number:XP_001626157.1,annotation: predicted protein [Nematostella vectensis],best_score:172.0,evalue:1.5266e-12,length:275
+gi:156376466,ref_number:XP_001630381.1,annotation: predicted protein [Nematostella vectensis],best_score:173.0,evalue:9.99649e-12,length:880
+gi:156392162,ref_number:XP_001635918.1,annotation: predicted protein [Nematostella vectensis],best_score:151.0,evalue:1.67766e-10,length:185
+gi:156388998,ref_number:XP_001634779.1,annotation: predicted protein [Nematostella vectensis],best_score:162.0,evalue:1.94829e-10,length:1461
+gi:156390928,ref_number:XP_001635521.1,annotation: predicted protein [Nematostella vectensis],best_score:162.0,evalue:2.64456e-10,length:2534
+gi:156400712,ref_number:XP_001638936.1,annotation: predicted protein [Nematostella vectensis],best_score:160.0,evalue:2.69636e-10,length:678
+gi:156384900,ref_number:XP_001633370.1,annotation: predicted protein [Nematostella vectensis],best_score:154.0,evalue:3.45799e-10,length:275
+gi:156386486,ref_number:XP_001633943.1,annotation: predicted protein [Nematostella vectensis],best_score:157.0,evalue:6.06932e-10,length:775
+gi:156395768,ref_number:XP_001637282.1,annotation: predicted protein [Nematostella vectensis],best_score:155.0,evalue:1.28988e-09,length:1128
+gi:156404209,ref_number:XP_001640300.1,annotation: predicted protein [Nematostella vectensis],best_score:154.0,evalue:2.04048e-09,length:2493
+gi:156371775,ref_number:XP_001628937.1,annotation: predicted protein [Nematostella vectensis],best_score:145.0,evalue:2.08336e-08,length:1252
+gi:156391277,ref_number:XP_001635695.1,annotation: predicted protein [Nematostella vectensis],best_score:143.0,evalue:3.54649e-08,length:2624
+gi:156331283,ref_number:XP_001619184.1,annotation: hypothetical protein NEMVEDRAFT_v1g152131 [Nematostella vectensis],best_score:123.0,evalue:6.60082e-08,length:72
+gi:156385156,ref_number:XP_001633497.1,annotation: predicted protein [Nematostella vectensis],best_score:126.0,evalue:1.27722e-07,length:131
+gi:156398660,ref_number:XP_001638306.1,annotation: predicted protein [Nematostella vectensis],best_score:133.0,evalue:4.01512e-07,length:691
+gi:156400064,ref_number:XP_001638820.1,annotation: predicted protein [Nematostella vectensis],best_score:122.0,evalue:6.1715e-07,length:155
+gi:156350331,ref_number:XP_001622237.1,annotation: predicted protein [Nematostella vectensis],best_score:128.0,evalue:1.1924e-06,length:424
+gi:156339986,ref_number:XP_001620318.1,annotation: hypothetical protein NEMVEDRAFT_v1g6230 [Nematostella vectensis],best_score:111.0,evalue:2.39188e-06,length:62
+gi:156381009,ref_number:XP_001632059.1,annotation: predicted protein [Nematostella vectensis],best_score:125.0,evalue:2.88605e-06,length:418
+gi:923123357,ref_number:XP_013755147.1,annotation: hypothetical protein AMSG_08451 [Thecamonas trahens ATCC 50062],best_score:186.0,evalue:1.32493e-14,length:1027
+gi:923132871,ref_number:XP_013759901.1,annotation: hypothetical protein AMSG_03554 [Thecamonas trahens ATCC 50062],best_score:184.0,evalue:2.8375e-14,length:2649
+gi:923131981,ref_number:XP_013759456.1,annotation: fibronectin type III domain-containing protein [Thecamonas trahens ATCC 50062],best_score:139.0,evalue:5.14817e-09,length:1443
+gi:923128952,ref_number:XP_013757942.1,annotation: hypothetical protein AMSG_05211 [Thecamonas trahens ATCC 50062],best_score:135.0,evalue:1.61508e-08,length:1995
+gi:551658223,ref_number:XP_005831882.1,annotation: hypothetical protein GUITHDRAFT_139499 [Guillardia theta CCMP2712],best_score:271.0,evalue:4.0304e-23,length:1142
+gi:551658983,ref_number:XP_005832261.1,annotation: hypothetical protein GUITHDRAFT_108923 [Guillardia theta CCMP2712],best_score:214.0,evalue:2.8278e-16,length:2253
+gi:551635280,ref_number:XP_005820475.1,annotation: hypothetical protein GUITHDRAFT_81377 [Guillardia theta CCMP2712],best_score:143.0,evalue:1.88857e-08,length:394
+gi:551631901,ref_number:XP_005818831.1,annotation: hypothetical protein GUITHDRAFT_82754 [Guillardia theta CCMP2712],best_score:142.0,evalue:2.06953e-08,length:325
+gi:67479559,ref_number:XP_655161.1,annotation: CXXC-rich protein [Entamoeba histolytica HM-1:IMSS],best_score:136.0,evalue:6.24832e-08,length:513
+gi:183234154,ref_number:XP_654349.2,annotation: protein kinase domain containing protein [Entamoeba histolytica HM-1:IMSS],best_score:121.0,evalue:4.95212e-06,length:1364
+gi:145540565,ref_number:XP_001455972.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:141.0,evalue:1.2022e-07,length:950
+gi:145552763,ref_number:XP_001462057.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:136.0,evalue:5.34539e-07,length:1412
+gi:145548074,ref_number:XP_001459718.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:130.0,evalue:2.35837e-06,length:1451
+gi:828213499,ref_number:XP_012559324.1,annotation: PREDICTED: usherin, partial [Hydra vulgaris],best_score:3430.0,evalue:0.0,length:3202
+gi:828232982,ref_number:XP_012565642.1,annotation: PREDICTED: usherin, partial [Hydra vulgaris],best_score:2455.0,evalue:0.0,length:1862
+gi:828212348,ref_number:XP_012558958.1,annotation: PREDICTED: laminin subunit alpha-3-like [Hydra vulgaris],best_score:926.0,evalue:1.66236e-100,length:3772
+gi:449666107,ref_number:XP_002168125.2,annotation: PREDICTED: laminin subunit beta-1 [Hydra vulgaris],best_score:586.0,evalue:3.98457e-61,length:1818
+gi:828224296,ref_number:XP_012562912.1,annotation: PREDICTED: laminin subunit gamma-1-like [Hydra vulgaris],best_score:578.0,evalue:3.33239e-60,length:1815
+gi:828224671,ref_number:XP_004211099.2,annotation: PREDICTED: usherin-like, partial [Hydra vulgaris],best_score:539.0,evalue:1.23851e-59,length:509
+gi:828198617,ref_number:XP_012554312.1,annotation: PREDICTED: laminin subunit alpha-1-like [Hydra vulgaris],best_score:527.0,evalue:3.92273e-54,length:2873
+gi:828207226,ref_number:XP_012557210.1,annotation: PREDICTED: laminin subunit gamma-1 [Hydra vulgaris],best_score:515.0,evalue:5.93894e-53,length:1532
+gi:828213337,ref_number:XP_002160645.3,annotation: PREDICTED: laminin subunit alpha-like [Hydra vulgaris],best_score:464.0,evalue:6.21361e-47,length:1457
+gi:828200873,ref_number:XP_012555062.1,annotation: PREDICTED: laminin subunit beta-1-like, partial [Hydra vulgaris],best_score:430.0,evalue:1.09791e-43,length:835
+gi:828234696,ref_number:XP_012566174.1,annotation: PREDICTED: laminin subunit beta-1-like, partial [Hydra vulgaris],best_score:377.0,evalue:1.17654e-40,length:285
+gi:828235885,ref_number:XP_004213230.2,annotation: PREDICTED: laminin subunit alpha-2-like, partial [Hydra vulgaris],best_score:349.0,evalue:5.71213e-37,length:282
+gi:828223271,ref_number:XP_012562574.1,annotation: PREDICTED: netrin-G2-like [Hydra vulgaris],best_score:336.0,evalue:1.31704e-32,length:680
+gi:828231063,ref_number:XP_012565063.1,annotation: PREDICTED: laminin subunit beta-1-like, partial [Hydra vulgaris],best_score:325.0,evalue:2.44657e-31,length:662
+gi:828195308,ref_number:XP_012566916.1,annotation: PREDICTED: fibronectin type III domain-containing protein 3B-like [Hydra vulgaris],best_score:314.0,evalue:1.91631e-29,length:1184
+gi:828207759,ref_number:XP_012557393.1,annotation: PREDICTED: protein sidekick-1-like [Hydra vulgaris],best_score:311.0,evalue:6.25806e-29,length:2370
+gi:828230387,ref_number:XP_012564851.1,annotation: PREDICTED: usherin-like, partial [Hydra vulgaris],best_score:236.0,evalue:5.67012e-22,length:287
+gi:828191006,ref_number:XP_012555372.1,annotation: PREDICTED: uncharacterized protein LOC101236159 [Hydra vulgaris],best_score:239.0,evalue:1.07507e-20,length:1381
+gi:828196737,ref_number:XP_012553629.1,annotation: PREDICTED: uncharacterized protein LOC101239033, partial [Hydra vulgaris],best_score:237.0,evalue:2.03191e-20,length:1276
+gi:828226877,ref_number:XP_012563762.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like, partial [Hydra vulgaris],best_score:216.0,evalue:6.13509e-19,length:364
+gi:828226334,ref_number:XP_004211405.2,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like, partial [Hydra vulgaris],best_score:223.0,evalue:1.18089e-18,length:3007
+gi:828191663,ref_number:XP_012557555.1,annotation: PREDICTED: neogenin-like [Hydra vulgaris],best_score:217.0,evalue:5.57979e-18,length:1897
+gi:828210731,ref_number:XP_012558399.1,annotation: PREDICTED: Down syndrome cell adhesion molecule homolog [Hydra vulgaris] >gi,best_score:205.0,evalue:1.13524e-16,length:1890
+gi:828233942,ref_number:XP_012565926.1,annotation: PREDICTED: laminin subunit alpha-1-like [Hydra vulgaris],best_score:197.0,evalue:1.45689e-16,length:352
+gi:828198757,ref_number:XP_012554371.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta [Hydra vulgaris],best_score:197.0,evalue:1.02624e-15,length:1985
+gi:828230943,ref_number:XP_012565026.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like, partial [Hydra vulgaris],best_score:195.0,evalue:1.03973e-15,length:672
+gi:828209574,ref_number:XP_012558020.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase alpha-like [Hydra vulgaris],best_score:185.0,evalue:2.23794e-14,length:1275
+gi:828198988,ref_number:XP_012554454.1,annotation: PREDICTED: uncharacterized protein LOC100197582 isoform X2 [Hydra vulgaris],best_score:182.0,evalue:5.90114e-14,length:1814
+gi:828198986,ref_number:XP_012554453.1,annotation: PREDICTED: uncharacterized protein LOC100197582 isoform X1 [Hydra vulgaris],best_score:182.0,evalue:6.48703e-14,length:1911
+gi:828210029,ref_number:XP_002163241.3,annotation: PREDICTED: LOW QUALITY PROTEIN: cadherin EGF LAG seven-pass G-type receptor 2-like [Hydra vulgaris],best_score:182.0,evalue:6.64308e-14,length:2554
+gi:828232585,ref_number:XP_012565524.1,annotation: PREDICTED: usherin-like, partial [Hydra vulgaris],best_score:175.0,evalue:1.46803e-13,length:449
+gi:828200383,ref_number:XP_012554897.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 10, partial [Hydra vulgaris],best_score:172.0,evalue:1.75259e-13,length:335
+gi:828192217,ref_number:XP_012559331.1,annotation: PREDICTED: cell death abnormality protein 1-like isoform X1 [Hydra vulgaris],best_score:175.0,evalue:3.59185e-13,length:1378
+gi:828213949,ref_number:XP_012559501.1,annotation: PREDICTED: uncharacterized protein LOC105845853, partial [Hydra vulgaris],best_score:174.0,evalue:5.48506e-13,length:1392
+gi:828216322,ref_number:XP_012560266.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like, partial [Hydra vulgaris],best_score:170.0,evalue:6.06906e-13,length:459
+gi:828192219,ref_number:XP_012559337.1,annotation: PREDICTED: cell death abnormality protein 1-like isoform X2 [Hydra vulgaris],best_score:173.0,evalue:6.8431e-13,length:1287
+gi:828233123,ref_number:XP_012565685.1,annotation: PREDICTED: protein sidekick-2-like [Hydra vulgaris],best_score:172.0,evalue:6.86375e-13,length:725
+gi:828232243,ref_number:XP_004212437.2,annotation: PREDICTED: laminin subunit alpha-3-like, partial [Hydra vulgaris],best_score:163.0,evalue:9.37137e-13,length:251
+gi:828213626,ref_number:XP_012559377.1,annotation: PREDICTED: protein sidekick-1-like [Hydra vulgaris],best_score:171.0,evalue:9.66065e-13,length:956
+gi:828217988,ref_number:XP_012560825.1,annotation: PREDICTED: protein sidekick-1-like, partial [Hydra vulgaris],best_score:165.0,evalue:3.09953e-12,length:529
+gi:828218642,ref_number:XP_012561031.1,annotation: PREDICTED: usherin-like isoform X1 [Hydra vulgaris],best_score:151.0,evalue:3.47684e-12,length:138
+gi:828208298,ref_number:XP_012557603.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 10 [Hydra vulgaris],best_score:165.0,evalue:4.7469e-12,length:966
+gi:449684918,ref_number:XP_002162106.2,annotation: PREDICTED: protein sidekick-1-like, partial [Hydra vulgaris],best_score:159.0,evalue:2.02611e-11,length:712
+gi:828209105,ref_number:XP_012557847.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Hydra vulgaris],best_score:159.0,evalue:2.54417e-11,length:1405
+gi:828217598,ref_number:XP_012560706.1,annotation: PREDICTED: C-type mannose receptor 2-like, partial [Hydra vulgaris],best_score:155.0,evalue:3.02539e-11,length:371
+gi:828221325,ref_number:XP_004210522.2,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 11, partial [Hydra vulgaris],best_score:136.0,evalue:1.36107e-10,length:99
+gi:828205129,ref_number:XP_012556506.1,annotation: PREDICTED: uncharacterized protein LOC100199700 [Hydra vulgaris],best_score:153.0,evalue:1.38379e-10,length:1950
+gi:828217019,ref_number:XP_012560523.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like [Hydra vulgaris],best_score:153.0,evalue:1.48253e-10,length:1780
+gi:828197350,ref_number:XP_012553859.1,annotation: PREDICTED: contactin-2-like [Hydra vulgaris],best_score:150.0,evalue:2.77258e-10,length:832
+gi:828219103,ref_number:XP_012561175.1,annotation: PREDICTED: contactin-2-like isoform X1 [Hydra vulgaris],best_score:148.0,evalue:5.82481e-10,length:1161
+gi:844846382,ref_number:XP_012794572.1,annotation: Laminin subunit gamma-1, partial [Schistosoma haematobium],best_score:741.0,evalue:1.68044e-80,length:1039
+gi:844870492,ref_number:XP_012800280.1,annotation: Laminin subunit beta-2 [Schistosoma haematobium],best_score:580.0,evalue:1.70181e-59,length:1721
+gi:844866763,ref_number:XP_012799393.1,annotation: Netrin-A, partial [Schistosoma haematobium],best_score:325.0,evalue:2.28665e-30,length:638
+gi:844867497,ref_number:XP_012799568.1,annotation: Down syndrome cell adhesion molecule-like protein, partial [Schistosoma haematobium],best_score:239.0,evalue:1.56393e-19,length:1890
+gi:844835770,ref_number:XP_012792129.1,annotation: Twitchin [Schistosoma haematobium],best_score:235.0,evalue:6.05891e-19,length:6123
+gi:844844163,ref_number:XP_012794015.1,annotation: Netrin-1 [Schistosoma haematobium],best_score:195.0,evalue:1.48005e-16,length:188
+gi:844877816,ref_number:XP_012802105.1,annotation: Laminin subunit alpha-1 [Schistosoma haematobium],best_score:173.0,evalue:9.05634e-14,length:171
+gi:844867485,ref_number:XP_012799567.1,annotation: Down syndrome cell adhesion molecule-like protein, partial [Schistosoma haematobium],best_score:183.0,evalue:6.03535e-13,length:1934
+gi:844839379,ref_number:XP_012792886.1,annotation: Basement membrane-specific heparan sulfate proteoglycan core protein [Schistosoma haematobium],best_score:169.0,evalue:2.59332e-11,length:5531
+gi:844835939,ref_number:XP_012792162.1,annotation: Agrin [Schistosoma haematobium],best_score:160.0,evalue:2.64303e-10,length:1479
+gi:844844078,ref_number:XP_012793993.1,annotation: Multiple epidermal growth factor-like domains protein 6, partial [Schistosoma haematobium],best_score:159.0,evalue:2.65158e-10,length:941
+gi:844844615,ref_number:XP_012794097.1,annotation: Receptor-type tyrosine-protein phosphatase F [Schistosoma haematobium],best_score:151.0,evalue:2.34149e-09,length:750
+gi:844838321,ref_number:XP_012792642.1,annotation: Neurexin-3 [Schistosoma haematobium],best_score:149.0,evalue:4.02593e-09,length:885
+gi:844839388,ref_number:XP_012792888.1,annotation: Basement membrane-specific heparan sulfate proteoglycan core protein, partial [Schistosoma haematobium],best_score:148.0,evalue:5.78019e-09,length:1693
+gi:844867187,ref_number:XP_012799493.1,annotation: hypothetical protein MS3_08188, partial [Schistosoma haematobium],best_score:142.0,evalue:4.0464e-08,length:6439
+gi:844838295,ref_number:XP_012792636.1,annotation: Neurexin-2 [Schistosoma haematobium],best_score:140.0,evalue:4.14855e-08,length:887
+gi:844844167,ref_number:XP_012794016.1,annotation: Netrin unc-6 [Schistosoma haematobium],best_score:134.0,evalue:1.4859e-07,length:433
+gi:844846579,ref_number:XP_012794636.1,annotation: Receptor-type tyrosine-protein phosphatase delta [Schistosoma haematobium],best_score:123.0,evalue:3.03204e-06,length:412
+gi:844846576,ref_number:XP_012794635.1,annotation: Receptor-type tyrosine-protein phosphatase delta [Schistosoma haematobium],best_score:124.0,evalue:4.45011e-06,length:1561
+gi:808356958,ref_number:NP_001294007.1,annotation: Uncharacterized protein CELE_K08C7.3 [Caenorhabditis elegans],best_score:932.0,evalue:9.10947e-100,length:3695
+gi:71991177,ref_number:NP_001023281.1,annotation: Uncharacterized protein CELE_K08C7.3 [Caenorhabditis elegans],best_score:931.0,evalue:1.03534e-99,length:3704
+gi:808356960,ref_number:NP_001294008.1,annotation: Uncharacterized protein CELE_K08C7.3 [Caenorhabditis elegans],best_score:931.0,evalue:1.07346e-99,length:3715
+gi:392900546,ref_number:NP_001255501.1,annotation: Uncharacterized protein CELE_K08C7.3 [Caenorhabditis elegans],best_score:929.0,evalue:1.76879e-99,length:3663
+gi:71991183,ref_number:NP_001023282.1,annotation: Laminin-like protein epi-1 [Caenorhabditis elegans],best_score:929.0,evalue:1.86419e-99,length:3672
+gi:392900542,ref_number:NP_001255500.1,annotation: Uncharacterized protein CELE_K08C7.3 [Caenorhabditis elegans],best_score:929.0,evalue:2.01576e-99,length:3683
+gi:25145020,ref_number:NP_492775.2,annotation: LAMinin related. See also lmb- [Caenorhabditis elegans],best_score:722.0,evalue:1.97964e-75,length:3102
+gi:392898988,ref_number:NP_500734.3,annotation: LAMinin related. See also lmb- [Caenorhabditis elegans],best_score:595.0,evalue:7.74157e-61,length:1790
+gi:392926425,ref_number:NP_509204.3,annotation: Laminin-like protein lam-2 [Caenorhabditis elegans],best_score:524.0,evalue:1.60322e-52,length:1633
+gi:17570167,ref_number:NP_509165.1,annotation: Netrin unc-6 [Caenorhabditis elegans],best_score:406.0,evalue:3.31493e-40,length:612
+gi:71987714,ref_number:NP_001022640.1,annotation: Uncharacterized protein CELE_H19M22.2 [Caenorhabditis elegans],best_score:330.0,evalue:1.14538e-29,length:4280
+gi:71987720,ref_number:NP_001022641.1,annotation: Uncharacterized protein CELE_H19M22.2 [Caenorhabditis elegans],best_score:329.0,evalue:1.38556e-29,length:4450
+gi:17509399,ref_number:NP_491664.1,annotation: Uncharacterized protein CELE_T19B4.7 [Caenorhabditis elegans],best_score:274.0,evalue:2.91284e-23,length:1415
+gi:71981550,ref_number:NP_001021942.1,annotation: Tyrosine-protein phosphatase Lar-like [Caenorhabditis elegans],best_score:259.0,evalue:1.89188e-21,length:2180
+gi:808355294,ref_number:NP_001293469.1,annotation: Protein-tyrosine-phosphatase [Caenorhabditis elegans],best_score:259.0,evalue:2.09741e-21,length:2200
+gi:193204071,ref_number:NP_001122582.1,annotation: Protein-tyrosine-phosphatase [Caenorhabditis elegans],best_score:258.0,evalue:2.21281e-21,length:2227
+gi:453231838,ref_number:NP_001263672.1,annotation: Protein-tyrosine-phosphatase [Caenorhabditis elegans],best_score:258.0,evalue:2.30679e-21,length:2224
+gi:392891633,ref_number:NP_001254270.1,annotation: Protein-tyrosine-phosphatase [Caenorhabditis elegans],best_score:257.0,evalue:2.92252e-21,length:1985
+gi:71997209,ref_number:NP_501339.2,annotation: Protein sidekick homolog [Caenorhabditis elegans],best_score:256.0,evalue:4.26783e-21,length:2325
+gi:453231836,ref_number:NP_001263671.1,annotation: Protein-tyrosine-phosphatase [Caenorhabditis elegans],best_score:252.0,evalue:1.25947e-20,length:2248
+gi:453231834,ref_number:NP_001263670.1,annotation: Protein-tyrosine-phosphatase [Caenorhabditis elegans],best_score:250.0,evalue:1.84341e-20,length:2204
+gi:392901020,ref_number:NP_001255601.1,annotation: Uncharacterized protein CELE_ZK617.1 [Caenorhabditis elegans],best_score:214.0,evalue:4.11851e-16,length:6927
+gi:392901030,ref_number:NP_001255604.1,annotation: Twitchin [Caenorhabditis elegans],best_score:214.0,evalue:4.16954e-16,length:6435
+gi:32565886,ref_number:NP_502273.2,annotation: Twitchin [Caenorhabditis elegans],best_score:213.0,evalue:4.40029e-16,length:6839
+gi:808356892,ref_number:NP_001293974.1,annotation: Uncharacterized protein CELE_ZK617.1 [Caenorhabditis elegans],best_score:213.0,evalue:4.44824e-16,length:7142
+gi:392901023,ref_number:NP_001255602.1,annotation: Uncharacterized protein CELE_ZK617.1 [Caenorhabditis elegans],best_score:213.0,evalue:4.7052e-16,length:6848
+gi:808356894,ref_number:NP_001293975.1,annotation: Uncharacterized protein CELE_ZK617.1 [Caenorhabditis elegans],best_score:213.0,evalue:4.71614e-16,length:7133
+gi:392901028,ref_number:NP_001122835.2,annotation: Twitchin [Caenorhabditis elegans],best_score:213.0,evalue:5.32353e-16,length:6619
+gi:808356226,ref_number:NP_001255603.2,annotation: Twitchin [Caenorhabditis elegans],best_score:213.0,evalue:5.45033e-16,length:6452
+gi:32565889,ref_number:NP_502274.2,annotation: Twitchin [Caenorhabditis elegans],best_score:212.0,evalue:6.37457e-16,length:7158
+gi:392892554,ref_number:NP_001254441.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:196.0,evalue:4.49768e-14,length:2455
+gi:71998539,ref_number:NP_001022488.1,annotation: Basement membrane proteoglycan [Caenorhabditis elegans],best_score:195.0,evalue:5.75806e-14,length:2389
+gi:71998537,ref_number:NP_497044.3,annotation: Basement membrane proteoglycan [Caenorhabditis elegans],best_score:194.0,evalue:6.62179e-14,length:3375
+gi:392892549,ref_number:NP_001254439.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:193.0,evalue:8.41312e-14,length:2193
+gi:392892567,ref_number:NP_001254446.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:193.0,evalue:8.7359e-14,length:2479
+gi:17536621,ref_number:NP_497046.1,annotation: Basement membrane proteoglycan [Caenorhabditis elegans],best_score:193.0,evalue:9.18833e-14,length:2482
+gi:392892560,ref_number:NP_001254444.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:192.0,evalue:1.11628e-13,length:2383
+gi:392892563,ref_number:NP_001254445.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:192.0,evalue:1.20419e-13,length:2388
+gi:17536619,ref_number:NP_497045.1,annotation: Basement membrane proteoglycan [Caenorhabditis elegans],best_score:191.0,evalue:1.52552e-13,length:2295
+gi:392892551,ref_number:NP_001254440.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:191.0,evalue:1.59096e-13,length:2296
+gi:392892558,ref_number:NP_001254443.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:190.0,evalue:1.81847e-13,length:2289
+gi:392892556,ref_number:NP_001254442.1,annotation: Uncharacterized protein CELE_ZC101.2 [Caenorhabditis elegans],best_score:190.0,evalue:1.94688e-13,length:2196
+gi:17536623,ref_number:NP_497047.1,annotation: Basement membrane proteoglycan [Caenorhabditis elegans],best_score:170.0,evalue:4.25456e-11,length:1160
+gi:392901788,ref_number:NP_001255802.1,annotation: Uncharacterized protein CELE_Y64G10A.7 [Caenorhabditis elegans],best_score:170.0,evalue:4.3781e-11,length:1714
+gi:25143262,ref_number:NP_740922.1,annotation: Cell death abnormality protein 1 [Caenorhabditis elegans],best_score:169.0,evalue:4.52105e-11,length:1111
+gi:71994810,ref_number:NP_001021772.1,annotation: Cell death abnormality protein 1 [Caenorhabditis elegans],best_score:166.0,evalue:1.0274e-10,length:1070
+gi:392901790,ref_number:NP_001255803.1,annotation: Uncharacterized protein CELE_Y64G10A.7 [Caenorhabditis elegans],best_score:166.0,evalue:1.10382e-10,length:1654
+gi:808357106,ref_number:NP_001294081.1,annotation: Uncharacterized protein CELE_Y64G10A.7 [Caenorhabditis elegans],best_score:165.0,evalue:1.41106e-10,length:1605
+gi:71994819,ref_number:NP_001021773.1,annotation: Cell death abnormality protein 1 [Caenorhabditis elegans],best_score:163.0,evalue:2.30769e-10,length:1045
+gi:808357104,ref_number:NP_001294080.1,annotation: Uncharacterized protein CELE_Y64G10A.7 [Caenorhabditis elegans],best_score:162.0,evalue:3.71105e-10,length:1612
+gi:339249948,ref_number:XP_003373959.1,annotation: putative laminin B [Trichinella spiralis],best_score:666.0,evalue:1.10678e-69,length:1616
+gi:339234671,ref_number:XP_003378890.1,annotation: laminin subunit beta-1 [Trichinella spiralis],best_score:607.0,evalue:1.18382e-62,length:1750
+gi:339237515,ref_number:XP_003380312.1,annotation: putative laminin [Trichinella spiralis],best_score:532.0,evalue:4.5378e-54,length:1253
+gi:339242601,ref_number:XP_003377226.1,annotation: putative fibronectin type III domain protein [Trichinella spiralis],best_score:351.0,evalue:1.58377e-32,length:4500
+gi:339237711,ref_number:XP_003380410.1,annotation: putative fibronectin type III domain protein [Trichinella spiralis],best_score:286.0,evalue:5.6772e-25,length:2755
+gi:339251812,ref_number:XP_003372928.1,annotation: hypothetical protein Tsp_10483 [Trichinella spiralis],best_score:277.0,evalue:4.08007e-24,length:1013
+gi:339249653,ref_number:XP_003373814.1,annotation: conserved hypothetical protein [Trichinella spiralis],best_score:235.0,evalue:3.16449e-19,length:1115
+gi:339248819,ref_number:XP_003373397.1,annotation: putative neogenin [Trichinella spiralis],best_score:204.0,evalue:1.87618e-15,length:1501
+gi:339249765,ref_number:XP_003373870.1,annotation: putative calcium binding EGF domain protein [Trichinella spiralis],best_score:199.0,evalue:6.60678e-15,length:1378
+gi:339236565,ref_number:XP_003379837.1,annotation: putative fibronectin type III domain protein [Trichinella spiralis],best_score:192.0,evalue:5.52953e-14,length:5347
+gi:339235507,ref_number:XP_003379308.1,annotation: putative laminin G domain protein [Trichinella spiralis],best_score:185.0,evalue:3.01805e-13,length:1283
+gi:339249775,ref_number:XP_003373875.1,annotation: putative kazal-type serine protease inhibitor domain protein [Trichinella spiralis],best_score:167.0,evalue:2.90939e-11,length:724
+gi:339248379,ref_number:XP_003373177.1,annotation: conserved hypothetical protein [Trichinella spiralis],best_score:143.0,evalue:6.5551e-10,length:148
+gi:339254066,ref_number:XP_003372256.1,annotation: basement membrane proteoglycan [Trichinella spiralis],best_score:144.0,evalue:2.06411e-08,length:2510
+gi:339232570,ref_number:XP_003381402.1,annotation: netrin-1 [Trichinella spiralis],best_score:129.0,evalue:2.72701e-08,length:124
+gi:339246549,ref_number:XP_003374908.1,annotation: putative fibronectin type III domain protein [Trichinella spiralis],best_score:137.0,evalue:7.28622e-08,length:508
+gi:339253644,ref_number:XP_003372045.1,annotation: putative immunoglobulin I-set domain protein [Trichinella spiralis],best_score:136.0,evalue:1.9066e-07,length:12419
+gi:339246547,ref_number:XP_003374907.1,annotation: putative fibronectin type III domain protein [Trichinella spiralis],best_score:134.0,evalue:2.23201e-07,length:648
+gi:339245195,ref_number:XP_003378523.1,annotation: attractin [Trichinella spiralis],best_score:133.0,evalue:2.33921e-07,length:488
+gi:339249954,ref_number:XP_003373962.1,annotation: putative laminin G domain protein [Trichinella spiralis],best_score:126.0,evalue:1.79883e-06,length:668
+gi:339239823,ref_number:XP_003375837.1,annotation: conserved hypothetical protein [Trichinella spiralis],best_score:118.0,evalue:8.82662e-06,length:334
+gi:675892688,ref_number:XP_009031846.1,annotation: hypothetical protein HELRODRAFT_91040 [Helobdella robusta],best_score:2095.0,evalue:0.0,length:1308
+gi:675892690,ref_number:XP_009031847.1,annotation: hypothetical protein HELRODRAFT_182878 [Helobdella robusta],best_score:1445.0,evalue:5.59048e-160,length:3613
+gi:675874914,ref_number:XP_009023017.1,annotation: hypothetical protein HELRODRAFT_107164 [Helobdella robusta],best_score:566.0,evalue:1.23132e-57,length:1731
+gi:675847694,ref_number:XP_009009407.1,annotation: hypothetical protein HELRODRAFT_62664, partial [Helobdella robusta],best_score:495.0,evalue:1.21033e-49,length:1151
+gi:675871674,ref_number:XP_009021397.1,annotation: hypothetical protein HELRODRAFT_83142 [Helobdella robusta],best_score:433.0,evalue:1.33042e-44,length:501
+gi:675882134,ref_number:XP_009026569.1,annotation: hypothetical protein HELRODRAFT_193581 [Helobdella robusta],best_score:420.0,evalue:1.38231e-40,length:1372
+gi:675889786,ref_number:XP_009030395.1,annotation: hypothetical protein HELRODRAFT_165611 [Helobdella robusta],best_score:420.0,evalue:2.07938e-40,length:1891
+gi:675848218,ref_number:XP_009009669.1,annotation: hypothetical protein HELRODRAFT_188055 [Helobdella robusta],best_score:408.0,evalue:4.07054e-39,length:1472
+gi:675861894,ref_number:XP_009016507.1,annotation: hypothetical protein HELRODRAFT_111195 [Helobdella robusta],best_score:395.0,evalue:4.55428e-39,length:605
+gi:675871670,ref_number:XP_009021395.1,annotation: hypothetical protein HELRODRAFT_192596 [Helobdella robusta],best_score:393.0,evalue:3.05857e-37,length:2864
+gi:675854016,ref_number:XP_009012568.1,annotation: hypothetical protein HELRODRAFT_73849 [Helobdella robusta],best_score:366.0,evalue:2.48384e-36,length:456
+gi:675848464,ref_number:XP_009009792.1,annotation: hypothetical protein HELRODRAFT_159671 [Helobdella robusta],best_score:383.0,evalue:4.84321e-36,length:2898
+gi:675865732,ref_number:XP_009018426.1,annotation: hypothetical protein HELRODRAFT_80450 [Helobdella robusta],best_score:321.0,evalue:9.85962e-31,length:430
+gi:675865096,ref_number:XP_009018108.1,annotation: hypothetical protein HELRODRAFT_191869 [Helobdella robusta],best_score:306.0,evalue:4.5324e-27,length:6265
+gi:675854472,ref_number:XP_009012796.1,annotation: hypothetical protein HELRODRAFT_74310, partial [Helobdella robusta],best_score:265.0,evalue:2.14367e-25,length:206
+gi:675890262,ref_number:XP_009030633.1,annotation: hypothetical protein HELRODRAFT_104183 [Helobdella robusta],best_score:264.0,evalue:2.12671e-22,length:856
+gi:675860432,ref_number:XP_009015776.1,annotation: hypothetical protein HELRODRAFT_188352 [Helobdella robusta],best_score:257.0,evalue:2.44445e-21,length:2377
+gi:675859002,ref_number:XP_009015061.1,annotation: hypothetical protein HELRODRAFT_77204 [Helobdella robusta],best_score:226.0,evalue:2.48079e-20,length:197
+gi:675881726,ref_number:XP_009026365.1,annotation: hypothetical protein HELRODRAFT_102544 [Helobdella robusta],best_score:218.0,evalue:7.73352e-17,length:2001
+gi:675889242,ref_number:XP_009030123.1,annotation: hypothetical protein HELRODRAFT_70359, partial [Helobdella robusta],best_score:200.0,evalue:5.63398e-15,length:810
+gi:675871672,ref_number:XP_009021396.1,annotation: hypothetical protein HELRODRAFT_83197, partial [Helobdella robusta],best_score:176.0,evalue:9.71547e-15,length:98
+gi:675850506,ref_number:XP_009010813.1,annotation: hypothetical protein HELRODRAFT_108977 [Helobdella robusta],best_score:193.0,evalue:4.81019e-14,length:964
+gi:675856342,ref_number:XP_009013731.1,annotation: hypothetical protein HELRODRAFT_190821 [Helobdella robusta],best_score:192.0,evalue:7.44937e-14,length:2366
+gi:675859004,ref_number:XP_009015062.1,annotation: hypothetical protein HELRODRAFT_76869, partial [Helobdella robusta],best_score:167.0,evalue:1.84899e-12,length:199
+gi:675860170,ref_number:XP_009015645.1,annotation: hypothetical protein HELRODRAFT_188313 [Helobdella robusta],best_score:162.0,evalue:2.9835e-10,length:3276
+gi:675884144,ref_number:XP_009027574.1,annotation: hypothetical protein HELRODRAFT_164375 [Helobdella robusta],best_score:158.0,evalue:4.60999e-10,length:599
+gi:675892474,ref_number:XP_009031739.1,annotation: hypothetical protein HELRODRAFT_182763 [Helobdella robusta],best_score:159.0,evalue:5.21454e-10,length:1646
+gi:675855234,ref_number:XP_009013177.1,annotation: hypothetical protein HELRODRAFT_169099 [Helobdella robusta],best_score:156.0,evalue:8.81567e-10,length:815
+gi:675862450,ref_number:XP_009016785.1,annotation: hypothetical protein HELRODRAFT_191479 [Helobdella robusta],best_score:148.0,evalue:1.25145e-08,length:3689
+gi:675856048,ref_number:XP_009013584.1,annotation: hypothetical protein HELRODRAFT_169542 [Helobdella robusta],best_score:140.0,evalue:9.95146e-08,length:2426
+gi:675847236,ref_number:XP_009009178.1,annotation: hypothetical protein HELRODRAFT_105364 [Helobdella robusta],best_score:132.0,evalue:2.9892e-07,length:314
+gi:675870504,ref_number:XP_009020812.1,annotation: hypothetical protein HELRODRAFT_82214, partial [Helobdella robusta],best_score:132.0,evalue:4.39943e-07,length:483
+gi:675862440,ref_number:XP_009016780.1,annotation: hypothetical protein HELRODRAFT_78170, partial [Helobdella robusta] >gi,best_score:127.0,evalue:4.99574e-07,length:234
+gi:675847988,ref_number:XP_009009554.1,annotation: hypothetical protein HELRODRAFT_188001 [Helobdella robusta],best_score:127.0,evalue:3.36453e-06,length:2070
+gi:675871162,ref_number:XP_009021141.1,annotation: hypothetical protein HELRODRAFT_192507 [Helobdella robusta],best_score:126.0,evalue:3.99596e-06,length:1412
+gi:675866370,ref_number:XP_009018745.1,annotation: hypothetical protein HELRODRAFT_80670, partial [Helobdella robusta],best_score:124.0,evalue:5.25864e-06,length:623
+gi:694535683,ref_number:XP_009495393.1,annotation: hypothetical protein H696_03232 [Fonticula alba],best_score:138.0,evalue:8.4322e-08,length:1691
+gi:241812099,ref_number:XP_002414597.1,annotation: laminin beta 1 chain, putative [Ixodes scapularis],best_score:630.0,evalue:3.60051e-65,length:2084
+gi:242001098,ref_number:XP_002435192.1,annotation: Netrin-4, putative [Ixodes scapularis],best_score:435.0,evalue:2.84795e-46,length:370
+gi:241626256,ref_number:XP_002409634.1,annotation: laminin gamma-1 chain, putative [Ixodes scapularis],best_score:442.0,evalue:2.00239e-43,length:1278
+gi:242001100,ref_number:XP_002435193.1,annotation: laminin alpha-1, 2 chain, putative [Ixodes scapularis],best_score:357.0,evalue:2.63209e-34,length:615
+gi:241640806,ref_number:XP_002410937.1,annotation: receptor tyrosine phosphatase type r2a, putative [Ixodes scapularis],best_score:300.0,evalue:1.24493e-26,length:1795
+gi:241747016,ref_number:XP_002414299.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:253.0,evalue:3.96022e-21,length:2058
+gi:241727177,ref_number:XP_002412232.1,annotation: laminin alpha-4 chain, putative [Ixodes scapularis],best_score:240.0,evalue:7.08654e-20,length:807
+gi:241622124,ref_number:XP_002408891.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:240.0,evalue:7.98357e-20,length:729
+gi:241186228,ref_number:XP_002400783.1,annotation: sdk-P1, putative [Ixodes scapularis],best_score:206.0,evalue:1.09857e-15,length:1754
+gi:241153705,ref_number:XP_002407139.1,annotation: receptor protein tyrosine phosphatase, putative [Ixodes scapularis],best_score:202.0,evalue:2.7674e-15,length:1055
+gi:241057106,ref_number:XP_002407808.1,annotation: netrin, putative [Ixodes scapularis],best_score:193.0,evalue:7.1523e-15,length:364
+gi:241758144,ref_number:XP_002401744.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:193.0,evalue:3.79907e-14,length:2750
+gi:241641015,ref_number:XP_002410949.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:187.0,evalue:1.4783e-13,length:973
+gi:241631845,ref_number:XP_002410297.1,annotation: agrin, putative [Ixodes scapularis],best_score:180.0,evalue:1.10195e-12,length:1045
+gi:241006704,ref_number:XP_002405078.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:177.0,evalue:2.42199e-12,length:1335
+gi:241571724,ref_number:XP_002402841.1,annotation: EGF-like domain-containing protein, putative [Ixodes scapularis],best_score:160.0,evalue:1.82758e-10,length:667
+gi:241738292,ref_number:XP_002414055.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:160.0,evalue:2.27768e-10,length:958
+gi:241016230,ref_number:XP_002405684.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:155.0,evalue:1.04529e-09,length:1154
+gi:241631838,ref_number:XP_002410294.1,annotation: neuronal cell adhesion molecule, putative [Ixodes scapularis],best_score:151.0,evalue:2.53012e-09,length:1224
+gi:241831048,ref_number:XP_002414835.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:150.0,evalue:2.86661e-09,length:542
+gi:241172945,ref_number:XP_002410801.1,annotation: factor for adipocyte differentiation, putative [Ixodes scapularis],best_score:147.0,evalue:7.13613e-09,length:1062
+gi:241057109,ref_number:XP_002407809.1,annotation: netrin, putative [Ixodes scapularis],best_score:134.0,evalue:9.52123e-09,length:148
+gi:241572918,ref_number:XP_002402944.1,annotation: fibropellin-1, putative [Ixodes scapularis],best_score:145.0,evalue:1.07083e-08,length:665
+gi:241714847,ref_number:XP_002413530.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:135.0,evalue:4.12246e-08,length:259
+gi:241022785,ref_number:XP_002406016.1,annotation: tyrosine protein kinase receptor tie-1, putative [Ixodes scapularis],best_score:133.0,evalue:3.92413e-07,length:1014
+gi:242046600,ref_number:XP_002400335.1,annotation: N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase, putative [Ixodes scapularis],best_score:129.0,evalue:1.10922e-06,length:2582
+gi:241100979,ref_number:XP_002409791.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:127.0,evalue:1.13683e-06,length:384
+gi:241720205,ref_number:XP_002413610.1,annotation: receptor protein-tyrosine phosphatase 10D, putative [Ixodes scapularis],best_score:128.0,evalue:1.36792e-06,length:1439
+gi:241379417,ref_number:XP_002409170.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:125.0,evalue:1.98315e-06,length:384
+gi:241594910,ref_number:XP_002404410.1,annotation: attractin, putative [Ixodes scapularis],best_score:127.0,evalue:2.12256e-06,length:1329
+gi:241813099,ref_number:XP_002416487.1,annotation: hypothetical protein IscW_ISCW023855 [Ixodes scapularis],best_score:116.0,evalue:3.76947e-06,length:176
+gi:241631842,ref_number:XP_002410296.1,annotation: agrin, putative [Ixodes scapularis],best_score:120.0,evalue:4.21226e-06,length:289
+gi:241731528,ref_number:XP_002412294.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:123.0,evalue:4.23461e-06,length:527
+gi:241738313,ref_number:XP_002414064.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:123.0,evalue:5.95557e-06,length:1073
+gi:241618750,ref_number:XP_002407042.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:121.0,evalue:6.33941e-06,length:462
+gi:242002484,ref_number:XP_002435885.1,annotation: cell adhesion molecule, putative [Ixodes scapularis],best_score:119.0,evalue:8.33868e-06,length:365
+gi:929748087,ref_number:XP_014149027.1,annotation: hypothetical protein SARC_12341 [Sphaeroforma arctica JP610],best_score:164.0,evalue:6.59939e-11,length:737
+gi:929749303,ref_number:XP_014149635.1,annotation: hypothetical protein SARC_11747 [Sphaeroforma arctica JP610],best_score:132.0,evalue:4.82363e-07,length:1087
+gi:17136292,ref_number:NP_476617.1,annotation: laminin A [Drosophila melanogaster],best_score:861.0,evalue:2.03222e-91,length:3712
+gi:17136294,ref_number:NP_476618.1,annotation: LanB1, isoform A [Drosophila melanogaster] >gi,best_score:587.0,evalue:9.70916e-60,length:1788
+gi:24584296,ref_number:NP_723870.1,annotation: wing blister, isoform B [Drosophila melanogaster],best_score:587.0,evalue:1.64272e-59,length:3375
+gi:386769627,ref_number:NP_476790.3,annotation: wing blister, isoform G [Drosophila melanogaster],best_score:577.0,evalue:1.93124e-58,length:3001
+gi:17737557,ref_number:NP_524006.1,annotation: laminin B2, isoform A [Drosophila melanogaster] >gi,best_score:477.0,evalue:6.57704e-47,length:1639
+gi:45549129,ref_number:NP_511154.3,annotation: Netrin-A, isoform A [Drosophila melanogaster] >gi,best_score:423.0,evalue:9.92682e-42,length:726
+gi:386764411,ref_number:NP_001245667.1,annotation: Netrin-A, isoform B [Drosophila melanogaster],best_score:416.0,evalue:3.77886e-41,length:667
+gi:320545067,ref_number:NP_001188806.1,annotation: wing blister, isoform C [Drosophila melanogaster] >gi,best_score:422.0,evalue:2.55701e-40,length:2567
+gi:665388997,ref_number:NP_001284756.1,annotation: sidekick, isoform G [Drosophila melanogaster],best_score:395.0,evalue:2.90598e-37,length:2265
+gi:665388999,ref_number:NP_001284757.1,annotation: sidekick, isoform H [Drosophila melanogaster],best_score:395.0,evalue:3.40484e-37,length:2220
+gi:78707311,ref_number:NP_477289.5,annotation: sidekick, isoform A [Drosophila melanogaster] >gi,best_score:394.0,evalue:3.67526e-37,length:2224
+gi:665389001,ref_number:NP_001284758.1,annotation: sidekick, isoform I [Drosophila melanogaster],best_score:393.0,evalue:5.47778e-37,length:2168
+gi:78707312,ref_number:NP_477290.6,annotation: sidekick, isoform C [Drosophila melanogaster],best_score:389.0,evalue:1.53426e-36,length:2232
+gi:442628457,ref_number:NP_001260595.1,annotation: Leukocyte-antigen-related-like, isoform G [Drosophila melanogaster],best_score:323.0,evalue:7.13802e-29,length:1935
+gi:442616337,ref_number:NP_001259546.1,annotation: Netrin-B, isoform G [Drosophila melanogaster],best_score:316.0,evalue:1.98661e-28,length:785
+gi:17530937,ref_number:NP_511155.1,annotation: Netrin-B, isoform A [Drosophila melanogaster] >gi,best_score:315.0,evalue:2.20184e-28,length:793
+gi:386769894,ref_number:NP_001246094.1,annotation: Leukocyte-antigen-related-like, isoform D [Drosophila melanogaster],best_score:313.0,evalue:1.12625e-27,length:1912
+gi:442628459,ref_number:NP_001260596.1,annotation: Leukocyte-antigen-related-like, isoform H [Drosophila melanogaster],best_score:308.0,evalue:4.05079e-27,length:1927
+gi:442628461,ref_number:NP_001260597.1,annotation: Leukocyte-antigen-related-like, isoform I [Drosophila melanogaster],best_score:308.0,evalue:4.20144e-27,length:1941
+gi:161076965,ref_number:NP_724220.2,annotation: Leukocyte-antigen-related-like, isoform B [Drosophila melanogaster],best_score:301.0,evalue:2.63487e-26,length:2011
+gi:24585307,ref_number:NP_523604.2,annotation: Leukocyte-antigen-related-like, isoform A [Drosophila melanogaster],best_score:301.0,evalue:2.85101e-26,length:2029
+gi:442628455,ref_number:NP_001260594.1,annotation: Leukocyte-antigen-related-like, isoform F [Drosophila melanogaster],best_score:298.0,evalue:5.92196e-26,length:2032
+gi:24653090,ref_number:NP_725185.1,annotation: frazzled, isoform B [Drosophila melanogaster],best_score:229.0,evalue:5.84172e-18,length:1375
+gi:24653088,ref_number:NP_523716.2,annotation: frazzled, isoform A [Drosophila melanogaster],best_score:228.0,evalue:8.30509e-18,length:1526
+gi:442630978,ref_number:NP_001261571.1,annotation: down syndrome cell adhesion molecule 4, isoform I [Drosophila melanogaster] >gi,best_score:228.0,evalue:8.78938e-18,length:1935
+gi:665400477,ref_number:NP_001286353.1,annotation: frazzled, isoform C [Drosophila melanogaster],best_score:228.0,evalue:8.86402e-18,length:1517
+gi:221330980,ref_number:NP_001137909.1,annotation: down syndrome cell adhesion molecule 4, isoform H [Drosophila melanogaster] >gi,best_score:223.0,evalue:3.45316e-17,length:1874
+gi:221330976,ref_number:NP_001137908.1,annotation: down syndrome cell adhesion molecule 4, isoform D [Drosophila melanogaster] >gi,best_score:222.0,evalue:4.28564e-17,length:1918
+gi:442629522,ref_number:NP_001261276.1,annotation: draper, isoform E [Drosophila melanogaster],best_score:202.0,evalue:7.15533e-15,length:1042
+gi:442622692,ref_number:NP_001260764.1,annotation: down syndrome cell adhesion molecule 1, isoform CD [Drosophila melanogaster],best_score:202.0,evalue:8.30404e-15,length:1947
+gi:116007574,ref_number:NP_001036483.1,annotation: down syndrome cell adhesion molecule 1, isoform V [Drosophila melanogaster],best_score:202.0,evalue:8.43824e-15,length:2016
+gi:116007640,ref_number:NP_001036516.1,annotation: down syndrome cell adhesion molecule 1, isoform AP [Drosophila melanogaster],best_score:202.0,evalue:8.51477e-15,length:2022
+gi:116007650,ref_number:NP_001036521.1,annotation: down syndrome cell adhesion molecule 1, isoform W [Drosophila melanogaster],best_score:202.0,evalue:8.58379e-15,length:2019
+gi:116007618,ref_number:NP_001036505.1,annotation: down syndrome cell adhesion molecule 1, isoform AJ [Drosophila melanogaster],best_score:202.0,evalue:8.59376e-15,length:2030
+gi:386767215,ref_number:NP_001246171.1,annotation: down syndrome cell adhesion molecule 1, isoform BL [Drosophila melanogaster],best_score:202.0,evalue:8.72907e-15,length:2019
+gi:386767205,ref_number:NP_001246166.1,annotation: down syndrome cell adhesion molecule 1, isoform CB [Drosophila melanogaster],best_score:202.0,evalue:8.95256e-15,length:2020
+gi:116007582,ref_number:NP_001036487.1,annotation: down syndrome cell adhesion molecule 1, isoform I [Drosophila melanogaster],best_score:202.0,evalue:9.02513e-15,length:2017
+gi:116007660,ref_number:NP_001036526.1,annotation: down syndrome cell adhesion molecule 1, isoform AD [Drosophila melanogaster],best_score:202.0,evalue:9.02513e-15,length:2017
+gi:116007652,ref_number:NP_001036522.1,annotation: down syndrome cell adhesion molecule 1, isoform AM [Drosophila melanogaster],best_score:202.0,evalue:9.10118e-15,length:2017
+gi:386767199,ref_number:NP_001246163.1,annotation: down syndrome cell adhesion molecule 1, isoform BY [Drosophila melanogaster],best_score:202.0,evalue:9.10408e-15,length:2020
+gi:116007664,ref_number:NP_001036528.1,annotation: down syndrome cell adhesion molecule 1, isoform AI [Drosophila melanogaster],best_score:202.0,evalue:9.25522e-15,length:2017
+gi:116007566,ref_number:NP_001036479.1,annotation: down syndrome cell adhesion molecule 1, isoform AL [Drosophila melanogaster],best_score:202.0,evalue:9.41086e-15,length:2016
+gi:116007562,ref_number:NP_001036477.1,annotation: down syndrome cell adhesion molecule 1, isoform AC [Drosophila melanogaster],best_score:202.0,evalue:9.42574e-15,length:2031
+gi:386767231,ref_number:NP_001246178.1,annotation: down syndrome cell adhesion molecule 1, isoform BT [Drosophila melanogaster],best_score:202.0,evalue:9.57014e-15,length:2016
+gi:116007620,ref_number:NP_001036506.1,annotation: down syndrome cell adhesion molecule 1, isoform BE [Drosophila melanogaster],best_score:202.0,evalue:9.58527e-15,length:2031
+gi:116007594,ref_number:NP_001036493.1,annotation: down syndrome cell adhesion molecule 1, isoform R [Drosophila melanogaster],best_score:202.0,evalue:9.6477e-15,length:2013
+gi:116007598,ref_number:NP_001036495.1,annotation: down syndrome cell adhesion molecule 1, isoform X [Drosophila melanogaster],best_score:202.0,evalue:9.66604e-15,length:2031
+gi:116007658,ref_number:NP_001036525.1,annotation: down syndrome cell adhesion molecule 1, isoform G [Drosophila melanogaster],best_score:202.0,evalue:9.74851e-15,length:2032
+gi:386767237,ref_number:NP_001246181.1,annotation: down syndrome cell adhesion molecule 1, isoform BW [Drosophila melanogaster],best_score:202.0,evalue:9.89682e-15,length:2016
+gi:116007608,ref_number:NP_001036500.1,annotation: down syndrome cell adhesion molecule 1, isoform T [Drosophila melanogaster],best_score:202.0,evalue:9.91349e-15,length:2032
+gi:919078468,ref_number:XP_013420393.1,annotation: PREDICTED: usherin-like [Lingula anatina],best_score:6664.0,evalue:0.0,length:3271
+gi:919006095,ref_number:XP_013386515.1,annotation: PREDICTED: usherin-like [Lingula anatina],best_score:3149.0,evalue:0.0,length:1461
+gi:919006098,ref_number:XP_013386526.1,annotation: PREDICTED: usherin-like [Lingula anatina],best_score:2814.0,evalue:0.0,length:1362
+gi:919078470,ref_number:XP_013420395.1,annotation: PREDICTED: usherin-like [Lingula anatina],best_score:1670.0,evalue:0.0,length:889
+gi:919078508,ref_number:XP_013420415.1,annotation: PREDICTED: usherin-like isoform X2 [Lingula anatina],best_score:1115.0,evalue:1.34386e-130,length:814
+gi:919078506,ref_number:XP_013420414.1,annotation: PREDICTED: usherin-like isoform X1 [Lingula anatina],best_score:1113.0,evalue:2.97482e-130,length:818
+gi:919001657,ref_number:XP_013408769.1,annotation: PREDICTED: laminin subunit alpha-like isoform X2 [Lingula anatina],best_score:978.0,evalue:5.28874e-105,length:3645
+gi:919001655,ref_number:XP_013408760.1,annotation: PREDICTED: laminin subunit alpha-like isoform X1 [Lingula anatina],best_score:978.0,evalue:5.48275e-105,length:3654
+gi:919026509,ref_number:XP_013397032.1,annotation: PREDICTED: laminin subunit alpha-2-like isoform X2 [Lingula anatina],best_score:705.0,evalue:3.56831e-73,length:3218
+gi:919026507,ref_number:XP_013397031.1,annotation: PREDICTED: laminin subunit alpha-2-like isoform X1 [Lingula anatina],best_score:705.0,evalue:3.66469e-73,length:3225
+gi:919026511,ref_number:XP_013397033.1,annotation: PREDICTED: laminin subunit alpha-2-like isoform X3 [Lingula anatina],best_score:705.0,evalue:4.10922e-73,length:3211
+gi:919026513,ref_number:XP_013397034.1,annotation: PREDICTED: laminin subunit alpha-2-like isoform X4 [Lingula anatina],best_score:704.0,evalue:5.29004e-73,length:3102
+gi:919022453,ref_number:XP_013395107.1,annotation: PREDICTED: laminin subunit beta-1-like isoform X1 [Lingula anatina] >gi,best_score:628.0,evalue:1.94373e-64,length:1760
+gi:919081843,ref_number:XP_013421975.1,annotation: PREDICTED: LOW QUALITY PROTEIN: laminin-like protein epi-1, partial [Lingula anatina],best_score:596.0,evalue:1.8491e-60,length:3736
+gi:919100986,ref_number:XP_013386862.1,annotation: PREDICTED: laminin subunit alpha-1-like [Lingula anatina],best_score:596.0,evalue:2.23537e-60,length:4330
+gi:919027791,ref_number:XP_013397720.1,annotation: PREDICTED: laminin subunit alpha-1-like, partial [Lingula anatina],best_score:573.0,evalue:2.6139e-59,length:926
+gi:919038814,ref_number:XP_013402896.1,annotation: PREDICTED: uncharacterized protein LOC106168407 [Lingula anatina],best_score:578.0,evalue:1.84169e-58,length:2376
+gi:919019990,ref_number:XP_013393995.1,annotation: PREDICTED: laminin subunit beta-1-like [Lingula anatina],best_score:538.0,evalue:5.53312e-54,length:1530
+gi:919061630,ref_number:XP_013412467.1,annotation: PREDICTED: laminin subunit gamma-1-like [Lingula anatina],best_score:528.0,evalue:2.20796e-53,length:1037
+gi:919062870,ref_number:XP_013413083.1,annotation: PREDICTED: laminin subunit beta-1-like [Lingula anatina],best_score:529.0,evalue:1.059e-52,length:2232
+gi:919061632,ref_number:XP_013412469.1,annotation: PREDICTED: laminin subunit gamma-1-like [Lingula anatina],best_score:516.0,evalue:2.13293e-51,length:1475
+gi:919053217,ref_number:XP_013408521.1,annotation: PREDICTED: netrin-1-like isoform X3 [Lingula anatina],best_score:443.0,evalue:1.33942e-44,length:624
+gi:919053213,ref_number:XP_013408519.1,annotation: PREDICTED: netrin-1-like isoform X1 [Lingula anatina],best_score:443.0,evalue:1.41017e-44,length:625
+gi:919053221,ref_number:XP_013408523.1,annotation: PREDICTED: netrin-1-like isoform X5 [Lingula anatina],best_score:442.0,evalue:1.66549e-44,length:611
+gi:919053219,ref_number:XP_013408522.1,annotation: PREDICTED: netrin-1-like isoform X4 [Lingula anatina],best_score:442.0,evalue:1.69107e-44,length:612
+gi:919006172,ref_number:XP_013386811.1,annotation: PREDICTED: protein sidekick-2-like isoform X3 [Lingula anatina],best_score:456.0,evalue:3.07797e-44,length:2183
+gi:919006174,ref_number:XP_013386820.1,annotation: PREDICTED: protein sidekick-2-like isoform X4 [Lingula anatina],best_score:453.0,evalue:6.32315e-44,length:2174
+gi:919053215,ref_number:XP_013408520.1,annotation: PREDICTED: netrin-1-like isoform X2 [Lingula anatina],best_score:431.0,evalue:4.29942e-43,length:625
+gi:919006167,ref_number:XP_013386795.1,annotation: PREDICTED: protein sidekick-2-like isoform X1 [Lingula anatina],best_score:446.0,evalue:5.35608e-43,length:2184
+gi:919006169,ref_number:XP_013386802.1,annotation: PREDICTED: protein sidekick-2-like isoform X2 [Lingula anatina],best_score:444.0,evalue:8.35995e-43,length:2184
+gi:919035999,ref_number:XP_013401479.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3a-like [Lingula anatina],best_score:382.0,evalue:6.96109e-36,length:1100
+gi:919006178,ref_number:XP_013386830.1,annotation: PREDICTED: protein sidekick-2-like isoform X5 [Lingula anatina],best_score:370.0,evalue:2.89365e-34,length:1780
+gi:919014364,ref_number:XP_013391634.1,annotation: PREDICTED: laminin subunit alpha-like, partial [Lingula anatina],best_score:341.0,evalue:2.16856e-31,length:726
+gi:919101682,ref_number:XP_013387210.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase eta-like isoform X3 [Lingula anatina],best_score:337.0,evalue:2.30141e-30,length:1843
+gi:919101678,ref_number:XP_013387208.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase eta-like isoform X1 [Lingula anatina],best_score:336.0,evalue:3.35571e-30,length:1871
+gi:919101680,ref_number:XP_013387209.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase eta-like isoform X2 [Lingula anatina],best_score:334.0,evalue:4.8967e-30,length:1870
+gi:919065652,ref_number:XP_013414397.1,annotation: PREDICTED: hepatocyte growth factor receptor-like [Lingula anatina],best_score:333.0,evalue:5.14957e-30,length:1286
+gi:919014367,ref_number:XP_013391636.1,annotation: PREDICTED: laminin subunit beta-2-like [Lingula anatina],best_score:329.0,evalue:1.047e-29,length:887
+gi:918999964,ref_number:XP_013401810.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein-like [Lingula anatina],best_score:328.0,evalue:3.39666e-29,length:3847
+gi:919103647,ref_number:XP_013388159.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X1 [Lingula anatina] >gi,best_score:301.0,evalue:3.53651e-26,length:2015
+gi:919103685,ref_number:XP_013388178.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta-like isoform X4 [Lingula anatina],best_score:301.0,evalue:3.55833e-26,length:1917
+gi:919103680,ref_number:XP_013388176.1,annotation: PREDICTED: tyrosine-protein phosphatase Lar-like isoform X2 [Lingula anatina],best_score:300.0,evalue:5.05943e-26,length:1999
+gi:919101605,ref_number:XP_013387170.1,annotation: PREDICTED: mucin-17-like [Lingula anatina],best_score:295.0,evalue:1.98121e-25,length:2127
+gi:919065225,ref_number:XP_013414224.1,annotation: PREDICTED: uncharacterized protein LOC106176403 isoform X1 [Lingula anatina],best_score:286.0,evalue:1.19473e-24,length:972
+gi:919065231,ref_number:XP_013414226.1,annotation: PREDICTED: uncharacterized protein LOC106176403 isoform X3 [Lingula anatina],best_score:286.0,evalue:1.3404e-24,length:941
+gi:919065233,ref_number:XP_013414227.1,annotation: PREDICTED: uncharacterized protein LOC106176403 isoform X4 [Lingula anatina],best_score:286.0,evalue:1.3688e-24,length:931
+gi:919065228,ref_number:XP_013414225.1,annotation: PREDICTED: uncharacterized protein LOC106176403 isoform X2 [Lingula anatina],best_score:286.0,evalue:1.47775e-24,length:958
+gi:919103683,ref_number:XP_013388177.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F-like isoform X3 [Lingula anatina],best_score:283.0,evalue:4.56796e-24,length:1919
+gi:919053955,ref_number:XP_013408927.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3a-like, partial [Lingula anatina],best_score:267.0,evalue:4.08791e-23,length:472
+gi:919103196,ref_number:XP_013387955.1,annotation: PREDICTED: neogenin-like isoform X4 [Lingula anatina],best_score:273.0,evalue:6.68257e-23,length:1414
+gi:780031693,ref_number:XP_011666777.1,annotation: PREDICTED: usherin [Strongylocentrotus purpuratus],best_score:10194.0,evalue:0.0,length:5222
+gi:780163219,ref_number:XP_011683410.1,annotation: PREDICTED: laminin subunit alpha [Strongylocentrotus purpuratus],best_score:983.0,evalue:8.90783e-106,length:2692
+gi:390348792,ref_number:XP_787259.3,annotation: PREDICTED: laminin subunit beta-1 [Strongylocentrotus purpuratus],best_score:594.0,evalue:1.24546e-60,length:1668
+gi:780113671,ref_number:XP_011676905.1,annotation: PREDICTED: LOW QUALITY PROTEIN: laminin subunit alpha-1 [Strongylocentrotus purpuratus],best_score:523.0,evalue:4.92567e-52,length:3481
+gi:780064244,ref_number:XP_011670786.1,annotation: PREDICTED: LOW QUALITY PROTEIN: laminin subunit gamma-1 [Strongylocentrotus purpuratus],best_score:518.0,evalue:9.74041e-52,length:1455
+gi:780030614,ref_number:XP_793215.4,annotation: PREDICTED: laminin subunit beta-2 [Strongylocentrotus purpuratus],best_score:504.0,evalue:5.52758e-50,length:1853
+gi:780128893,ref_number:XP_011679001.1,annotation: PREDICTED: protein sidekick-2 [Strongylocentrotus purpuratus],best_score:432.0,evalue:1.52994e-41,length:2031
+gi:115686177,ref_number:XP_781902.2,annotation: PREDICTED: netrin-1 isoform X3 [Strongylocentrotus purpuratus],best_score:411.0,evalue:1.11921e-40,length:623
+gi:780071970,ref_number:XP_011671702.1,annotation: PREDICTED: laminin-like protein epi-1 [Strongylocentrotus purpuratus],best_score:415.0,evalue:1.84396e-39,length:2945
+gi:780054512,ref_number:XP_011669598.1,annotation: PREDICTED: netrin-1 isoform X1 [Strongylocentrotus purpuratus],best_score:382.0,evalue:8.13241e-37,length:644
+gi:780054518,ref_number:XP_011669599.1,annotation: PREDICTED: netrin-1 isoform X2 [Strongylocentrotus purpuratus],best_score:381.0,evalue:9.2635e-37,length:641
+gi:780168909,ref_number:XP_011684179.1,annotation: PREDICTED: laminin subunit beta-1 isoform X2 [Strongylocentrotus purpuratus],best_score:380.0,evalue:9.31449e-36,length:1093
+gi:390344342,ref_number:XP_783327.2,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F [Strongylocentrotus purpuratus],best_score:379.0,evalue:2.95076e-35,length:2639
+gi:780140340,ref_number:XP_011680553.1,annotation: PREDICTED: titin [Strongylocentrotus purpuratus],best_score:375.0,evalue:9.2929e-35,length:12075
+gi:780168905,ref_number:XP_011684178.1,annotation: PREDICTED: laminin subunit gamma-1 isoform X1 [Strongylocentrotus purpuratus],best_score:366.0,evalue:7.27985e-34,length:1392
+gi:780160053,ref_number:XP_011682931.1,annotation: PREDICTED: laminin subunit alpha [Strongylocentrotus purpuratus],best_score:353.0,evalue:1.5733e-32,length:1126
+gi:780056257,ref_number:XP_011669797.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3A [Strongylocentrotus purpuratus],best_score:304.0,evalue:6.57686e-27,length:813
+gi:780071060,ref_number:XP_001183884.3,annotation: PREDICTED: protein sidekick-2, partial [Strongylocentrotus purpuratus],best_score:306.0,evalue:6.97982e-27,length:1620
+gi:780117088,ref_number:XP_011677372.1,annotation: PREDICTED: laminin subunit beta-2-like, partial [Strongylocentrotus purpuratus],best_score:287.0,evalue:1.40113e-26,length:343
+gi:780036761,ref_number:XP_011667514.1,annotation: PREDICTED: laminin subunit beta-1, partial [Strongylocentrotus purpuratus],best_score:261.0,evalue:3.37817e-23,length:352
+gi:780068567,ref_number:XP_011671272.1,annotation: PREDICTED: laminin subunit gamma-1 [Strongylocentrotus purpuratus],best_score:258.0,evalue:5.5745e-23,length:327
+gi:780170505,ref_number:XP_011660479.1,annotation: PREDICTED: uncharacterized protein LOC581522 [Strongylocentrotus purpuratus],best_score:267.0,evalue:2.3654e-22,length:1218
+gi:779989330,ref_number:XP_787929.4,annotation: PREDICTED: fibronectin type-III domain-containing protein 3A [Strongylocentrotus purpuratus],best_score:259.0,evalue:1.11477e-21,length:743
+gi:780102175,ref_number:XP_011675395.1,annotation: PREDICTED: neogenin isoform X4 [Strongylocentrotus purpuratus],best_score:257.0,evalue:4.56729e-21,length:2047
+gi:780087598,ref_number:XP_011673613.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 10 isoform X1 [Strongylocentrotus purpuratus],best_score:252.0,evalue:6.42459e-21,length:615
+gi:780087602,ref_number:XP_011673614.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 10 isoform X2 [Strongylocentrotus purpuratus],best_score:249.0,evalue:1.21262e-20,length:585
+gi:780143288,ref_number:XP_011680963.1,annotation: PREDICTED: laminin-like protein epi-1 [Strongylocentrotus purpuratus],best_score:241.0,evalue:2.30513e-19,length:1088
+gi:780169584,ref_number:XP_011684273.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta [Strongylocentrotus purpuratus],best_score:232.0,evalue:3.29986e-18,length:1641
+gi:780102165,ref_number:XP_011675393.1,annotation: PREDICTED: neogenin isoform X2 [Strongylocentrotus purpuratus],best_score:231.0,evalue:4.50232e-18,length:2144
+gi:780024458,ref_number:XP_011665747.1,annotation: PREDICTED: Down syndrome cell adhesion molecule homolog [Strongylocentrotus purpuratus],best_score:227.0,evalue:1.37633e-17,length:2330
+gi:780103431,ref_number:XP_011675552.1,annotation: PREDICTED: LOW QUALITY PROTEIN: basement membrane-specific heparan sulfate proteoglycan core protein [Strongylocentrotus purpuratus],best_score:223.0,evalue:3.73386e-17,length:2330
+gi:780077590,ref_number:XP_011672387.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase T isoform X2 [Strongylocentrotus purpuratus],best_score:222.0,evalue:4.70851e-17,length:1917
+gi:779989169,ref_number:XP_011666636.1,annotation: PREDICTED: laminin subunit alpha [Strongylocentrotus purpuratus],best_score:203.0,evalue:5.01836e-17,length:192
+gi:780102180,ref_number:XP_011675396.1,annotation: PREDICTED: neogenin isoform X5 [Strongylocentrotus purpuratus],best_score:221.0,evalue:6.23808e-17,length:2017
+gi:780102160,ref_number:XP_011675392.1,annotation: PREDICTED: neogenin isoform X1 [Strongylocentrotus purpuratus],best_score:221.0,evalue:6.44166e-17,length:2155
+gi:780077586,ref_number:XP_011672386.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X1 [Strongylocentrotus purpuratus],best_score:221.0,evalue:7.08497e-17,length:2367
+gi:780102170,ref_number:XP_011675394.1,annotation: PREDICTED: neogenin isoform X3 [Strongylocentrotus purpuratus],best_score:221.0,evalue:7.34323e-17,length:2124
+gi:780114512,ref_number:XP_011677011.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Strongylocentrotus purpuratus],best_score:216.0,evalue:1.94935e-16,length:1045
+gi:779986051,ref_number:XP_011679776.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta [Strongylocentrotus purpuratus],best_score:204.0,evalue:4.74047e-15,length:861
+gi:779992047,ref_number:XP_011670046.1,annotation: PREDICTED: protein sidekick-2 isoform X2 [Strongylocentrotus purpuratus],best_score:204.0,evalue:5.24589e-15,length:1079
+gi:780138547,ref_number:XP_011680312.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein [Strongylocentrotus purpuratus],best_score:201.0,evalue:1.55926e-14,length:1634
+gi:390367964,ref_number:XP_003731364.1,annotation: PREDICTED: laminin subunit beta-1 [Strongylocentrotus purpuratus],best_score:194.0,evalue:2.92341e-14,length:428
+gi:390356465,ref_number:XP_003728795.1,annotation: PREDICTED: protein sidekick-2 isoform X1 [Strongylocentrotus purpuratus],best_score:197.0,evalue:3.30238e-14,length:1080
+gi:780011318,ref_number:XP_011663806.1,annotation: PREDICTED: Down syndrome cell adhesion molecule-like protein 1 isoform X2 [Strongylocentrotus purpuratus],best_score:194.0,evalue:8.53499e-14,length:1600
+gi:780011312,ref_number:XP_011663805.1,annotation: PREDICTED: Down syndrome cell adhesion molecule-like protein 1 isoform X1 [Strongylocentrotus purpuratus],best_score:194.0,evalue:8.53643e-14,length:1601
+gi:780068573,ref_number:XP_011671274.1,annotation: PREDICTED: laminin subunit gamma-3-like [Strongylocentrotus purpuratus],best_score:162.0,evalue:2.09517e-12,length:114
+gi:779989940,ref_number:XP_011667622.1,annotation: PREDICTED: fibropellin-1-like [Strongylocentrotus purpuratus],best_score:179.0,evalue:3.08922e-12,length:684
+gi:780139486,ref_number:XP_011680440.1,annotation: PREDICTED: fibronectin [Strongylocentrotus purpuratus],best_score:181.0,evalue:3.3787e-12,length:2971
+gi:780170773,ref_number:XP_011660517.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F [Strongylocentrotus purpuratus],best_score:180.0,evalue:3.45014e-12,length:904
+gi:780188810,ref_number:XP_011663093.1,annotation: PREDICTED: angiopoietin-1 receptor [Strongylocentrotus purpuratus],best_score:176.0,evalue:1.07816e-11,length:983
+gi:1087805877,ref_number:XP_018671138.1,annotation: PREDICTED: usherin [Ciona intestinalis],best_score:9048.0,evalue:0.0,length:5372
+gi:1087817950,ref_number:XP_018672967.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X1 [Ciona intestinalis],best_score:933.0,evalue:4.73137e-100,length:3776
+gi:1087817955,ref_number:XP_018672969.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X3 [Ciona intestinalis],best_score:932.0,evalue:6.22089e-100,length:3762
+gi:1087817953,ref_number:XP_018672968.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X2 [Ciona intestinalis],best_score:919.0,evalue:2.52076e-98,length:3771
+gi:1087817958,ref_number:XP_018672970.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X4 [Ciona intestinalis],best_score:913.0,evalue:9.7389e-98,length:3379
+gi:1087817960,ref_number:XP_018672971.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X5 [Ciona intestinalis],best_score:913.0,evalue:1.09142e-97,length:3367
+gi:1087795960,ref_number:XP_018672020.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ [Ciona intestinalis],best_score:740.0,evalue:1.0275e-77,length:2369
+gi:198417037,ref_number:XP_002127794.1,annotation: PREDICTED: laminin subunit beta-1 isoform X4 [Ciona intestinalis],best_score:616.0,evalue:2.34867e-63,length:1754
+gi:1087808060,ref_number:XP_018671765.1,annotation: PREDICTED: laminin subunit beta-1 isoform X3 [Ciona intestinalis],best_score:609.0,evalue:1.51889e-62,length:1761
+gi:1087808058,ref_number:XP_018671764.1,annotation: PREDICTED: laminin subunit beta-1 isoform X2 [Ciona intestinalis],best_score:607.0,evalue:2.77306e-62,length:1763
+gi:1087808056,ref_number:XP_018671763.1,annotation: PREDICTED: laminin subunit beta-1 isoform X1 [Ciona intestinalis],best_score:600.0,evalue:1.65996e-61,length:1770
+gi:699243895,ref_number:XP_004226220.2,annotation: PREDICTED: LOW QUALITY PROTEIN: laminin subunit gamma-1-like [Ciona intestinalis],best_score:574.0,evalue:1.49584e-58,length:1615
+gi:1087810222,ref_number:XP_018668485.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X5 [Ciona intestinalis],best_score:518.0,evalue:1.08913e-51,length:3213
+gi:1087810209,ref_number:XP_018668476.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X1 [Ciona intestinalis],best_score:518.0,evalue:1.19649e-51,length:3293
+gi:1087810218,ref_number:XP_018668482.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X4 [Ciona intestinalis],best_score:518.0,evalue:1.20402e-51,length:3276
+gi:1087810212,ref_number:XP_018668479.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X2 [Ciona intestinalis],best_score:518.0,evalue:1.25697e-51,length:3285
+gi:1087810215,ref_number:XP_018668481.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X3 [Ciona intestinalis],best_score:517.0,evalue:1.29951e-51,length:3283
+gi:198432295,ref_number:XP_002126784.1,annotation: PREDICTED: netrin-4 [Ciona intestinalis],best_score:403.0,evalue:1.5572e-39,length:677
+gi:1087814252,ref_number:XP_018669742.1,annotation: PREDICTED: matrilin-2-like [Ciona intestinalis],best_score:387.0,evalue:1.45527e-37,length:671
+gi:74096165,ref_number:NP_001027598.1,annotation: netrin precursor [Ciona intestinalis],best_score:334.0,evalue:3.94768e-31,length:650
+gi:1087812888,ref_number:XP_009859926.2,annotation: PREDICTED: netrin-G2 [Ciona intestinalis],best_score:306.0,evalue:7.29439e-28,length:582
+gi:1087801348,ref_number:XP_018672414.1,annotation: PREDICTED: laminin subunit beta-2-like, partial [Ciona intestinalis],best_score:288.0,evalue:3.75047e-27,length:329
+gi:1087827419,ref_number:XP_018668126.1,annotation: PREDICTED: fibronectin type-III domain-containing protein 3A-like [Ciona intestinalis],best_score:288.0,evalue:3.97088e-25,length:1118
+gi:1087813849,ref_number:XP_018669650.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ-like [Ciona intestinalis],best_score:247.0,evalue:3.12784e-20,length:1056
+gi:699248786,ref_number:XP_009860442.1,annotation: PREDICTED: netrin isoform X1 [Ciona intestinalis],best_score:234.0,evalue:4.86734e-19,length:617
+gi:1087830447,ref_number:XP_018668860.1,annotation: PREDICTED: uncharacterized protein LOC100180399 [Ciona intestinalis],best_score:236.0,evalue:5.36707e-19,length:1075
+gi:1087822823,ref_number:XP_018666843.1,annotation: PREDICTED: basement membrane-specific heparan sulfate proteoglycan core protein [Ciona intestinalis],best_score:234.0,evalue:1.52654e-18,length:3485
+gi:525313971,ref_number:NP_001265922.1,annotation: uncharacterized protein LOC100178935 [Ciona intestinalis],best_score:231.0,evalue:3.52953e-18,length:26404
+gi:1087825666,ref_number:XP_018667602.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X1 [Ciona intestinalis],best_score:221.0,evalue:3.79016e-17,length:1953
+gi:198422035,ref_number:XP_002120552.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X2 [Ciona intestinalis],best_score:221.0,evalue:3.9511e-17,length:1950
+gi:1087830898,ref_number:XP_018668975.1,annotation: PREDICTED: tenascin-R-like isoform X1 [Ciona intestinalis],best_score:214.0,evalue:2.63029e-16,length:2356
+gi:1087830900,ref_number:XP_018668976.1,annotation: PREDICTED: tenascin-R-like isoform X2 [Ciona intestinalis],best_score:214.0,evalue:2.83626e-16,length:2355
+gi:1087805643,ref_number:XP_002120344.3,annotation: PREDICTED: neogenin-like [Ciona intestinalis],best_score:212.0,evalue:3.63882e-16,length:1239
+gi:1087822145,ref_number:XP_018666751.1,annotation: PREDICTED: neurexin-1a-like isoform X2 [Ciona intestinalis],best_score:188.0,evalue:2.34848e-13,length:1643
+gi:198437132,ref_number:XP_002124366.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X2 [Ciona intestinalis],best_score:188.0,evalue:2.68176e-13,length:2808
+gi:1087826386,ref_number:XP_018667811.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X1 [Ciona intestinalis],best_score:188.0,evalue:2.8936e-13,length:2821
+gi:1087809010,ref_number:XP_018673096.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 10 [Ciona intestinalis],best_score:184.0,evalue:4.56871e-13,length:594
+gi:1087829499,ref_number:XP_018668586.1,annotation: PREDICTED: agrin isoform X2 [Ciona intestinalis],best_score:179.0,evalue:3.26516e-12,length:2142
+gi:1087829497,ref_number:XP_018668585.1,annotation: PREDICTED: agrin isoform X1 [Ciona intestinalis],best_score:179.0,evalue:3.32769e-12,length:2170
+gi:1087829501,ref_number:XP_018668588.1,annotation: PREDICTED: agrin isoform X3 [Ciona intestinalis],best_score:178.0,evalue:3.67202e-12,length:2142
+gi:1087823396,ref_number:XP_009858401.2,annotation: PREDICTED: chondroitin sulfate proteoglycan 4 isoform X2 [Ciona intestinalis],best_score:174.0,evalue:1.30191e-11,length:2518
+gi:1087823394,ref_number:XP_018667002.1,annotation: PREDICTED: chondroitin sulfate proteoglycan 4 isoform X1 [Ciona intestinalis],best_score:173.0,evalue:1.553e-11,length:2524
+gi:1087806172,ref_number:XP_018671256.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 6 [Ciona intestinalis],best_score:166.0,evalue:1.08595e-10,length:1612
+gi:699239930,ref_number:XP_009857855.1,annotation: PREDICTED: twitchin-like [Ciona intestinalis],best_score:164.0,evalue:1.28113e-10,length:913
+gi:1087810283,ref_number:XP_018668551.1,annotation: PREDICTED: neuronal cell adhesion molecule isoform X2 [Ciona intestinalis],best_score:164.0,evalue:1.59714e-10,length:1269
+gi:1087810279,ref_number:XP_018668546.1,annotation: PREDICTED: neuronal cell adhesion molecule isoform X1 [Ciona intestinalis],best_score:164.0,evalue:1.70915e-10,length:1271
+gi:699238423,ref_number:XP_009857441.1,annotation: PREDICTED: neuronal cell adhesion molecule isoform X3 [Ciona intestinalis],best_score:164.0,evalue:1.78099e-10,length:1267
+gi:699255254,ref_number:XP_009861650.1,annotation: PREDICTED: tyrosine-protein kinase receptor Tie-2-like [Ciona intestinalis],best_score:154.0,evalue:2.18463e-09,length:1449
+gi:1087809007,ref_number:XP_018673093.1,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 11 [Ciona intestinalis],best_score:148.0,evalue:9.11216e-09,length:575
+gi:1087807097,ref_number:XP_018671516.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase kappa isoform X2 [Ciona intestinalis],best_score:143.0,evalue:4.20979e-08,length:1511
+gi:688594976,ref_number:XP_009291422.1,annotation: PREDICTED: usherin [Danio rerio],best_score:14316.0,evalue:0.0,length:5243
+gi:688610700,ref_number:XP_009294935.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X2 [Danio rerio],best_score:882.0,evalue:1.42623e-93,length:3662
+gi:688610698,ref_number:XP_009294934.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X1 [Danio rerio],best_score:879.0,evalue:2.81579e-93,length:3665
+gi:85677493,ref_number:NP_001034260.1,annotation: laminin subunit alpha-5 precursor [Danio rerio],best_score:870.0,evalue:3.23396e-92,length:3664
+gi:1040653102,ref_number:XP_005174519.2,annotation: PREDICTED: laminin subunit beta-3-like, partial [Danio rerio],best_score:639.0,evalue:4.54959e-70,length:604
+gi:27545301,ref_number:NP_775382.1,annotation: laminin subunit beta-1 precursor [Danio rerio],best_score:627.0,evalue:3.01609e-64,length:1785
+gi:459683825,ref_number:NP_001264059.1,annotation: laminin, beta 1b precursor [Danio rerio],best_score:614.0,evalue:1.14066e-62,length:1767
+gi:528517786,ref_number:XP_692838.6,annotation: PREDICTED: laminin subunit beta-1 [Danio rerio] >gi,best_score:606.0,evalue:1.15943e-61,length:1836
+gi:339895924,ref_number:NP_001229974.1,annotation: laminin subunit beta-2 precursor [Danio rerio],best_score:600.0,evalue:5.22654e-61,length:1782
+gi:528517572,ref_number:XP_005162102.1,annotation: PREDICTED: laminin subunit beta-2 isoform X1 [Danio rerio] >gi,best_score:600.0,evalue:5.51171e-61,length:1794
+gi:523704366,ref_number:NP_001265728.1,annotation: laminin subunit alpha-2 precursor [Danio rerio],best_score:583.0,evalue:8.32882e-59,length:3078
+gi:27545303,ref_number:NP_775383.1,annotation: laminin subunit beta-4 precursor [Danio rerio],best_score:555.0,evalue:9.66525e-56,length:1827
+gi:77993334,ref_number:NP_001030158.1,annotation: laminin subunit alpha-1 precursor [Danio rerio],best_score:554.0,evalue:2.06613e-55,length:3075
+gi:27545305,ref_number:NP_775384.1,annotation: laminin subunit gamma-1 precursor [Danio rerio],best_score:514.0,evalue:5.8615e-51,length:1593
+gi:528479656,ref_number:XP_687343.5,annotation: PREDICTED: laminin subunit gamma-3 [Danio rerio],best_score:494.0,evalue:1.13688e-48,length:1643
+gi:82658270,ref_number:NP_001032492.1,annotation: netrin-3 [Danio rerio],best_score:474.0,evalue:1.35104e-48,length:600
+gi:24158431,ref_number:NP_571104.1,annotation: netrin-1 precursor [Danio rerio],best_score:472.0,evalue:2.77092e-48,length:603
+gi:528473756,ref_number:XP_005171608.1,annotation: PREDICTED: netrin 1b isoform X1 [Danio rerio] >gi,best_score:454.0,evalue:4.82513e-46,length:602
+gi:688544772,ref_number:XP_009298034.1,annotation: PREDICTED: protein sidekick-2-like isoform X2 [Danio rerio],best_score:467.0,evalue:1.98121e-45,length:2114
+gi:18859143,ref_number:NP_571073.1,annotation: netrin 1b precursor [Danio rerio],best_score:446.0,evalue:4.84061e-45,length:602
+gi:1040684796,ref_number:XP_017210315.1,annotation: PREDICTED: protein sidekick-2-like isoform X1 [Danio rerio],best_score:464.0,evalue:5.62964e-45,length:2121
+gi:688544778,ref_number:XP_009298036.1,annotation: PREDICTED: protein sidekick-2-like isoform X4 [Danio rerio],best_score:463.0,evalue:6.02751e-45,length:2098
+gi:528474826,ref_number:XP_686686.3,annotation: PREDICTED: protein sidekick-1 isoform X3 [Danio rerio],best_score:459.0,evalue:1.72087e-44,length:2236
+gi:688544297,ref_number:XP_009297968.1,annotation: PREDICTED: protein sidekick-1 isoform X1 [Danio rerio],best_score:459.0,evalue:1.97317e-44,length:2245
+gi:688544299,ref_number:XP_009297970.1,annotation: PREDICTED: protein sidekick-1 isoform X2 [Danio rerio],best_score:457.0,evalue:3.26438e-44,length:2243
+gi:688544774,ref_number:XP_009298035.1,annotation: PREDICTED: protein sidekick-2-like isoform X3 [Danio rerio],best_score:448.0,evalue:3.29606e-43,length:2102
+gi:688610704,ref_number:XP_009294936.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X3 [Danio rerio],best_score:445.0,evalue:9.4971e-43,length:2772
+gi:1040669409,ref_number:XP_017207541.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ [Danio rerio],best_score:440.0,evalue:3.48673e-42,length:2667
+gi:688563711,ref_number:XP_009301345.1,annotation: PREDICTED: netrin-4 isoform X1 [Danio rerio],best_score:415.0,evalue:6.97471e-41,length:639
+gi:688580811,ref_number:XP_009305145.1,annotation: PREDICTED: protein sidekick-2 isoform X4 [Danio rerio],best_score:413.0,evalue:4.25269e-39,length:2221
+gi:688580807,ref_number:XP_009305144.1,annotation: PREDICTED: protein sidekick-2 isoform X3 [Danio rerio],best_score:413.0,evalue:4.64223e-39,length:2237
+gi:688580804,ref_number:XP_009305143.1,annotation: PREDICTED: protein sidekick-2 isoform X2 [Danio rerio],best_score:411.0,evalue:6.95125e-39,length:2240
+gi:688580802,ref_number:XP_009305142.1,annotation: PREDICTED: protein sidekick-2 isoform X1 [Danio rerio],best_score:411.0,evalue:7.71565e-39,length:2256
+gi:189525349,ref_number:XP_688995.3,annotation: PREDICTED: netrin-4-like [Danio rerio],best_score:386.0,evalue:3.25748e-37,length:642
+gi:83415122,ref_number:NP_001032775.1,annotation: netrin-4 precursor [Danio rerio],best_score:371.0,evalue:1.16514e-35,length:558
+gi:1040654946,ref_number:XP_017211454.1,annotation: PREDICTED: protein sidekick-1 isoform X1 [Danio rerio],best_score:384.0,evalue:1.26671e-35,length:2292
+gi:1040654948,ref_number:XP_017211455.1,annotation: PREDICTED: protein sidekick-1 isoform X2 [Danio rerio],best_score:383.0,evalue:1.55979e-35,length:2283
+gi:84794568,ref_number:NP_001034154.1,annotation: laminin subunit alpha-4 precursor [Danio rerio],best_score:331.0,evalue:1.69912e-29,length:1871
+gi:229577117,ref_number:NP_001153304.1,annotation: fibronectin type III domain-containing protein 3B [Danio rerio] >gi,best_score:329.0,evalue:2.11813e-29,length:1202
+gi:688580813,ref_number:XP_009305146.1,annotation: PREDICTED: protein sidekick-2 isoform X5 [Danio rerio],best_score:307.0,evalue:8.84701e-27,length:1254
+gi:189519113,ref_number:XP_001336203.2,annotation: PREDICTED: multiple epidermal growth factor-like domains protein 9 [Danio rerio],best_score:300.0,evalue:1.02591e-26,length:574
+gi:528484639,ref_number:XP_001920036.3,annotation: PREDICTED: netrin-1-like isoform X1 [Danio rerio] >gi,best_score:303.0,evalue:1.27001e-26,length:839
+gi:77993340,ref_number:NP_001030157.1,annotation: netrin receptor DCC [Danio rerio],best_score:300.0,evalue:5.81554e-26,length:1421
+gi:1040653183,ref_number:XP_017209896.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X28 [Danio rerio],best_score:296.0,evalue:2.09861e-25,length:1809
+gi:1040653159,ref_number:XP_017209884.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X16 [Danio rerio],best_score:295.0,evalue:2.319e-25,length:1842
+gi:1040653161,ref_number:XP_017209885.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase delta isoform X17 [Danio rerio],best_score:295.0,evalue:2.5362e-25,length:1829
+gi:688536624,ref_number:XP_009296735.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X3 [Danio rerio],best_score:292.0,evalue:5.10786e-25,length:1923
+gi:688536616,ref_number:XP_009296732.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X1 [Danio rerio] >gi,best_score:292.0,evalue:5.79816e-25,length:1927
+gi:688536643,ref_number:XP_009296743.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X10 [Danio rerio],best_score:292.0,evalue:6.17421e-25,length:1825
+gi:688536621,ref_number:XP_009296734.1,annotation: PREDICTED: receptor-type tyrosine-protein phosphatase F isoform X2 [Danio rerio],best_score:291.0,evalue:6.79601e-25,length:1923
+gi:167525854,ref_number:XP_001747261.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:531.0,evalue:1.4232e-53,length:2044
+gi:167538373,ref_number:XP_001750851.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:523.0,evalue:1.90992e-52,length:10056
+gi:167520938,ref_number:XP_001744808.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:245.0,evalue:2.38234e-20,length:874
+gi:167525224,ref_number:XP_001746947.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:198.0,evalue:1.21149e-14,length:2901
+gi:167518632,ref_number:XP_001743656.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:185.0,evalue:2.46134e-13,length:1145
+gi:167518349,ref_number:XP_001743515.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:161.0,evalue:2.25241e-10,length:2964
+gi:167525990,ref_number:XP_001747329.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:160.0,evalue:2.64888e-10,length:1764
+gi:167533722,ref_number:XP_001748540.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:152.0,evalue:2.33529e-09,length:4101
+gi:167521930,ref_number:XP_001745303.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:151.0,evalue:3.00013e-09,length:2538
+gi:514698288,ref_number:XP_004996713.1,annotation: laminin alpha 5 chain [Salpingoeca rosetta],best_score:1186.0,evalue:1.92295e-129,length:5486
+gi:514692317,ref_number:XP_004993731.1,annotation: laminin alpha 5 chain [Salpingoeca rosetta],best_score:595.0,evalue:6.52979e-61,length:2095
+gi:514683505,ref_number:XP_004989334.1,annotation: hypothetical protein PTSG_12970 [Salpingoeca rosetta],best_score:496.0,evalue:3.99005e-49,length:10593
+gi:514684548,ref_number:XP_004989854.1,annotation: hypothetical protein PTSG_09054 [Salpingoeca rosetta],best_score:419.0,evalue:3.19859e-40,length:3976
+gi:514694452,ref_number:XP_004994797.1,annotation: hypothetical protein PTSG_12094 [Salpingoeca rosetta],best_score:258.0,evalue:1.15077e-21,length:1240
+gi:514685168,ref_number:XP_004990163.1,annotation: hypothetical protein PTSG_12793 [Salpingoeca rosetta],best_score:231.0,evalue:1.78987e-18,length:1900
+gi:514699275,ref_number:XP_004997206.1,annotation: hypothetical protein PTSG_11695 [Salpingoeca rosetta],best_score:211.0,evalue:5.13157e-16,length:3611
+gi:514683202,ref_number:XP_004989183.1,annotation: hypothetical protein PTSG_09826 [Salpingoeca rosetta],best_score:196.0,evalue:2.33122e-14,length:2429
+gi:514692675,ref_number:XP_004993910.1,annotation: hypothetical protein PTSG_12296 [Salpingoeca rosetta],best_score:196.0,evalue:2.6447e-14,length:2881
+gi:514694353,ref_number:XP_004994748.1,annotation: hypothetical protein PTSG_12198 [Salpingoeca rosetta],best_score:192.0,evalue:5.65358e-14,length:997
+gi:514681178,ref_number:XP_004988175.1,annotation: hypothetical protein PTSG_13079 [Salpingoeca rosetta],best_score:185.0,evalue:4.60449e-13,length:3080
+gi:514681496,ref_number:XP_004988333.1,annotation: proprotein convertase subtilisin/kexin type 5 [Salpingoeca rosetta],best_score:184.0,evalue:6.26678e-13,length:3035
+gi:514682397,ref_number:XP_004988782.1,annotation: hypothetical protein PTSG_13098, partial [Salpingoeca rosetta],best_score:170.0,evalue:2.32981e-11,length:1949
+gi:514682873,ref_number:XP_004989019.1,annotation: Megf11 [Salpingoeca rosetta],best_score:170.0,evalue:2.91532e-11,length:2890
+gi:514680479,ref_number:XP_004987827.1,annotation: LOW QUALITY PROTEIN: hypothetical protein PTSG_13149 [Salpingoeca rosetta],best_score:169.0,evalue:3.93915e-11,length:4108
+gi:514655514,ref_number:XP_004999045.1,annotation: laminin B1 [Salpingoeca rosetta],best_score:150.0,evalue:6.23644e-09,length:2368
+gi:514697313,ref_number:XP_004996226.1,annotation: hypothetical protein PTSG_02730 [Salpingoeca rosetta],best_score:140.0,evalue:8.39269e-08,length:1152
+gi:514688765,ref_number:XP_004991958.1,annotation: hypothetical protein PTSG_06573 [Salpingoeca rosetta],best_score:139.0,evalue:1.09757e-07,length:1434
+gi:514698256,ref_number:XP_004996697.1,annotation: hypothetical protein PTSG_11851 [Salpingoeca rosetta],best_score:136.0,evalue:2.65498e-07,length:4179
+gi:514699565,ref_number:XP_004997351.1,annotation: hypothetical protein PTSG_01378 [Salpingoeca rosetta],best_score:135.0,evalue:3.21266e-07,length:3555
+gi:514687258,ref_number:XP_004991206.1,annotation: wnt inhibitory factor 1 [Salpingoeca rosetta],best_score:133.0,evalue:5.77254e-07,length:4727
+gi:514689190,ref_number:XP_004992170.1,annotation: hypothetical protein PTSG_06772 [Salpingoeca rosetta],best_score:128.0,evalue:1.96994e-06,length:3371
+gi:514655592,ref_number:XP_004999084.1,annotation: hypothetical protein PTSG_00536 [Salpingoeca rosetta],best_score:127.0,evalue:2.0313e-06,length:633
+gi:219842266,ref_number:NP_996816.2,annotation: usherin isoform B precursor [Homo sapiens],best_score:28045.0,evalue:0.0,length:5202
+gi:219842259,ref_number:NP_009054.5,annotation: usherin isoform A [Homo sapiens],best_score:8411.0,evalue:0.0,length:1546
+gi:578835999,ref_number:XP_006723859.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X1 [Homo sapiens],best_score:912.0,evalue:6.99067e-97,length:3700
+gi:21264602,ref_number:NP_005551.3,annotation: laminin subunit alpha-5 precursor [Homo sapiens],best_score:912.0,evalue:7.85298e-97,length:3695
+gi:768017170,ref_number:XP_011527120.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X2 [Homo sapiens],best_score:903.0,evalue:8.57164e-96,length:3654
+gi:578836003,ref_number:XP_006723861.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X4 [Homo sapiens],best_score:860.0,evalue:4.37453e-91,length:2300
+gi:768017173,ref_number:XP_011527121.1,annotation: PREDICTED: laminin subunit alpha-5 isoform X3 [Homo sapiens],best_score:831.0,evalue:2.21426e-87,length:3609
+gi:767998709,ref_number:XP_011524284.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X5 [Homo sapiens],best_score:758.0,evalue:6.04962e-79,length:3243
+gi:767998701,ref_number:XP_011524280.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X1 [Homo sapiens],best_score:757.0,evalue:8.02438e-79,length:3342
+gi:767998703,ref_number:XP_011524281.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X2 [Homo sapiens],best_score:757.0,evalue:8.08672e-79,length:3339
+gi:767998705,ref_number:XP_011524282.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X3 [Homo sapiens],best_score:756.0,evalue:1.0136e-78,length:3336
+gi:732170489,ref_number:NP_937762.2,annotation: laminin subunit alpha-3 isoform 1 precursor [Homo sapiens],best_score:756.0,evalue:1.12023e-78,length:3333
+gi:732170491,ref_number:NP_001121189.2,annotation: laminin subunit alpha-3 isoform 3 precursor [Homo sapiens],best_score:756.0,evalue:1.22355e-78,length:3277
+gi:62868215,ref_number:NP_000219.2,annotation: laminin subunit beta-3 precursor [Homo sapiens] >gi,best_score:692.0,evalue:1.34881e-72,length:1172
+gi:767998707,ref_number:XP_011524283.1,annotation: PREDICTED: laminin subunit alpha-3 isoform X4 [Homo sapiens],best_score:659.0,evalue:2.45894e-67,length:3298
+gi:1034558518,ref_number:XP_016856761.1,annotation: PREDICTED: laminin subunit beta-3 isoform X2 [Homo sapiens],best_score:637.0,evalue:3.7168e-66,length:1108
+gi:1034655603,ref_number:XP_016867690.1,annotation: PREDICTED: laminin subunit beta-1 isoform X1 [Homo sapiens],best_score:645.0,evalue:5.17816e-66,length:1810
+gi:167614504,ref_number:NP_002282.2,annotation: laminin subunit beta-1 precursor [Homo sapiens],best_score:644.0,evalue:7.25627e-66,length:1786
+gi:1034655606,ref_number:XP_016867691.1,annotation: PREDICTED: laminin subunit beta-1 isoform X2 [Homo sapiens],best_score:623.0,evalue:4.346e-64,length:1212
+gi:119703755,ref_number:NP_002283.3,annotation: laminin subunit beta-2 precursor [Homo sapiens] >gi,best_score:623.0,evalue:1.86573e-63,length:1798
+gi:222537743,ref_number:NP_001138498.1,annotation: phosphatidylinositol phosphatase PTPRQ precursor [Homo sapiens],best_score:608.0,evalue:1.63513e-61,length:2299
+gi:969812446,ref_number:NP_001304977.1,annotation: laminin subunit beta-4 isoform 3 precursor [Homo sapiens],best_score:586.0,evalue:1.73569e-61,length:772
+gi:1034579420,ref_number:XP_016874762.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ isoform X1 [Homo sapiens],best_score:607.0,evalue:2.00299e-61,length:2536
+gi:1034579422,ref_number:XP_016874763.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ isoform X2 [Homo sapiens],best_score:603.0,evalue:5.81532e-61,length:2533
+gi:1034579425,ref_number:XP_016874764.1,annotation: PREDICTED: phosphatidylinositol phosphatase PTPRQ isoform X3 [Homo sapiens],best_score:602.0,evalue:7.41114e-61,length:2145
+gi:119466532,ref_number:NP_001073291.1,annotation: laminin subunit alpha-2 isoform b precursor [Homo sapiens],best_score:598.0,evalue:2.91958e-60,length:3118
+gi:28559088,ref_number:NP_000417.2,annotation: laminin subunit alpha-2 isoform a precursor [Homo sapiens],best_score:598.0,evalue:3.15071e-60,length:3122
+gi:1034650224,ref_number:XP_016866341.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X5 [Homo sapiens],best_score:588.0,evalue:3.62018e-59,length:2587
+gi:1034650222,ref_number:XP_016866340.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X4 [Homo sapiens],best_score:583.0,evalue:1.6334e-58,length:3212
+gi:530383702,ref_number:XP_005267039.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X3 [Homo sapiens],best_score:583.0,evalue:1.65946e-58,length:3206
+gi:530383700,ref_number:XP_005267038.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X1 [Homo sapiens],best_score:583.0,evalue:1.79068e-58,length:3210
+gi:767942834,ref_number:XP_011534122.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X2 [Homo sapiens],best_score:582.0,evalue:1.85118e-58,length:3208
+gi:767997677,ref_number:XP_011523958.1,annotation: PREDICTED: laminin subunit alpha-1 isoform X2 [Homo sapiens],best_score:579.0,evalue:4.0019e-58,length:2561
+gi:1034654627,ref_number:XP_016867368.1,annotation: PREDICTED: laminin subunit beta-4 isoform X2 [Homo sapiens],best_score:571.0,evalue:2.62217e-57,length:1753
+gi:767947252,ref_number:XP_011514277.1,annotation: PREDICTED: laminin subunit beta-4 isoform X1 [Homo sapiens],best_score:570.0,evalue:3.04956e-57,length:1772
+gi:143770880,ref_number:NP_031382.2,annotation: laminin subunit beta-4 isoform 1 precursor [Homo sapiens] >gi,best_score:570.0,evalue:3.31582e-57,length:1761
+gi:767947260,ref_number:XP_011514280.1,annotation: PREDICTED: laminin subunit beta-4 isoform X3 [Homo sapiens],best_score:569.0,evalue:3.70303e-57,length:1723
+gi:767947264,ref_number:XP_011514281.1,annotation: PREDICTED: laminin subunit beta-4 isoform X4 [Homo sapiens],best_score:569.0,evalue:4.41498e-57,length:1703
+gi:767997675,ref_number:XP_011523957.1,annotation: PREDICTED: laminin subunit alpha-1 isoform X1 [Homo sapiens],best_score:570.0,evalue:5.41843e-57,length:3085
+gi:38788416,ref_number:NP_005550.2,annotation: laminin subunit alpha-1 precursor [Homo sapiens],best_score:570.0,evalue:5.73642e-57,length:3075
+gi:1034654630,ref_number:XP_016867369.1,annotation: PREDICTED: laminin subunit beta-4 isoform X5 [Homo sapiens],best_score:565.0,evalue:9.02158e-57,length:1567
+gi:767947266,ref_number:XP_011514282.1,annotation: PREDICTED: laminin subunit beta-4 isoform X6 [Homo sapiens],best_score:565.0,evalue:9.53629e-57,length:1564
+gi:968121850,ref_number:NP_001304976.1,annotation: laminin subunit beta-4 isoform 2 precursor [Homo sapiens],best_score:558.0,evalue:1.58552e-56,length:1101
+gi:145309326,ref_number:NP_002284.3,annotation: laminin subunit gamma-1 precursor [Homo sapiens],best_score:562.0,evalue:2.08429e-56,length:1609
+gi:767997679,ref_number:XP_011523959.1,annotation: PREDICTED: laminin subunit alpha-1 isoform X3 [Homo sapiens],best_score:557.0,evalue:1.52404e-55,length:2489
+gi:110611156,ref_number:NP_006050.3,annotation: laminin subunit gamma-3 precursor [Homo sapiens],best_score:548.0,evalue:1.10702e-54,length:1575
+gi:767956020,ref_number:XP_011516423.1,annotation: PREDICTED: laminin subunit gamma-3 isoform X1 [Homo sapiens],best_score:548.0,evalue:1.1145e-54,length:1581
+gi:578816974,ref_number:XP_006716984.1,annotation: PREDICTED: laminin subunit gamma-3 isoform X2 [Homo sapiens],best_score:535.0,evalue:1.8142e-53,length:1259
+gi:1034650226,ref_number:XP_016866342.1,annotation: PREDICTED: laminin subunit alpha-2 isoform X6 [Homo sapiens],best_score:536.0,evalue:2.99755e-53,length:1916
+gi:148613884,ref_number:NP_004813.2,annotation: netrin-1 precursor [Homo sapiens] >gi,best_score:460.0,evalue:1.83005e-46,length:604

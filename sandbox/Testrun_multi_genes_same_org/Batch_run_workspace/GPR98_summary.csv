@@ -1,0 +1,611 @@
+gi:153791474,ref_number:NP_473394.3,annotation: G-protein coupled receptor 98 precursor [Mus musculus],best_score:27096.0,evalue:0.0,length:6298
+gi:1039743045,ref_number:XP_017170854.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X3 [Mus musculus],best_score:27084.0,evalue:0.0,length:6299
+gi:1039743043,ref_number:XP_017170853.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X2 [Mus musculus],best_score:27065.0,evalue:0.0,length:6325
+gi:1039743041,ref_number:XP_017170852.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X1 [Mus musculus],best_score:27053.0,evalue:0.0,length:6326
+gi:1039743048,ref_number:XP_017170855.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X4 [Mus musculus],best_score:23991.0,evalue:0.0,length:5717
+gi:1039743050,ref_number:XP_017170856.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X5 [Mus musculus],best_score:23816.0,evalue:0.0,length:5579
+gi:1039743052,ref_number:XP_017170857.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X6 [Mus musculus],best_score:22697.0,evalue:0.0,length:5305
+gi:1039743054,ref_number:XP_017170858.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X7 [Mus musculus],best_score:21158.0,evalue:0.0,length:5013
+gi:1039743056,ref_number:XP_017170859.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X8 [Mus musculus],best_score:20709.0,evalue:0.0,length:4872
+gi:1039743058,ref_number:XP_017170860.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X9 [Mus musculus],best_score:19886.0,evalue:0.0,length:4678
+gi:1039743060,ref_number:XP_017170861.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X10 [Mus musculus],best_score:16840.0,evalue:0.0,length:4009
+gi:755512523,ref_number:XP_011247771.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X14 [Mus musculus],best_score:239.0,evalue:1.37736e-18,length:1515
+gi:1104875599,ref_number:NP_001334298.1,annotation: adhesion G protein-coupled receptor L3 isoform 4 precursor [Mus musculus],best_score:238.0,evalue:1.59427e-18,length:1528
+gi:1039771715,ref_number:XP_017176403.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X13 [Mus musculus],best_score:238.0,evalue:1.89973e-18,length:1523
+gi:755512505,ref_number:XP_011247762.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X4 [Mus musculus],best_score:237.0,evalue:2.59083e-18,length:1590
+gi:1104875353,ref_number:NP_001334300.1,annotation: adhesion G protein-coupled receptor L3 isoform 5 precursor [Mus musculus] >gi,best_score:236.0,evalue:2.70478e-18,length:1460
+gi:1039771735,ref_number:XP_017176410.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X24 [Mus musculus],best_score:233.0,evalue:5.98717e-18,length:1287
+gi:755512517,ref_number:XP_011247768.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X10 [Mus musculus] >gi,best_score:233.0,evalue:6.13344e-18,length:1537
+gi:58037543,ref_number:NP_941991.1,annotation: adhesion G protein-coupled receptor L3 isoform 1 precursor [Mus musculus] >gi,best_score:233.0,evalue:6.29914e-18,length:1543
+gi:755512507,ref_number:XP_011247763.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X5 [Mus musculus],best_score:233.0,evalue:7.46353e-18,length:1586
+gi:1104876048,ref_number:NP_001334297.1,annotation: adhesion G protein-coupled receptor L3 isoform 3 precursor [Mus musculus] >gi,best_score:232.0,evalue:9.47559e-18,length:1299
+gi:755512513,ref_number:XP_011247766.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X8 [Mus musculus],best_score:232.0,evalue:9.61923e-18,length:1556
+gi:755512509,ref_number:XP_011247764.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X6 [Mus musculus],best_score:232.0,evalue:9.76656e-18,length:1586
+gi:755512511,ref_number:XP_011247765.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X7 [Mus musculus],best_score:232.0,evalue:1.05223e-17,length:1581
+gi:755512527,ref_number:XP_011247773.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X18 [Mus musculus],best_score:231.0,evalue:1.05495e-17,length:1342
+gi:755512503,ref_number:XP_011247761.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X3 [Mus musculus],best_score:231.0,evalue:1.11894e-17,length:1593
+gi:755512491,ref_number:XP_011247755.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X1 [Mus musculus] >gi,best_score:231.0,evalue:1.20843e-17,length:1599
+gi:755512499,ref_number:XP_011247759.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X2 [Mus musculus] >gi,best_score:231.0,evalue:1.32403e-17,length:1594
+gi:1039771718,ref_number:XP_017176404.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X15 [Mus musculus],best_score:231.0,evalue:1.33841e-17,length:1464
+gi:1039771738,ref_number:XP_017176411.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X26 [Mus musculus],best_score:229.0,evalue:1.79279e-17,length:1226
+gi:755512519,ref_number:XP_011247769.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X11 [Mus musculus],best_score:229.0,evalue:1.79637e-17,length:1531
+gi:755512535,ref_number:XP_011247777.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X25 [Mus musculus],best_score:228.0,evalue:2.36245e-17,length:1287
+gi:755512533,ref_number:XP_011247776.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X23 [Mus musculus],best_score:228.0,evalue:2.73473e-17,length:1296
+gi:1104875644,ref_number:NP_001334296.1,annotation: adhesion G protein-coupled receptor L3 isoform 2 precursor [Mus musculus],best_score:226.0,evalue:4.25451e-17,length:1308
+gi:1039771728,ref_number:XP_017176407.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X21 [Mus musculus],best_score:226.0,evalue:4.73855e-17,length:1303
+gi:755512525,ref_number:XP_011247772.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X17 [Mus musculus],best_score:224.0,evalue:7.4228e-17,length:1364
+gi:755512529,ref_number:XP_011247774.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X19 [Mus musculus],best_score:224.0,evalue:7.70279e-17,length:1321
+gi:1039765551,ref_number:XP_017175317.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X29 [Mus musculus],best_score:224.0,evalue:7.81047e-17,length:1312
+gi:568924799,ref_number:XP_006502502.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X23 [Mus musculus],best_score:223.0,evalue:8.74491e-17,length:1407
+gi:568924801,ref_number:XP_006502503.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X24 [Mus musculus],best_score:223.0,evalue:9.58204e-17,length:1403
+gi:568924783,ref_number:XP_006502494.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X11 [Mus musculus],best_score:223.0,evalue:9.90163e-17,length:1463
+gi:568924785,ref_number:XP_006502495.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X12 [Mus musculus],best_score:223.0,evalue:1.00593e-16,length:1459
+gi:568924787,ref_number:XP_006502496.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X14 [Mus musculus],best_score:223.0,evalue:1.02116e-16,length:1452
+gi:568924795,ref_number:XP_006502500.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X21 [Mus musculus],best_score:223.0,evalue:1.05604e-16,length:1420
+gi:1039765529,ref_number:XP_017175311.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X13 [Mus musculus],best_score:223.0,evalue:1.07566e-16,length:1458
+gi:568957061,ref_number:XP_006531189.1,annotation: PREDICTED: adhesion G protein-coupled receptor L1 isoform X8 [Mus musculus] >gi,best_score:222.0,evalue:1.16335e-16,length:1295
+gi:568924845,ref_number:XP_006502525.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X50 [Mus musculus],best_score:222.0,evalue:1.20205e-16,length:1465
+gi:568957057,ref_number:XP_006531187.1,annotation: PREDICTED: adhesion G protein-coupled receptor L1 isoform X6 [Mus musculus] >gi,best_score:222.0,evalue:1.23087e-16,length:1396
+gi:755504858,ref_number:XP_011238628.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X15 [Mus musculus],best_score:222.0,evalue:1.24954e-16,length:1452
+gi:568924781,ref_number:XP_006502493.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X9 [Mus musculus],best_score:222.0,evalue:1.25492e-16,length:1469
+gi:585683507,ref_number:XP_006812422.1,annotation: PREDICTED: G protein coupled receptor 98-like protein isoform X1 [Saccoglossus kowalevskii],best_score:8223.0,evalue:0.0,length:6305
+gi:269785245,ref_number:NP_001161550.1,annotation: G protein coupled receptor 98-like protein precursor [Saccoglossus kowalevskii],best_score:700.0,evalue:7.5894e-81,length:406
+gi:585672583,ref_number:XP_006818265.1,annotation: PREDICTED: sodium/calcium exchanger 1-like [Saccoglossus kowalevskii],best_score:259.0,evalue:4.91489e-22,length:551
+gi:585683181,ref_number:XP_006812378.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X1 [Saccoglossus kowalevskii],best_score:227.0,evalue:7.86572e-18,length:961
+gi:585683185,ref_number:XP_006812379.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X2 [Saccoglossus kowalevskii],best_score:227.0,evalue:8.19995e-18,length:949
+gi:585670147,ref_number:XP_002735776.2,annotation: PREDICTED: G-protein coupled receptor 126-like, partial [Saccoglossus kowalevskii],best_score:216.0,evalue:1.20699e-16,length:855
+gi:585710355,ref_number:XP_006824531.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 [Saccoglossus kowalevskii],best_score:217.0,evalue:1.51505e-16,length:3095
+gi:585711198,ref_number:XP_006824699.1,annotation: PREDICTED: sodium/calcium exchanger 3-like [Saccoglossus kowalevskii],best_score:213.0,evalue:3.10277e-16,length:815
+gi:585652934,ref_number:XP_006815016.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Saccoglossus kowalevskii],best_score:210.0,evalue:5.20034e-16,length:718
+gi:585649284,ref_number:XP_006814360.1,annotation: PREDICTED: latrophilin-2-like [Saccoglossus kowalevskii],best_score:211.0,evalue:7.52241e-16,length:1397
+gi:585694100,ref_number:XP_006821757.1,annotation: PREDICTED: uncharacterized protein LOC102803980 [Saccoglossus kowalevskii],best_score:207.0,evalue:2.02837e-15,length:1682
+gi:585652930,ref_number:XP_006815015.1,annotation: PREDICTED: uncharacterized protein LOC100369958, partial [Saccoglossus kowalevskii],best_score:199.0,evalue:1.9283e-14,length:1873
+gi:585711194,ref_number:XP_006824698.1,annotation: PREDICTED: sodium/calcium exchanger 3-like [Saccoglossus kowalevskii],best_score:194.0,evalue:5.44501e-14,length:780
+gi:585670638,ref_number:XP_006817910.1,annotation: PREDICTED: uncharacterized protein LOC100373477 [Saccoglossus kowalevskii],best_score:192.0,evalue:1.0746e-13,length:1326
+gi:585680387,ref_number:XP_006819685.1,annotation: PREDICTED: LOW QUALITY PROTEIN: extracellular matrix protein FRAS1-like [Saccoglossus kowalevskii],best_score:192.0,evalue:1.2801e-13,length:3791
+gi:585688403,ref_number:XP_006820674.1,annotation: PREDICTED: latrophilin-3-like [Saccoglossus kowalevskii],best_score:184.0,evalue:7.71722e-13,length:927
+gi:585720350,ref_number:XP_006813072.1,annotation: PREDICTED: latrophilin-2-like [Saccoglossus kowalevskii],best_score:180.0,evalue:2.87796e-12,length:1091
+gi:585660898,ref_number:XP_006816469.1,annotation: PREDICTED: uncharacterized protein LOC100376213 [Saccoglossus kowalevskii],best_score:180.0,evalue:3.49585e-12,length:2621
+gi:585704762,ref_number:XP_006823512.1,annotation: PREDICTED: uncharacterized protein LOC102803475 [Saccoglossus kowalevskii],best_score:178.0,evalue:4.2834e-12,length:1496
+gi:585652621,ref_number:XP_006814953.1,annotation: PREDICTED: uncharacterized threonine-rich GPI-anchored glycoprotein PJ4664.02-like [Saccoglossus kowalevskii],best_score:175.0,evalue:1.10681e-11,length:1872
+gi:585665675,ref_number:XP_006816979.1,annotation: PREDICTED: LOW QUALITY PROTEIN: FRAS1-related extracellular matrix protein 2-like [Saccoglossus kowalevskii],best_score:155.0,evalue:2.38433e-09,length:3011
+gi:585647358,ref_number:XP_006814034.1,annotation: PREDICTED: sodium/calcium exchanger 3-like, partial [Saccoglossus kowalevskii],best_score:153.0,evalue:4.0309e-09,length:980
+gi:585648465,ref_number:XP_006814219.1,annotation: PREDICTED: latrophilin-3-like [Saccoglossus kowalevskii],best_score:151.0,evalue:6.45435e-09,length:811
+gi:291222588,ref_number:XP_002731299.1,annotation: PREDICTED: EGF, latrophilin seven transmembrane domain-containing protein 1-like [Saccoglossus kowalevskii],best_score:147.0,evalue:1.81089e-08,length:781
+gi:585670642,ref_number:XP_006817911.1,annotation: PREDICTED: uncharacterized protein LOC102804522 [Saccoglossus kowalevskii],best_score:142.0,evalue:6.67382e-08,length:741
+gi:585691308,ref_number:XP_006821230.1,annotation: PREDICTED: probable G-protein coupled receptor 133-like [Saccoglossus kowalevskii],best_score:137.0,evalue:8.65346e-08,length:299
+gi:585681210,ref_number:XP_006819829.1,annotation: PREDICTED: uncharacterized protein LOC102809949 [Saccoglossus kowalevskii],best_score:141.0,evalue:9.31732e-08,length:917
+gi:585718497,ref_number:XP_006825892.1,annotation: PREDICTED: latrophilin-3-like [Saccoglossus kowalevskii],best_score:135.0,evalue:4.71537e-07,length:944
+gi:585674709,ref_number:XP_006818657.1,annotation: PREDICTED: uncharacterized protein LOC102805617 [Saccoglossus kowalevskii],best_score:133.0,evalue:6.06295e-07,length:683
+gi:196015926,ref_number:XP_002117818.1,annotation: hypothetical protein TRIADDRAFT_61848 [Trichoplax adhaerens],best_score:199.0,evalue:5.96138e-15,length:936
+gi:196015942,ref_number:XP_002117826.1,annotation: hypothetical protein TRIADDRAFT_33124 [Trichoplax adhaerens],best_score:176.0,evalue:7.6049e-14,length:197
+gi:195999284,ref_number:XP_002109510.1,annotation: hypothetical protein TRIADDRAFT_53617 [Trichoplax adhaerens],best_score:186.0,evalue:2.09787e-13,length:805
+gi:196007632,ref_number:XP_002113682.1,annotation: hypothetical protein TRIADDRAFT_57359 [Trichoplax adhaerens],best_score:182.0,evalue:6.48843e-13,length:983
+gi:196016767,ref_number:XP_002118234.1,annotation: hypothetical protein TRIADDRAFT_62264 [Trichoplax adhaerens],best_score:180.0,evalue:1.20601e-12,length:1009
+gi:196004648,ref_number:XP_002112191.1,annotation: hypothetical protein TRIADDRAFT_24251 [Trichoplax adhaerens],best_score:164.0,evalue:3.41988e-12,length:195
+gi:196004654,ref_number:XP_002112194.1,annotation: hypothetical protein TRIADDRAFT_55989 [Trichoplax adhaerens],best_score:171.0,evalue:4.81483e-12,length:383
+gi:196003606,ref_number:XP_002111670.1,annotation: predicted protein [Trichoplax adhaerens],best_score:174.0,evalue:6.45028e-12,length:1506
+gi:196004650,ref_number:XP_002112192.1,annotation: hypothetical protein TRIADDRAFT_23992 [Trichoplax adhaerens],best_score:160.0,evalue:1.13998e-11,length:192
+gi:196006918,ref_number:XP_002113325.1,annotation: hypothetical protein TRIADDRAFT_57362 [Trichoplax adhaerens],best_score:169.0,evalue:1.92335e-11,length:683
+gi:196015922,ref_number:XP_002117816.1,annotation: hypothetical protein TRIADDRAFT_61846 [Trichoplax adhaerens],best_score:165.0,evalue:5.57716e-11,length:858
+gi:196010868,ref_number:XP_002115298.1,annotation: hypothetical protein TRIADDRAFT_59341 [Trichoplax adhaerens],best_score:164.0,evalue:8.63593e-11,length:917
+gi:196004660,ref_number:XP_002112197.1,annotation: hypothetical protein TRIADDRAFT_24542 [Trichoplax adhaerens],best_score:152.0,evalue:1.28647e-10,length:206
+gi:196015934,ref_number:XP_002117822.1,annotation: hypothetical protein TRIADDRAFT_61852 [Trichoplax adhaerens],best_score:162.0,evalue:1.45863e-10,length:825
+gi:196015974,ref_number:XP_002117842.1,annotation: hypothetical protein TRIADDRAFT_33101 [Trichoplax adhaerens],best_score:148.0,evalue:2.61761e-10,length:179
+gi:196014843,ref_number:XP_002117280.1,annotation: hypothetical protein TRIADDRAFT_32198 [Trichoplax adhaerens],best_score:160.0,evalue:2.90317e-10,length:927
+gi:196010882,ref_number:XP_002115305.1,annotation: hypothetical protein TRIADDRAFT_59350 [Trichoplax adhaerens],best_score:153.0,evalue:1.95809e-09,length:1195
+gi:196012182,ref_number:XP_002115954.1,annotation: predicted protein [Trichoplax adhaerens],best_score:150.0,evalue:3.33321e-09,length:808
+gi:196016385,ref_number:XP_002118045.1,annotation: hypothetical protein TRIADDRAFT_33541 [Trichoplax adhaerens],best_score:139.0,evalue:7.44468e-09,length:198
+gi:196002057,ref_number:XP_002110896.1,annotation: predicted protein [Trichoplax adhaerens],best_score:146.0,evalue:1.31677e-08,length:1514
+gi:196020638,ref_number:XP_002119104.1,annotation: hypothetical protein TRIADDRAFT_63067 [Trichoplax adhaerens],best_score:130.0,evalue:3.0177e-08,length:133
+gi:196011124,ref_number:XP_002115426.1,annotation: hypothetical protein TRIADDRAFT_59345 [Trichoplax adhaerens],best_score:142.0,evalue:3.21313e-08,length:1041
+gi:196015976,ref_number:XP_002117843.1,annotation: hypothetical protein TRIADDRAFT_17345 [Trichoplax adhaerens],best_score:128.0,evalue:7.05706e-08,length:149
+gi:196012377,ref_number:XP_002116051.1,annotation: hypothetical protein TRIADDRAFT_60092 [Trichoplax adhaerens],best_score:137.0,evalue:9.09649e-08,length:445
+gi:196004664,ref_number:XP_002112199.1,annotation: predicted protein [Trichoplax adhaerens],best_score:135.0,evalue:2.19503e-07,length:827
+gi:196012742,ref_number:XP_002116233.1,annotation: hypothetical protein TRIADDRAFT_60120 [Trichoplax adhaerens],best_score:128.0,evalue:1.58301e-06,length:1222
+gi:196002407,ref_number:XP_002111071.1,annotation: hypothetical protein TRIADDRAFT_54629 [Trichoplax adhaerens],best_score:125.0,evalue:3.38975e-06,length:1362
+gi:196012746,ref_number:XP_002116235.1,annotation: hypothetical protein TRIADDRAFT_30558 [Trichoplax adhaerens],best_score:115.0,evalue:6.83443e-06,length:184
+gi:196012214,ref_number:XP_002115970.1,annotation: hypothetical protein TRIADDRAFT_59938 [Trichoplax adhaerens],best_score:122.0,evalue:8.58457e-06,length:1172
+gi:754346661,ref_number:XP_004363312.2,annotation: G protein-coupled receptor [Capsaspora owczarzaki ATCC 30864],best_score:471.0,evalue:2.21599e-46,length:4679
+gi:470296422,ref_number:XP_004345331.1,annotation: tyrosine-protein kinase transforming protein Fes [Capsaspora owczarzaki ATCC 30864],best_score:390.0,evalue:4.71742e-37,length:1686
+gi:754350088,ref_number:XP_004345687.2,annotation: hypothetical protein CAOG_06097 [Capsaspora owczarzaki ATCC 30864],best_score:385.0,evalue:1.4634e-36,length:1317
+gi:754341752,ref_number:XP_004364878.2,annotation: hypothetical protein CAOG_00007 [Capsaspora owczarzaki ATCC 30864],best_score:383.0,evalue:2.56411e-36,length:1563
+gi:470291400,ref_number:XP_004343386.1,annotation: Egfl6-prov protein [Capsaspora owczarzaki ATCC 30864],best_score:377.0,evalue:1.19603e-35,length:1544
+gi:754351126,ref_number:XP_004344372.2,annotation: megakaryocyte-associated tyrosine-protein kinase [Capsaspora owczarzaki ATCC 30864],best_score:365.0,evalue:3.25449e-34,length:1706
+gi:754342215,ref_number:XP_004365475.2,annotation: tyrosine-protein kinase SRK3 [Capsaspora owczarzaki ATCC 30864],best_score:350.0,evalue:2.22879e-32,length:1826
+gi:470288884,ref_number:XP_004342704.1,annotation: tyrosine-protein kinase transforming protein SEA [Capsaspora owczarzaki ATCC 30864],best_score:328.0,evalue:7.41149e-30,length:1766
+gi:754350505,ref_number:XP_004344983.2,annotation: tyrosine-protein kinase transforming protein SEA [Capsaspora owczarzaki ATCC 30864],best_score:327.0,evalue:1.1178e-29,length:1824
+gi:470327272,ref_number:XP_004364886.1,annotation: hypothetical protein CAOG_00015 [Capsaspora owczarzaki ATCC 30864],best_score:322.0,evalue:4.33998e-29,length:1637
+gi:754349463,ref_number:XP_004346205.2,annotation: tyrosine-protein kinase ITK/TSK [Capsaspora owczarzaki ATCC 30864],best_score:321.0,evalue:4.84541e-29,length:1877
+gi:470288836,ref_number:XP_004342690.1,annotation: ephrin type-A receptor 4a [Capsaspora owczarzaki ATCC 30864],best_score:304.0,evalue:5.39293e-27,length:1739
+gi:470363179,ref_number:XP_004365538.1,annotation: hypothetical protein CAOG_00667 [Capsaspora owczarzaki ATCC 30864],best_score:302.0,evalue:9.1459e-27,length:1566
+gi:470361846,ref_number:XP_004365207.1,annotation: hypothetical protein CAOG_00336 [Capsaspora owczarzaki ATCC 30864],best_score:297.0,evalue:3.31923e-26,length:1654
+gi:754341750,ref_number:XP_004364877.2,annotation: hypothetical protein CAOG_00006 [Capsaspora owczarzaki ATCC 30864],best_score:275.0,evalue:1.04196e-23,length:1590
+gi:754351505,ref_number:XP_004343688.2,annotation: tyrosine-protein kinase transforming protein SEA [Capsaspora owczarzaki ATCC 30864],best_score:270.0,evalue:4.39037e-23,length:1727
+gi:470362088,ref_number:XP_004365257.1,annotation: hypothetical protein CAOG_00386 [Capsaspora owczarzaki ATCC 30864],best_score:266.0,evalue:1.22117e-22,length:1150
+gi:470310168,ref_number:XP_004364252.1,annotation: hypothetical protein CAOG_03413 [Capsaspora owczarzaki ATCC 30864],best_score:248.0,evalue:8.28676e-21,length:746
+gi:470310299,ref_number:XP_004364290.1,annotation: hypothetical protein CAOG_03451 [Capsaspora owczarzaki ATCC 30864],best_score:246.0,evalue:1.34436e-20,length:697
+gi:754353552,ref_number:XP_011270960.1,annotation: hypothetical protein CAOG_09242, partial [Capsaspora owczarzaki ATCC 30864],best_score:222.0,evalue:1.06989e-17,length:742
+gi:470363691,ref_number:XP_004365683.1,annotation: hypothetical protein CAOG_00812 [Capsaspora owczarzaki ATCC 30864],best_score:217.0,evalue:7.15992e-17,length:1961
+gi:470300825,ref_number:XP_004347018.1,annotation: hypothetical protein CAOG_05333 [Capsaspora owczarzaki ATCC 30864],best_score:185.0,evalue:3.94356e-13,length:1783
+gi:470327219,ref_number:XP_004364872.1,annotation: hypothetical protein CAOG_00001 [Capsaspora owczarzaki ATCC 30864],best_score:166.0,evalue:5.68738e-11,length:1015
+gi:754350449,ref_number:XP_011270612.1,annotation: hypothetical protein CAOG_08941 [Capsaspora owczarzaki ATCC 30864],best_score:141.0,evalue:4.79446e-08,length:1139
+gi:676424177,ref_number:XP_009044204.1,annotation: hypothetical protein LOTGIDRAFT_102713, partial [Lottia gigantea],best_score:3911.0,evalue:0.0,length:2723
+gi:676490608,ref_number:XP_009065325.1,annotation: hypothetical protein LOTGIDRAFT_92127, partial [Lottia gigantea],best_score:226.0,evalue:6.05826e-18,length:803
+gi:676447127,ref_number:XP_009051306.1,annotation: hypothetical protein LOTGIDRAFT_174476 [Lottia gigantea],best_score:214.0,evalue:2.77642e-16,length:1445
+gi:676486197,ref_number:XP_009063898.1,annotation: hypothetical protein LOTGIDRAFT_107505 [Lottia gigantea],best_score:201.0,evalue:7.45636e-15,length:915
+gi:676480888,ref_number:XP_009062205.1,annotation: hypothetical protein LOTGIDRAFT_154761 [Lottia gigantea],best_score:199.0,evalue:1.20714e-14,length:954
+gi:676442106,ref_number:XP_009049702.1,annotation: hypothetical protein LOTGIDRAFT_173674 [Lottia gigantea],best_score:195.0,evalue:4.37427e-14,length:3722
+gi:676428812,ref_number:XP_009045396.1,annotation: hypothetical protein LOTGIDRAFT_91958, partial [Lottia gigantea],best_score:172.0,evalue:1.36791e-11,length:783
+gi:676469309,ref_number:XP_009058490.1,annotation: hypothetical protein LOTGIDRAFT_122649, partial [Lottia gigantea],best_score:163.0,evalue:2.24614e-11,length:269
+gi:676438549,ref_number:XP_009048566.1,annotation: hypothetical protein LOTGIDRAFT_140648 [Lottia gigantea],best_score:169.0,evalue:2.48929e-11,length:564
+gi:676489352,ref_number:XP_009064907.1,annotation: hypothetical protein LOTGIDRAFT_75274, partial [Lottia gigantea],best_score:161.0,evalue:4.95346e-11,length:275
+gi:676438107,ref_number:XP_009048421.1,annotation: hypothetical protein LOTGIDRAFT_140348, partial [Lottia gigantea],best_score:158.0,evalue:5.37942e-11,length:216
+gi:676431265,ref_number:XP_009046194.1,annotation: hypothetical protein LOTGIDRAFT_171751 [Lottia gigantea],best_score:162.0,evalue:2.5136e-10,length:1001
+gi:676464063,ref_number:XP_009056801.1,annotation: hypothetical protein LOTGIDRAFT_162582 [Lottia gigantea],best_score:147.0,evalue:1.45498e-08,length:958
+gi:676447244,ref_number:XP_009051344.1,annotation: hypothetical protein LOTGIDRAFT_75883, partial [Lottia gigantea],best_score:136.0,evalue:2.229e-08,length:193
+gi:676489349,ref_number:XP_009064906.1,annotation: hypothetical protein LOTGIDRAFT_74363, partial [Lottia gigantea],best_score:138.0,evalue:5.25133e-08,length:299
+gi:676431382,ref_number:XP_009046233.1,annotation: hypothetical protein LOTGIDRAFT_74150, partial [Lottia gigantea],best_score:133.0,evalue:1.39757e-07,length:250
+gi:676471977,ref_number:XP_009059346.1,annotation: hypothetical protein LOTGIDRAFT_218330 [Lottia gigantea],best_score:132.0,evalue:5.2262e-07,length:420
+gi:676489789,ref_number:XP_009065054.1,annotation: hypothetical protein LOTGIDRAFT_108512 [Lottia gigantea],best_score:131.0,evalue:6.7052e-07,length:380
+gi:676428815,ref_number:XP_009045397.1,annotation: hypothetical protein LOTGIDRAFT_71451, partial [Lottia gigantea],best_score:131.0,evalue:1.12802e-06,length:818
+gi:831768006,ref_number:XP_012752273.1,annotation: hypothetical protein SAMD00019534_077790 [Acytostelium subglobosum LB1],best_score:132.0,evalue:2.09778e-07,length:313
+gi:957826375,ref_number:XP_014662999.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X3 [Priapulus caudatus],best_score:4195.0,evalue:0.0,length:4105
+gi:957826371,ref_number:XP_014662997.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X1 [Priapulus caudatus],best_score:4174.0,evalue:0.0,length:4114
+gi:957826373,ref_number:XP_014662998.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X2 [Priapulus caudatus],best_score:4158.0,evalue:0.0,length:4111
+gi:957826377,ref_number:XP_014663000.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X4 [Priapulus caudatus],best_score:3309.0,evalue:0.0,length:3569
+gi:957826379,ref_number:XP_014663001.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X5 [Priapulus caudatus],best_score:3150.0,evalue:0.0,length:3394
+gi:957826381,ref_number:XP_014663002.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Priapulus caudatus] >gi,best_score:2744.0,evalue:0.0,length:1894
+gi:957819815,ref_number:XP_014676620.1,annotation: PREDICTED: LOW QUALITY PROTEIN: sodium/calcium exchanger 1-like [Priapulus caudatus],best_score:204.0,evalue:2.60794e-15,length:926
+gi:957857153,ref_number:XP_014677858.1,annotation: PREDICTED: adhesion G-protein coupled receptor D1-like [Priapulus caudatus],best_score:177.0,evalue:2.37699e-12,length:472
+gi:957849258,ref_number:XP_014675157.1,annotation: PREDICTED: uncharacterized protein LOC106815238 [Priapulus caudatus],best_score:173.0,evalue:1.48208e-11,length:1154
+gi:957845255,ref_number:XP_014673050.1,annotation: PREDICTED: sodium/calcium exchanger 3-like [Priapulus caudatus],best_score:168.0,evalue:2.84698e-11,length:506
+gi:957856770,ref_number:XP_014677727.1,annotation: PREDICTED: latrophilin-3-like [Priapulus caudatus],best_score:155.0,evalue:1.80214e-09,length:1189
+gi:957852187,ref_number:XP_014676217.1,annotation: PREDICTED: uncharacterized protein LOC106816174 [Priapulus caudatus] >gi,best_score:132.0,evalue:9.70611e-07,length:2082
+gi:957844242,ref_number:XP_014672515.1,annotation: PREDICTED: FRAS1-related extracellular matrix protein 2-like [Priapulus caudatus],best_score:127.0,evalue:3.08171e-06,length:1052
+gi:961131208,ref_number:XP_014786045.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like isoform X3 [Octopus bimaculoides],best_score:225.0,evalue:1.7838e-17,length:1333
+gi:961079532,ref_number:XP_014768001.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like [Octopus bimaculoides],best_score:221.0,evalue:4.87256e-17,length:1141
+gi:961071242,ref_number:XP_014778286.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:218.0,evalue:6.62172e-17,length:740
+gi:961133548,ref_number:XP_014786861.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X1 [Octopus bimaculoides],best_score:213.0,evalue:3.37862e-16,length:855
+gi:961133554,ref_number:XP_014786863.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X3 [Octopus bimaculoides],best_score:213.0,evalue:3.59227e-16,length:848
+gi:961133551,ref_number:XP_014786862.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X2 [Octopus bimaculoides],best_score:213.0,evalue:3.59901e-16,length:850
+gi:961133566,ref_number:XP_014786866.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X6 [Octopus bimaculoides],best_score:213.0,evalue:3.61549e-16,length:837
+gi:961090302,ref_number:XP_014771756.1,annotation: PREDICTED: adhesion G-protein coupled receptor G2-like [Octopus bimaculoides],best_score:201.0,evalue:3.63952e-16,length:263
+gi:961133572,ref_number:XP_014786869.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X8 [Octopus bimaculoides],best_score:212.0,evalue:3.85042e-16,length:832
+gi:961133563,ref_number:XP_014786865.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X5 [Octopus bimaculoides],best_score:212.0,evalue:4.06029e-16,length:843
+gi:961133569,ref_number:XP_014786867.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X7 [Octopus bimaculoides],best_score:212.0,evalue:4.06343e-16,length:835
+gi:961133560,ref_number:XP_014786864.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X4 [Octopus bimaculoides],best_score:212.0,evalue:4.13366e-16,length:844
+gi:961133575,ref_number:XP_014786870.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X9 [Octopus bimaculoides],best_score:212.0,evalue:4.15796e-16,length:824
+gi:961105503,ref_number:XP_014776988.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:208.0,evalue:1.28993e-15,length:1027
+gi:961105086,ref_number:XP_014776848.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:203.0,evalue:1.86294e-15,length:432
+gi:961131202,ref_number:XP_014786043.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like isoform X1 [Octopus bimaculoides],best_score:200.0,evalue:1.53235e-14,length:1358
+gi:961131205,ref_number:XP_014786044.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like isoform X2 [Octopus bimaculoides],best_score:199.0,evalue:1.66339e-14,length:1350
+gi:961094505,ref_number:XP_014773211.1,annotation: PREDICTED: adhesion G protein-coupled receptor A3-like [Octopus bimaculoides],best_score:195.0,evalue:5.00698e-14,length:1204
+gi:961118176,ref_number:XP_014781527.1,annotation: PREDICTED: uncharacterized protein LOC106877197 [Octopus bimaculoides],best_score:185.0,evalue:6.45704e-13,length:714
+gi:961084210,ref_number:XP_014769618.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like [Octopus bimaculoides],best_score:180.0,evalue:2.30135e-12,length:856
+gi:961068463,ref_number:XP_014768814.1,annotation: PREDICTED: latrophilin-3-like [Octopus bimaculoides],best_score:180.0,evalue:2.4275e-12,length:772
+gi:961105089,ref_number:XP_014776850.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:176.0,evalue:4.56058e-12,length:513
+gi:961121155,ref_number:XP_014782543.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:174.0,evalue:1.16225e-11,length:698
+gi:961118170,ref_number:XP_014781525.1,annotation: PREDICTED: G-protein coupled receptor Mth2-like [Octopus bimaculoides] >gi,best_score:167.0,evalue:7.48239e-11,length:667
+gi:961099868,ref_number:XP_014775022.1,annotation: PREDICTED: uncharacterized protein LOC106872516 [Octopus bimaculoides],best_score:167.0,evalue:8.7755e-11,length:999
+gi:961139714,ref_number:XP_014789001.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:166.0,evalue:1.09749e-10,length:826
+gi:961100495,ref_number:XP_014775245.1,annotation: PREDICTED: adhesion G-protein coupled receptor G2-like [Octopus bimaculoides],best_score:159.0,evalue:1.55693e-10,length:301
+gi:961137571,ref_number:XP_014788249.1,annotation: PREDICTED: sodium/calcium exchanger 3-like [Octopus bimaculoides],best_score:158.0,evalue:7.01522e-10,length:580
+gi:961090834,ref_number:XP_014771946.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like isoform X2 [Octopus bimaculoides],best_score:158.0,evalue:1.13973e-09,length:1045
+gi:961107122,ref_number:XP_014777556.1,annotation: PREDICTED: extracellular matrix protein 3-like [Octopus bimaculoides],best_score:158.0,evalue:1.20179e-09,length:3181
+gi:961090828,ref_number:XP_014771943.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like isoform X1 [Octopus bimaculoides] >gi,best_score:157.0,evalue:1.2441e-09,length:1055
+gi:961091125,ref_number:XP_014772051.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like [Octopus bimaculoides],best_score:157.0,evalue:1.31223e-09,length:1335
+gi:961075365,ref_number:XP_014790557.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X1 [Octopus bimaculoides],best_score:153.0,evalue:2.86141e-09,length:623
+gi:961099871,ref_number:XP_014775024.1,annotation: PREDICTED: uncharacterized protein LOC106872517 [Octopus bimaculoides],best_score:152.0,evalue:3.83439e-09,length:649
+gi:961099877,ref_number:XP_014775026.1,annotation: PREDICTED: G-protein coupled receptor Mth-like [Octopus bimaculoides],best_score:152.0,evalue:3.98759e-09,length:654
+gi:961119182,ref_number:XP_014781876.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Octopus bimaculoides],best_score:143.0,evalue:7.89114e-08,length:3092
+gi:961138947,ref_number:XP_014788728.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Octopus bimaculoides],best_score:142.0,evalue:8.00637e-08,length:1283
+gi:961082193,ref_number:XP_014768920.1,annotation: PREDICTED: probable G-protein coupled receptor Mth-like 3 [Octopus bimaculoides],best_score:140.0,evalue:1.02014e-07,length:639
+gi:961118155,ref_number:XP_014781519.1,annotation: PREDICTED: G-protein coupled receptor Mth2-like [Octopus bimaculoides],best_score:139.0,evalue:1.05272e-07,length:473
+gi:961119188,ref_number:XP_014781878.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like isoform X3 [Octopus bimaculoides],best_score:142.0,evalue:1.05591e-07,length:3026
+gi:961119185,ref_number:XP_014781877.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Octopus bimaculoides],best_score:141.0,evalue:1.1122e-07,length:3086
+gi:961119191,ref_number:XP_014781879.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X4 [Octopus bimaculoides],best_score:141.0,evalue:1.11963e-07,length:3025
+gi:961119194,ref_number:XP_014781880.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X5 [Octopus bimaculoides],best_score:141.0,evalue:1.27996e-07,length:3019
+gi:961084250,ref_number:XP_014769632.1,annotation: PREDICTED: uncharacterized protein LOC106868747 [Octopus bimaculoides],best_score:135.0,evalue:3.94791e-07,length:651
+gi:961142221,ref_number:XP_014789869.1,annotation: PREDICTED: adhesion G-protein coupled receptor G2-like, partial [Octopus bimaculoides],best_score:125.0,evalue:7.33139e-07,length:170
+gi:961110671,ref_number:XP_014778786.1,annotation: PREDICTED: corticotropin-releasing factor receptor 2-like isoform X3 [Octopus bimaculoides],best_score:132.0,evalue:7.62508e-07,length:453
+gi:961110674,ref_number:XP_014778787.1,annotation: PREDICTED: corticotropin-releasing factor receptor 1-like isoform X4 [Octopus bimaculoides],best_score:129.0,evalue:1.451e-06,length:362
+gi:961110667,ref_number:XP_014778785.1,annotation: PREDICTED: corticotropin-releasing factor receptor 2-like isoform X2 [Octopus bimaculoides],best_score:130.0,evalue:1.49754e-06,length:459
+gi:961110664,ref_number:XP_014778784.1,annotation: PREDICTED: corticotropin-releasing factor receptor 2-like isoform X1 [Octopus bimaculoides],best_score:130.0,evalue:1.50345e-06,length:461
+gi:961141787,ref_number:XP_014789720.1,annotation: PREDICTED: probable G-protein coupled receptor Mth-like 3 [Octopus bimaculoides],best_score:126.0,evalue:3.75492e-06,length:415
+gi:1133454764,ref_number:XP_019849292.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score:2998.0,evalue:0.0,length:5021
+gi:1133454894,ref_number:XP_019849333.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score:370.0,evalue:5.83807e-35,length:829
+gi:1133492165,ref_number:XP_019862878.1,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Amphimedon queenslandica],best_score:310.0,evalue:1.23624e-29,length:364
+gi:1133452455,ref_number:XP_019864355.1,annotation: PREDICTED: extracellular matrix protein FRAS1-like [Amphimedon queenslandica],best_score:186.0,evalue:6.26132e-13,length:2566
+gi:1133456090,ref_number:XP_011402630.2,annotation: PREDICTED: adhesion G protein-coupled receptor L3-like [Amphimedon queenslandica],best_score:179.0,evalue:3.31829e-12,length:877
+gi:1133479308,ref_number:XP_019858642.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score:177.0,evalue:3.54191e-12,length:519
+gi:761919926,ref_number:XP_011408871.1,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Amphimedon queenslandica],best_score:172.0,evalue:7.06709e-12,length:375
+gi:1133447830,ref_number:XP_011410083.2,annotation: PREDICTED: adhesion G protein-coupled receptor E3-like isoform X2 [Amphimedon queenslandica],best_score:174.0,evalue:1.04826e-11,length:724
+gi:1133447828,ref_number:XP_019864485.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like isoform X1 [Amphimedon queenslandica],best_score:174.0,evalue:1.4818e-11,length:1031
+gi:1133457711,ref_number:XP_019850345.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3-like [Amphimedon queenslandica],best_score:171.0,evalue:2.26617e-11,length:780
+gi:1133453621,ref_number:XP_019848861.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like [Amphimedon queenslandica],best_score:172.0,evalue:2.29505e-11,length:1177
+gi:1133447834,ref_number:XP_019864498.1,annotation: PREDICTED: adhesion G-protein coupled receptor F1-like [Amphimedon queenslandica],best_score:172.0,evalue:2.30018e-11,length:974
+gi:1133456342,ref_number:XP_019849851.1,annotation: PREDICTED: latrophilin-like protein LAT-2 [Amphimedon queenslandica],best_score:168.0,evalue:6.80018e-11,length:1353
+gi:1133474727,ref_number:XP_019856849.1,annotation: PREDICTED: uncharacterized protein LOC100636215 [Amphimedon queenslandica],best_score:167.0,evalue:1.16303e-10,length:2476
+gi:1133472860,ref_number:XP_011406052.2,annotation: PREDICTED: extracellular matrix protein 3-like [Amphimedon queenslandica],best_score:163.0,evalue:1.89557e-10,length:566
+gi:1133453619,ref_number:XP_011410208.2,annotation: PREDICTED: uncharacterized protein LOC100641033 [Amphimedon queenslandica],best_score:164.0,evalue:2.60212e-10,length:2205
+gi:1133447832,ref_number:XP_011410094.2,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like [Amphimedon queenslandica],best_score:162.0,evalue:3.63827e-10,length:977
+gi:1133468821,ref_number:XP_003388131.2,annotation: PREDICTED: uncharacterized protein LOC100635907 isoform X3 [Amphimedon queenslandica],best_score:150.0,evalue:8.72133e-09,length:1275
+gi:1133461696,ref_number:XP_011403870.2,annotation: PREDICTED: usherin-like [Amphimedon queenslandica],best_score:148.0,evalue:1.8912e-08,length:4885
+gi:1133468817,ref_number:XP_019854597.1,annotation: PREDICTED: uncharacterized protein LOC100635907 isoform X1 [Amphimedon queenslandica],best_score:144.0,evalue:4.89432e-08,length:1278
+gi:1133473418,ref_number:XP_019856351.1,annotation: PREDICTED: adhesion G-protein coupled receptor G6-like [Amphimedon queenslandica],best_score:142.0,evalue:8.75344e-08,length:1159
+gi:1133450339,ref_number:XP_019858323.1,annotation: PREDICTED: adhesion G-protein coupled receptor G4-like isoform X2 [Amphimedon queenslandica],best_score:141.0,evalue:1.10104e-07,length:1208
+gi:1133454454,ref_number:XP_019849170.1,annotation: PREDICTED: uncharacterized protein LOC100641243 [Amphimedon queenslandica],best_score:141.0,evalue:1.2787e-07,length:2832
+gi:1133470850,ref_number:XP_019855359.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like isoform X1 [Amphimedon queenslandica],best_score:140.0,evalue:1.33078e-07,length:806
+gi:1133468819,ref_number:XP_019854598.1,annotation: PREDICTED: uncharacterized protein LOC100635907 isoform X2 [Amphimedon queenslandica],best_score:140.0,evalue:1.42398e-07,length:1277
+gi:1133470852,ref_number:XP_019855360.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like isoform X2 [Amphimedon queenslandica],best_score:139.0,evalue:1.45597e-07,length:800
+gi:1133454361,ref_number:XP_019849130.1,annotation: PREDICTED: uncharacterized protein LOC105316852 [Amphimedon queenslandica],best_score:130.0,evalue:2.04152e-06,length:2147
+gi:1133454448,ref_number:XP_019849167.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X1 [Amphimedon queenslandica],best_score:129.0,evalue:2.86949e-06,length:1625
+gi:340383872,ref_number:XP_003390440.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X2 [Amphimedon queenslandica],best_score:128.0,evalue:3.04313e-06,length:698
+gi:1133481070,ref_number:XP_019859303.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X1 [Amphimedon queenslandica],best_score:128.0,evalue:3.04507e-06,length:699
+gi:1133481073,ref_number:XP_019859304.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X3 [Amphimedon queenslandica],best_score:128.0,evalue:3.09516e-06,length:698
+gi:1133454450,ref_number:XP_019849169.1,annotation: PREDICTED: extracellular matrix protein 3-like isoform X2 [Amphimedon queenslandica],best_score:128.0,evalue:3.75711e-06,length:1404
+gi:66808371,ref_number:XP_637908.1,annotation: G-protein-coupled receptor  family protein [Dictyostelium discoideum AX4],best_score:171.0,evalue:3.25106e-12,length:306
+gi:156387677,ref_number:XP_001634329.1,annotation: predicted protein [Nematostella vectensis],best_score:2981.0,evalue:0.0,length:5418
+gi:156396962,ref_number:XP_001637661.1,annotation: predicted protein [Nematostella vectensis],best_score:446.0,evalue:3.56012e-48,length:317
+gi:156371384,ref_number:XP_001628744.1,annotation: predicted protein [Nematostella vectensis],best_score:280.0,evalue:5.61419e-24,length:2271
+gi:156358120,ref_number:XP_001624373.1,annotation: predicted protein [Nematostella vectensis],best_score:263.0,evalue:6.14191e-22,length:4953
+gi:156393633,ref_number:XP_001636432.1,annotation: predicted protein [Nematostella vectensis],best_score:209.0,evalue:3.75348e-17,length:296
+gi:156359801,ref_number:XP_001624953.1,annotation: predicted protein [Nematostella vectensis],best_score:203.0,evalue:3.24513e-16,length:306
+gi:156378659,ref_number:XP_001631259.1,annotation: predicted protein [Nematostella vectensis],best_score:200.0,evalue:7.00148e-16,length:298
+gi:156404460,ref_number:XP_001640425.1,annotation: predicted protein [Nematostella vectensis],best_score:205.0,evalue:2.7335e-15,length:2536
+gi:156368177,ref_number:XP_001627572.1,annotation: predicted protein [Nematostella vectensis],best_score:202.0,evalue:4.17247e-15,length:737
+gi:156358118,ref_number:XP_001624372.1,annotation: predicted protein [Nematostella vectensis],best_score:194.0,evalue:3.31558e-14,length:742
+gi:156400884,ref_number:XP_001639022.1,annotation: predicted protein [Nematostella vectensis],best_score:184.0,evalue:7.05271e-13,length:1945
+gi:156400136,ref_number:XP_001638856.1,annotation: predicted protein [Nematostella vectensis],best_score:174.0,evalue:9.73192e-12,length:923
+gi:156358122,ref_number:XP_001624374.1,annotation: predicted protein [Nematostella vectensis],best_score:172.0,evalue:1.30694e-11,length:611
+gi:156389167,ref_number:XP_001634863.1,annotation: predicted protein [Nematostella vectensis],best_score:173.0,evalue:1.37232e-11,length:969
+gi:156408874,ref_number:XP_001642081.1,annotation: predicted protein [Nematostella vectensis],best_score:165.0,evalue:1.96802e-11,length:302
+gi:156395752,ref_number:XP_001637274.1,annotation: predicted protein [Nematostella vectensis],best_score:171.0,evalue:2.26985e-11,length:1000
+gi:156396689,ref_number:XP_001637525.1,annotation: predicted protein [Nematostella vectensis],best_score:153.0,evalue:1.27668e-10,length:191
+gi:156404209,ref_number:XP_001640300.1,annotation: predicted protein [Nematostella vectensis],best_score:161.0,evalue:4.08533e-10,length:2493
+gi:156406859,ref_number:XP_001641262.1,annotation: predicted protein [Nematostella vectensis],best_score:148.0,evalue:5.09674e-10,length:178
+gi:156344659,ref_number:XP_001621267.1,annotation: hypothetical protein NEMVEDRAFT_v1g145494 [Nematostella vectensis],best_score:144.0,evalue:1.83731e-09,length:186
+gi:156358522,ref_number:XP_001624567.1,annotation: predicted protein [Nematostella vectensis],best_score:144.0,evalue:2.38899e-09,length:197
+gi:156339278,ref_number:XP_001620129.1,annotation: hypothetical protein NEMVEDRAFT_v1g223440 [Nematostella vectensis],best_score:152.0,evalue:3.11195e-09,length:607
+gi:156408381,ref_number:XP_001641835.1,annotation: predicted protein [Nematostella vectensis],best_score:141.0,evalue:4.69933e-09,length:189
+gi:156400070,ref_number:XP_001638823.1,annotation: predicted protein [Nematostella vectensis],best_score:148.0,evalue:1.27648e-08,length:3129
+gi:156378611,ref_number:XP_001631235.1,annotation: predicted protein [Nematostella vectensis],best_score:138.0,evalue:3.26761e-08,length:250
+gi:156359592,ref_number:XP_001624851.1,annotation: predicted protein [Nematostella vectensis],best_score:136.0,evalue:4.05567e-08,length:219
+gi:156393631,ref_number:XP_001636431.1,annotation: predicted protein [Nematostella vectensis],best_score:135.0,evalue:4.50313e-08,length:223
+gi:156399927,ref_number:XP_001638752.1,annotation: predicted protein [Nematostella vectensis],best_score:140.0,evalue:6.38468e-08,length:568
+gi:156330196,ref_number:XP_001619065.1,annotation: hypothetical protein NEMVEDRAFT_v1g224548 [Nematostella vectensis],best_score:139.0,evalue:8.493e-08,length:467
+gi:156354317,ref_number:XP_001623344.1,annotation: predicted protein [Nematostella vectensis],best_score:139.0,evalue:1.12113e-07,length:851
+gi:156382353,ref_number:XP_001632518.1,annotation: predicted protein [Nematostella vectensis],best_score:138.0,evalue:1.75393e-07,length:1269
+gi:156394312,ref_number:XP_001636770.1,annotation: predicted protein [Nematostella vectensis],best_score:131.0,evalue:2.70158e-07,length:256
+gi:156357563,ref_number:XP_001624286.1,annotation: predicted protein [Nematostella vectensis],best_score:134.0,evalue:4.69403e-07,length:952
+gi:156386774,ref_number:XP_001634086.1,annotation: predicted protein [Nematostella vectensis],best_score:129.0,evalue:4.84143e-07,length:271
+gi:156364774,ref_number:XP_001626520.1,annotation: predicted protein [Nematostella vectensis],best_score:130.0,evalue:1.30523e-06,length:738
+gi:156353446,ref_number:XP_001623076.1,annotation: predicted protein [Nematostella vectensis],best_score:129.0,evalue:2.03454e-06,length:1735
+gi:156373153,ref_number:XP_001629398.1,annotation: predicted protein [Nematostella vectensis],best_score:127.0,evalue:2.97754e-06,length:729
+gi:156365013,ref_number:XP_001626637.1,annotation: predicted protein [Nematostella vectensis],best_score:123.0,evalue:3.8112e-06,length:292
+gi:156354280,ref_number:XP_001623326.1,annotation: predicted protein [Nematostella vectensis],best_score:118.0,evalue:8.56907e-06,length:218
+gi:156373157,ref_number:XP_001629400.1,annotation: predicted protein [Nematostella vectensis],best_score:123.0,evalue:8.72236e-06,length:744
+gi:923139183,ref_number:XP_013763056.1,annotation: Na-Ca exchanger/integrin-beta4 [Thecamonas trahens ATCC 50062],best_score:407.0,evalue:2.50728e-40,length:1330
+gi:828198893,ref_number:XP_012554418.1,annotation: PREDICTED: LOW QUALITY PROTEIN: G-protein coupled receptor 98-like, partial [Hydra vulgaris],best_score:1166.0,evalue:1.89978e-128,length:3719
+gi:828204115,ref_number:XP_012556160.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Hydra vulgaris],best_score:1080.0,evalue:5.57964e-124,length:1163
+gi:828235422,ref_number:XP_012566397.1,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Hydra vulgaris],best_score:205.0,evalue:3.52193e-18,length:248
+gi:828210102,ref_number:XP_012558194.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Hydra vulgaris],best_score:213.0,evalue:7.09642e-18,length:574
+gi:828211714,ref_number:XP_012558749.1,annotation: PREDICTED: uncharacterized protein LOC100198758 [Hydra vulgaris],best_score:209.0,evalue:5.00433e-17,length:1295
+gi:828206991,ref_number:XP_012557133.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:203.0,evalue:1.58486e-16,length:692
+gi:828221340,ref_number:XP_012561915.1,annotation: PREDICTED: sodium/calcium exchanger 2-like [Hydra vulgaris],best_score:198.0,evalue:6.61993e-16,length:833
+gi:828220480,ref_number:XP_012561629.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:197.0,evalue:8.36659e-16,length:711
+gi:828196754,ref_number:XP_012553638.1,annotation: PREDICTED: probable G-protein coupled receptor 112 isoform X2 [Hydra vulgaris],best_score:195.0,evalue:1.72648e-15,length:1133
+gi:828196752,ref_number:XP_012553637.1,annotation: PREDICTED: probable G-protein coupled receptor 112 isoform X1 [Hydra vulgaris],best_score:195.0,evalue:1.97799e-15,length:1136
+gi:828196756,ref_number:XP_012553639.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X3 [Hydra vulgaris],best_score:194.0,evalue:2.2235e-15,length:1017
+gi:828227634,ref_number:XP_012564017.1,annotation: PREDICTED: G-protein coupled receptor 64-like, partial [Hydra vulgaris],best_score:184.0,evalue:7.03324e-15,length:338
+gi:449674065,ref_number:XP_004208103.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:182.0,evalue:1.31653e-14,length:363
+gi:828206799,ref_number:XP_004208102.2,annotation: PREDICTED: probable G-protein coupled receptor 112 [Hydra vulgaris],best_score:184.0,evalue:2.91108e-14,length:863
+gi:828206744,ref_number:XP_012557053.1,annotation: PREDICTED: probable G-protein coupled receptor 112, partial [Hydra vulgaris],best_score:185.0,evalue:2.97509e-14,length:1128
+gi:828213655,ref_number:XP_012559391.1,annotation: PREDICTED: probable G-protein coupled receptor 133 [Hydra vulgaris],best_score:182.0,evalue:5.26478e-14,length:749
+gi:828200330,ref_number:XP_012554887.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris] >gi,best_score:180.0,evalue:9.24425e-14,length:662
+gi:828233982,ref_number:XP_012565938.1,annotation: PREDICTED: probable G-protein coupled receptor 133, partial [Hydra vulgaris],best_score:174.0,evalue:1.26164e-13,length:345
+gi:828223276,ref_number:XP_012562576.1,annotation: PREDICTED: uncharacterized protein LOC105847505 [Hydra vulgaris],best_score:179.0,evalue:1.5928e-13,length:1345
+gi:828226356,ref_number:XP_012563597.1,annotation: PREDICTED: mucin-5AC-like, partial [Hydra vulgaris],best_score:177.0,evalue:3.28214e-13,length:1907
+gi:828221449,ref_number:XP_012561951.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:174.0,evalue:3.98248e-13,length:701
+gi:828223840,ref_number:XP_012562762.1,annotation: PREDICTED: latrophilin-2-like [Hydra vulgaris],best_score:171.0,evalue:4.71219e-13,length:413
+gi:828209679,ref_number:XP_012558054.1,annotation: PREDICTED: EGF, latrophilin and seven transmembrane domain-containing protein 1-like, partial [Hydra vulgaris],best_score:173.0,evalue:6.39336e-13,length:1057
+gi:828206742,ref_number:XP_002167262.3,annotation: PREDICTED: G-protein coupled receptor 64-like, partial [Hydra vulgaris],best_score:167.0,evalue:1.07501e-12,length:346
+gi:828220146,ref_number:XP_012561516.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:161.0,evalue:4.85699e-12,length:320
+gi:828205602,ref_number:XP_012556670.1,annotation: PREDICTED: uncharacterized protein LOC100198789, partial [Hydra vulgaris],best_score:164.0,evalue:8.32498e-12,length:1457
+gi:828210029,ref_number:XP_002163241.3,annotation: PREDICTED: LOW QUALITY PROTEIN: cadherin EGF LAG seven-pass G-type receptor 2-like [Hydra vulgaris],best_score:161.0,evalue:2.10723e-11,length:2554
+gi:828225001,ref_number:XP_012563182.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:154.0,evalue:6.75737e-11,length:434
+gi:828198565,ref_number:XP_012554291.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Hydra vulgaris],best_score:152.0,evalue:1.74688e-10,length:746
+gi:828198567,ref_number:XP_012554292.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Hydra vulgaris],best_score:152.0,evalue:1.99854e-10,length:722
+gi:828225571,ref_number:XP_012563365.1,annotation: PREDICTED: EGF, latrophilin and seven transmembrane domain-containing protein 1-like isoform X2 [Hydra vulgaris],best_score:150.0,evalue:3.06825e-10,length:835
+gi:828225568,ref_number:XP_012563364.1,annotation: PREDICTED: EGF, latrophilin and seven transmembrane domain-containing protein 1-like isoform X1 [Hydra vulgaris],best_score:149.0,evalue:4.07735e-10,length:1007
+gi:828224096,ref_number:XP_012562841.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:144.0,evalue:9.93799e-10,length:436
+gi:828214272,ref_number:XP_012559605.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:143.0,evalue:1.15861e-09,length:378
+gi:828191115,ref_number:XP_012555750.1,annotation: PREDICTED: fibrillin-1-like [Hydra vulgaris],best_score:145.0,evalue:1.51526e-09,length:1981
+gi:828208918,ref_number:XP_004208419.2,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:142.0,evalue:2.68287e-09,length:779
+gi:828223606,ref_number:XP_012562678.1,annotation: PREDICTED: FRAS1-related extracellular matrix protein 2 [Hydra vulgaris],best_score:143.0,evalue:2.74852e-09,length:2847
+gi:828227732,ref_number:XP_012564052.1,annotation: PREDICTED: uncharacterized protein LOC105848474, partial [Hydra vulgaris],best_score:141.0,evalue:3.53756e-09,length:1042
+gi:828200464,ref_number:XP_012554927.1,annotation: PREDICTED: probable G-protein coupled receptor 133, partial [Hydra vulgaris],best_score:135.0,evalue:6.17923e-09,length:310
+gi:828230205,ref_number:XP_012564798.1,annotation: PREDICTED: latrophilin-2-like, partial [Hydra vulgaris],best_score:126.0,evalue:8.94942e-08,length:322
+gi:828235398,ref_number:XP_012566389.1,annotation: PREDICTED: EGF-like module-containing mucin-like hormone receptor-like 2, partial [Hydra vulgaris],best_score:126.0,evalue:1.28969e-07,length:357
+gi:828194957,ref_number:XP_012566792.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:127.0,evalue:1.45754e-07,length:512
+gi:828213118,ref_number:XP_012559203.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Hydra vulgaris],best_score:119.0,evalue:9.98111e-07,length:487
+gi:828201771,ref_number:XP_012555376.1,annotation: PREDICTED: latrophilin-2-like [Hydra vulgaris],best_score:117.0,evalue:2.32426e-06,length:600
+gi:844878631,ref_number:XP_012802302.1,annotation: Sodium/calcium exchanger 3, partial [Schistosoma haematobium],best_score:132.0,evalue:3.80594e-07,length:565
+gi:844874472,ref_number:XP_012801285.1,annotation: Sodium/calcium exchanger 3 [Schistosoma haematobium],best_score:131.0,evalue:4.21962e-07,length:497
+gi:115533322,ref_number:NP_001041183.1,annotation: Na/Ca eXchangers [Caenorhabditis elegans],best_score:195.0,evalue:5.36582e-14,length:873
+gi:115533320,ref_number:NP_001041182.1,annotation: Na/Ca eXchangers [Caenorhabditis elegans],best_score:193.0,evalue:7.25266e-14,length:880
+gi:115532418,ref_number:NP_001040724.1,annotation: Latrophilin-like protein LAT-2 [Caenorhabditis elegans],best_score:168.0,evalue:8.72235e-11,length:1338
+gi:71983528,ref_number:NP_504414.4,annotation: Na/Ca eXchangers [Caenorhabditis elegans],best_score:154.0,evalue:3.57524e-09,length:975
+gi:71983546,ref_number:NP_001023644.1,annotation: Na/Ca eXchangers [Caenorhabditis elegans],best_score:154.0,evalue:3.6618e-09,length:950
+gi:25154146,ref_number:NP_504415.2,annotation: Na/Ca eXchangers [Caenorhabditis elegans],best_score:153.0,evalue:3.84431e-09,length:925
+gi:17531351,ref_number:NP_495894.1,annotation: Latrophilin-like protein 1 [Caenorhabditis elegans],best_score:150.0,evalue:9.64423e-09,length:1014
+gi:32564125,ref_number:NP_871949.1,annotation: Latrophilin-like protein 1 [Caenorhabditis elegans],best_score:148.0,evalue:1.5068e-08,length:1012
+gi:115532420,ref_number:NP_001040725.1,annotation: Latrophilin-like protein LAT-2 [Caenorhabditis elegans],best_score:141.0,evalue:7.06486e-08,length:459
+gi:339254050,ref_number:XP_003372248.1,annotation: serine/threonine-protein kinase RIO3 [Trichinella spiralis],best_score:179.0,evalue:1.33842e-12,length:951
+gi:339235315,ref_number:XP_003379212.1,annotation: putative sodium/calcium exchanger 1 [Trichinella spiralis],best_score:166.0,evalue:4.93944e-11,length:904
+gi:339238677,ref_number:XP_003380893.1,annotation: sodium/calcium exchanger 1 [Trichinella spiralis],best_score:143.0,evalue:2.20273e-08,length:851
+gi:675875542,ref_number:XP_009023331.1,annotation: hypothetical protein HELRODRAFT_84528, partial [Helobdella robusta],best_score:197.0,evalue:2.58709e-15,length:343
+gi:675866444,ref_number:XP_009018782.1,annotation: hypothetical protein HELRODRAFT_80944 [Helobdella robusta],best_score:196.0,evalue:3.14707e-15,length:327
+gi:675852348,ref_number:XP_009011734.1,annotation: hypothetical protein HELRODRAFT_72786 [Helobdella robusta],best_score:150.0,evalue:6.82348e-09,length:864
+gi:675881192,ref_number:XP_009026098.1,annotation: hypothetical protein HELRODRAFT_178980 [Helobdella robusta],best_score:134.0,evalue:5.31997e-07,length:973
+gi:241082898,ref_number:XP_002409036.1,annotation: G-protein coupled receptor protein, putative [Ixodes scapularis],best_score:170.0,evalue:1.74534e-11,length:954
+gi:241709522,ref_number:XP_002413383.1,annotation: G-protein coupled receptor, putative [Ixodes scapularis],best_score:162.0,evalue:3.66253e-11,length:313
+gi:241564769,ref_number:XP_002401900.1,annotation: sodium/calcium exchanger, putative [Ixodes scapularis],best_score:160.0,evalue:3.06195e-10,length:1265
+gi:241378354,ref_number:XP_002409145.1,annotation: G-protein coupled receptor MtH2, putative [Ixodes scapularis],best_score:146.0,evalue:5.09131e-09,length:373
+gi:241674117,ref_number:XP_002400531.1,annotation: sodium/calcium exchanger, putative [Ixodes scapularis],best_score:147.0,evalue:7.62314e-09,length:589
+gi:241698596,ref_number:XP_002413122.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:137.0,evalue:1.0968e-07,length:580
+gi:241642269,ref_number:XP_002409399.1,annotation: latrophilin, putative [Ixodes scapularis],best_score:133.0,evalue:4.2612e-07,length:1046
+gi:241859546,ref_number:XP_002416227.1,annotation: hypothetical protein IscW_ISCW023670 [Ixodes scapularis],best_score:128.0,evalue:1.3009e-06,length:650
+gi:241101874,ref_number:XP_002409856.1,annotation: G-protein coupled receptor, putative [Ixodes scapularis],best_score:125.0,evalue:1.57132e-06,length:306
+gi:386766168,ref_number:NP_001247215.1,annotation: Na/Ca-exchange protein, isoform G [Drosophila melanogaster],best_score:163.0,evalue:3.47311e-10,length:973
+gi:665394632,ref_number:NP_001287435.1,annotation: Na/Ca-exchange protein, isoform I [Drosophila melanogaster],best_score:162.0,evalue:3.51322e-10,length:657
+gi:386766166,ref_number:NP_001247214.1,annotation: Na/Ca-exchange protein, isoform F [Drosophila melanogaster],best_score:163.0,evalue:3.57254e-10,length:960
+gi:24648584,ref_number:NP_524423.2,annotation: Na/Ca-exchange protein, isoform A [Drosophila melanogaster] >gi,best_score:163.0,evalue:3.58708e-10,length:950
+gi:386766164,ref_number:NP_001247213.1,annotation: Na/Ca-exchange protein, isoform E [Drosophila melanogaster],best_score:163.0,evalue:3.73135e-10,length:963
+gi:386766162,ref_number:NP_001247212.1,annotation: Na/Ca-exchange protein, isoform D [Drosophila melanogaster],best_score:162.0,evalue:3.87024e-10,length:950
+gi:665394630,ref_number:NP_001287434.1,annotation: Na/Ca-exchange protein, isoform H [Drosophila melanogaster],best_score:162.0,evalue:4.11485e-10,length:955
+gi:28571987,ref_number:NP_651845.2,annotation: uncharacterized protein Dmel_CG15556, isoform A [Drosophila melanogaster] >gi,best_score:145.0,evalue:4.32129e-08,length:755
+gi:919047999,ref_number:XP_013407174.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Lingula anatina],best_score:4403.0,evalue:0.0,length:4059
+gi:919014386,ref_number:XP_013391642.1,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Lingula anatina],best_score:3103.0,evalue:0.0,length:2657
+gi:919014383,ref_number:XP_013391641.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Lingula anatina],best_score:1915.0,evalue:0.0,length:1094
+gi:919024652,ref_number:XP_013396185.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Lingula anatina],best_score:1422.0,evalue:3.3106e-169,length:967
+gi:919048009,ref_number:XP_013407178.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Lingula anatina] >gi,best_score:505.0,evalue:5.00382e-54,length:455
+gi:919101010,ref_number:XP_013386874.1,annotation: PREDICTED: sodium/calcium exchanger 1-like isoform X1 [Lingula anatina] >gi,best_score:247.0,evalue:6.03909e-20,length:832
+gi:919101035,ref_number:XP_013386884.1,annotation: PREDICTED: sodium/calcium exchanger 1-like isoform X2 [Lingula anatina],best_score:246.0,evalue:6.39425e-20,length:818
+gi:919101037,ref_number:XP_013386885.1,annotation: PREDICTED: sodium/calcium exchanger 1-like isoform X3 [Lingula anatina],best_score:246.0,evalue:6.83501e-20,length:817
+gi:919015325,ref_number:XP_013391984.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Lingula anatina],best_score:229.0,evalue:9.30905e-18,length:1016
+gi:919005204,ref_number:XP_013383854.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1-like isoform X4 [Lingula anatina],best_score:226.0,evalue:2.36269e-17,length:1596
+gi:919005202,ref_number:XP_013383846.1,annotation: PREDICTED: neurogenic locus notch homolog protein 1-like isoform X3 [Lingula anatina],best_score:225.0,evalue:3.41946e-17,length:2247
+gi:919005200,ref_number:XP_013383834.1,annotation: PREDICTED: neurogenic locus notch homolog protein 1-like isoform X2 [Lingula anatina],best_score:224.0,evalue:5.33753e-17,length:2450
+gi:919005198,ref_number:XP_013383829.1,annotation: PREDICTED: neurogenic locus notch homolog protein 1-like isoform X1 [Lingula anatina],best_score:223.0,evalue:6.3497e-17,length:2529
+gi:919084729,ref_number:XP_013379590.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X2 [Lingula anatina],best_score:220.0,evalue:1.2039e-16,length:1183
+gi:919084724,ref_number:XP_013379588.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X1 [Lingula anatina] >gi,best_score:218.0,evalue:1.9851e-16,length:1190
+gi:919084731,ref_number:XP_013379591.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X3 [Lingula anatina],best_score:216.0,evalue:3.29525e-16,length:1004
+gi:919032389,ref_number:XP_013399845.1,annotation: PREDICTED: latrophilin-3-like [Lingula anatina],best_score:213.0,evalue:4.73239e-16,length:714
+gi:919020528,ref_number:XP_013394207.1,annotation: PREDICTED: FRAS1-related extracellular matrix protein 2-like [Lingula anatina],best_score:199.0,evalue:4.44174e-14,length:3118
+gi:919064343,ref_number:XP_013413797.1,annotation: PREDICTED: FRAS1-related extracellular matrix protein 2-like [Lingula anatina],best_score:197.0,evalue:6.36729e-14,length:3118
+gi:919084712,ref_number:XP_013379585.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X1 [Lingula anatina],best_score:195.0,evalue:9.47547e-14,length:1145
+gi:919084717,ref_number:XP_013379586.1,annotation: PREDICTED: G-protein coupled receptor 126-like isoform X2 [Lingula anatina],best_score:192.0,evalue:2.0365e-13,length:1038
+gi:919026051,ref_number:XP_013396799.1,annotation: PREDICTED: G-protein coupled receptor Mth-like [Lingula anatina],best_score:179.0,evalue:1.75604e-12,length:354
+gi:919046834,ref_number:XP_013406595.1,annotation: PREDICTED: sodium/calcium exchanger 1-like isoform X2 [Lingula anatina],best_score:182.0,evalue:2.74464e-12,length:923
+gi:919046831,ref_number:XP_013406594.1,annotation: PREDICTED: sodium/calcium exchanger 1-like isoform X1 [Lingula anatina],best_score:181.0,evalue:3.29238e-12,length:931
+gi:919069539,ref_number:XP_013416248.1,annotation: PREDICTED: latrophilin-3-like isoform X2 [Lingula anatina],best_score:174.0,evalue:2.72798e-11,length:1204
+gi:919069537,ref_number:XP_013416247.1,annotation: PREDICTED: latrophilin-3-like isoform X1 [Lingula anatina],best_score:174.0,evalue:3.01799e-11,length:1204
+gi:919069541,ref_number:XP_013416249.1,annotation: PREDICTED: latrophilin-3-like isoform X3 [Lingula anatina],best_score:173.0,evalue:3.48142e-11,length:1203
+gi:919069549,ref_number:XP_013416253.1,annotation: PREDICTED: latrophilin-3-like isoform X7 [Lingula anatina],best_score:173.0,evalue:3.69442e-11,length:1175
+gi:919069545,ref_number:XP_013416251.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like isoform X5 [Lingula anatina],best_score:173.0,evalue:3.69658e-11,length:1177
+gi:919069547,ref_number:XP_013416252.1,annotation: PREDICTED: latrophilin-3-like isoform X6 [Lingula anatina],best_score:173.0,evalue:3.79006e-11,length:1176
+gi:919069543,ref_number:XP_013416250.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like isoform X4 [Lingula anatina],best_score:173.0,evalue:3.79226e-11,length:1178
+gi:919056870,ref_number:XP_013410251.1,annotation: PREDICTED: extracellular matrix protein FRAS1-like [Lingula anatina],best_score:173.0,evalue:4.30623e-11,length:3148
+gi:919069981,ref_number:XP_013416485.1,annotation: PREDICTED: G-protein coupled receptor Mth-like [Lingula anatina],best_score:167.0,evalue:1.28313e-10,length:753
+gi:919003719,ref_number:XP_013419183.1,annotation: PREDICTED: extracellular matrix protein FRAS1-like, partial [Lingula anatina],best_score:165.0,evalue:3.66956e-10,length:2094
+gi:919074524,ref_number:XP_013418432.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X2 [Lingula anatina],best_score:158.0,evalue:2.02029e-09,length:931
+gi:919073224,ref_number:XP_013417852.1,annotation: PREDICTED: uncharacterized protein LOC106178968 [Lingula anatina],best_score:157.0,evalue:2.44729e-09,length:907
+gi:919033927,ref_number:XP_013400609.1,annotation: PREDICTED: uncharacterized protein LOC106166554 isoform X1 [Lingula anatina] >gi,best_score:155.0,evalue:4.8291e-09,length:1733
+gi:919097568,ref_number:XP_013385471.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Lingula anatina],best_score:151.0,evalue:5.16936e-09,length:351
+gi:919033929,ref_number:XP_013400610.1,annotation: PREDICTED: uncharacterized protein LOC106166554 isoform X2 [Lingula anatina],best_score:154.0,evalue:5.61673e-09,length:1733
+gi:919033944,ref_number:XP_013400617.1,annotation: PREDICTED: uncharacterized protein LOC106166554 isoform X3 [Lingula anatina],best_score:154.0,evalue:6.47484e-09,length:1728
+gi:919060533,ref_number:XP_013411967.1,annotation: PREDICTED: uncharacterized protein LOC106174820 [Lingula anatina],best_score:152.0,evalue:1.14897e-08,length:1238
+gi:919081787,ref_number:XP_013421945.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Lingula anatina],best_score:152.0,evalue:1.285e-08,length:3002
+gi:919081785,ref_number:XP_013421944.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X1 [Lingula anatina],best_score:151.0,evalue:1.37405e-08,length:3002
+gi:919007910,ref_number:XP_013388798.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Lingula anatina],best_score:142.0,evalue:1.38295e-08,length:220
+gi:919081789,ref_number:XP_013421946.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X3 [Lingula anatina],best_score:151.0,evalue:1.65089e-08,length:2980
+gi:919074526,ref_number:XP_013418433.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X3 [Lingula anatina],best_score:150.0,evalue:1.69294e-08,length:927
+gi:919074521,ref_number:XP_013418431.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X1 [Lingula anatina],best_score:150.0,evalue:1.7122e-08,length:934
+gi:919097152,ref_number:XP_013385253.1,annotation: PREDICTED: uncharacterized protein LOC106155122 [Lingula anatina],best_score:150.0,evalue:1.77261e-08,length:1148
+gi:919074531,ref_number:XP_013418435.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X5 [Lingula anatina],best_score:149.0,evalue:1.84837e-08,length:915
+gi:919074528,ref_number:XP_013418434.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X4 [Lingula anatina],best_score:149.0,evalue:2.0723e-08,length:926
+gi:780183935,ref_number:XP_011662427.1,annotation: PREDICTED: G-protein coupled receptor 98 [Strongylocentrotus purpuratus],best_score:7685.0,evalue:0.0,length:6158
+gi:780080891,ref_number:XP_011672777.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X2 [Strongylocentrotus purpuratus],best_score:271.0,evalue:6.555e-23,length:821
+gi:390366351,ref_number:XP_794875.3,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X6 [Strongylocentrotus purpuratus],best_score:271.0,evalue:6.77066e-23,length:806
+gi:780080907,ref_number:XP_011672780.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X5 [Strongylocentrotus purpuratus],best_score:271.0,evalue:6.98537e-23,length:809
+gi:780080895,ref_number:XP_011672778.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X3 [Strongylocentrotus purpuratus],best_score:271.0,evalue:7.03698e-23,length:813
+gi:780080876,ref_number:XP_011672774.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X1 [Strongylocentrotus purpuratus] >gi,best_score:271.0,evalue:7.33665e-23,length:822
+gi:780080899,ref_number:XP_011672779.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X4 [Strongylocentrotus purpuratus],best_score:270.0,evalue:7.55715e-23,length:810
+gi:780162402,ref_number:XP_001201499.3,annotation: PREDICTED: G-protein coupled receptor 98-like [Strongylocentrotus purpuratus],best_score:211.0,evalue:8.10744e-19,length:115
+gi:780180625,ref_number:XP_011661941.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X4 [Strongylocentrotus purpuratus],best_score:234.0,evalue:1.95362e-18,length:927
+gi:780180616,ref_number:XP_011661939.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X2 [Strongylocentrotus purpuratus],best_score:234.0,evalue:1.96254e-18,length:963
+gi:780180612,ref_number:XP_011661938.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X1 [Strongylocentrotus purpuratus],best_score:234.0,evalue:1.96563e-18,length:965
+gi:780180630,ref_number:XP_011661942.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X5 [Strongylocentrotus purpuratus],best_score:234.0,evalue:2.01739e-18,length:925
+gi:780180620,ref_number:XP_011661940.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X3 [Strongylocentrotus purpuratus],best_score:234.0,evalue:2.06476e-18,length:963
+gi:780185528,ref_number:XP_003728667.2,annotation: PREDICTED: G-protein coupled receptor 126 [Strongylocentrotus purpuratus],best_score:222.0,evalue:4.87001e-17,length:867
+gi:779997551,ref_number:XP_003724444.2,annotation: PREDICTED: uncharacterized protein LOC763404 isoform X1 [Strongylocentrotus purpuratus],best_score:221.0,evalue:7.29229e-17,length:1550
+gi:779997558,ref_number:XP_011676473.1,annotation: PREDICTED: uncharacterized protein LOC763404 isoform X2 [Strongylocentrotus purpuratus],best_score:220.0,evalue:8.92212e-17,length:1550
+gi:780021093,ref_number:XP_011665128.1,annotation: PREDICTED: G-protein coupled receptor 126 [Strongylocentrotus purpuratus],best_score:215.0,evalue:3.55455e-16,length:1012
+gi:780006888,ref_number:XP_011663268.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Strongylocentrotus purpuratus],best_score:211.0,evalue:8.88411e-16,length:904
+gi:780053620,ref_number:XP_011669498.1,annotation: PREDICTED: protein jagged-1a isoform X11 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.73328e-16,length:1269
+gi:780053614,ref_number:XP_011669497.1,annotation: PREDICTED: protein jagged-1 isoform X10 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.73647e-16,length:1270
+gi:780053607,ref_number:XP_011669496.1,annotation: PREDICTED: protein jagged-1 isoform X9 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.8513e-16,length:1307
+gi:780053600,ref_number:XP_011669495.1,annotation: PREDICTED: protein jagged-1a isoform X8 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.8513e-16,length:1307
+gi:780053595,ref_number:XP_011669493.1,annotation: PREDICTED: protein jagged-1 isoform X7 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.95981e-16,length:1344
+gi:780053589,ref_number:XP_011669492.1,annotation: PREDICTED: protein jagged-1 isoform X6 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.96266e-16,length:1345
+gi:780053584,ref_number:XP_011669491.1,annotation: PREDICTED: neurogenic locus Notch protein isoform X5 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.96266e-16,length:1345
+gi:780053579,ref_number:XP_011669490.1,annotation: PREDICTED: protein jagged-1a isoform X4 [Strongylocentrotus purpuratus],best_score:211.0,evalue:9.96266e-16,length:1345
+gi:780053573,ref_number:XP_011669489.1,annotation: PREDICTED: protein jagged-1 isoform X3 [Strongylocentrotus purpuratus],best_score:211.0,evalue:1.00625e-15,length:1381
+gi:780053567,ref_number:XP_011669488.1,annotation: PREDICTED: protein jagged-1a isoform X2 [Strongylocentrotus purpuratus],best_score:211.0,evalue:1.00652e-15,length:1382
+gi:780053562,ref_number:XP_011669487.1,annotation: PREDICTED: fibropellin-1 isoform X1 [Strongylocentrotus purpuratus],best_score:211.0,evalue:1.01624e-15,length:1419
+gi:780142064,ref_number:XP_011680798.1,annotation: PREDICTED: probable G-protein coupled receptor 128 isoform X2 [Strongylocentrotus purpuratus],best_score:207.0,evalue:2.27422e-15,length:825
+gi:780142059,ref_number:XP_011680797.1,annotation: PREDICTED: probable G-protein coupled receptor 128 isoform X1 [Strongylocentrotus purpuratus],best_score:207.0,evalue:2.6693e-15,length:952
+gi:780069425,ref_number:XP_011671379.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Strongylocentrotus purpuratus],best_score:203.0,evalue:4.02687e-15,length:538
+gi:780182978,ref_number:XP_011662273.1,annotation: PREDICTED: uncharacterized protein LOC105437414 [Strongylocentrotus purpuratus],best_score:203.0,evalue:9.14698e-15,length:1220
+gi:390340300,ref_number:XP_785777.3,annotation: PREDICTED: G-protein coupled receptor 126 [Strongylocentrotus purpuratus],best_score:198.0,evalue:1.97633e-14,length:627
+gi:390336867,ref_number:XP_796775.3,annotation: PREDICTED: probable G-protein coupled receptor 112 [Strongylocentrotus purpuratus],best_score:200.0,evalue:2.25731e-14,length:1253
+gi:780168027,ref_number:XP_011684066.1,annotation: PREDICTED: probable G-protein coupled receptor 133 [Strongylocentrotus purpuratus],best_score:198.0,evalue:2.28844e-14,length:592
+gi:780172566,ref_number:XP_011660780.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Strongylocentrotus purpuratus],best_score:198.0,evalue:2.77328e-14,length:764
+gi:780182211,ref_number:XP_011662167.1,annotation: PREDICTED: EGF-like module-containing mucin-like hormone receptor-like 3 [Strongylocentrotus purpuratus],best_score:197.0,evalue:3.93955e-14,length:870
+gi:779987371,ref_number:XP_011664123.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Strongylocentrotus purpuratus],best_score:196.0,evalue:4.1037e-14,length:657
+gi:779993397,ref_number:XP_011671743.1,annotation: PREDICTED: G-protein coupled receptor 64 [Strongylocentrotus purpuratus],best_score:188.0,evalue:4.85273e-14,length:308
+gi:780129294,ref_number:XP_011679054.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Strongylocentrotus purpuratus],best_score:194.0,evalue:5.99437e-14,length:600
+gi:780021104,ref_number:XP_011665131.1,annotation: PREDICTED: uncharacterized protein LOC578355 [Strongylocentrotus purpuratus],best_score:194.0,evalue:7.70068e-14,length:829
+gi:780043592,ref_number:XP_003730375.2,annotation: PREDICTED: G-protein coupled receptor 64 [Strongylocentrotus purpuratus] >gi,best_score:192.0,evalue:1.14259e-13,length:710
+gi:780095673,ref_number:XP_011674602.1,annotation: PREDICTED: probable G-protein coupled receptor 128 [Strongylocentrotus purpuratus],best_score:192.0,evalue:1.67937e-13,length:1034
+gi:780155641,ref_number:XP_011682335.1,annotation: PREDICTED: G-protein coupled receptor 64-like [Strongylocentrotus purpuratus],best_score:188.0,evalue:3.96759e-13,length:650
+gi:780172459,ref_number:XP_011660766.1,annotation: PREDICTED: G-protein coupled receptor 126 isoform X2 [Strongylocentrotus purpuratus],best_score:188.0,evalue:4.36118e-13,length:847
+gi:780172455,ref_number:XP_011660765.1,annotation: PREDICTED: G-protein coupled receptor 126 isoform X1 [Strongylocentrotus purpuratus],best_score:188.0,evalue:5.04155e-13,length:1003
+gi:780018108,ref_number:XP_011664728.1,annotation: PREDICTED: G-protein coupled receptor 126 [Strongylocentrotus purpuratus],best_score:187.0,evalue:6.61569e-13,length:899
+gi:780066331,ref_number:XP_011671009.1,annotation: PREDICTED: G-protein coupled receptor 126 [Strongylocentrotus purpuratus],best_score:187.0,evalue:6.63134e-13,length:961
+gi:780020599,ref_number:XP_011665059.1,annotation: PREDICTED: LOW QUALITY PROTEIN: extracellular matrix protein 3 [Strongylocentrotus purpuratus],best_score:188.0,evalue:7.16968e-13,length:3098
+gi:1087795723,ref_number:XP_018671881.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X2 [Ciona intestinalis],best_score:254.0,evalue:8.22994e-21,length:4045
+gi:1087795725,ref_number:XP_018671882.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X3 [Ciona intestinalis],best_score:243.0,evalue:1.4051e-19,length:4044
+gi:1087795721,ref_number:XP_018671880.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X1 [Ciona intestinalis],best_score:243.0,evalue:1.52845e-19,length:4059
+gi:459179942,ref_number:XP_002126759.2,annotation: PREDICTED: sodium/calcium exchanger 1 isoform X1 [Ciona intestinalis],best_score:238.0,evalue:3.48088e-19,length:948
+gi:1087815577,ref_number:XP_004226800.2,annotation: PREDICTED: uncharacterized protein LOC101242091 [Ciona intestinalis],best_score:224.0,evalue:1.89171e-17,length:1759
+gi:1087811886,ref_number:XP_018669182.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X2 [Ciona intestinalis],best_score:217.0,evalue:9.75238e-17,length:947
+gi:1087802603,ref_number:XP_009862007.2,annotation: PREDICTED: adhesion G protein-coupled receptor L3-like [Ciona intestinalis],best_score:204.0,evalue:3.79687e-15,length:887
+gi:1087828023,ref_number:XP_018668293.1,annotation: PREDICTED: uncharacterized protein LOC100181704 [Ciona intestinalis],best_score:200.0,evalue:1.18049e-14,length:1791
+gi:1087806010,ref_number:XP_018671209.1,annotation: PREDICTED: mucin-5AC isoform X1 [Ciona intestinalis],best_score:200.0,evalue:1.25926e-14,length:1224
+gi:1087807757,ref_number:XP_018671697.1,annotation: PREDICTED: G-protein coupled receptor 126-like [Ciona intestinalis],best_score:186.0,evalue:4.83508e-13,length:1479
+gi:1087802040,ref_number:XP_002119185.2,annotation: PREDICTED: FRAS1-related extracellular matrix protein 2 [Ciona intestinalis],best_score:185.0,evalue:6.7585e-13,length:1802
+gi:1087795194,ref_number:XP_009860765.2,annotation: PREDICTED: adhesion G-protein coupled receptor G2-like [Ciona intestinalis],best_score:181.0,evalue:1.5814e-12,length:792
+gi:198425679,ref_number:XP_002129016.1,annotation: PREDICTED: adhesion G-protein coupled receptor G2 isoform X2 [Ciona intestinalis],best_score:181.0,evalue:2.09951e-12,length:1185
+gi:1087815418,ref_number:XP_018670058.1,annotation: PREDICTED: extracellular matrix protein FRAS1 [Ciona intestinalis],best_score:171.0,evalue:3.14189e-11,length:4039
+gi:1087808713,ref_number:XP_018671991.1,annotation: PREDICTED: thrombospondin-type laminin G domain and EAR repeat-containing protein-like isoform X2 [Ciona intestinalis],best_score:163.0,evalue:1.941e-10,length:656
+gi:699256311,ref_number:XP_002120261.3,annotation: PREDICTED: thrombospondin-type laminin G domain and EAR repeat-containing protein-like isoform X1 [Ciona intestinalis],best_score:163.0,evalue:1.97659e-10,length:657
+gi:1087829881,ref_number:XP_018668704.1,annotation: PREDICTED: adhesion G-protein coupled receptor D1-like [Ciona intestinalis],best_score:160.0,evalue:4.39925e-10,length:635
+gi:1087828945,ref_number:XP_018668455.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X2 [Ciona intestinalis],best_score:155.0,evalue:1.37362e-09,length:497
+gi:1087824053,ref_number:XP_018667193.1,annotation: PREDICTED: CD97 antigen-like [Ciona intestinalis],best_score:155.0,evalue:1.62771e-09,length:789
+gi:1087795988,ref_number:XP_002119999.4,annotation: PREDICTED: adhesion G-protein coupled receptor G5-like [Ciona intestinalis],best_score:153.0,evalue:2.91092e-09,length:736
+gi:699247495,ref_number:XP_009860041.1,annotation: PREDICTED: adhesion G-protein coupled receptor G7-like [Ciona intestinalis],best_score:151.0,evalue:5.31052e-09,length:713
+gi:1087811891,ref_number:XP_018669184.1,annotation: PREDICTED: adhesion G-protein coupled receptor G7-like isoform X1 [Ciona intestinalis] >gi,best_score:149.0,evalue:1.10734e-08,length:935
+gi:699245617,ref_number:XP_009859504.1,annotation: PREDICTED: sodium/calcium exchanger 2-like isoform X1 [Ciona intestinalis],best_score:147.0,evalue:1.25401e-08,length:506
+gi:1087827671,ref_number:XP_018668185.1,annotation: PREDICTED: latrophilin-like protein LAT-2 [Ciona intestinalis],best_score:132.0,evalue:6.70777e-07,length:530
+gi:198426482,ref_number:XP_002122973.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X1 [Ciona intestinalis] >gi,best_score:132.0,evalue:1.00168e-06,length:907
+gi:1087808569,ref_number:XP_018671945.1,annotation: PREDICTED: sodium/calcium exchanger 3-like isoform X2 [Ciona intestinalis],best_score:132.0,evalue:1.04709e-06,length:868
+gi:1087826386,ref_number:XP_018667811.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X1 [Ciona intestinalis],best_score:132.0,evalue:1.31936e-06,length:2821
+gi:198437132,ref_number:XP_002124366.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2 isoform X2 [Ciona intestinalis],best_score:132.0,evalue:1.35239e-06,length:2808
+gi:1087830055,ref_number:XP_002124588.3,annotation: PREDICTED: adhesion G protein-coupled receptor L1 [Ciona intestinalis],best_score:124.0,evalue:6.65139e-06,length:573
+gi:1087808576,ref_number:XP_002120843.3,annotation: PREDICTED: G-protein coupled receptor 126-like [Ciona intestinalis],best_score:124.0,evalue:7.24536e-06,length:806
+gi:528480327,ref_number:XP_005165568.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X2 [Danio rerio],best_score:13685.0,evalue:0.0,length:6201
+gi:939106578,ref_number:NP_001001845.2,annotation: G-protein coupled receptor 98 precursor [Danio rerio],best_score:13671.0,evalue:0.0,length:6198
+gi:688556667,ref_number:XP_009300028.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X1 [Danio rerio],best_score:13670.0,evalue:0.0,length:6208
+gi:1040653650,ref_number:XP_005174704.2,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Danio rerio],best_score:1188.0,evalue:3.48843e-145,length:434
+gi:1040681187,ref_number:XP_005162818.2,annotation: PREDICTED: adhesion G-protein coupled receptor G2 [Danio rerio],best_score:251.0,evalue:4.05534e-20,length:2289
+gi:1040663108,ref_number:XP_017214630.1,annotation: PREDICTED: adhesion G-protein coupled receptor G4 [Danio rerio],best_score:241.0,evalue:3.31358e-19,length:771
+gi:292628237,ref_number:XP_001920772.2,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 [Danio rerio],best_score:220.0,evalue:1.71471e-16,length:3006
+gi:528486127,ref_number:XP_005166593.1,annotation: PREDICTED: solute carrier family 8 (sodium/calcium exchanger), member 4b isoform X1 [Danio rerio],best_score:210.0,evalue:1.6789e-15,length:925
+gi:181339609,ref_number:NP_001116712.1,annotation: solute carrier family 8 (sodium/calcium exchanger), member 4b precursor [Danio rerio],best_score:207.0,evalue:4.87487e-15,length:925
+gi:688576274,ref_number:XP_009304101.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X5 [Danio rerio],best_score:207.0,evalue:5.17172e-15,length:1483
+gi:688576284,ref_number:XP_009304104.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X9 [Danio rerio],best_score:207.0,evalue:5.69644e-15,length:1464
+gi:688548745,ref_number:XP_009298736.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X3 [Danio rerio],best_score:207.0,evalue:5.74e-15,length:3031
+gi:688576261,ref_number:XP_009304097.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X1 [Danio rerio] >gi,best_score:207.0,evalue:5.83415e-15,length:1496
+gi:688576276,ref_number:XP_009304102.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X6 [Danio rerio],best_score:207.0,evalue:5.8603e-15,length:1478
+gi:688576268,ref_number:XP_009304100.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X3 [Danio rerio],best_score:207.0,evalue:5.97538e-15,length:1490
+gi:688576266,ref_number:XP_009304099.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X2 [Danio rerio],best_score:207.0,evalue:5.97668e-15,length:1491
+gi:148226376,ref_number:NP_001082888.1,annotation: solute carrier family 8 (sodium/calcium exchanger), member 4a precursor [Danio rerio] >gi,best_score:206.0,evalue:6.13254e-15,length:939
+gi:688548747,ref_number:XP_009298737.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X4 [Danio rerio],best_score:207.0,evalue:6.29027e-15,length:3018
+gi:688576279,ref_number:XP_009304103.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X7 [Danio rerio],best_score:206.0,evalue:6.53563e-15,length:1477
+gi:688548734,ref_number:XP_009298735.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X1 [Danio rerio],best_score:207.0,evalue:6.5673e-15,length:3045
+gi:688576290,ref_number:XP_009304106.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X11 [Danio rerio],best_score:206.0,evalue:6.7853e-15,length:1421
+gi:528476947,ref_number:XP_005168604.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 1 isoform X2 [Danio rerio],best_score:207.0,evalue:6.79075e-15,length:3044
+gi:528493589,ref_number:XP_005172899.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X4 [Danio rerio],best_score:206.0,evalue:7.42379e-15,length:1483
+gi:528493595,ref_number:XP_002663750.3,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X12 [Danio rerio],best_score:206.0,evalue:7.56001e-15,length:1416
+gi:528493591,ref_number:XP_005172900.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X8 [Danio rerio],best_score:206.0,evalue:7.78895e-15,length:1472
+gi:688576287,ref_number:XP_009304105.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X10 [Danio rerio],best_score:206.0,evalue:7.91874e-15,length:1434
+gi:1040697816,ref_number:XP_017213045.1,annotation: PREDICTED: adhesion G-protein coupled receptor D2 isoform X2 [Danio rerio],best_score:204.0,evalue:1.05747e-14,length:1084
+gi:528488886,ref_number:XP_700487.6,annotation: PREDICTED: adhesion G-protein coupled receptor D2 isoform X1 [Danio rerio],best_score:204.0,evalue:1.20392e-14,length:1091
+gi:688544806,ref_number:XP_009298042.1,annotation: PREDICTED: adhesion G protein-coupled receptor L1 [Danio rerio],best_score:203.0,evalue:1.7699e-14,length:1497
+gi:1040672047,ref_number:XP_017214590.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 [Danio rerio],best_score:202.0,evalue:1.85066e-14,length:1597
+gi:528506062,ref_number:XP_005158754.1,annotation: PREDICTED: sodium/calcium exchanger 1 isoform X2 [Danio rerio],best_score:201.0,evalue:2.2786e-14,length:942
+gi:688576300,ref_number:XP_009304109.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X14 [Danio rerio] >gi,best_score:200.0,evalue:3.66271e-14,length:1249
+gi:688576294,ref_number:XP_009304107.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X13 [Danio rerio] >gi,best_score:200.0,evalue:3.66956e-14,length:1255
+gi:1040696080,ref_number:XP_017212735.1,annotation: PREDICTED: LOW QUALITY PROTEIN: adhesion G protein-coupled receptor L3-like [Danio rerio],best_score:200.0,evalue:3.68513e-14,length:1467
+gi:1040654808,ref_number:XP_017211434.1,annotation: PREDICTED: adhesion G protein-coupled receptor L1-like [Danio rerio],best_score:197.0,evalue:4.29831e-14,length:547
+gi:528493601,ref_number:XP_005172904.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X15 [Danio rerio],best_score:199.0,evalue:4.42712e-14,length:1236
+gi:688576307,ref_number:XP_009304111.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X16 [Danio rerio] >gi,best_score:197.0,evalue:6.82004e-14,length:1193
+gi:688576314,ref_number:XP_009304113.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X17 [Danio rerio],best_score:197.0,evalue:7.99828e-14,length:1191
+gi:1040697936,ref_number:XP_017213086.1,annotation: PREDICTED: adhesion G-protein coupled receptor D1 [Danio rerio],best_score:192.0,evalue:2.5581e-13,length:890
+gi:181339524,ref_number:NP_001116756.1,annotation: sodium/calcium exchanger 2 precursor [Danio rerio],best_score:189.0,evalue:6.06584e-13,length:961
+gi:688589099,ref_number:XP_009290185.1,annotation: PREDICTED: sodium/calcium exchanger 2 isoform X1 [Danio rerio] >gi,best_score:189.0,evalue:6.13722e-13,length:967
+gi:181339574,ref_number:NP_001116728.1,annotation: sodium/calcium exchanger 3 precursor [Danio rerio],best_score:185.0,evalue:1.83564e-12,length:917
+gi:688583460,ref_number:XP_009305752.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X2 [Danio rerio],best_score:185.0,evalue:1.88833e-12,length:922
+gi:528498488,ref_number:XP_005157054.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X1 [Danio rerio],best_score:185.0,evalue:1.88943e-12,length:923
+gi:528468018,ref_number:XP_005170999.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X3 [Danio rerio],best_score:185.0,evalue:1.923e-12,length:1534
+gi:254028219,ref_number:NP_001156763.1,annotation: G-protein coupled receptor 126 precursor [Danio rerio],best_score:185.0,evalue:1.9433e-12,length:1185
+gi:528498492,ref_number:XP_005157056.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X4 [Danio rerio],best_score:184.0,evalue:1.96291e-12,length:916
+gi:528498490,ref_number:XP_005157055.1,annotation: PREDICTED: sodium/calcium exchanger 3 isoform X3 [Danio rerio],best_score:184.0,evalue:1.96407e-12,length:917
+gi:85362713,ref_number:NP_001034233.1,annotation: sodium/calcium exchanger 1 precursor [Danio rerio] >gi,best_score:184.0,evalue:2.02853e-12,length:944
+gi:528468016,ref_number:XP_005170998.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X2 [Danio rerio],best_score:185.0,evalue:2.1832e-12,length:1539
+gi:167527476,ref_number:XP_001748070.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:788.0,evalue:3.03673e-83,length:4925
+gi:167522357,ref_number:XP_001745516.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:708.0,evalue:7.11578e-74,length:5560
+gi:167535171,ref_number:XP_001749260.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:585.0,evalue:1.67103e-59,length:7041
+gi:167537060,ref_number:XP_001750200.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:183.0,evalue:5.58498e-13,length:852
+gi:514687717,ref_number:XP_004991435.1,annotation: hypothetical protein PTSG_07638 [Salpingoeca rosetta],best_score:1166.0,evalue:5.65614e-127,length:6337
+gi:514688935,ref_number:XP_004992043.1,annotation: NOTCH2 protein [Salpingoeca rosetta],best_score:758.0,evalue:1.64371e-79,length:7004
+gi:514698312,ref_number:XP_004996725.1,annotation: hypothetical protein PTSG_11855 [Salpingoeca rosetta],best_score:562.0,evalue:9.44346e-57,length:6785
+gi:514684783,ref_number:XP_004989971.1,annotation: hypothetical protein PTSG_09542 [Salpingoeca rosetta],best_score:225.0,evalue:1.13763e-17,length:1721
+gi:514684785,ref_number:XP_004989972.1,annotation: hypothetical protein PTSG_09543 [Salpingoeca rosetta],best_score:201.0,evalue:7.78759e-15,length:1746
+gi:514690718,ref_number:XP_004992933.1,annotation: hypothetical protein PTSG_06041 [Salpingoeca rosetta],best_score:176.0,evalue:5.62669e-12,length:975
+gi:514684103,ref_number:XP_004989632.1,annotation: hypothetical protein PTSG_09376 [Salpingoeca rosetta],best_score:166.0,evalue:9.82796e-11,length:1894
+gi:514696928,ref_number:XP_004996034.1,annotation: Na+/Ca2+ exchanger NCX3 isoform [Salpingoeca rosetta],best_score:145.0,evalue:1.95465e-08,length:838
+gi:514688525,ref_number:XP_004991838.1,annotation: cadherin [Salpingoeca rosetta],best_score:124.0,evalue:7.68417e-06,length:3697
+gi:113722120,ref_number:NP_115495.3,annotation: G-protein coupled receptor 98 precursor [Homo sapiens],best_score:33327.0,evalue:0.0,length:6306
+gi:1034646477,ref_number:XP_016865452.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X1 [Homo sapiens],best_score:33308.0,evalue:0.0,length:6313
+gi:1034646479,ref_number:XP_016865453.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X2 [Homo sapiens],best_score:33293.0,evalue:0.0,length:6312
+gi:1034646481,ref_number:XP_016865454.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X3 [Homo sapiens],best_score:33272.0,evalue:0.0,length:6312
+gi:1034646483,ref_number:XP_016865455.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X4 [Homo sapiens],best_score:33128.0,evalue:0.0,length:6286
+gi:1034646485,ref_number:XP_016865456.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X5 [Homo sapiens],best_score:33091.0,evalue:0.0,length:6281
+gi:1034646487,ref_number:XP_016865457.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X6 [Homo sapiens],best_score:32646.0,evalue:0.0,length:6253
+gi:1034646489,ref_number:XP_016865458.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X7 [Homo sapiens],best_score:32411.0,evalue:0.0,length:6171
+gi:1034646491,ref_number:XP_016865459.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X8 [Homo sapiens],best_score:26228.0,evalue:0.0,length:5002
+gi:1034646493,ref_number:XP_016865460.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X9 [Homo sapiens],best_score:25688.0,evalue:0.0,length:4963
+gi:1034646497,ref_number:XP_016865462.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X11 [Homo sapiens],best_score:21123.0,evalue:0.0,length:4012
+gi:1034646495,ref_number:XP_016865461.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X10 [Homo sapiens],best_score:21109.0,evalue:0.0,length:4019
+gi:1034646499,ref_number:XP_016865463.1,annotation: PREDICTED: G-protein coupled receptor 98 isoform X12 [Homo sapiens],best_score:18909.0,evalue:0.0,length:3597
+gi:59710093,ref_number:NP_722576.3,annotation: adhesion G-protein coupled receptor G4 [Homo sapiens] >gi,best_score:255.0,evalue:3.34545e-20,length:3080
+gi:768038858,ref_number:XP_011529573.1,annotation: PREDICTED: adhesion G-protein coupled receptor G4 isoform X2 [Homo sapiens],best_score:254.0,evalue:4.66015e-20,length:3017
+gi:767931515,ref_number:XP_011530093.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X10 [Homo sapiens],best_score:239.0,evalue:1.93414e-18,length:1515
+gi:1034639093,ref_number:XP_016863427.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X11 [Homo sapiens],best_score:238.0,evalue:2.2098e-18,length:1510
+gi:1034639086,ref_number:XP_016863424.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X7 [Homo sapiens],best_score:238.0,evalue:2.29591e-18,length:1528
+gi:1034639095,ref_number:XP_016863428.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X12 [Homo sapiens],best_score:238.0,evalue:2.52359e-18,length:1442
+gi:1034639082,ref_number:XP_016863422.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X5 [Homo sapiens],best_score:238.0,evalue:2.56492e-18,length:1534
+gi:767931509,ref_number:XP_011530090.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X3 [Homo sapiens],best_score:233.0,evalue:9.30303e-18,length:1543
+gi:1034639088,ref_number:XP_016863425.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X8 [Homo sapiens],best_score:233.0,evalue:9.41741e-18,length:1524
+gi:1034639073,ref_number:XP_016863418.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X1 [Homo sapiens] >gi,best_score:233.0,evalue:9.88169e-18,length:1586
+gi:1034639077,ref_number:XP_016863420.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X2 [Homo sapiens],best_score:233.0,evalue:1.02058e-17,length:1580
+gi:1016776304,ref_number:NP_001309331.1,annotation: adhesion G protein-coupled receptor L3 isoform 1 precursor [Homo sapiens] >gi,best_score:233.0,evalue:1.09905e-17,length:1537
+gi:163792198,ref_number:NP_056051.2,annotation: adhesion G protein-coupled receptor L3 isoform 2 precursor [Homo sapiens] >gi,best_score:232.0,evalue:1.20513e-17,length:1469
+gi:1034639084,ref_number:XP_016863423.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X6 [Homo sapiens],best_score:232.0,evalue:1.24526e-17,length:1532
+gi:1034639090,ref_number:XP_016863426.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X9 [Homo sapiens],best_score:232.0,evalue:1.39604e-17,length:1518
+gi:1034639099,ref_number:XP_016863430.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X14 [Homo sapiens],best_score:231.0,evalue:1.43539e-17,length:1299
+gi:530362216,ref_number:XP_005270725.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X5 [Homo sapiens] >gi,best_score:231.0,evalue:1.59413e-17,length:1446
+gi:1034557008,ref_number:XP_016856281.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X8 [Homo sapiens],best_score:231.0,evalue:1.64481e-17,length:1408
+gi:530362212,ref_number:XP_005270723.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X3 [Homo sapiens] >gi,best_score:231.0,evalue:1.74013e-17,length:1459
+gi:1034556999,ref_number:XP_016856277.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X4 [Homo sapiens],best_score:231.0,evalue:1.79578e-17,length:1451
+gi:578798711,ref_number:XP_006710548.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X1 [Homo sapiens] >gi,best_score:231.0,evalue:1.83263e-17,length:1464
+gi:1034556992,ref_number:XP_016856274.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X2 [Homo sapiens] >gi,best_score:230.0,evalue:1.86322e-17,length:1463
+gi:6912464,ref_number:NP_036434.1,annotation: adhesion G protein-coupled receptor L2 isoform 1 preproprotein [Homo sapiens] >gi,best_score:230.0,evalue:1.99304e-17,length:1403
+gi:1060604628,ref_number:NP_001317574.1,annotation: adhesion G protein-coupled receptor L2 isoform 4 precursor [Homo sapiens],best_score:230.0,evalue:2.08652e-17,length:1416
+gi:1034557004,ref_number:XP_016856279.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X6 [Homo sapiens],best_score:230.0,evalue:2.19767e-17,length:1421
+gi:1034639097,ref_number:XP_016863429.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X13 [Homo sapiens],best_score:226.0,evalue:5.92437e-17,length:1308
+gi:1034557013,ref_number:XP_016856282.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X9 [Homo sapiens],best_score:224.0,evalue:9.68914e-17,length:1225
+gi:1034557025,ref_number:XP_016856287.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X14 [Homo sapiens],best_score:224.0,evalue:9.76473e-17,length:1163
+gi:1034557019,ref_number:XP_016856284.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X11 [Homo sapiens],best_score:224.0,evalue:1.01795e-16,length:1181
+gi:1016776419,ref_number:NP_001309175.1,annotation: adhesion G protein-coupled receptor L3 isoform 3 precursor [Homo sapiens] >gi,best_score:224.0,evalue:1.06917e-16,length:1240
+gi:1034557023,ref_number:XP_016856286.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X13 [Homo sapiens],best_score:223.0,evalue:1.17074e-16,length:1173
+gi:1034639101,ref_number:XP_016863431.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3 isoform X15 [Homo sapiens],best_score:223.0,evalue:1.24186e-16,length:1235
+gi:663071059,ref_number:NP_001284634.1,annotation: adhesion G protein-coupled receptor L2 isoform 2 preproprotein [Homo sapiens],best_score:223.0,evalue:1.36492e-16,length:1177
+gi:1034557017,ref_number:XP_016856283.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X10 [Homo sapiens],best_score:223.0,evalue:1.44425e-16,length:1191
+gi:1034557021,ref_number:XP_016856285.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2 isoform X12 [Homo sapiens],best_score:222.0,evalue:1.51599e-16,length:1186
+gi:663071061,ref_number:NP_001284635.1,annotation: adhesion G protein-coupled receptor L2 isoform 3 preproprotein [Homo sapiens],best_score:222.0,evalue:1.70083e-16,length:1123
+gi:1034130140,ref_number:XP_016790781.1,annotation: PREDICTED: adhesion G protein-coupled receptor L1 isoform X11 [Pan troglodytes] >gi,best_score:218.0,evalue:5.14945e-16,length:1420

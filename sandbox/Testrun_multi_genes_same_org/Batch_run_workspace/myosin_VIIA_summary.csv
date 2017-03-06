@@ -1,0 +1,1034 @@
+gi:367460064,ref_number:NP_001243010.1,annotation: unconventional myosin-VIIa isoform 1 [Mus musculus],best_score:11654.0,evalue:0.0,length:2215
+gi:568949801,ref_number:XP_006507490.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X5 [Mus musculus],best_score:11634.0,evalue:0.0,length:2221
+gi:755522197,ref_number:XP_011239990.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X1 [Mus musculus],best_score:11603.0,evalue:0.0,length:2250
+gi:755522199,ref_number:XP_011239991.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X2 [Mus musculus],best_score:11600.0,evalue:0.0,length:2204
+gi:115511010,ref_number:NP_032689.2,annotation: unconventional myosin-VIIa isoform 2 [Mus musculus],best_score:11422.0,evalue:0.0,length:2177
+gi:367460068,ref_number:NP_001243012.1,annotation: unconventional myosin-VIIa isoform 4 [Mus musculus] >gi,best_score:11361.0,evalue:0.0,length:2166
+gi:568949805,ref_number:XP_006507492.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X7 [Mus musculus],best_score:11350.0,evalue:0.0,length:2157
+gi:367460066,ref_number:NP_001243011.1,annotation: unconventional myosin-VIIa isoform 3 [Mus musculus] >gi,best_score:11350.0,evalue:0.0,length:2172
+gi:568949803,ref_number:XP_006507491.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X6 [Mus musculus],best_score:11337.0,evalue:0.0,length:2163
+gi:261823963,ref_number:NP_115770.2,annotation: unconventional myosin-VIIb [Mus musculus],best_score:6024.0,evalue:0.0,length:2113
+gi:130507685,ref_number:NP_062345.2,annotation: unconventional myosin-X [Mus musculus],best_score:1655.0,evalue:0.0,length:2062
+gi:115511052,ref_number:NP_034994.2,annotation: unconventional myosin-Va [Mus musculus],best_score:1520.0,evalue:6.64851e-176,length:1853
+gi:568960787,ref_number:XP_006510895.1,annotation: PREDICTED: unconventional myosin-Va isoform X6 [Mus musculus],best_score:1518.0,evalue:7.40362e-176,length:1828
+gi:568960783,ref_number:XP_006510893.1,annotation: PREDICTED: unconventional myosin-Va isoform X4 [Mus musculus],best_score:1519.0,evalue:7.425e-176,length:1852
+gi:568960785,ref_number:XP_006510894.1,annotation: PREDICTED: unconventional myosin-Va isoform X5 [Mus musculus],best_score:1519.0,evalue:8.48298e-176,length:1850
+gi:568960781,ref_number:XP_006510892.1,annotation: PREDICTED: unconventional myosin-Va isoform X3 [Mus musculus],best_score:1519.0,evalue:8.76087e-176,length:1855
+gi:568960777,ref_number:XP_006510890.1,annotation: PREDICTED: unconventional myosin-Va isoform X1 [Mus musculus],best_score:1519.0,evalue:1.33171e-175,length:1880
+gi:568960779,ref_number:XP_006510891.1,annotation: PREDICTED: unconventional myosin-Va isoform X2 [Mus musculus],best_score:1519.0,evalue:1.33332e-175,length:1877
+gi:157041246,ref_number:NP_874357.2,annotation: unconventional myosin-XV isoform 2a [Mus musculus],best_score:1529.0,evalue:1.63231e-174,length:2306
+gi:157041244,ref_number:NP_034992.2,annotation: unconventional myosin-XV isoform 1 [Mus musculus] >gi,best_score:1531.0,evalue:6.82443e-173,length:3511
+gi:157041248,ref_number:NP_001096641.1,annotation: unconventional myosin-XV isoform 3 [Mus musculus] >gi,best_score:1530.0,evalue:1.02435e-172,length:3493
+gi:46399202,ref_number:NP_963894.1,annotation: unconventional myosin-Vb [Mus musculus],best_score:1475.0,evalue:3.73117e-170,length:1818
+gi:569003411,ref_number:XP_006525778.1,annotation: PREDICTED: unconventional myosin-Vb isoform X2 [Mus musculus],best_score:1475.0,evalue:4.62795e-170,length:1831
+gi:569003413,ref_number:XP_006525779.1,annotation: PREDICTED: unconventional myosin-Vb isoform X3 [Mus musculus],best_score:1474.0,evalue:5.88837e-170,length:1826
+gi:569003409,ref_number:XP_006525777.1,annotation: PREDICTED: unconventional myosin-Vb isoform X1 [Mus musculus],best_score:1475.0,evalue:6.00993e-170,length:1849
+gi:568961013,ref_number:XP_006511003.1,annotation: PREDICTED: unconventional myosin-Vc isoform X3 [Mus musculus],best_score:1420.0,evalue:1.69602e-167,length:1243
+gi:568961011,ref_number:XP_006511002.1,annotation: PREDICTED: unconventional myosin-Vc isoform X2 [Mus musculus],best_score:1420.0,evalue:5.411e-167,length:1298
+gi:568961002,ref_number:XP_006510998.1,annotation: PREDICTED: unconventional myosin-Vc isoform X1 [Mus musculus] >gi,best_score:1422.0,evalue:2.12995e-163,length:1749
+gi:124486759,ref_number:NP_001074791.1,annotation: unconventional myosin-Vc [Mus musculus],best_score:1421.0,evalue:2.51837e-163,length:1742
+gi:240120042,ref_number:NP_001155289.1,annotation: unconventional myosin-Ib isoform 1 [Mus musculus],best_score:1369.0,evalue:1.18481e-161,length:1136
+gi:86990450,ref_number:NP_034993.2,annotation: unconventional myosin-Ib isoform 2 [Mus musculus],best_score:1362.0,evalue:4.92897e-161,length:1107
+gi:568905921,ref_number:XP_006495827.1,annotation: PREDICTED: unconventional myosin-Ib isoform X1 [Mus musculus] >gi,best_score:1363.0,evalue:7.21057e-161,length:1138
+gi:568905925,ref_number:XP_006495829.1,annotation: PREDICTED: unconventional myosin-Ib isoform X2 [Mus musculus],best_score:1355.0,evalue:4.24154e-160,length:1109
+gi:597436878,ref_number:NP_001277911.1,annotation: unconventional myosin-Ib isoform 3 [Mus musculus],best_score:1350.0,evalue:9.55937e-160,length:1078
+gi:568905927,ref_number:XP_006495830.1,annotation: PREDICTED: unconventional myosin-Ib isoform X3 [Mus musculus],best_score:1342.0,evalue:1.14966e-158,length:1080
+gi:124494242,ref_number:NP_001074244.1,annotation: unconventional myosin-Ic isoform a [Mus musculus],best_score:1318.0,evalue:9.07556e-156,length:1044
+gi:6678986,ref_number:NP_032685.1,annotation: unconventional myosin-Ic isoform b [Mus musculus] >gi,best_score:1316.0,evalue:1.45535e-155,length:1028
+gi:568972076,ref_number:XP_006532492.1,annotation: PREDICTED: unconventional myosin-Ic isoform X1 [Mus musculus],best_score:1316.0,evalue:2.8206e-155,length:1063
+gi:124487037,ref_number:NP_001074688.1,annotation: unconventional myosin-Ia [Mus musculus] >gi,best_score:1300.0,evalue:3.23973e-153,length:1043
+gi:255069756,ref_number:NP_444444.2,annotation: unconventional myosin-If [Mus musculus],best_score:1285.0,evalue:1.14849e-150,length:1098
+gi:568974509,ref_number:XP_006533648.1,annotation: PREDICTED: unconventional myosin-Id isoform X1 [Mus musculus],best_score:1240.0,evalue:2.89316e-146,length:944
+gi:257196127,ref_number:NP_001158045.1,annotation: unconventional myosin-Ih [Mus musculus],best_score:1242.0,evalue:1.42552e-145,length:1022
+gi:118026911,ref_number:NP_796364.2,annotation: unconventional myosin-Id [Mus musculus],best_score:1238.0,evalue:2.7804e-145,length:1006
+gi:755513635,ref_number:XP_011246497.1,annotation: PREDICTED: unconventional myosin-Ih isoform X1 [Mus musculus],best_score:1241.0,evalue:2.81323e-145,length:1038
+gi:755530462,ref_number:XP_011241116.1,annotation: PREDICTED: unconventional myosin-Ie isoform X1 [Mus musculus],best_score:1244.0,evalue:7.46212e-145,length:1119
+gi:145864471,ref_number:NP_001078847.1,annotation: myosin-7B [Mus musculus],best_score:1288.0,evalue:9.26744e-145,length:1941
+gi:68299824,ref_number:NP_851417.2,annotation: unconventional myosin-Ie [Mus musculus],best_score:1242.0,evalue:1.02715e-144,length:1107
+gi:1039761692,ref_number:XP_017174700.1,annotation: PREDICTED: myosin-7B isoform X6 [Mus musculus],best_score:1288.0,evalue:1.12089e-144,length:1947
+gi:114326446,ref_number:NP_071855.2,annotation: myosin-9 [Mus musculus],best_score:1279.0,evalue:1.82165e-143,length:1960
+gi:241982716,ref_number:NP_038635.2,annotation: myosin-11 isoform 1 [Mus musculus],best_score:1268.0,evalue:2.94419e-142,length:1938
+gi:585670882,ref_number:XP_006817953.1,annotation: PREDICTED: LOW QUALITY PROTEIN: myosin-VIIa-like [Saccoglossus kowalevskii],best_score:7625.0,evalue:0.0,length:2137
+gi:585679918,ref_number:XP_006819606.1,annotation: PREDICTED: unconventional myosin-X-like [Saccoglossus kowalevskii],best_score:1710.0,evalue:0.0,length:1543
+gi:585715706,ref_number:XP_006825386.1,annotation: PREDICTED: unconventional myosin-Ib-like [Saccoglossus kowalevskii],best_score:1386.0,evalue:3.22477e-165,length:1079
+gi:585718275,ref_number:XP_006825854.1,annotation: PREDICTED: myosin-IIIa-like [Saccoglossus kowalevskii],best_score:1324.0,evalue:5.06096e-155,length:1242
+gi:585670894,ref_number:XP_006817956.1,annotation: PREDICTED: myosin-VIIa-like [Saccoglossus kowalevskii],best_score:1258.0,evalue:3.27033e-154,length:563
+gi:585700699,ref_number:XP_006812831.1,annotation: PREDICTED: unconventional myosin-Vb-like, partial [Saccoglossus kowalevskii],best_score:1264.0,evalue:1.16927e-152,length:731
+gi:291236516,ref_number:XP_002738185.1,annotation: PREDICTED: unconventional myosin-Ie-like [Saccoglossus kowalevskii],best_score:1233.0,evalue:5.57871e-144,length:1114
+gi:585719308,ref_number:XP_006826039.1,annotation: PREDICTED: myosin-10-like isoform X3 [Saccoglossus kowalevskii],best_score:1265.0,evalue:2.8288e-142,length:1962
+gi:585719304,ref_number:XP_006826038.1,annotation: PREDICTED: myosin-10-like isoform X2 [Saccoglossus kowalevskii],best_score:1261.0,evalue:1.06121e-141,length:1972
+gi:585719300,ref_number:XP_006826037.1,annotation: PREDICTED: myosin-10-like isoform X1 [Saccoglossus kowalevskii],best_score:1251.0,evalue:1.68739e-140,length:1975
+gi:585697312,ref_number:XP_002739436.2,annotation: PREDICTED: unconventional myosin-XIX-like [Saccoglossus kowalevskii],best_score:1197.0,evalue:1.88639e-140,length:990
+gi:585673999,ref_number:XP_006818525.1,annotation: PREDICTED: unconventional myosin-Id-like [Saccoglossus kowalevskii],best_score:1189.0,evalue:2.42044e-139,length:999
+gi:585719976,ref_number:XP_006813001.1,annotation: PREDICTED: unconventional myosin-VI-like [Saccoglossus kowalevskii],best_score:1117.0,evalue:1.75037e-127,length:1245
+gi:585660883,ref_number:XP_006816466.1,annotation: PREDICTED: unconventional myosin-XVI-like, partial [Saccoglossus kowalevskii],best_score:1014.0,evalue:3.76665e-112,length:1590
+gi:585677117,ref_number:XP_006819085.1,annotation: PREDICTED: myosin-IIIb-like [Saccoglossus kowalevskii],best_score:845.0,evalue:4.0858e-96,length:788
+gi:585672807,ref_number:XP_006818306.1,annotation: PREDICTED: myosin-IIIa-like [Saccoglossus kowalevskii],best_score:700.0,evalue:2.65887e-80,length:487
+gi:585672803,ref_number:XP_006818305.1,annotation: PREDICTED: myosin-IIIa-like [Saccoglossus kowalevskii],best_score:640.0,evalue:4.21625e-74,length:341
+gi:585686382,ref_number:XP_006820318.1,annotation: PREDICTED: unconventional myosin-X-like [Saccoglossus kowalevskii],best_score:667.0,evalue:6.02657e-71,length:1124
+gi:585719312,ref_number:XP_006826040.1,annotation: PREDICTED: myosin-10-like isoform X4 [Saccoglossus kowalevskii],best_score:659.0,evalue:4.42688e-69,length:1629
+gi:585672017,ref_number:XP_006818153.1,annotation: PREDICTED: unconventional myosin-XV-like, partial [Saccoglossus kowalevskii],best_score:558.0,evalue:7.26573e-64,length:292
+gi:585669023,ref_number:XP_006817598.1,annotation: PREDICTED: unconventional myosin-IXa-like, partial [Saccoglossus kowalevskii],best_score:508.0,evalue:2.30019e-51,length:1461
+gi:585670687,ref_number:XP_006817918.1,annotation: PREDICTED: unconventional myosin-XVIIIa [Saccoglossus kowalevskii],best_score:493.0,evalue:1.74537e-49,length:1628
+gi:585705678,ref_number:XP_006823684.1,annotation: PREDICTED: myosin-IIIa-like [Saccoglossus kowalevskii],best_score:387.0,evalue:1.2205e-42,length:165
+gi:585661741,ref_number:XP_006816618.1,annotation: PREDICTED: myosin-VIIa-like, partial [Saccoglossus kowalevskii],best_score:383.0,evalue:7.16238e-42,length:181
+gi:585672009,ref_number:XP_006818151.1,annotation: PREDICTED: uncharacterized protein LOC102805934 [Saccoglossus kowalevskii],best_score:378.0,evalue:4.42245e-36,length:1132
+gi:585672013,ref_number:XP_006818152.1,annotation: PREDICTED: unconventional myosin-XV-like [Saccoglossus kowalevskii],best_score:374.0,evalue:9.5009e-36,length:962
+gi:585666886,ref_number:XP_006817199.1,annotation: PREDICTED: pleckstrin homology domain-containing family H member 1-like [Saccoglossus kowalevskii],best_score:192.0,evalue:1.44897e-14,length:510
+gi:585677175,ref_number:XP_006819094.1,annotation: PREDICTED: rho GTPase-activating protein 39-like [Saccoglossus kowalevskii],best_score:130.0,evalue:5.23994e-08,length:190
+gi:196016144,ref_number:XP_002117926.1,annotation: hypothetical protein TRIADDRAFT_61967 [Trichoplax adhaerens],best_score:5196.0,evalue:0.0,length:2128
+gi:196002882,ref_number:XP_002111308.1,annotation: hypothetical protein TRIADDRAFT_24346 [Trichoplax adhaerens],best_score:1404.0,evalue:1.1306e-161,length:1784
+gi:195999442,ref_number:XP_002109589.1,annotation: hypothetical protein TRIADDRAFT_20764 [Trichoplax adhaerens],best_score:1315.0,evalue:1.5668e-158,length:850
+gi:195999392,ref_number:XP_002109564.1,annotation: hypothetical protein TRIADDRAFT_20417 [Trichoplax adhaerens],best_score:1330.0,evalue:6.14327e-158,length:1069
+gi:195998385,ref_number:XP_002109061.1,annotation: hypothetical protein TRIADDRAFT_49825 [Trichoplax adhaerens],best_score:1289.0,evalue:1.08846e-153,length:950
+gi:196005169,ref_number:XP_002112451.1,annotation: hypothetical protein TRIADDRAFT_25995 [Trichoplax adhaerens],best_score:1268.0,evalue:4.3869e-148,length:1218
+gi:196002267,ref_number:XP_002111001.1,annotation: hypothetical protein TRIADDRAFT_22946 [Trichoplax adhaerens],best_score:1152.0,evalue:7.88927e-134,length:1087
+gi:196016277,ref_number:XP_002117992.1,annotation: hypothetical protein TRIADDRAFT_51158 [Trichoplax adhaerens],best_score:875.0,evalue:3.14268e-103,length:538
+gi:196001841,ref_number:XP_002110788.1,annotation: hypothetical protein TRIADDRAFT_54062 [Trichoplax adhaerens],best_score:734.0,evalue:2.0614e-78,length:1522
+gi:196012132,ref_number:XP_002115929.1,annotation: hypothetical protein TRIADDRAFT_59851 [Trichoplax adhaerens],best_score:679.0,evalue:1.54429e-71,length:2188
+gi:196000658,ref_number:XP_002110197.1,annotation: hypothetical protein TRIADDRAFT_53951 [Trichoplax adhaerens],best_score:572.0,evalue:1.33459e-59,length:1158
+gi:196010704,ref_number:XP_002115216.1,annotation: hypothetical protein TRIADDRAFT_11177 [Trichoplax adhaerens],best_score:477.0,evalue:3.58403e-49,length:774
+gi:196016788,ref_number:XP_002118244.1,annotation: hypothetical protein TRIADDRAFT_33842 [Trichoplax adhaerens],best_score:154.0,evalue:2.94856e-10,length:540
+gi:195996555,ref_number:XP_002108146.1,annotation: hypothetical protein TRIADDRAFT_19795 [Trichoplax adhaerens],best_score:139.0,evalue:3.31306e-08,length:2468
+gi:195999108,ref_number:XP_002109422.1,annotation: hypothetical protein TRIADDRAFT_53434 [Trichoplax adhaerens],best_score:133.0,evalue:1.69307e-07,length:2749
+gi:196011666,ref_number:XP_002115696.1,annotation: hypothetical protein TRIADDRAFT_64201 [Trichoplax adhaerens],best_score:119.0,evalue:6.86998e-06,length:2269
+gi:575484578,ref_number:XP_006681583.1,annotation: hypothetical protein BATDEDRAFT_13697 [Batrachochytrium dendrobatidis JAM81],best_score:1351.0,evalue:2.62013e-156,length:1569
+gi:575485054,ref_number:XP_006681821.1,annotation: hypothetical protein BATDEDRAFT_91391 [Batrachochytrium dendrobatidis JAM81],best_score:1131.0,evalue:2.65028e-131,length:1072
+gi:575481404,ref_number:XP_006679996.1,annotation: hypothetical protein BATDEDRAFT_35424 [Batrachochytrium dendrobatidis JAM81],best_score:494.0,evalue:6.03801e-50,length:1870
+gi:575474830,ref_number:XP_006676709.1,annotation: hypothetical protein BATDEDRAFT_23120 [Batrachochytrium dendrobatidis JAM81],best_score:421.0,evalue:1.56985e-41,length:1539
+gi:575471436,ref_number:XP_006675011.1,annotation: hypothetical protein BATDEDRAFT_8502, partial [Batrachochytrium dendrobatidis JAM81],best_score:420.0,evalue:2.26074e-41,length:1597
+gi:575475564,ref_number:XP_006677076.1,annotation: hypothetical protein BATDEDRAFT_86403 [Batrachochytrium dendrobatidis JAM81],best_score:320.0,evalue:8.52255e-30,length:1052
+gi:575475070,ref_number:XP_006676829.1,annotation: hypothetical protein BATDEDRAFT_34502 [Batrachochytrium dendrobatidis JAM81],best_score:316.0,evalue:4.69714e-29,length:2008
+gi:575485048,ref_number:XP_006681818.1,annotation: hypothetical protein BATDEDRAFT_91387 [Batrachochytrium dendrobatidis JAM81],best_score:144.0,evalue:4.00902e-09,length:611
+gi:575473564,ref_number:XP_006676075.1,annotation: hypothetical protein BATDEDRAFT_84904 [Batrachochytrium dendrobatidis JAM81],best_score:131.0,evalue:1.8306e-07,length:2617
+gi:754343367,ref_number:XP_011270021.1,annotation: hypothetical protein CAOG_08449, partial [Capsaspora owczarzaki ATCC 30864],best_score:1788.0,evalue:0.0,length:1221
+gi:754344557,ref_number:XP_004348757.2,annotation: myosin-X [Capsaspora owczarzaki ATCC 30864],best_score:1773.0,evalue:0.0,length:1802
+gi:754351649,ref_number:XP_004343891.2,annotation: myosin 10 [Capsaspora owczarzaki ATCC 30864],best_score:1614.0,evalue:0.0,length:2061
+gi:754348972,ref_number:XP_004346998.2,annotation: myosin-VIIa [Capsaspora owczarzaki ATCC 30864],best_score:1609.0,evalue:0.0,length:2191
+gi:754343714,ref_number:XP_004364442.2,annotation: myosin-X [Capsaspora owczarzaki ATCC 30864],best_score:1445.0,evalue:5.90443e-166,length:1983
+gi:754343267,ref_number:XP_011269971.1,annotation: hypothetical protein CAOG_08401 [Capsaspora owczarzaki ATCC 30864],best_score:1456.0,evalue:7.71526e-166,length:2325
+gi:754352391,ref_number:XP_004343217.2,annotation: myosin IE [Capsaspora owczarzaki ATCC 30864],best_score:1352.0,evalue:1.9176e-162,length:942
+gi:470300409,ref_number:XP_004346897.1,annotation: myosin-Va [Capsaspora owczarzaki ATCC 30864],best_score:1380.0,evalue:8.35092e-160,length:1604
+gi:754347339,ref_number:XP_004347846.2,annotation: myosin-Ib [Capsaspora owczarzaki ATCC 30864],best_score:1339.0,evalue:2.05045e-158,length:1140
+gi:470301500,ref_number:XP_004347365.1,annotation: myosin IA [Capsaspora owczarzaki ATCC 30864],best_score:1328.0,evalue:5.00468e-158,length:1042
+gi:754345832,ref_number:XP_004363861.2,annotation: MYO6 protein [Capsaspora owczarzaki ATCC 30864],best_score:1352.0,evalue:2.84805e-157,length:1451
+gi:754352024,ref_number:XP_004343522.2,annotation: brush border myosin I [Capsaspora owczarzaki ATCC 30864],best_score:1314.0,evalue:2.6562e-156,length:1016
+gi:754345136,ref_number:XP_011270152.1,annotation: myosin IXA, variant [Capsaspora owczarzaki ATCC 30864],best_score:1338.0,evalue:2.69545e-151,length:2123
+gi:754344585,ref_number:XP_004348813.2,annotation: myosin IXA [Capsaspora owczarzaki ATCC 30864],best_score:1338.0,evalue:3.55199e-151,length:2168
+gi:754345051,ref_number:XP_004349469.2,annotation: amoeboid myosin I [Capsaspora owczarzaki ATCC 30864],best_score:1273.0,evalue:3.42945e-149,length:1166
+gi:470295359,ref_number:XP_004345041.1,annotation: myosin IE heavy chain [Capsaspora owczarzaki ATCC 30864],best_score:1255.0,evalue:8.34969e-149,length:967
+gi:754347603,ref_number:XP_004348242.2,annotation: myosin-VI [Capsaspora owczarzaki ATCC 30864],best_score:1271.0,evalue:4.12988e-148,length:1251
+gi:470363792,ref_number:XP_004365711.1,annotation: myosin IIIA [Capsaspora owczarzaki ATCC 30864],best_score:1266.0,evalue:2.57109e-145,length:1503
+gi:754347671,ref_number:XP_004348329.2,annotation: myosin-1 [Capsaspora owczarzaki ATCC 30864],best_score:1241.0,evalue:2.03108e-144,length:1217
+gi:470307390,ref_number:XP_004363667.1,annotation: myosin-9 [Capsaspora owczarzaki ATCC 30864],best_score:1277.0,evalue:2.74428e-144,length:1937
+gi:470321642,ref_number:XP_004349077.1,annotation: myosin-VIIa motor domain-containing protein [Capsaspora owczarzaki ATCC 30864],best_score:1227.0,evalue:4.94651e-139,length:1677
+gi:470364796,ref_number:XP_004365949.1,annotation: myosin IB [Capsaspora owczarzaki ATCC 30864],best_score:771.0,evalue:9.91708e-83,length:1589
+gi:470289422,ref_number:XP_004342862.1,annotation: hypothetical protein CAOG_07789 [Capsaspora owczarzaki ATCC 30864],best_score:503.0,evalue:4.06432e-51,length:1245
+gi:754350687,ref_number:XP_004345230.2,annotation: hypothetical protein CAOG_06481 [Capsaspora owczarzaki ATCC 30864],best_score:439.0,evalue:2.27638e-43,length:1716
+gi:754343369,ref_number:XP_011270022.1,annotation: hypothetical protein CAOG_08450 [Capsaspora owczarzaki ATCC 30864],best_score:400.0,evalue:3.75451e-39,length:1009
+gi:470323361,ref_number:XP_004349474.1,annotation: hypothetical protein CAOG_02724 [Capsaspora owczarzaki ATCC 30864],best_score:149.0,evalue:1.13495e-09,length:497
+gi:470291110,ref_number:XP_004343306.1,annotation: hypothetical protein CAOG_07447 [Capsaspora owczarzaki ATCC 30864],best_score:122.0,evalue:1.62134e-06,length:406
+gi:599361409,ref_number:XP_007405149.1,annotation: hypothetical protein MELLADRAFT_102541 [Melampsora larici-populina 98AG31],best_score:1207.0,evalue:5.10795e-141,length:1313
+gi:599411171,ref_number:XP_007414151.1,annotation: hypothetical protein MELLADRAFT_117538 [Melampsora larici-populina 98AG31],best_score:1107.0,evalue:1.53032e-125,length:1708
+gi:599382585,ref_number:XP_007409039.1,annotation: family 2 glycosyltransferase [Melampsora larici-populina 98AG31],best_score:634.0,evalue:2.94369e-68,length:2028
+gi:599421482,ref_number:XP_007416606.1,annotation: hypothetical protein MELLADRAFT_93784 [Melampsora larici-populina 98AG31],best_score:307.0,evalue:6.72757e-33,length:269
+gi:599381075,ref_number:XP_007408763.1,annotation: hypothetical protein MELLADRAFT_35148 [Melampsora larici-populina 98AG31],best_score:303.0,evalue:2.94713e-32,length:272
+gi:599420516,ref_number:XP_007416375.1,annotation: hypothetical protein MELLADRAFT_111942 [Melampsora larici-populina 98AG31],best_score:129.0,evalue:8.24597e-11,length:108
+gi:599372737,ref_number:XP_007407252.1,annotation: hypothetical protein MELLADRAFT_31883 [Melampsora larici-populina 98AG31],best_score:125.0,evalue:9.10282e-11,length:67
+gi:676444699,ref_number:XP_009050513.1,annotation: hypothetical protein LOTGIDRAFT_213685 [Lottia gigantea],best_score:7265.0,evalue:0.0,length:2172
+gi:676444515,ref_number:XP_009050454.1,annotation: hypothetical protein LOTGIDRAFT_213603 [Lottia gigantea],best_score:1677.0,evalue:0.0,length:1017
+gi:676480526,ref_number:XP_009062088.1,annotation: hypothetical protein LOTGIDRAFT_154633 [Lottia gigantea],best_score:1546.0,evalue:0.0,length:682
+gi:676468498,ref_number:XP_009058228.1,annotation: hypothetical protein LOTGIDRAFT_122399, partial [Lottia gigantea],best_score:1471.0,evalue:1.75629e-170,length:1785
+gi:676477501,ref_number:XP_009061129.1,annotation: hypothetical protein LOTGIDRAFT_219481 [Lottia gigantea],best_score:1381.0,evalue:1.97831e-170,length:626
+gi:676431789,ref_number:XP_009046365.1,annotation: hypothetical protein LOTGIDRAFT_212414 [Lottia gigantea],best_score:1357.0,evalue:5.94622e-161,length:1109
+gi:676423160,ref_number:XP_009044066.1,annotation: hypothetical protein LOTGIDRAFT_103140, partial [Lottia gigantea],best_score:1271.0,evalue:2.74375e-151,length:927
+gi:676450104,ref_number:XP_009052270.1,annotation: hypothetical protein LOTGIDRAFT_143556 [Lottia gigantea],best_score:1261.0,evalue:4.92886e-149,length:1009
+gi:676496723,ref_number:XP_009067308.1,annotation: hypothetical protein LOTGIDRAFT_135551, partial [Lottia gigantea],best_score:1242.0,evalue:2.07424e-148,length:841
+gi:676495224,ref_number:XP_009066818.1,annotation: hypothetical protein LOTGIDRAFT_134504 [Lottia gigantea],best_score:1268.0,evalue:2.22846e-148,length:1154
+gi:676461082,ref_number:XP_009055830.1,annotation: hypothetical protein LOTGIDRAFT_119149, partial [Lottia gigantea],best_score:1309.0,evalue:1.23571e-147,length:2062
+gi:676492322,ref_number:XP_009065879.1,annotation: hypothetical protein LOTGIDRAFT_133465 [Lottia gigantea],best_score:1197.0,evalue:4.43744e-141,length:941
+gi:676422742,ref_number:XP_009043987.1,annotation: hypothetical protein LOTGIDRAFT_102587 [Lottia gigantea],best_score:1212.0,evalue:5.07248e-136,length:1864
+gi:676479367,ref_number:XP_009061726.1,annotation: hypothetical protein LOTGIDRAFT_127716 [Lottia gigantea],best_score:1175.0,evalue:2.61961e-130,length:2243
+gi:676436602,ref_number:XP_009047936.1,annotation: hypothetical protein LOTGIDRAFT_111741, partial [Lottia gigantea],best_score:1088.0,evalue:8.67788e-120,length:2293
+gi:676479361,ref_number:XP_009061724.1,annotation: hypothetical protein LOTGIDRAFT_127517 [Lottia gigantea],best_score:1057.0,evalue:4.79191e-116,length:2202
+gi:676425854,ref_number:XP_009044436.1,annotation: hypothetical protein LOTGIDRAFT_156167 [Lottia gigantea],best_score:978.0,evalue:2.87835e-109,length:1294
+gi:676496729,ref_number:XP_009067310.1,annotation: hypothetical protein LOTGIDRAFT_223635, partial [Lottia gigantea],best_score:915.0,evalue:1.03501e-107,length:580
+gi:676496747,ref_number:XP_009067316.1,annotation: hypothetical protein LOTGIDRAFT_223645 [Lottia gigantea],best_score:904.0,evalue:7.56694e-107,length:537
+gi:676485356,ref_number:XP_009063632.1,annotation: hypothetical protein LOTGIDRAFT_154879 [Lottia gigantea],best_score:967.0,evalue:2.8647e-105,length:2315
+gi:676481481,ref_number:XP_009062391.1,annotation: hypothetical protein LOTGIDRAFT_128142, partial [Lottia gigantea],best_score:865.0,evalue:7.49685e-101,length:600
+gi:676496738,ref_number:XP_009067313.1,annotation: hypothetical protein LOTGIDRAFT_223639 [Lottia gigantea],best_score:853.0,evalue:1.6756e-99,length:580
+gi:676479364,ref_number:XP_009061725.1,annotation: hypothetical protein LOTGIDRAFT_235019 [Lottia gigantea],best_score:810.0,evalue:9.79793e-87,length:2230
+gi:676492982,ref_number:XP_009066098.1,annotation: hypothetical protein LOTGIDRAFT_133811, partial [Lottia gigantea],best_score:527.0,evalue:2.24885e-57,length:495
+gi:676466954,ref_number:XP_009057732.1,annotation: hypothetical protein LOTGIDRAFT_163407 [Lottia gigantea],best_score:554.0,evalue:7.02567e-57,length:1386
+gi:676457216,ref_number:XP_009054577.1,annotation: hypothetical protein LOTGIDRAFT_215365 [Lottia gigantea],best_score:533.0,evalue:2.50673e-55,length:900
+gi:676438002,ref_number:XP_009048386.1,annotation: hypothetical protein LOTGIDRAFT_238422 [Lottia gigantea],best_score:454.0,evalue:1.56328e-45,length:958
+gi:676480523,ref_number:XP_009062087.1,annotation: hypothetical protein LOTGIDRAFT_229291 [Lottia gigantea],best_score:440.0,evalue:3.37089e-43,length:2204
+gi:676496753,ref_number:XP_009067318.1,annotation: hypothetical protein LOTGIDRAFT_135434, partial [Lottia gigantea],best_score:350.0,evalue:2.8949e-37,length:201
+gi:676438005,ref_number:XP_009048387.1,annotation: hypothetical protein LOTGIDRAFT_180353 [Lottia gigantea],best_score:318.0,evalue:1.48111e-33,length:149
+gi:676496757,ref_number:XP_009067319.1,annotation: hypothetical protein LOTGIDRAFT_198383 [Lottia gigantea],best_score:311.0,evalue:2.95824e-31,length:270
+gi:676496638,ref_number:XP_009067280.1,annotation: hypothetical protein LOTGIDRAFT_65952, partial [Lottia gigantea],best_score:259.0,evalue:5.08586e-24,length:304
+gi:676435324,ref_number:XP_009047520.1,annotation: hypothetical protein LOTGIDRAFT_176432, partial [Lottia gigantea],best_score:241.0,evalue:6.40583e-23,length:173
+gi:676496382,ref_number:XP_009067201.1,annotation: hypothetical protein LOTGIDRAFT_146686, partial [Lottia gigantea],best_score:209.0,evalue:4.5373e-19,length:144
+gi:676496744,ref_number:XP_009067315.1,annotation: hypothetical protein LOTGIDRAFT_135516 [Lottia gigantea],best_score:173.0,evalue:4.95774e-15,length:71
+gi:676496632,ref_number:XP_009067278.1,annotation: hypothetical protein LOTGIDRAFT_60514, partial [Lottia gigantea],best_score:168.0,evalue:2.10924e-14,length:68
+gi:676496635,ref_number:XP_009067279.1,annotation: hypothetical protein LOTGIDRAFT_60515, partial [Lottia gigantea],best_score:164.0,evalue:6.87005e-14,length:68
+gi:676429468,ref_number:XP_009045610.1,annotation: hypothetical protein LOTGIDRAFT_148659, partial [Lottia gigantea],best_score:162.0,evalue:8.74284e-13,length:134
+gi:676450113,ref_number:XP_009052273.1,annotation: hypothetical protein LOTGIDRAFT_174681, partial [Lottia gigantea],best_score:153.0,evalue:5.86981e-12,length:103
+gi:676472442,ref_number:XP_009059493.1,annotation: hypothetical protein LOTGIDRAFT_218488 [Lottia gigantea],best_score:163.0,evalue:7.75746e-11,length:2543
+gi:676432979,ref_number:XP_009046750.1,annotation: hypothetical protein LOTGIDRAFT_171933 [Lottia gigantea],best_score:156.0,evalue:1.37022e-10,length:334
+gi:219116416,ref_number:XP_002179003.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1301.0,evalue:2.40122e-156,length:867
+gi:219122035,ref_number:XP_002181360.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1206.0,evalue:1.3522e-141,length:1027
+gi:219120564,ref_number:XP_002181018.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1121.0,evalue:5.1988e-132,length:867
+gi:219122135,ref_number:XP_002181408.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1110.0,evalue:8.75833e-132,length:763
+gi:219114377,ref_number:XP_002176359.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1062.0,evalue:1.44218e-125,length:746
+gi:219129131,ref_number:XP_002184750.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1030.0,evalue:5.36904e-121,length:769
+gi:219118019,ref_number:XP_002179793.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:1030.0,evalue:2.95158e-119,length:932
+gi:219113793,ref_number:XP_002186480.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:961.0,evalue:1.8834e-111,length:804
+gi:219114485,ref_number:XP_002176413.1,annotation: predicted protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:912.0,evalue:5.9098e-106,length:721
+gi:302831722,ref_number:XP_002947426.1,annotation: type XI myosin heavy chain MyoB [Volvox carteri f. nagariensis],best_score:1262.0,evalue:1.05929e-153,length:765
+gi:302845917,ref_number:XP_002954496.1,annotation: type XI myosin heavy chain MyoA [Volvox carteri f. nagariensis],best_score:1320.0,evalue:9.40435e-153,length:1668
+gi:302849137,ref_number:XP_002956099.1,annotation: type VIII myosin heavy chain MyoC [Volvox carteri f. nagariensis],best_score:1083.0,evalue:7.05529e-123,length:1519
+gi:302829098,ref_number:XP_002946116.1,annotation: Kar3 member kinesin-like protein [Volvox carteri f. nagariensis],best_score:291.0,evalue:1.86842e-27,length:1227
+gi:302854184,ref_number:XP_002958602.1,annotation: microtubule-associated protein Asp [Volvox carteri f. nagariensis],best_score:127.0,evalue:3.27698e-08,length:2008
+gi:831756236,ref_number:XP_012748661.1,annotation: hypothetical protein SAMD00019534_115200 [Acytostelium subglobosum LB1],best_score:1740.0,evalue:0.0,length:2324
+gi:831789912,ref_number:XP_012759217.1,annotation: hypothetical protein SAMD00019534_003300 [Acytostelium subglobosum LB1],best_score:1512.0,evalue:1.19536e-173,length:2207
+gi:831781407,ref_number:XP_012756350.1,annotation: hypothetical protein SAMD00019534_027630 [Acytostelium subglobosum LB1],best_score:1349.0,evalue:4.51254e-161,length:1017
+gi:831758465,ref_number:XP_012749351.1,annotation: hypothetical protein SAMD00019534_108680 [Acytostelium subglobosum LB1],best_score:1336.0,evalue:3.18187e-159,length:1024
+gi:831783862,ref_number:XP_012757267.1,annotation: hypothetical protein SAMD00019534_025150 [Acytostelium subglobosum LB1],best_score:1398.0,evalue:4.7691e-159,length:2114
+gi:831778745,ref_number:XP_012755504.1,annotation: hypothetical protein SAMD00019534_045600 [Acytostelium subglobosum LB1],best_score:1395.0,evalue:1.27409e-158,length:2113
+gi:831774183,ref_number:XP_012754135.1,annotation: hypothetical protein SAMD00019534_060830, partial [Acytostelium subglobosum LB1],best_score:1322.0,evalue:3.46344e-158,length:952
+gi:831778832,ref_number:XP_012755531.1,annotation: hypothetical protein SAMD00019534_045870 [Acytostelium subglobosum LB1],best_score:1247.0,evalue:1.00796e-151,length:648
+gi:831759608,ref_number:XP_012749698.1,annotation: hypothetical protein SAMD00019534_104060 [Acytostelium subglobosum LB1],best_score:1248.0,evalue:5.96944e-143,length:1489
+gi:831778128,ref_number:XP_012755315.1,annotation: hypothetical protein SAMD00019534_053900 [Acytostelium subglobosum LB1],best_score:1215.0,evalue:7.8827e-142,length:1114
+gi:831766677,ref_number:XP_012751862.1,annotation: hypothetical protein SAMD00019534_085170 [Acytostelium subglobosum LB1],best_score:1202.0,evalue:3.06136e-139,length:1206
+gi:831787447,ref_number:XP_012758432.1,annotation: hypothetical protein SAMD00019534_010110 [Acytostelium subglobosum LB1],best_score:1191.0,evalue:6.13336e-139,length:1082
+gi:831757059,ref_number:XP_012748912.1,annotation: hypothetical protein SAMD00019534_114540 [Acytostelium subglobosum LB1],best_score:1194.0,evalue:4.44211e-138,length:1216
+gi:831771493,ref_number:XP_012753318.1,annotation: hypothetical protein SAMD00019534_067520 [Acytostelium subglobosum LB1],best_score:872.0,evalue:6.74371e-99,length:882
+gi:831787973,ref_number:XP_012758603.1,annotation: hypothetical protein SAMD00019534_011820 [Acytostelium subglobosum LB1],best_score:292.0,evalue:4.74203e-26,length:2631
+gi:831789170,ref_number:XP_012758974.1,annotation: hypothetical protein SAMD00019534_000870 [Acytostelium subglobosum LB1],best_score:159.0,evalue:1.50427e-10,length:2593
+gi:831777785,ref_number:XP_012755212.1,annotation: hypothetical protein SAMD00019534_052870 [Acytostelium subglobosum LB1],best_score:154.0,evalue:6.68233e-10,length:1610
+gi:831772596,ref_number:XP_012753653.1,annotation: hypothetical protein SAMD00019534_063790 [Acytostelium subglobosum LB1],best_score:142.0,evalue:1.2983e-08,length:1055
+gi:831759882,ref_number:XP_012749780.1,annotation: hypothetical protein SAMD00019534_104880 [Acytostelium subglobosum LB1],best_score:134.0,evalue:1.34887e-07,length:2477
+gi:831759834,ref_number:XP_012749767.1,annotation: hypothetical protein SAMD00019534_104750 [Acytostelium subglobosum LB1],best_score:121.0,evalue:2.33776e-06,length:434
+gi:1063680098,ref_number:NP_001321769.1,annotation: myosin XI B [Arabidopsis thaliana],best_score:1531.0,evalue:0.0,length:1396
+gi:42561681,ref_number:NP_171912.2,annotation: myosin XI B [Arabidopsis thaliana],best_score:1531.0,evalue:0.0,length:1500
+gi:15240028,ref_number:NP_199203.1,annotation: myosin 2 [Arabidopsis thaliana],best_score:1525.0,evalue:7.53725e-180,length:1505
+gi:334188180,ref_number:NP_001190465.1,annotation: myosin 2 [Arabidopsis thaliana],best_score:1528.0,evalue:1.06485e-179,length:1565
+gi:186514513,ref_number:NP_194600.2,annotation: Myosin family protein with Dil domain-containing protein [Arabidopsis thaliana],best_score:1506.0,evalue:3.56548e-177,length:1516
+gi:334188182,ref_number:NP_001190466.1,annotation: myosin 2 [Arabidopsis thaliana],best_score:1500.0,evalue:6.62059e-176,length:1562
+gi:30685403,ref_number:NP_173201.2,annotation: myosin 1 [Arabidopsis thaliana],best_score:1494.0,evalue:2.12356e-175,length:1520
+gi:1063705463,ref_number:NP_001323600.1,annotation: myosin-like protein XIF [Arabidopsis thaliana],best_score:1494.0,evalue:3.63849e-175,length:1557
+gi:42569537,ref_number:NP_180749.2,annotation: myosin-like protein XIF [Arabidopsis thaliana] >gi,best_score:1494.0,evalue:3.70932e-175,length:1556
+gi:1063705616,ref_number:NP_001324212.1,annotation: myosin XI D [Arabidopsis thaliana],best_score:1489.0,evalue:7.06536e-173,length:1746
+gi:15219766,ref_number:NP_171954.1,annotation: myosin XI A [Arabidopsis thaliana],best_score:1487.0,evalue:8.89174e-173,length:1730
+gi:1063681694,ref_number:NP_001321098.1,annotation: Myosin family protein with Dil domain-containing protein [Arabidopsis thaliana],best_score:1473.0,evalue:1.64515e-172,length:1530
+gi:42561814,ref_number:NP_172349.2,annotation: Myosin family protein with Dil domain-containing protein [Arabidopsis thaliana],best_score:1474.0,evalue:1.71789e-172,length:1538
+gi:1063705622,ref_number:NP_001324208.1,annotation: myosin XI D [Arabidopsis thaliana],best_score:1487.0,evalue:1.75512e-172,length:1757
+gi:1063705620,ref_number:NP_001324211.1,annotation: myosin XI D [Arabidopsis thaliana],best_score:1487.0,evalue:1.77578e-172,length:1764
+gi:1063705626,ref_number:NP_001324210.1,annotation: myosin XI D [Arabidopsis thaliana],best_score:1487.0,evalue:1.93231e-172,length:1769
+gi:1063705614,ref_number:NP_001324214.1,annotation: myosin XI D [Arabidopsis thaliana] >gi,best_score:1486.0,evalue:2.1117e-172,length:1749
+gi:42569586,ref_number:NP_180882.2,annotation: myosin XI D [Arabidopsis thaliana],best_score:1486.0,evalue:2.53131e-172,length:1770
+gi:1063704232,ref_number:NP_001325369.1,annotation: myosin-like protein XIG [Arabidopsis thaliana],best_score:1466.0,evalue:3.87482e-172,length:1467
+gi:1063704228,ref_number:NP_001325368.1,annotation: myosin-like protein XIG [Arabidopsis thaliana],best_score:1467.0,evalue:4.27215e-172,length:1482
+gi:1063704230,ref_number:NP_001325367.1,annotation: myosin-like protein XIG [Arabidopsis thaliana],best_score:1466.0,evalue:6.35455e-172,length:1476
+gi:42569181,ref_number:NP_179619.2,annotation: myosin-like protein XIG [Arabidopsis thaliana],best_score:1467.0,evalue:6.47417e-172,length:1493
+gi:145334819,ref_number:NP_001078755.1,annotation: myosin 2 [Arabidopsis thaliana],best_score:1441.0,evalue:4.07284e-171,length:1220
+gi:42568525,ref_number:NP_568806.3,annotation: myosin 2 [Arabidopsis thaliana],best_score:1426.0,evalue:4.3917e-171,length:1030
+gi:15231004,ref_number:NP_188630.1,annotation: myosin 1 [Arabidopsis thaliana] >gi,best_score:1431.0,evalue:3.25203e-170,length:1166
+gi:1063694691,ref_number:NP_001320715.1,annotation: Myosin family protein with Dil domain-containing protein [Arabidopsis thaliana],best_score:1453.0,evalue:1.00605e-169,length:1526
+gi:15221848,ref_number:NP_175858.1,annotation: Myosin family protein with Dil domain-containing protein [Arabidopsis thaliana],best_score:1452.0,evalue:1.43361e-169,length:1529
+gi:1063725269,ref_number:NP_001328308.1,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana] >gi,best_score:1422.0,evalue:2.36328e-169,length:1136
+gi:1063728892,ref_number:NP_001318612.1,annotation: myosin family protein with Dil [Arabidopsis thaliana],best_score:1443.0,evalue:2.53567e-168,length:1531
+gi:1063728894,ref_number:NP_001318611.1,annotation: myosin family protein with Dil, partial [Arabidopsis thaliana],best_score:1443.0,evalue:2.56029e-168,length:1530
+gi:1063717507,ref_number:NP_001327764.1,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana] >gi,best_score:1415.0,evalue:6.55292e-168,length:1176
+gi:15230968,ref_number:NP_191375.1,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana] >gi,best_score:1419.0,evalue:8.08698e-168,length:1242
+gi:1063717503,ref_number:NP_001327763.1,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana],best_score:1417.0,evalue:1.15128e-167,length:1227
+gi:334186958,ref_number:NP_194467.5,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana],best_score:1409.0,evalue:1.34715e-167,length:1134
+gi:1063725271,ref_number:NP_001328307.1,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana],best_score:1409.0,evalue:1.38953e-167,length:1136
+gi:334187115,ref_number:NP_001190897.1,annotation: myosin [Arabidopsis thaliana],best_score:1434.0,evalue:1.96895e-167,length:1503
+gi:334187117,ref_number:NP_001190898.1,annotation: myosin [Arabidopsis thaliana],best_score:1432.0,evalue:2.89809e-167,length:1492
+gi:42567348,ref_number:NP_195046.3,annotation: myosin [Arabidopsis thaliana],best_score:1433.0,evalue:4.08543e-167,length:1522
+gi:1063726492,ref_number:NP_001328260.1,annotation: myosin [Arabidopsis thaliana],best_score:1433.0,evalue:4.55032e-167,length:1523
+gi:1063712613,ref_number:NP_001325652.1,annotation: myosin 1 [Arabidopsis thaliana],best_score:1381.0,evalue:1.61448e-166,length:894
+gi:238481323,ref_number:NP_001154724.1,annotation: myosin family protein with Dil [Arabidopsis thaliana],best_score:1419.0,evalue:1.07844e-165,length:1465
+gi:42562644,ref_number:NP_175453.2,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana],best_score:1390.0,evalue:1.00353e-164,length:1153
+gi:1063705465,ref_number:NP_001323599.1,annotation: myosin-like protein XIF [Arabidopsis thaliana],best_score:1360.0,evalue:7.73499e-158,length:1442
+gi:334185486,ref_number:NP_001154628.2,annotation: myosin 1 [Arabidopsis thaliana],best_score:1267.0,evalue:8.87899e-148,length:1176
+gi:1063705468,ref_number:NP_001323601.1,annotation: myosin-like protein XIF [Arabidopsis thaliana],best_score:939.0,evalue:5.83288e-104,length:1299
+gi:1063705618,ref_number:NP_001324213.1,annotation: myosin XI D [Arabidopsis thaliana],best_score:414.0,evalue:3.85125e-40,length:1243
+gi:334188659,ref_number:NP_001190628.1,annotation: kinesin-like calmodulin-binding protein (ZWICHEL) [Arabidopsis thaliana],best_score:328.0,evalue:5.35985e-30,length:1266
+gi:30698170,ref_number:NP_569022.2,annotation: kinesin-like calmodulin-binding protein (ZWICHEL) [Arabidopsis thaliana],best_score:327.0,evalue:7.68192e-30,length:1260
+gi:30698168,ref_number:NP_851276.1,annotation: kinesin-like calmodulin-binding protein (ZWICHEL) [Arabidopsis thaliana],best_score:316.0,evalue:1.54997e-28,length:1259
+gi:42562547,ref_number:NP_174989.2,annotation: P-loop containing nucleoside triphosphate hydrolases superfamily protein [Arabidopsis thaliana],best_score:269.0,evalue:1.94825e-26,length:170
+gi:957858043,ref_number:XP_014678165.1,annotation: PREDICTED: myosin-VIIa-like [Priapulus caudatus],best_score:1641.0,evalue:0.0,length:873
+gi:957825873,ref_number:XP_014662734.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Priapulus caudatus],best_score:1421.0,evalue:5.35329e-163,length:1908
+gi:957832162,ref_number:XP_014666080.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X2 [Priapulus caudatus],best_score:1249.0,evalue:3.80272e-147,length:1025
+gi:957832154,ref_number:XP_014666076.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X1 [Priapulus caudatus] >gi,best_score:1246.0,evalue:1.09353e-146,length:1033
+gi:957825781,ref_number:XP_014662682.1,annotation: PREDICTED: myosin heavy chain, muscle-like isoform X1 [Priapulus caudatus],best_score:1273.0,evalue:1.75305e-143,length:1954
+gi:957825783,ref_number:XP_014662683.1,annotation: PREDICTED: myosin heavy chain, muscle-like isoform X2 [Priapulus caudatus],best_score:1265.0,evalue:1.02868e-142,length:1878
+gi:957844310,ref_number:XP_014672549.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like [Priapulus caudatus],best_score:1263.0,evalue:3.58916e-142,length:1956
+gi:957823583,ref_number:XP_014661502.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X1 [Priapulus caudatus],best_score:1261.0,evalue:6.76532e-142,length:1955
+gi:957852883,ref_number:XP_014676450.1,annotation: PREDICTED: myosin heavy chain, muscle-like [Priapulus caudatus],best_score:1253.0,evalue:6.83515e-141,length:1949
+gi:957852891,ref_number:XP_014676451.1,annotation: PREDICTED: myosin heavy chain, muscle-like [Priapulus caudatus],best_score:1250.0,evalue:1.46323e-140,length:1950
+gi:957822204,ref_number:XP_014681451.1,annotation: PREDICTED: myosin-10-like [Priapulus caudatus],best_score:1247.0,evalue:3.15258e-140,length:1927
+gi:957825785,ref_number:XP_014662685.1,annotation: PREDICTED: myosin heavy chain, muscle-like isoform X3 [Priapulus caudatus],best_score:1242.0,evalue:8.03882e-140,length:1878
+gi:957839160,ref_number:XP_014669838.1,annotation: PREDICTED: myosin heavy chain, muscle-like [Priapulus caudatus],best_score:1237.0,evalue:2.15219e-137,length:2828
+gi:957856874,ref_number:XP_014677764.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-Ie-like [Priapulus caudatus],best_score:1147.0,evalue:1.10954e-133,length:1009
+gi:957833832,ref_number:XP_014666990.1,annotation: PREDICTED: myosin heavy chain, muscle-like, partial [Priapulus caudatus],best_score:1192.0,evalue:1.38882e-133,length:1835
+gi:957833102,ref_number:XP_014666593.1,annotation: PREDICTED: unconventional myosin-Vb-like [Priapulus caudatus],best_score:1151.0,evalue:6.11185e-129,length:1707
+gi:957854968,ref_number:XP_014677124.1,annotation: PREDICTED: unconventional myosin-VI-like [Priapulus caudatus],best_score:1095.0,evalue:1.27138e-127,length:926
+gi:957839006,ref_number:XP_014669755.1,annotation: PREDICTED: myosin-IIIb-like [Priapulus caudatus],best_score:1109.0,evalue:2.29162e-123,length:1785
+gi:957840719,ref_number:XP_014670674.1,annotation: PREDICTED: myosin heavy chain, muscle-like [Priapulus caudatus],best_score:1093.0,evalue:4.98066e-121,length:1916
+gi:957829877,ref_number:XP_014664868.1,annotation: PREDICTED: unconventional myosin-Id-like [Priapulus caudatus],best_score:985.0,evalue:1.96858e-117,length:552
+gi:957828333,ref_number:XP_014664038.1,annotation: PREDICTED: unconventional myosin-XIX-like isoform X2 [Priapulus caudatus],best_score:990.0,evalue:7.79023e-113,length:1025
+gi:957828331,ref_number:XP_014664037.1,annotation: PREDICTED: unconventional myosin-XIX-like isoform X1 [Priapulus caudatus],best_score:989.0,evalue:1.12451e-112,length:1026
+gi:957823585,ref_number:XP_014661503.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X2 [Priapulus caudatus],best_score:753.0,evalue:2.63644e-80,length:1673
+gi:957850294,ref_number:XP_014675586.1,annotation: PREDICTED: unconventional myosin-XV-like, partial [Priapulus caudatus],best_score:691.0,evalue:1.64955e-78,length:540
+gi:957847936,ref_number:XP_014674466.1,annotation: PREDICTED: myosin heavy chain, muscle-like [Priapulus caudatus],best_score:681.0,evalue:9.31465e-72,length:1620
+gi:957862268,ref_number:XP_014679551.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Priapulus caudatus],best_score:561.0,evalue:2.24762e-66,length:143
+gi:957823187,ref_number:XP_014681975.1,annotation: PREDICTED: unconventional myosin-IXa-like [Priapulus caudatus],best_score:617.0,evalue:2.69086e-64,length:1527
+gi:957858400,ref_number:XP_014678285.1,annotation: PREDICTED: myosin-VIIa-like [Priapulus caudatus],best_score:508.0,evalue:3.58166e-59,length:150
+gi:957864789,ref_number:XP_014680330.1,annotation: PREDICTED: myosin-VIIa-like, partial [Priapulus caudatus],best_score:501.0,evalue:2.13851e-58,length:137
+gi:957821882,ref_number:XP_014681276.1,annotation: PREDICTED: unconventional myosin-XVIIIa-like [Priapulus caudatus],best_score:545.0,evalue:7.57709e-56,length:1316
+gi:957862271,ref_number:XP_014679552.1,annotation: PREDICTED: myosin-VIIa-like, partial [Priapulus caudatus],best_score:466.0,evalue:7.15572e-54,length:122
+gi:957847930,ref_number:XP_014674462.1,annotation: PREDICTED: myosin-4-like [Priapulus caudatus],best_score:372.0,evalue:2.69452e-39,length:268
+gi:957832285,ref_number:XP_014666147.1,annotation: PREDICTED: myosin-7-like [Priapulus caudatus],best_score:290.0,evalue:8.88095e-29,length:239
+gi:957841184,ref_number:XP_014670916.1,annotation: PREDICTED: unconventional myosin-Ib-like, partial [Priapulus caudatus],best_score:234.0,evalue:1.19848e-19,length:536
+gi:957836980,ref_number:XP_014668683.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Priapulus caudatus],best_score:192.0,evalue:7.49041e-17,length:130
+gi:957863880,ref_number:XP_014680057.1,annotation: PREDICTED: unconventional myosin-Id-like, partial [Priapulus caudatus],best_score:185.0,evalue:8.58457e-16,length:148
+gi:957831397,ref_number:XP_014665681.1,annotation: PREDICTED: uncharacterized protein LOC106807743 [Priapulus caudatus],best_score:187.0,evalue:8.64372e-14,length:733
+gi:957818078,ref_number:XP_014668112.1,annotation: PREDICTED: rho GTPase-activating protein 39-like [Priapulus caudatus],best_score:137.0,evalue:7.01051e-08,length:1322
+gi:957835230,ref_number:XP_014667741.1,annotation: PREDICTED: abnormal spindle-like microcephaly-associated protein homolog [Priapulus caudatus],best_score:137.0,evalue:8.17673e-08,length:3735
+gi:961131892,ref_number:XP_014786283.1,annotation: PREDICTED: myosin-VIIa-like [Octopus bimaculoides],best_score:6833.0,evalue:0.0,length:2130
+gi:961140574,ref_number:XP_014789298.1,annotation: PREDICTED: unconventional myosin-XV-like, partial [Octopus bimaculoides],best_score:1546.0,evalue:0.0,length:768
+gi:961067409,ref_number:XP_014775826.1,annotation: PREDICTED: myosin-IIIa-like [Octopus bimaculoides],best_score:1383.0,evalue:3.15195e-162,length:1322
+gi:961100118,ref_number:XP_014775109.1,annotation: PREDICTED: myosin-VIIa-like [Octopus bimaculoides],best_score:1371.0,evalue:2.09513e-161,length:1240
+gi:961139049,ref_number:XP_014788765.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X3 [Octopus bimaculoides],best_score:1323.0,evalue:5.79616e-158,length:958
+gi:961139043,ref_number:XP_014788763.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X1 [Octopus bimaculoides],best_score:1326.0,evalue:2.34237e-157,length:1040
+gi:961139046,ref_number:XP_014788764.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X2 [Octopus bimaculoides],best_score:1324.0,evalue:2.646e-157,length:1028
+gi:961093263,ref_number:XP_014772775.1,annotation: PREDICTED: unconventional myosin-Id-like [Octopus bimaculoides],best_score:1322.0,evalue:4.54141e-157,length:1017
+gi:961105354,ref_number:XP_014776942.1,annotation: PREDICTED: unconventional myosin-X-like isoform X3 [Octopus bimaculoides],best_score:1382.0,evalue:1.07038e-155,length:2417
+gi:961105351,ref_number:XP_014776941.1,annotation: PREDICTED: unconventional myosin-X-like isoform X2 [Octopus bimaculoides],best_score:1381.0,evalue:1.32711e-155,length:2423
+gi:961105357,ref_number:XP_014776943.1,annotation: PREDICTED: unconventional myosin-X-like isoform X4 [Octopus bimaculoides],best_score:1375.0,evalue:1.47702e-155,length:2185
+gi:961105348,ref_number:XP_014776940.1,annotation: PREDICTED: unconventional myosin-X-like isoform X1 [Octopus bimaculoides],best_score:1381.0,evalue:1.60382e-155,length:2426
+gi:961127322,ref_number:XP_014784685.1,annotation: PREDICTED: myosin-IIIb-like [Octopus bimaculoides],best_score:1307.0,evalue:3.29956e-155,length:998
+gi:961099236,ref_number:XP_014774805.1,annotation: PREDICTED: LOW QUALITY PROTEIN: myosin heavy chain, striated muscle-like [Octopus bimaculoides],best_score:1270.0,evalue:7.84195e-143,length:1989
+gi:961090440,ref_number:XP_014771808.1,annotation: PREDICTED: unconventional myosin-VI-like, partial [Octopus bimaculoides],best_score:1205.0,evalue:9.35065e-140,length:1163
+gi:961139143,ref_number:XP_014788800.1,annotation: PREDICTED: unconventional myosin-Ib-like [Octopus bimaculoides],best_score:1151.0,evalue:2.23336e-134,length:985
+gi:961104683,ref_number:XP_014776720.1,annotation: PREDICTED: myosin-IIIb-like [Octopus bimaculoides],best_score:1055.0,evalue:2.90657e-125,length:662
+gi:961102401,ref_number:XP_014775915.1,annotation: PREDICTED: unconventional myosin-Va-like, partial [Octopus bimaculoides],best_score:1117.0,evalue:5.63368e-124,length:1862
+gi:961130694,ref_number:XP_014785858.1,annotation: PREDICTED: myosin heavy chain, non-muscle-like isoform X3 [Octopus bimaculoides],best_score:983.0,evalue:1.13616e-107,length:1796
+gi:961130691,ref_number:XP_014785857.1,annotation: PREDICTED: myosin heavy chain, non-muscle-like isoform X2 [Octopus bimaculoides],best_score:977.0,evalue:6.47025e-107,length:1802
+gi:961130688,ref_number:XP_014785856.1,annotation: PREDICTED: myosin heavy chain, non-muscle-like isoform X1 [Octopus bimaculoides],best_score:970.0,evalue:4.95221e-106,length:1812
+gi:961109463,ref_number:XP_014778365.1,annotation: PREDICTED: uncharacterized protein LOC106874956 [Octopus bimaculoides],best_score:972.0,evalue:7.04424e-106,length:2052
+gi:961106567,ref_number:XP_014777362.1,annotation: PREDICTED: unconventional myosin-XIX-like isoform X1 [Octopus bimaculoides],best_score:738.0,evalue:4.02035e-81,length:914
+gi:961106570,ref_number:XP_014777364.1,annotation: PREDICTED: unconventional myosin-XIX-like isoform X2 [Octopus bimaculoides],best_score:738.0,evalue:4.2206e-81,length:907
+gi:961081910,ref_number:XP_014768828.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X6 [Octopus bimaculoides],best_score:759.0,evalue:7.30714e-81,length:1734
+gi:961081931,ref_number:XP_014768835.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X13 [Octopus bimaculoides],best_score:742.0,evalue:5.22227e-79,length:1585
+gi:961081928,ref_number:XP_014768834.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X12 [Octopus bimaculoides],best_score:742.0,evalue:6.11619e-79,length:1606
+gi:961081907,ref_number:XP_014768827.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X5 [Octopus bimaculoides],best_score:742.0,evalue:8.34601e-79,length:1736
+gi:961081895,ref_number:XP_014768822.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X1 [Octopus bimaculoides],best_score:742.0,evalue:8.56343e-79,length:1754
+gi:961081925,ref_number:XP_014768833.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X11 [Octopus bimaculoides],best_score:742.0,evalue:8.69743e-79,length:1694
+gi:961081904,ref_number:XP_014768826.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X4 [Octopus bimaculoides],best_score:742.0,evalue:8.85433e-79,length:1749
+gi:961081913,ref_number:XP_014768829.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X7 [Octopus bimaculoides],best_score:742.0,evalue:8.86729e-79,length:1732
+gi:961081901,ref_number:XP_014768824.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X3 [Octopus bimaculoides],best_score:742.0,evalue:9.3204e-79,length:1749
+gi:961081898,ref_number:XP_014768823.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X2 [Octopus bimaculoides],best_score:742.0,evalue:9.41808e-79,length:1750
+gi:961081922,ref_number:XP_014768832.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X10 [Octopus bimaculoides],best_score:741.0,evalue:1.05434e-78,length:1716
+gi:961081916,ref_number:XP_014768830.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X8 [Octopus bimaculoides],best_score:741.0,evalue:1.12299e-78,length:1726
+gi:961081919,ref_number:XP_014768831.1,annotation: PREDICTED: unconventional myosin-IXa-like isoform X9 [Octopus bimaculoides],best_score:741.0,evalue:1.18993e-78,length:1725
+gi:961092326,ref_number:XP_014772462.1,annotation: PREDICTED: uncharacterized protein LOC106870779 [Octopus bimaculoides],best_score:735.0,evalue:9.76277e-78,length:2049
+gi:961140791,ref_number:XP_014789374.1,annotation: PREDICTED: unconventional myosin-XVIIIa-like [Octopus bimaculoides],best_score:672.0,evalue:3.13294e-70,length:2458
+gi:961069569,ref_number:XP_014772537.1,annotation: PREDICTED: unconventional myosin-Ie-like [Octopus bimaculoides],best_score:638.0,evalue:4.76038e-68,length:965
+gi:961106573,ref_number:XP_014777365.1,annotation: PREDICTED: unconventional myosin-XIX-like isoform X3 [Octopus bimaculoides],best_score:628.0,evalue:1.36545e-67,length:832
+gi:961103846,ref_number:XP_014776423.1,annotation: PREDICTED: unconventional myosin-IXa-like, partial [Octopus bimaculoides],best_score:357.0,evalue:4.00872e-37,length:275
+gi:961133811,ref_number:XP_014786951.1,annotation: PREDICTED: unconventional myosin-XV-like, partial [Octopus bimaculoides],best_score:317.0,evalue:9.04009e-29,length:1961
+gi:961136010,ref_number:XP_014787716.1,annotation: PREDICTED: unconventional myosin-XVI-like [Octopus bimaculoides],best_score:272.0,evalue:7.54212e-24,length:704
+gi:961078563,ref_number:XP_014767674.1,annotation: PREDICTED: uncharacterized protein LOC106867341 [Octopus bimaculoides],best_score:171.0,evalue:9.18482e-12,length:1155
+gi:961084144,ref_number:XP_014769594.1,annotation: PREDICTED: unconventional myosin-Ib-like, partial [Octopus bimaculoides],best_score:140.0,evalue:4.03706e-10,length:95
+gi:961116443,ref_number:XP_014780920.1,annotation: PREDICTED: uncharacterized protein CG43867-like [Octopus bimaculoides],best_score:150.0,evalue:2.01748e-09,length:587
+gi:1133451887,ref_number:XP_019863708.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:6310.0,evalue:0.0,length:2190
+gi:1133459753,ref_number:XP_019851103.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:1622.0,evalue:0.0,length:533
+gi:1133483664,ref_number:XP_019860107.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:1594.0,evalue:0.0,length:897
+gi:1133450128,ref_number:XP_019857517.1,annotation: PREDICTED: unconventional myosin-X [Amphimedon queenslandica],best_score:1456.0,evalue:9.39106e-179,length:773
+gi:1133455731,ref_number:XP_019849639.1,annotation: PREDICTED: unconventional myosin-Ia [Amphimedon queenslandica],best_score:1356.0,evalue:1.83303e-160,length:1138
+gi:1133448985,ref_number:XP_019852881.1,annotation: PREDICTED: unconventional myosin-Vb-like [Amphimedon queenslandica],best_score:1363.0,evalue:1.34406e-157,length:1545
+gi:1133468041,ref_number:XP_019854287.1,annotation: PREDICTED: myosin-IIIb [Amphimedon queenslandica],best_score:1350.0,evalue:2.47949e-157,length:1370
+gi:1133448439,ref_number:XP_019850778.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-Id-like [Amphimedon queenslandica],best_score:1314.0,evalue:3.32782e-156,length:1006
+gi:1133475246,ref_number:XP_019857046.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X2 [Amphimedon queenslandica],best_score:1291.0,evalue:2.25018e-152,length:1062
+gi:1133475244,ref_number:XP_019857045.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X1 [Amphimedon queenslandica],best_score:1277.0,evalue:2.8412e-150,length:1081
+gi:340368596,ref_number:XP_003382837.1,annotation: PREDICTED: myosin heavy chain, striated muscle [Amphimedon queenslandica],best_score:1270.0,evalue:4.22467e-143,length:1922
+gi:1133463446,ref_number:XP_019852528.1,annotation: PREDICTED: unconventional myosin-Ie, partial [Amphimedon queenslandica],best_score:1211.0,evalue:1.51171e-142,length:974
+gi:1133461626,ref_number:XP_019851817.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:1259.0,evalue:1.55484e-141,length:1954
+gi:340368578,ref_number:XP_003382828.1,annotation: PREDICTED: myosin heavy chain, non-muscle [Amphimedon queenslandica],best_score:1258.0,evalue:2.32576e-141,length:1974
+gi:1133460696,ref_number:XP_019851458.1,annotation: PREDICTED: unconventional myosin-VI [Amphimedon queenslandica],best_score:1174.0,evalue:4.91969e-135,length:1226
+gi:1133468739,ref_number:XP_019854572.1,annotation: PREDICTED: myosin-IIIb-like [Amphimedon queenslandica],best_score:1148.0,evalue:2.93457e-134,length:958
+gi:1133472170,ref_number:XP_019855869.1,annotation: PREDICTED: myosin-IIIb-like [Amphimedon queenslandica],best_score:1137.0,evalue:6.86393e-130,length:1273
+gi:1133457368,ref_number:XP_019850217.1,annotation: PREDICTED: unconventional myosin-IXb-like [Amphimedon queenslandica] >gi,best_score:1112.0,evalue:1.62268e-122,length:2300
+gi:1133459722,ref_number:XP_019851091.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:735.0,evalue:2.2272e-88,length:235
+gi:1133472822,ref_number:XP_019856108.1,annotation: PREDICTED: myosin-VIIa-like [Amphimedon queenslandica],best_score:752.0,evalue:2.2518e-86,length:553
+gi:1133454690,ref_number:XP_019849259.1,annotation: PREDICTED: unconventional myosin-IXa-like [Amphimedon queenslandica],best_score:582.0,evalue:2.3432e-61,length:901
+gi:1133480148,ref_number:XP_019858959.1,annotation: PREDICTED: unconventional myosin-If-like, partial [Amphimedon queenslandica],best_score:554.0,evalue:1.08215e-59,length:609
+gi:1133464676,ref_number:XP_019853008.1,annotation: PREDICTED: unconventional myosin-XVIIIa [Amphimedon queenslandica],best_score:565.0,evalue:9.79049e-58,length:2216
+gi:1133493317,ref_number:XP_011409105.2,annotation: PREDICTED: myosin-1-like, partial [Amphimedon queenslandica],best_score:310.0,evalue:2.40439e-32,length:159
+gi:1133453539,ref_number:XP_019848832.1,annotation: PREDICTED: rho GTPase-activating protein 39-like isoform X2 [Amphimedon queenslandica],best_score:166.0,evalue:3.20405e-11,length:725
+gi:761904248,ref_number:XP_011410218.1,annotation: PREDICTED: rho GTPase-activating protein 39-like isoform X1 [Amphimedon queenslandica],best_score:166.0,evalue:3.54931e-11,length:735
+gi:1133465501,ref_number:XP_019853340.1,annotation: PREDICTED: pleckstrin homology domain-containing family H member 1-like [Amphimedon queenslandica],best_score:157.0,evalue:4.50379e-10,length:1593
+gi:1133464622,ref_number:XP_019852994.1,annotation: PREDICTED: uncharacterized protein LOC109582609 [Amphimedon queenslandica],best_score:136.0,evalue:1.27214e-07,length:2058
+gi:1133458079,ref_number:XP_019850470.1,annotation: PREDICTED: abnormal spindle-like microcephaly-associated protein homolog, partial [Amphimedon queenslandica],best_score:125.0,evalue:2.89265e-06,length:2354
+gi:1133454380,ref_number:XP_019849140.1,annotation: PREDICTED: talin-1 [Amphimedon queenslandica],best_score:124.0,evalue:3.74129e-06,length:2490
+gi:66821367,ref_number:XP_644171.1,annotation: class VII unconventional myosin [Dictyostelium discoideum AX4],best_score:1745.0,evalue:0.0,length:2357
+gi:66814368,ref_number:XP_641363.1,annotation: myosin IA heavy chain [Dictyostelium discoideum AX4],best_score:1398.0,evalue:4.03424e-168,length:994
+gi:66823681,ref_number:XP_645195.1,annotation: hypothetical protein DDB_G0272112 [Dictyostelium discoideum AX4],best_score:1464.0,evalue:5.04858e-167,length:2245
+gi:66808035,ref_number:XP_637740.1,annotation: myosin II heavy chain [Dictyostelium discoideum AX4],best_score:1419.0,evalue:1.05571e-161,length:2116
+gi:166240253,ref_number:XP_001733030.1,annotation: hypothetical protein DDB_G0289447 [Dictyostelium discoideum AX4],best_score:1379.0,evalue:2.31209e-158,length:1771
+gi:66805717,ref_number:XP_636580.1,annotation: myosin IE [Dictyostelium discoideum AX4],best_score:1322.0,evalue:1.5578e-157,length:1005
+gi:66819573,ref_number:XP_643446.1,annotation: myosin ID heavy chain [Dictyostelium discoideum AX4],best_score:1287.0,evalue:1.55458e-151,length:1109
+gi:66805299,ref_number:XP_636382.1,annotation: myosin IB [Dictyostelium discoideum AX4],best_score:1261.0,evalue:4.43243e-148,length:1111
+gi:66818801,ref_number:XP_643060.1,annotation: myosin IC [Dictyostelium discoideum AX4],best_score:1166.0,evalue:1.10759e-134,length:1182
+gi:66805253,ref_number:XP_636359.1,annotation: myosin IF [Dictyostelium discoideum AX4],best_score:1131.0,evalue:5.44087e-131,length:1071
+gi:66820761,ref_number:XP_643950.1,annotation: myosin IK [Dictyostelium discoideum AX4],best_score:888.0,evalue:2.92048e-101,length:858
+gi:66801551,ref_number:XP_629701.1,annotation: calmodulin-binding protein [Dictyostelium discoideum AX4],best_score:879.0,evalue:1.96375e-95,length:1737
+gi:66819081,ref_number:XP_643200.1,annotation: unconventional myosin heavy chain [Dictyostelium discoideum AX4],best_score:741.0,evalue:1.76742e-78,length:3446
+gi:66806903,ref_number:XP_637174.1,annotation: hypothetical protein DDB_G0287505 [Dictyostelium discoideum AX4],best_score:160.0,evalue:1.52622e-10,length:2614
+gi:156368554,ref_number:XP_001627758.1,annotation: predicted protein [Nematostella vectensis],best_score:5800.0,evalue:0.0,length:1921
+gi:156396892,ref_number:XP_001637626.1,annotation: predicted protein [Nematostella vectensis],best_score:2306.0,evalue:0.0,length:802
+gi:156386363,ref_number:XP_001633882.1,annotation: predicted protein [Nematostella vectensis],best_score:1401.0,evalue:6.10648e-166,length:1209
+gi:156407866,ref_number:XP_001641578.1,annotation: predicted protein [Nematostella vectensis],best_score:1368.0,evalue:6.68718e-163,length:1080
+gi:156357022,ref_number:XP_001624024.1,annotation: predicted protein [Nematostella vectensis],best_score:1294.0,evalue:1.92159e-158,length:625
+gi:156391275,ref_number:XP_001635694.1,annotation: predicted protein [Nematostella vectensis],best_score:1312.0,evalue:2.34267e-153,length:1257
+gi:156394469,ref_number:XP_001636848.1,annotation: predicted protein [Nematostella vectensis],best_score:1312.0,evalue:5.72428e-150,length:1677
+gi:156366795,ref_number:XP_001627107.1,annotation: predicted protein [Nematostella vectensis],best_score:1198.0,evalue:6.50251e-144,length:719
+gi:156377928,ref_number:XP_001630897.1,annotation: predicted protein [Nematostella vectensis],best_score:1162.0,evalue:3.71153e-137,length:879
+gi:156369675,ref_number:XP_001628100.1,annotation: predicted protein [Nematostella vectensis],best_score:1166.0,evalue:3.36585e-134,length:1227
+gi:156397438,ref_number:XP_001637898.1,annotation: predicted protein [Nematostella vectensis],best_score:1136.0,evalue:2.35975e-132,length:1001
+gi:156357096,ref_number:XP_001624060.1,annotation: predicted protein [Nematostella vectensis],best_score:1121.0,evalue:1.9801e-130,length:987
+gi:156397259,ref_number:XP_001637809.1,annotation: predicted protein [Nematostella vectensis],best_score:1063.0,evalue:5.03189e-128,length:550
+gi:156395117,ref_number:XP_001636958.1,annotation: predicted protein [Nematostella vectensis],best_score:857.0,evalue:8.56692e-101,length:521
+gi:156337014,ref_number:XP_001619773.1,annotation: hypothetical protein NEMVEDRAFT_v1g223837 [Nematostella vectensis],best_score:663.0,evalue:1.67614e-76,length:398
+gi:156367282,ref_number:XP_001627347.1,annotation: predicted protein [Nematostella vectensis],best_score:531.0,evalue:2.60031e-61,length:218
+gi:156388875,ref_number:XP_001634718.1,annotation: predicted protein [Nematostella vectensis],best_score:534.0,evalue:9.04384e-56,length:842
+gi:156324730,ref_number:XP_001618472.1,annotation: hypothetical protein NEMVEDRAFT_v1g225104 [Nematostella vectensis],best_score:458.0,evalue:1.31754e-52,length:144
+gi:156334643,ref_number:XP_001619496.1,annotation: hypothetical protein NEMVEDRAFT_v1g151177 [Nematostella vectensis],best_score:340.0,evalue:7.09501e-36,length:208
+gi:156323993,ref_number:XP_001618435.1,annotation: hypothetical protein NEMVEDRAFT_v1g225149 [Nematostella vectensis],best_score:303.0,evalue:1.66272e-31,length:158
+gi:156395115,ref_number:XP_001636957.1,annotation: predicted protein [Nematostella vectensis],best_score:247.0,evalue:8.19829e-24,length:168
+gi:156389599,ref_number:XP_001635078.1,annotation: predicted protein [Nematostella vectensis],best_score:213.0,evalue:6.36965e-17,length:727
+gi:156310297,ref_number:XP_001617722.1,annotation: hypothetical protein NEMVEDRAFT_v1g49907 [Nematostella vectensis],best_score:183.0,evalue:1.03673e-16,length:50
+gi:156368731,ref_number:XP_001627846.1,annotation: predicted protein [Nematostella vectensis],best_score:174.0,evalue:2.75063e-14,length:151
+gi:156402925,ref_number:XP_001639840.1,annotation: predicted protein [Nematostella vectensis],best_score:179.0,evalue:9.32666e-13,length:2506
+gi:156397257,ref_number:XP_001637808.1,annotation: predicted protein [Nematostella vectensis],best_score:160.0,evalue:2.16872e-11,length:275
+gi:156367286,ref_number:XP_001627349.1,annotation: predicted protein [Nematostella vectensis],best_score:146.0,evalue:2.70502e-10,length:176
+gi:156305353,ref_number:XP_001617557.1,annotation: hypothetical protein NEMVEDRAFT_v1g225986 [Nematostella vectensis],best_score:116.0,evalue:4.80297e-07,length:101
+gi:156303041,ref_number:XP_001617461.1,annotation: hypothetical protein NEMVEDRAFT_v1g157535 [Nematostella vectensis],best_score:111.0,evalue:8.14239e-07,length:60
+gi:1069968460,ref_number:XP_018285262.1,annotation: hypothetical protein PHYBLDRAFT_137096 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1410.0,evalue:1.37457e-164,length:1501
+gi:1069944777,ref_number:XP_018295981.1,annotation: hypothetical protein PHYBLDRAFT_154650 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1414.0,evalue:1.87765e-164,length:1585
+gi:1069944787,ref_number:XP_018295986.1,annotation: hypothetical protein PHYBLDRAFT_185687 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1377.0,evalue:4.58094e-159,length:1641
+gi:1069963760,ref_number:XP_018285910.1,annotation: hypothetical protein PHYBLDRAFT_136641 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1272.0,evalue:1.32042e-145,length:1564
+gi:1069951632,ref_number:XP_018291652.1,annotation: hypothetical protein PHYBLDRAFT_71839 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1213.0,evalue:5.68146e-141,length:1176
+gi:1069952468,ref_number:XP_018291298.1,annotation: hypothetical protein PHYBLDRAFT_21117 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1154.0,evalue:6.52264e-134,length:1098
+gi:1069940994,ref_number:XP_018298022.1,annotation: hypothetical protein PHYBLDRAFT_106479, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:1048.0,evalue:3.89487e-119,length:1205
+gi:1069940858,ref_number:XP_018297920.1,annotation: glycosyltransferase family 2 protein, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:812.0,evalue:1.96298e-87,length:1742
+gi:1069936458,ref_number:XP_018299083.1,annotation: chitin synthase [Phycomyces blakesleeanus NRRL 1555(-)],best_score:761.0,evalue:2.35883e-81,length:1811
+gi:1069938686,ref_number:XP_018299352.1,annotation: glycosyltransferase family 2 protein, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:739.0,evalue:8.74909e-79,length:1728
+gi:1069959462,ref_number:XP_018288413.1,annotation: glycosyltransferase family 2 protein, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:727.0,evalue:3.382e-77,length:1966
+gi:1069968942,ref_number:XP_018283863.1,annotation: glycosyltransferase family 2 protein [Phycomyces blakesleeanus NRRL 1555(-)],best_score:701.0,evalue:3.37316e-74,length:1890
+gi:1069944447,ref_number:XP_018295763.1,annotation: glycosyltransferase family 2 protein, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:677.0,evalue:2.05445e-71,length:1659
+gi:1069959326,ref_number:XP_018288332.1,annotation: glycosyltransferase family 2 protein, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:672.0,evalue:8.61598e-71,length:1720
+gi:1069942212,ref_number:XP_018296401.1,annotation: hypothetical protein PHYBLDRAFT_107887, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:240.0,evalue:1.4167e-22,length:217
+gi:1069957641,ref_number:XP_018288824.1,annotation: hypothetical protein PHYBLDRAFT_114971 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:157.0,evalue:1.20152e-10,length:424
+gi:1069942214,ref_number:XP_018296402.1,annotation: hypothetical protein PHYBLDRAFT_107631, partial [Phycomyces blakesleeanus NRRL 1555(-)],best_score:137.0,evalue:2.8961e-09,length:168
+gi:6324902,ref_number:NP_014971.1,annotation: myosin 2 [Saccharomyces cerevisiae S288c],best_score:1370.0,evalue:7.45951e-159,length:1574
+gi:6319290,ref_number:NP_009373.1,annotation: myosin 4 [Saccharomyces cerevisiae S288c],best_score:1362.0,evalue:9.83541e-159,length:1471
+gi:330443650,ref_number:NP_012793.2,annotation: myosin 3 [Saccharomyces cerevisiae S288c],best_score:1217.0,evalue:6.51739e-141,length:1272
+gi:6323756,ref_number:NP_013827.1,annotation: myosin 5 [Saccharomyces cerevisiae S288c],best_score:1186.0,evalue:2.8451e-137,length:1219
+gi:6321812,ref_number:NP_011888.1,annotation: myosin 1 [Saccharomyces cerevisiae S288c],best_score:1169.0,evalue:7.14138e-131,length:1928
+gi:923124774,ref_number:XP_013755855.1,annotation: myosin VIIA [Thecamonas trahens ATCC 50062],best_score:1430.0,evalue:1.68947e-167,length:1629
+gi:923129202,ref_number:XP_013758067.1,annotation: hypothetical protein AMSG_11869 [Thecamonas trahens ATCC 50062],best_score:1319.0,evalue:3.53094e-154,length:1420
+gi:923132063,ref_number:XP_013759497.1,annotation: myosin ID heavy chain [Thecamonas trahens ATCC 50062],best_score:1261.0,evalue:6.46613e-151,length:966
+gi:923134245,ref_number:XP_013760588.1,annotation: hypothetical protein AMSG_02747 [Thecamonas trahens ATCC 50062],best_score:1315.0,evalue:2.46144e-149,length:2163
+gi:923121997,ref_number:XP_013754469.1,annotation: myosin XI-2 [Thecamonas trahens ATCC 50062],best_score:1293.0,evalue:9.24912e-147,length:2130
+gi:923121995,ref_number:XP_013754468.1,annotation: myosin XI-2 [Thecamonas trahens ATCC 50062],best_score:1290.0,evalue:1.28386e-145,length:2432
+gi:923125620,ref_number:XP_013756278.1,annotation: myosin-Id [Thecamonas trahens ATCC 50062],best_score:1226.0,evalue:3.10515e-145,length:1041
+gi:923139229,ref_number:XP_013763079.1,annotation: myosin [Thecamonas trahens ATCC 50062],best_score:1288.0,evalue:5.76074e-145,length:2897
+gi:923139293,ref_number:XP_013763111.1,annotation: defective spermatogenesis protein 15 [Thecamonas trahens ATCC 50062],best_score:1231.0,evalue:3.60337e-142,length:1467
+gi:923131219,ref_number:XP_013759075.1,annotation: hypothetical protein AMSG_04291 [Thecamonas trahens ATCC 50062],best_score:1237.0,evalue:4.2531e-139,length:2459
+gi:923120935,ref_number:XP_013753939.1,annotation: myosin IE heavy chain [Thecamonas trahens ATCC 50062],best_score:1175.0,evalue:1.84475e-138,length:1043
+gi:923138783,ref_number:XP_013762856.1,annotation: hypothetical protein AMSG_00585 [Thecamonas trahens ATCC 50062],best_score:1190.0,evalue:9.90086e-137,length:1477
+gi:923125212,ref_number:XP_013756074.1,annotation: myosin IE heavy chain [Thecamonas trahens ATCC 50062],best_score:1094.0,evalue:2.56248e-131,length:716
+gi:923132061,ref_number:XP_013759496.1,annotation: myosin-Ia [Thecamonas trahens ATCC 50062],best_score:1107.0,evalue:1.57733e-127,length:1259
+gi:923125472,ref_number:XP_013756204.1,annotation: hypothetical protein AMSG_07281 [Thecamonas trahens ATCC 50062],best_score:1091.0,evalue:6.20352e-125,length:1319
+gi:923131573,ref_number:XP_013759252.1,annotation: class VII unconventional myosin [Thecamonas trahens ATCC 50062],best_score:1104.0,evalue:1.22852e-124,length:1645
+gi:923125476,ref_number:XP_013756206.1,annotation: myosin IE heavy chain [Thecamonas trahens ATCC 50062],best_score:964.0,evalue:1.20563e-107,length:1545
+gi:923128087,ref_number:XP_013757510.1,annotation: myosin VIIA [Thecamonas trahens ATCC 50062],best_score:861.0,evalue:5.94816e-95,length:1520
+gi:923120534,ref_number:XP_013753739.1,annotation: hypothetical protein AMSG_12322 [Thecamonas trahens ATCC 50062],best_score:803.0,evalue:1.27426e-88,length:1293
+gi:923126649,ref_number:XP_013756791.1,annotation: myosin-I heavy chain class VII unconventional myosin [Thecamonas trahens ATCC 50062],best_score:789.0,evalue:1.71272e-87,length:1175
+gi:923122637,ref_number:XP_013754788.1,annotation: hypothetical protein AMSG_09426 [Thecamonas trahens ATCC 50062],best_score:773.0,evalue:2.48792e-84,length:1527
+gi:923134755,ref_number:XP_013760843.1,annotation: hypothetical protein AMSG_02296 [Thecamonas trahens ATCC 50062],best_score:714.0,evalue:1.45782e-82,length:572
+gi:923123057,ref_number:XP_013754998.1,annotation: Myh9 protein [Thecamonas trahens ATCC 50062],best_score:748.0,evalue:1.59364e-82,length:1125
+gi:923123333,ref_number:XP_013755135.1,annotation: hypothetical protein AMSG_12193 [Thecamonas trahens ATCC 50062],best_score:161.0,evalue:5.56244e-12,length:3776
+gi:923134753,ref_number:XP_013760842.1,annotation: dynactin [Thecamonas trahens ATCC 50062],best_score:155.0,evalue:2.03592e-11,length:706
+gi:923136931,ref_number:XP_013761930.1,annotation: hypothetical protein AMSG_01323 [Thecamonas trahens ATCC 50062],best_score:149.0,evalue:1.55494e-10,length:1868
+gi:923129427,ref_number:XP_013758179.1,annotation: hypothetical protein AMSG_05134 [Thecamonas trahens ATCC 50062],best_score:132.0,evalue:8.48156e-09,length:442
+gi:551670502,ref_number:XP_005838009.1,annotation: myosin [Guillardia theta CCMP2712],best_score:1262.0,evalue:2.42925e-145,length:1399
+gi:551637641,ref_number:XP_005821638.1,annotation: hypothetical protein GUITHDRAFT_80405, partial [Guillardia theta CCMP2712],best_score:1205.0,evalue:1.29681e-144,length:732
+gi:551638301,ref_number:XP_005821965.1,annotation: hypothetical protein GUITHDRAFT_158776 [Guillardia theta CCMP2712],best_score:1201.0,evalue:9.64695e-144,length:760
+gi:551647457,ref_number:XP_005826513.1,annotation: myosin [Guillardia theta CCMP2712],best_score:1214.0,evalue:9.45482e-141,length:1198
+gi:551642303,ref_number:XP_005823949.1,annotation: hypothetical protein GUITHDRAFT_165588 [Guillardia theta CCMP2712],best_score:1211.0,evalue:8.59872e-139,length:1365
+gi:551637748,ref_number:XP_005821691.1,annotation: hypothetical protein GUITHDRAFT_158791 [Guillardia theta CCMP2712],best_score:1094.0,evalue:3.80405e-129,length:771
+gi:551648968,ref_number:XP_005827265.1,annotation: hypothetical protein GUITHDRAFT_57369, partial [Guillardia theta CCMP2712],best_score:1051.0,evalue:1.02949e-124,length:670
+gi:551632163,ref_number:XP_005818957.1,annotation: hypothetical protein GUITHDRAFT_82670 [Guillardia theta CCMP2712],best_score:978.0,evalue:7.59052e-114,length:761
+gi:551657028,ref_number:XP_005831286.1,annotation: hypothetical protein GUITHDRAFT_72379, partial [Guillardia theta CCMP2712],best_score:960.0,evalue:2.06114e-112,length:680
+gi:551649191,ref_number:XP_005827376.1,annotation: hypothetical protein GUITHDRAFT_75545, partial [Guillardia theta CCMP2712],best_score:918.0,evalue:9.11044e-108,length:610
+gi:551667037,ref_number:XP_005836279.1,annotation: hypothetical protein GUITHDRAFT_68130, partial [Guillardia theta CCMP2712],best_score:677.0,evalue:8.7861e-77,length:523
+gi:551640998,ref_number:XP_005823302.1,annotation: hypothetical protein GUITHDRAFT_78981, partial [Guillardia theta CCMP2712],best_score:688.0,evalue:9.09065e-77,length:662
+gi:72388128,ref_number:XP_844488.1,annotation: myosin IB heavy chain [Trypanosoma brucei brucei TREU927],best_score:1113.0,evalue:9.15747e-128,length:1167
+gi:788002222,ref_number:XP_011772926.1,annotation: myosin IB heavy chain, putative [Trypanosoma brucei gambiense DAL972],best_score:1110.0,evalue:2.84196e-127,length:1167
+gi:74026244,ref_number:XP_829688.1,annotation: myosin [Trypanosoma brucei brucei TREU927],best_score:1017.0,evalue:4.29225e-116,length:1059
+gi:788028270,ref_number:XP_011780975.1,annotation: myosin heavy chain, putative [Trypanosoma brucei gambiense DAL972],best_score:1002.0,evalue:3.74126e-114,length:1059
+gi:67477667,ref_number:XP_654280.1,annotation: unconventional myosin IB [Entamoeba histolytica HM-1:IMSS],best_score:1269.0,evalue:4.58734e-150,length:1049
+gi:67483616,ref_number:XP_657028.1,annotation: myosin heavy chain [Entamoeba histolytica HM-1:IMSS],best_score:1177.0,evalue:3.10254e-131,length:2151
+gi:124513582,ref_number:XP_001350147.1,annotation: myosin A [Plasmodium falciparum 3D7],best_score:904.0,evalue:5.67702e-104,length:818
+gi:124505993,ref_number:XP_001351594.1,annotation: unconventional myosin pfm-b [Plasmodium falciparum 3D7],best_score:797.0,evalue:4.17293e-90,length:801
+gi:124513304,ref_number:XP_001350008.1,annotation: myosin [Plasmodium falciparum 3D7],best_score:695.0,evalue:1.79716e-73,length:2160
+gi:86170993,ref_number:XP_966126.1,annotation: myosin E [Plasmodium falciparum 3D7],best_score:371.0,evalue:1.56026e-35,length:2153
+gi:124806330,ref_number:XP_001350693.1,annotation: myosin D [Plasmodium falciparum 3D7],best_score:311.0,evalue:1.95689e-28,length:2231
+gi:258597388,ref_number:XP_001348086.2,annotation: myosin heavy chain subunit, putative [Plasmodium falciparum 3D7],best_score:218.0,evalue:1.39189e-17,length:1738
+gi:145512431,ref_number:XP_001442132.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:1050.0,evalue:4.19124e-118,length:1307
+gi:145487300,ref_number:XP_001429655.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:1026.0,evalue:6.12819e-114,length:1494
+gi:145546332,ref_number:XP_001458849.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:1020.0,evalue:4.78533e-113,length:1523
+gi:145544066,ref_number:XP_001457718.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:1002.0,evalue:5.24086e-113,length:1151
+gi:145519081,ref_number:XP_001445407.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:920.0,evalue:3.4906e-101,length:1387
+gi:145505437,ref_number:XP_001438685.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:883.0,evalue:1.62906e-96,length:1397
+gi:145520423,ref_number:XP_001446067.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:633.0,evalue:6.11106e-66,length:1470
+gi:145483985,ref_number:XP_001428015.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:606.0,evalue:2.62901e-62,length:2371
+gi:145488067,ref_number:XP_001430038.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:411.0,evalue:3.36693e-40,length:855
+gi:145491726,ref_number:XP_001431862.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:293.0,evalue:5.09649e-26,length:811
+gi:19074177,ref_number:NP_584783.1,annotation: MYOSIN HEAVY CHAIN [Encephalitozoon cuniculi GB-M1],best_score:1134.0,evalue:6.5209e-128,length:1700
+gi:85014511,ref_number:XP_955751.1,annotation: myosin heavy chain [Encephalitozoon cuniculi GB-M1],best_score:739.0,evalue:2.37429e-81,length:1082
+gi:828213112,ref_number:XP_012559202.1,annotation: PREDICTED: myosin-VIIa-like [Hydra vulgaris],best_score:6120.0,evalue:0.0,length:2146
+gi:828213497,ref_number:XP_012559323.1,annotation: PREDICTED: myosin-VIIa-like, partial [Hydra vulgaris],best_score:2860.0,evalue:0.0,length:1002
+gi:828191302,ref_number:XP_012556458.1,annotation: PREDICTED: unconventional myosin-Ia-like [Hydra vulgaris],best_score:1387.0,evalue:3.89732e-167,length:1039
+gi:449687163,ref_number:XP_004211378.1,annotation: PREDICTED: unconventional myosin-Va-like, partial [Hydra vulgaris],best_score:1344.0,evalue:2.99369e-164,length:794
+gi:828214719,ref_number:XP_012559760.1,annotation: PREDICTED: unconventional myosin-Va [Hydra vulgaris],best_score:1394.0,evalue:7.61706e-162,length:1723
+gi:828228880,ref_number:XP_012564396.1,annotation: PREDICTED: unconventional myosin-Ie-like [Hydra vulgaris],best_score:1303.0,evalue:4.65856e-155,length:1090
+gi:828207248,ref_number:XP_012557219.1,annotation: PREDICTED: unconventional myosin-Id-like [Hydra vulgaris],best_score:1256.0,evalue:9.88237e-150,length:997
+gi:828198808,ref_number:XP_012554391.1,annotation: PREDICTED: unconventional myosin-VI-like [Hydra vulgaris],best_score:1264.0,evalue:1.26368e-148,length:1208
+gi:828222195,ref_number:XP_012562223.1,annotation: PREDICTED: myosin-IIIb-like [Hydra vulgaris],best_score:1257.0,evalue:5.38807e-146,length:1407
+gi:828218104,ref_number:XP_012560866.1,annotation: PREDICTED: myosin-10-like [Hydra vulgaris],best_score:1237.0,evalue:4.06717e-140,length:1945
+gi:828213969,ref_number:XP_002157926.3,annotation: PREDICTED: myosin heavy chain, striated muscle-like [Hydra vulgaris],best_score:1205.0,evalue:4.48716e-136,length:1951
+gi:828216650,ref_number:XP_012560393.1,annotation: PREDICTED: unconventional myosin-IXa-like [Hydra vulgaris],best_score:1133.0,evalue:2.3336e-127,length:1867
+gi:828218028,ref_number:XP_012560841.1,annotation: PREDICTED: myosin-IIIb-like, partial [Hydra vulgaris],best_score:937.0,evalue:1.24327e-106,length:1106
+gi:828213300,ref_number:XP_012559254.1,annotation: PREDICTED: unconventional myosin-X-like, partial [Hydra vulgaris],best_score:946.0,evalue:4.8403e-106,length:1388
+gi:828232461,ref_number:XP_012565487.1,annotation: PREDICTED: unconventional myosin-XV-like [Hydra vulgaris],best_score:461.0,evalue:2.45556e-52,length:287
+gi:828231287,ref_number:XP_012565129.1,annotation: PREDICTED: unconventional myosin-X-like, partial [Hydra vulgaris],best_score:461.0,evalue:5.23347e-52,length:310
+gi:449665234,ref_number:XP_004206099.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like [Hydra vulgaris],best_score:441.0,evalue:7.67357e-50,length:272
+gi:828219219,ref_number:XP_012561217.1,annotation: PREDICTED: unconventional myosin-XV-like isoform X1 [Hydra vulgaris],best_score:412.0,evalue:3.67794e-42,length:755
+gi:828219221,ref_number:XP_012561218.1,annotation: PREDICTED: unconventional myosin-XV-like isoform X2 [Hydra vulgaris],best_score:401.0,evalue:5.05837e-41,length:715
+gi:828200832,ref_number:XP_012555046.1,annotation: PREDICTED: myosin-IIIb-like, partial [Hydra vulgaris],best_score:365.0,evalue:7.88206e-39,length:344
+gi:828219807,ref_number:XP_012561411.1,annotation: PREDICTED: myosin-2 heavy chain-like [Hydra vulgaris],best_score:353.0,evalue:8.726e-35,length:885
+gi:449668718,ref_number:XP_004206854.1,annotation: PREDICTED: unconventional myosin-Ie-like [Hydra vulgaris],best_score:259.0,evalue:4.97534e-24,length:537
+gi:828217128,ref_number:XP_012560559.1,annotation: PREDICTED: unconventional myosin-XVIIIa-like [Hydra vulgaris],best_score:263.0,evalue:7.32793e-24,length:1711
+gi:449685317,ref_number:XP_004210871.1,annotation: PREDICTED: unconventional myosin-XV-like, partial [Hydra vulgaris],best_score:234.0,evalue:1.40187e-21,length:371
+gi:828226846,ref_number:XP_012563754.1,annotation: PREDICTED: unconventional myosin-XVIIIa-like, partial [Hydra vulgaris],best_score:198.0,evalue:1.83241e-16,length:602
+gi:828209587,ref_number:XP_012558025.1,annotation: PREDICTED: pleckstrin homology domain-containing family H member 2-like [Hydra vulgaris],best_score:187.0,evalue:5.56049e-15,length:1115
+gi:828200302,ref_number:XP_012554877.1,annotation: PREDICTED: rho GTPase-activating protein 39-like [Hydra vulgaris],best_score:180.0,evalue:2.76176e-14,length:863
+gi:449665093,ref_number:XP_002154525.2,annotation: PREDICTED: talin-2 [Hydra vulgaris],best_score:168.0,evalue:1.19747e-12,length:2507
+gi:828205212,ref_number:XP_012556536.1,annotation: PREDICTED: unconventional myosin-X-like, partial [Hydra vulgaris],best_score:155.0,evalue:1.669e-11,length:498
+gi:828197139,ref_number:XP_012553784.1,annotation: PREDICTED: talin-1-like [Hydra vulgaris],best_score:132.0,evalue:1.67838e-08,length:1949
+gi:828195146,ref_number:XP_012566860.1,annotation: PREDICTED: abnormal spindle-like microcephaly-associated protein homolog [Hydra vulgaris],best_score:120.0,evalue:4.95315e-07,length:2677
+gi:828198282,ref_number:XP_002156154.2,annotation: PREDICTED: radixin-like [Hydra vulgaris],best_score:110.0,evalue:4.80407e-06,length:503
+gi:844872854,ref_number:XP_012800902.1,annotation: Myosin-11 [Schistosoma haematobium],best_score:1171.0,evalue:1.35297e-130,length:2028
+gi:844869082,ref_number:XP_012799946.1,annotation: Unconventional myosin-XV, partial [Schistosoma haematobium],best_score:708.0,evalue:1.04436e-81,length:486
+gi:844846262,ref_number:XP_012794533.1,annotation: Myosin heavy chain, striated muscle, partial [Schistosoma haematobium],best_score:467.0,evalue:2.29145e-52,length:258
+gi:844857790,ref_number:XP_012797226.1,annotation: hypothetical protein MS3_05811, partial [Schistosoma haematobium],best_score:447.0,evalue:2.88549e-44,length:2091
+gi:844878774,ref_number:XP_012802331.1,annotation: Myosin heavy chain, non-muscle, partial [Schistosoma haematobium],best_score:379.0,evalue:8.85176e-40,length:332
+gi:844870286,ref_number:XP_012800229.1,annotation: Myosin IA heavy chain [Schistosoma haematobium],best_score:264.0,evalue:4.29635e-23,length:937
+gi:844879947,ref_number:XP_012802564.1,annotation: Unconventional myosin-XV, partial [Schistosoma haematobium],best_score:203.0,evalue:6.07024e-19,length:98
+gi:844871533,ref_number:XP_012800540.1,annotation: Unconventional myosin-XVIIIa [Schistosoma haematobium],best_score:214.0,evalue:3.52428e-17,length:870
+gi:844871523,ref_number:XP_012800537.1,annotation: Talin-2 [Schistosoma haematobium],best_score:148.0,evalue:2.86e-09,length:2144
+gi:844858508,ref_number:XP_012797379.1,annotation: Abnormal spindle-like microcephaly-associated protein-like protein [Schistosoma haematobium],best_score:141.0,evalue:1.88955e-08,length:1853
+gi:844850265,ref_number:XP_012795441.1,annotation: Rho GTPase-activating protein 39 [Schistosoma haematobium],best_score:130.0,evalue:2.79392e-07,length:1676
+gi:17568553,ref_number:NP_508420.1,annotation: Unconventional myosin heavy chain 6 [Caenorhabditis elegans],best_score:3231.0,evalue:0.0,length:2098
+gi:17553936,ref_number:NP_497809.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1282.0,evalue:1.158e-151,length:1017
+gi:17507983,ref_number:NP_492393.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1244.0,evalue:1.55763e-145,length:1100
+gi:17508741,ref_number:NP_490856.1,annotation: Uncharacterized protein CELE_F47G6.4 [Caenorhabditis elegans],best_score:1228.0,evalue:2.50929e-142,length:1219
+gi:1061385258,ref_number:NP_001317742.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1255.0,evalue:1.14251e-141,length:1811
+gi:1061385256,ref_number:NP_001317741.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1255.0,evalue:1.15867e-141,length:1809
+gi:25150354,ref_number:NP_508504.2,annotation: Non-muscle MYosin [Caenorhabditis elegans],best_score:1208.0,evalue:5.88976e-135,length:1963
+gi:32566139,ref_number:NP_506065.2,annotation: Myosin-3 [Caenorhabditis elegans],best_score:1182.0,evalue:1.16232e-131,length:1969
+gi:808355833,ref_number:NP_001023549.3,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1133.0,evalue:5.6093e-130,length:1190
+gi:71983975,ref_number:NP_492186.3,annotation: Non-muscle MYosin [Caenorhabditis elegans],best_score:1166.0,evalue:1.24462e-129,length:2003
+gi:71986155,ref_number:NP_001022590.1,annotation: MYOsin heavy chain structural genes [Caenorhabditis elegans],best_score:1132.0,evalue:2.15286e-129,length:1235
+gi:808355831,ref_number:NP_001023548.2,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1132.0,evalue:3.08264e-129,length:1265
+gi:808358096,ref_number:NP_001294574.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1131.0,evalue:5.59908e-129,length:1279
+gi:25150292,ref_number:NP_510092.2,annotation: Myosin-2 [Caenorhabditis elegans],best_score:1148.0,evalue:1.53951e-127,length:1947
+gi:17509401,ref_number:NP_493596.1,annotation: Myosin-4 [Caenorhabditis elegans],best_score:1124.0,evalue:1.72383e-124,length:1963
+gi:17508449,ref_number:NP_492053.1,annotation: Myosin-1 [Caenorhabditis elegans],best_score:1121.0,evalue:3.4984e-124,length:1938
+gi:17561652,ref_number:NP_505094.1,annotation: MYOsin heavy chain structural genes [Caenorhabditis elegans],best_score:1109.0,evalue:1.11477e-122,length:1974
+gi:392884660,ref_number:NP_001248879.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1078.0,evalue:4.34888e-119,length:1867
+gi:392884662,ref_number:NP_001248880.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:1077.0,evalue:6.38059e-119,length:1880
+gi:32566156,ref_number:NP_501620.2,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:988.0,evalue:1.72089e-109,length:1464
+gi:808359005,ref_number:NP_001294790.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:730.0,evalue:4.78891e-77,length:2544
+gi:392927368,ref_number:NP_001257157.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:730.0,evalue:4.98843e-77,length:2581
+gi:392927374,ref_number:NP_001257160.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:334.0,evalue:5.44492e-31,length:963
+gi:392927376,ref_number:NP_001257161.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:331.0,evalue:1.55323e-30,length:1000
+gi:808359009,ref_number:NP_001294792.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:331.0,evalue:1.84228e-30,length:1249
+gi:392927372,ref_number:NP_001257159.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:328.0,evalue:4.15346e-30,length:1286
+gi:808359007,ref_number:NP_001294791.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:327.0,evalue:5.76752e-30,length:1338
+gi:392927370,ref_number:NP_001257158.1,annotation: Heavy chain, Unconventional Myosin [Caenorhabditis elegans],best_score:324.0,evalue:1.20808e-29,length:1375
+gi:133900948,ref_number:NP_001041091.2,annotation: Motor AXon guidance [Caenorhabditis elegans],best_score:183.0,evalue:3.93984e-13,length:995
+gi:133900950,ref_number:NP_001041092.2,annotation: Motor AXon guidance [Caenorhabditis elegans],best_score:183.0,evalue:4.14962e-13,length:1099
+gi:71996268,ref_number:NP_001021818.1,annotation: TaLiN [Caenorhabditis elegans],best_score:157.0,evalue:4.37369e-10,length:996
+gi:25143518,ref_number:NP_490886.2,annotation: TaLiN [Caenorhabditis elegans],best_score:156.0,evalue:6.89777e-10,length:2553
+gi:339246673,ref_number:XP_003374970.1,annotation: putative MyTH4 domain protein [Trichinella spiralis],best_score:2978.0,evalue:0.0,length:1251
+gi:339246675,ref_number:XP_003374971.1,annotation: putative myosin head [Trichinella spiralis],best_score:1804.0,evalue:0.0,length:884
+gi:339247611,ref_number:XP_003375439.1,annotation: putative myosin head [Trichinella spiralis],best_score:1156.0,evalue:5.30982e-129,length:1926
+gi:339251558,ref_number:XP_003372801.1,annotation: putative myosin head [Trichinella spiralis],best_score:1117.0,evalue:7.06724e-128,length:1238
+gi:339260668,ref_number:XP_003368291.1,annotation: unconventional myosin heavy chain 6 [Trichinella spiralis],best_score:1000.0,evalue:3.70491e-121,length:446
+gi:339261788,ref_number:XP_003367730.1,annotation: myosin-VIIa [Trichinella spiralis],best_score:987.0,evalue:4.79303e-121,length:338
+gi:339249938,ref_number:XP_003373954.1,annotation: putative myosin head [Trichinella spiralis],best_score:855.0,evalue:2.12651e-95,length:1065
+gi:339245631,ref_number:XP_003378741.1,annotation: putative myosin head [Trichinella spiralis],best_score:712.0,evalue:1.06622e-75,length:1581
+gi:339243457,ref_number:XP_003377654.1,annotation: putative myosin head [Trichinella spiralis],best_score:610.0,evalue:1.6838e-63,length:1930
+gi:339235529,ref_number:XP_003379319.1,annotation: putative myosin head (motor domain) [Trichinella spiralis],best_score:571.0,evalue:4.66033e-59,length:1545
+gi:339245633,ref_number:XP_003378742.1,annotation: putative MyTH4 domain protein [Trichinella spiralis],best_score:301.0,evalue:4.47372e-28,length:568
+gi:339247199,ref_number:XP_003375233.1,annotation: putative MyTH4 domain protein [Trichinella spiralis],best_score:198.0,evalue:3.02047e-15,length:1022
+gi:339238839,ref_number:XP_003380974.1,annotation: putative RhoGAP domain protein [Trichinella spiralis],best_score:174.0,evalue:2.00289e-12,length:1465
+gi:339260578,ref_number:XP_003368336.1,annotation: myosin-XV [Trichinella spiralis],best_score:126.0,evalue:9.75313e-09,length:83
+gi:339263750,ref_number:XP_003367000.1,annotation: talin-1 [Trichinella spiralis],best_score:113.0,evalue:5.79191e-06,length:199
+gi:675850706,ref_number:XP_009010913.1,annotation: hypothetical protein HELRODRAFT_186656 [Helobdella robusta],best_score:6432.0,evalue:0.0,length:2225
+gi:675868968,ref_number:XP_009020044.1,annotation: hypothetical protein HELRODRAFT_188784 [Helobdella robusta],best_score:6046.0,evalue:0.0,length:2113
+gi:675873428,ref_number:XP_009022274.1,annotation: hypothetical protein HELRODRAFT_84308, partial [Helobdella robusta],best_score:1288.0,evalue:1.33796e-157,length:618
+gi:675886774,ref_number:XP_009028889.1,annotation: hypothetical protein HELRODRAFT_189498 [Helobdella robusta],best_score:1372.0,evalue:1.06259e-156,length:1874
+gi:675859928,ref_number:XP_009015524.1,annotation: hypothetical protein HELRODRAFT_64397 [Helobdella robusta],best_score:1269.0,evalue:3.40298e-151,length:912
+gi:675873302,ref_number:XP_009022211.1,annotation: hypothetical protein HELRODRAFT_129847, partial [Helobdella robusta],best_score:1249.0,evalue:2.4534e-149,length:842
+gi:675847634,ref_number:XP_009009377.1,annotation: hypothetical protein HELRODRAFT_187944 [Helobdella robusta],best_score:1252.0,evalue:5.8738e-148,length:992
+gi:675890758,ref_number:XP_009030881.1,annotation: hypothetical protein HELRODRAFT_116401 [Helobdella robusta],best_score:1230.0,evalue:4.0945e-146,length:899
+gi:675879780,ref_number:XP_009025414.1,annotation: hypothetical protein HELRODRAFT_186525 [Helobdella robusta],best_score:1220.0,evalue:1.90379e-143,length:1008
+gi:675890096,ref_number:XP_009030550.1,annotation: hypothetical protein HELRODRAFT_165806 [Helobdella robusta],best_score:1215.0,evalue:6.1777e-142,length:1092
+gi:675857992,ref_number:XP_009014556.1,annotation: hypothetical protein HELRODRAFT_170488 [Helobdella robusta],best_score:1153.0,evalue:9.26822e-138,length:723
+gi:675889126,ref_number:XP_009030065.1,annotation: hypothetical protein HELRODRAFT_104176 [Helobdella robusta],best_score:1144.0,evalue:4.2105e-131,length:1237
+gi:675863440,ref_number:XP_009017280.1,annotation: hypothetical protein HELRODRAFT_99594, partial [Helobdella robusta],best_score:1096.0,evalue:8.48778e-125,length:1251
+gi:675852306,ref_number:XP_009011713.1,annotation: hypothetical protein HELRODRAFT_190322 [Helobdella robusta],best_score:983.0,evalue:1.55123e-107,length:1925
+gi:675854714,ref_number:XP_009012917.1,annotation: hypothetical protein HELRODRAFT_190655 [Helobdella robusta],best_score:916.0,evalue:1.30569e-105,length:771
+gi:675889776,ref_number:XP_009030390.1,annotation: hypothetical protein HELRODRAFT_189721 [Helobdella robusta],best_score:671.0,evalue:3.86288e-73,length:833
+gi:675858820,ref_number:XP_009014970.1,annotation: hypothetical protein HELRODRAFT_191219 [Helobdella robusta],best_score:682.0,evalue:8.75435e-72,length:1874
+gi:675885448,ref_number:XP_009028226.1,annotation: hypothetical protein HELRODRAFT_193971 [Helobdella robusta],best_score:654.0,evalue:4.40978e-71,length:832
+gi:675875910,ref_number:XP_009023515.1,annotation: hypothetical protein HELRODRAFT_192996 [Helobdella robusta],best_score:518.0,evalue:9.18821e-54,length:844
+gi:675874620,ref_number:XP_009022870.1,annotation: hypothetical protein HELRODRAFT_188960 [Helobdella robusta],best_score:421.0,evalue:6.34867e-46,length:264
+gi:675873648,ref_number:XP_009022384.1,annotation: hypothetical protein HELRODRAFT_176799 [Helobdella robusta],best_score:319.0,evalue:2.98396e-29,length:1219
+gi:675850188,ref_number:XP_009010654.1,annotation: hypothetical protein HELRODRAFT_194873 [Helobdella robusta],best_score:299.0,evalue:5.88574e-27,length:960
+gi:675855034,ref_number:XP_009013077.1,annotation: hypothetical protein HELRODRAFT_168991 [Helobdella robusta],best_score:279.0,evalue:2.28703e-26,length:340
+gi:675851600,ref_number:XP_009011360.1,annotation: hypothetical protein HELRODRAFT_167625 [Helobdella robusta],best_score:217.0,evalue:1.53288e-19,length:196
+gi:675880814,ref_number:XP_009025909.1,annotation: hypothetical protein HELRODRAFT_86231 [Helobdella robusta],best_score:177.0,evalue:6.19566e-13,length:464
+gi:675850396,ref_number:XP_009010758.1,annotation: hypothetical protein HELRODRAFT_91642 [Helobdella robusta],best_score:173.0,evalue:1.3408e-12,length:366
+gi:675867538,ref_number:XP_009019329.1,annotation: hypothetical protein HELRODRAFT_188525 [Helobdella robusta],best_score:169.0,evalue:1.34236e-11,length:1223
+gi:675855032,ref_number:XP_009013076.1,annotation: hypothetical protein HELRODRAFT_190701 [Helobdella robusta],best_score:162.0,evalue:6.62825e-11,length:736
+gi:675874120,ref_number:XP_009022620.1,annotation: hypothetical protein HELRODRAFT_106880 [Helobdella robusta],best_score:148.0,evalue:2.07232e-09,length:478
+gi:675885450,ref_number:XP_009028227.1,annotation: hypothetical protein HELRODRAFT_115456 [Helobdella robusta],best_score:138.0,evalue:3.37702e-08,length:432
+gi:675887754,ref_number:XP_009029379.1,annotation: hypothetical protein HELRODRAFT_115799 [Helobdella robusta],best_score:132.0,evalue:2.96753e-07,length:2556
+gi:675847794,ref_number:XP_009009457.1,annotation: hypothetical protein HELRODRAFT_159320 [Helobdella robusta],best_score:131.0,evalue:3.27977e-07,length:714
+gi:694541662,ref_number:XP_009497107.1,annotation: hypothetical protein H696_04966 [Fonticula alba],best_score:1345.0,evalue:4.92785e-155,length:1618
+gi:694544509,ref_number:XP_009497927.1,annotation: hypothetical protein H696_05852 [Fonticula alba],best_score:1378.0,evalue:5.59337e-155,length:2960
+gi:694529857,ref_number:XP_009493712.1,annotation: hypothetical protein H696_01540 [Fonticula alba],best_score:1269.0,evalue:7.33413e-150,length:1058
+gi:694543932,ref_number:XP_009497760.1,annotation: myosin heavy chain [Fonticula alba],best_score:1272.0,evalue:1.36695e-148,length:1224
+gi:694538337,ref_number:XP_009496147.1,annotation: hypothetical protein H696_04004 [Fonticula alba],best_score:1286.0,evalue:7.59014e-148,length:1534
+gi:694527378,ref_number:XP_009492990.1,annotation: myosin I [Fonticula alba],best_score:1237.0,evalue:5.70887e-145,length:1113
+gi:694532536,ref_number:XP_009494485.1,annotation: myosin I [Fonticula alba],best_score:1164.0,evalue:1.27577e-134,length:1183
+gi:694536199,ref_number:XP_009495535.1,annotation: hypothetical protein H696_03395 [Fonticula alba],best_score:140.0,evalue:2.0034e-08,length:2557
+gi:694534507,ref_number:XP_009495055.1,annotation: hypothetical protein H696_02885 [Fonticula alba],best_score:121.0,evalue:2.32245e-06,length:836
+gi:241861300,ref_number:XP_002416324.1,annotation: myosin IA, putative [Ixodes scapularis],best_score:2448.0,evalue:0.0,length:690
+gi:242003695,ref_number:XP_002436207.1,annotation: myosin IA, putative [Ixodes scapularis],best_score:1261.0,evalue:4.99679e-151,length:847
+gi:241618557,ref_number:XP_002408349.1,annotation: myosin IA, putative [Ixodes scapularis],best_score:1208.0,evalue:3.71406e-141,length:1096
+gi:241753596,ref_number:XP_002401139.1,annotation: embryonic/neonatal myosin heavy chain, putative [Ixodes scapularis],best_score:1156.0,evalue:3.16273e-137,length:818
+gi:241997622,ref_number:XP_002433460.1,annotation: myosin heavy chain, skeletal muscle or cardiac muscle, putative [Ixodes scapularis],best_score:1158.0,evalue:1.49837e-129,length:1812
+gi:241733201,ref_number:XP_002412311.1,annotation: myosin-IX, putative [Ixodes scapularis],best_score:1131.0,evalue:3.86254e-126,length:1837
+gi:241998678,ref_number:XP_002433982.1,annotation: myosin VII, putative [Ixodes scapularis],best_score:996.0,evalue:1.39787e-123,length:243
+gi:240952296,ref_number:XP_002399377.1,annotation: myosin, putative [Ixodes scapularis],best_score:1090.0,evalue:2.49653e-120,length:2138
+gi:241674439,ref_number:XP_002400123.1,annotation: mysoin heavy chain, putative [Ixodes scapularis],best_score:996.0,evalue:8.02043e-112,length:1289
+gi:241740501,ref_number:XP_002414115.1,annotation: myosin, putative [Ixodes scapularis],best_score:900.0,evalue:2.30831e-101,length:1026
+gi:241594108,ref_number:XP_002404255.1,annotation: myosin X, putative [Ixodes scapularis],best_score:761.0,evalue:9.54738e-84,length:1007
+gi:241684490,ref_number:XP_002401274.1,annotation: myosin IB, putative [Ixodes scapularis],best_score:524.0,evalue:9.59147e-56,length:656
+gi:241682494,ref_number:XP_002412720.1,annotation: myosin VII, putative [Ixodes scapularis],best_score:465.0,evalue:7.78178e-54,length:132
+gi:241999016,ref_number:XP_002434151.1,annotation: myosin xvIII, putative [Ixodes scapularis],best_score:452.0,evalue:2.89956e-45,length:1087
+gi:241126770,ref_number:XP_002404315.1,annotation: hypothetical protein IscW_ISCW003197 [Ixodes scapularis],best_score:309.0,evalue:2.71399e-33,length:95
+gi:241998680,ref_number:XP_002433983.1,annotation: myosin VII, putative [Ixodes scapularis],best_score:255.0,evalue:2.21439e-25,length:143
+gi:241855642,ref_number:XP_002416040.1,annotation: myosin XV, putative [Ixodes scapularis],best_score:250.0,evalue:3.2438e-23,length:285
+gi:241566004,ref_number:XP_002402064.1,annotation: RhoGAP protein, putative [Ixodes scapularis],best_score:171.0,evalue:3.11179e-12,length:500
+gi:241860659,ref_number:XP_002416291.1,annotation: talin, putative [Ixodes scapularis],best_score:145.0,evalue:7.44764e-09,length:2605
+gi:240980926,ref_number:XP_002403566.1,annotation: myosin I, putative [Ixodes scapularis],best_score:122.0,evalue:3.57615e-08,length:87
+gi:304570837,ref_number:XP_002404260.2,annotation: plekhH1, putative [Ixodes scapularis],best_score:118.0,evalue:6.74291e-06,length:819
+gi:929771116,ref_number:XP_014160491.1,annotation: hypothetical protein SARC_01270 [Sphaeroforma arctica JP610],best_score:1297.0,evalue:8.9237e-147,length:1937
+gi:929757391,ref_number:XP_014153677.1,annotation: hypothetical protein SARC_07848, partial [Sphaeroforma arctica JP610],best_score:1074.0,evalue:2.59886e-129,length:568
+gi:929759616,ref_number:XP_014154789.1,annotation: hypothetical protein SARC_06769 [Sphaeroforma arctica JP610],best_score:904.0,evalue:1.97587e-106,length:584
+gi:929757823,ref_number:XP_014153893.1,annotation: hypothetical protein SARC_07634, partial [Sphaeroforma arctica JP610],best_score:663.0,evalue:2.79461e-72,length:841
+gi:929742392,ref_number:XP_014146180.1,annotation: hypothetical protein SARC_15169 [Sphaeroforma arctica JP610],best_score:504.0,evalue:1.30542e-57,length:233
+gi:929746869,ref_number:XP_014148418.1,annotation: hypothetical protein SARC_12941, partial [Sphaeroforma arctica JP610],best_score:420.0,evalue:4.70216e-46,length:258
+gi:929744784,ref_number:XP_014147376.1,annotation: hypothetical protein SARC_13968, partial [Sphaeroforma arctica JP610],best_score:406.0,evalue:3.05844e-44,length:255
+gi:929743742,ref_number:XP_014146855.1,annotation: hypothetical protein SARC_14486, partial [Sphaeroforma arctica JP610],best_score:243.0,evalue:4.08746e-24,length:122
+gi:929742736,ref_number:XP_014146352.1,annotation: hypothetical protein SARC_14992 [Sphaeroforma arctica JP610],best_score:202.0,evalue:8.64943e-19,length:102
+gi:929736812,ref_number:XP_014143395.1,annotation: hypothetical protein SARC_17993, partial [Sphaeroforma arctica JP610],best_score:179.0,evalue:3.81826e-16,length:59
+gi:929745932,ref_number:XP_014147950.1,annotation: hypothetical protein SARC_13394, partial [Sphaeroforma arctica JP610],best_score:146.0,evalue:4.65153e-11,length:115
+gi:929745548,ref_number:XP_014147758.1,annotation: hypothetical protein SARC_13586, partial [Sphaeroforma arctica JP610],best_score:144.0,evalue:2.16771e-09,length:321
+gi:929737104,ref_number:XP_014143541.1,annotation: hypothetical protein SARC_17847, partial [Sphaeroforma arctica JP610],best_score:127.0,evalue:3.66511e-09,length:61
+gi:929737879,ref_number:XP_014143927.1,annotation: hypothetical protein SARC_17453, partial [Sphaeroforma arctica JP610],best_score:126.0,evalue:2.09938e-08,length:109
+gi:929739661,ref_number:XP_014144818.1,annotation: hypothetical protein SARC_16550, partial [Sphaeroforma arctica JP610],best_score:123.0,evalue:2.83485e-08,length:89
+gi:929746285,ref_number:XP_014148126.1,annotation: hypothetical protein SARC_13223, partial [Sphaeroforma arctica JP610],best_score:135.0,evalue:3.82544e-08,length:388
+gi:929740845,ref_number:XP_014145407.1,annotation: hypothetical protein SARC_15953, partial [Sphaeroforma arctica JP610],best_score:123.0,evalue:1.06585e-07,length:139
+gi:17737417,ref_number:NP_523571.1,annotation: crinkled, isoform B [Drosophila melanogaster] >gi,best_score:7105.0,evalue:0.0,length:2167
+gi:24582549,ref_number:NP_652630.2,annotation: myosin 28B1, isoform A [Drosophila melanogaster],best_score:4065.0,evalue:0.0,length:2121
+gi:24582545,ref_number:NP_723294.1,annotation: myosin 28B1, isoform B [Drosophila melanogaster],best_score:4061.0,evalue:0.0,length:2122
+gi:221473430,ref_number:NP_723296.2,annotation: myosin 28B1, isoform D [Drosophila melanogaster],best_score:2318.0,evalue:0.0,length:1033
+gi:221473426,ref_number:NP_723295.2,annotation: myosin 28B1, isoform C [Drosophila melanogaster],best_score:2314.0,evalue:0.0,length:1034
+gi:221329824,ref_number:NP_572669.2,annotation: myosin 10A, isoform C [Drosophila melanogaster] >gi,best_score:1592.0,evalue:0.0,length:3054
+gi:221329826,ref_number:NP_001036269.2,annotation: myosin 10A, isoform D [Drosophila melanogaster],best_score:1582.0,evalue:6.51756e-180,length:3145
+gi:24655129,ref_number:NP_728595.1,annotation: myosin 61F, isoform B [Drosophila melanogaster] >gi,best_score:1309.0,evalue:4.12107e-155,length:1026
+gi:45551497,ref_number:NP_728594.2,annotation: myosin 61F, isoform A [Drosophila melanogaster],best_score:1308.0,evalue:6.14352e-155,length:1035
+gi:45549051,ref_number:NP_476934.2,annotation: myosin 61F, isoform D [Drosophila melanogaster],best_score:1309.0,evalue:6.79658e-155,length:1052
+gi:24586273,ref_number:NP_724570.1,annotation: dilute class unconventional myosin, isoform B [Drosophila melanogaster],best_score:1281.0,evalue:1.79014e-149,length:1196
+gi:17647709,ref_number:NP_523538.1,annotation: myosin 31DF, isoform A [Drosophila melanogaster] >gi,best_score:1242.0,evalue:3.46515e-146,length:1011
+gi:939626269,ref_number:NP_001303492.1,annotation: myosin 81F [Drosophila melanogaster],best_score:1296.0,evalue:1.1078e-145,length:2082
+gi:17137244,ref_number:NP_477186.1,annotation: dilute class unconventional myosin, isoform A [Drosophila melanogaster],best_score:1279.0,evalue:9.09453e-145,length:1792
+gi:24586270,ref_number:NP_724569.1,annotation: dilute class unconventional myosin, isoform C [Drosophila melanogaster],best_score:1277.0,evalue:1.85812e-144,length:1800
+gi:62471820,ref_number:NP_001014553.1,annotation: zipper, isoform C [Drosophila melanogaster] >gi,best_score:1266.0,evalue:3.23187e-142,length:1971
+gi:62471805,ref_number:NP_001014552.1,annotation: zipper, isoform D [Drosophila melanogaster],best_score:1266.0,evalue:4.00439e-142,length:2016
+gi:320544374,ref_number:NP_001189011.1,annotation: zipper, isoform H [Drosophila melanogaster],best_score:1259.0,evalue:2.41399e-141,length:1964
+gi:320544370,ref_number:NP_001189009.1,annotation: zipper, isoform F [Drosophila melanogaster],best_score:1259.0,evalue:2.97354e-141,length:1979
+gi:386768643,ref_number:NP_001246516.1,annotation: zipper, isoform I [Drosophila melanogaster],best_score:1260.0,evalue:3.1721e-141,length:2024
+gi:24762816,ref_number:NP_523860.2,annotation: zipper, isoform A [Drosophila melanogaster],best_score:1230.0,evalue:2.04487e-137,length:2056
+gi:24762818,ref_number:NP_726506.1,annotation: zipper, isoform B [Drosophila melanogaster],best_score:1228.0,evalue:2.69172e-137,length:2011
+gi:386769714,ref_number:NP_001246050.1,annotation: myosin heavy chain, isoform T [Drosophila melanogaster],best_score:1211.0,evalue:2.68883e-135,length:1962
+gi:281362444,ref_number:NP_001014649.2,annotation: jaguar, isoform I [Drosophila melanogaster],best_score:1166.0,evalue:2.82307e-135,length:1073
+gi:24584706,ref_number:NP_724006.1,annotation: myosin heavy chain, isoform I [Drosophila melanogaster],best_score:1201.0,evalue:4.5831e-134,length:1962
+gi:24584702,ref_number:NP_724004.1,annotation: myosin heavy chain, isoform D [Drosophila melanogaster],best_score:1201.0,evalue:5.24938e-134,length:1962
+gi:386769716,ref_number:NP_001246051.1,annotation: myosin heavy chain, isoform U [Drosophila melanogaster],best_score:1198.0,evalue:9.17331e-134,length:1949
+gi:24649614,ref_number:NP_732976.1,annotation: jaguar, isoform B [Drosophila melanogaster] >gi,best_score:1165.0,evalue:1.3407e-133,length:1253
+gi:281362442,ref_number:NP_001014650.2,annotation: jaguar, isoform H [Drosophila melanogaster] >gi,best_score:1166.0,evalue:1.34899e-133,length:1268
+gi:665394938,ref_number:NP_001287501.1,annotation: jaguar, isoform N [Drosophila melanogaster],best_score:1164.0,evalue:1.47347e-133,length:1238
+gi:24584700,ref_number:NP_724003.1,annotation: myosin heavy chain, isoform F [Drosophila melanogaster],best_score:1194.0,evalue:4.01352e-133,length:1962
+gi:24584710,ref_number:NP_724007.1,annotation: myosin heavy chain, isoform B [Drosophila melanogaster],best_score:1191.0,evalue:8.04458e-133,length:1962
+gi:24584716,ref_number:NP_724010.1,annotation: myosin heavy chain, isoform M [Drosophila melanogaster],best_score:1190.0,evalue:8.85419e-133,length:1936
+gi:281365099,ref_number:NP_001162992.1,annotation: myosin heavy chain, isoform P [Drosophila melanogaster],best_score:1190.0,evalue:9.29042e-133,length:1949
+gi:28574239,ref_number:NP_523587.4,annotation: myosin heavy chain, isoform H [Drosophila melanogaster],best_score:1191.0,evalue:9.81184e-133,length:1962
+gi:281365095,ref_number:NP_001162990.1,annotation: myosin heavy chain, isoform N [Drosophila melanogaster],best_score:1189.0,evalue:1.24047e-132,length:1949
+gi:24584704,ref_number:NP_724005.1,annotation: myosin heavy chain, isoform A [Drosophila melanogaster],best_score:1189.0,evalue:1.77994e-132,length:1962
+gi:24584692,ref_number:NP_723999.1,annotation: myosin heavy chain, isoform C [Drosophila melanogaster],best_score:1187.0,evalue:3.00332e-132,length:1962
+gi:939619638,ref_number:NP_001303327.1,annotation: myosin heavy chain, isoform V [Drosophila melanogaster],best_score:1184.0,evalue:6.01269e-132,length:1962
+gi:24584712,ref_number:NP_724008.1,annotation: myosin heavy chain, isoform K [Drosophila melanogaster],best_score:1184.0,evalue:6.12404e-132,length:1936
+gi:386769710,ref_number:NP_001246048.1,annotation: myosin heavy chain, isoform R [Drosophila melanogaster],best_score:1183.0,evalue:9.8695e-132,length:1962
+gi:24584696,ref_number:NP_724001.1,annotation: myosin heavy chain, isoform E [Drosophila melanogaster],best_score:1177.0,evalue:4.43868e-131,length:1962
+gi:386769708,ref_number:NP_724002.2,annotation: myosin heavy chain, isoform Q [Drosophila melanogaster],best_score:1177.0,evalue:5.7102e-131,length:1962
+gi:24584694,ref_number:NP_724000.1,annotation: myosin heavy chain, isoform G [Drosophila melanogaster] >gi,best_score:1176.0,evalue:5.97288e-131,length:1962
+gi:386769712,ref_number:NP_001246049.1,annotation: myosin heavy chain, isoform S [Drosophila melanogaster],best_score:1176.0,evalue:7.08602e-131,length:1962
+gi:24584714,ref_number:NP_724009.1,annotation: myosin heavy chain, isoform L [Drosophila melanogaster],best_score:1170.0,evalue:3.11903e-130,length:1936
+gi:320544699,ref_number:NP_001188729.1,annotation: dachs, isoform D [Drosophila melanogaster],best_score:680.0,evalue:5.03094e-72,length:1244
+gi:320544701,ref_number:NP_001188730.1,annotation: dachs, isoform E [Drosophila melanogaster],best_score:681.0,evalue:9.66656e-72,length:1426
+gi:78706810,ref_number:NP_001027208.1,annotation: myosin 95E, isoform E [Drosophila melanogaster],best_score:664.0,evalue:5.66524e-70,length:1288
+gi:45553483,ref_number:NP_996278.1,annotation: myosin 95E, isoform D [Drosophila melanogaster],best_score:618.0,evalue:1.91697e-64,length:1278
+gi:919060262,ref_number:XP_013411852.1,annotation: PREDICTED: myosin-VIIa-like [Lingula anatina],best_score:7553.0,evalue:0.0,length:2176
+gi:919088411,ref_number:XP_013381225.1,annotation: PREDICTED: myosin-VIIa-like [Lingula anatina],best_score:3870.0,evalue:0.0,length:1220
+gi:919078456,ref_number:XP_013420387.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-XV-like [Lingula anatina],best_score:1654.0,evalue:0.0,length:2973
+gi:919021847,ref_number:XP_013394780.1,annotation: PREDICTED: myosin-IIIb-like isoform X6 [Lingula anatina],best_score:1412.0,evalue:1.72902e-169,length:997
+gi:919021845,ref_number:XP_013394779.1,annotation: PREDICTED: myosin-IIIb-like isoform X5 [Lingula anatina],best_score:1412.0,evalue:1.98936e-169,length:1001
+gi:919021841,ref_number:XP_013394777.1,annotation: PREDICTED: myosin-IIIb-like isoform X3 [Lingula anatina],best_score:1415.0,evalue:3.6663e-169,length:1057
+gi:919021843,ref_number:XP_013394778.1,annotation: PREDICTED: myosin-IIIb-like isoform X4 [Lingula anatina],best_score:1414.0,evalue:4.62328e-169,length:1053
+gi:919021839,ref_number:XP_013394776.1,annotation: PREDICTED: myosin-IIIb-like isoform X2 [Lingula anatina],best_score:1416.0,evalue:5.20909e-169,length:1080
+gi:919021837,ref_number:XP_013394775.1,annotation: PREDICTED: myosin-IIIb-like isoform X1 [Lingula anatina],best_score:1415.0,evalue:5.92508e-169,length:1083
+gi:919103988,ref_number:XP_013388317.1,annotation: PREDICTED: unconventional myosin-Ia-like [Lingula anatina],best_score:1352.0,evalue:2.90674e-160,length:1082
+gi:919090837,ref_number:XP_013382459.1,annotation: PREDICTED: unconventional myosin-Va-like [Lingula anatina],best_score:1391.0,evalue:1.24496e-158,length:1911
+gi:919059750,ref_number:XP_013411638.1,annotation: PREDICTED: unconventional myosin-Va-like [Lingula anatina],best_score:1391.0,evalue:1.6615e-158,length:1936
+gi:919070017,ref_number:XP_013416504.1,annotation: PREDICTED: unconventional myosin-Ic-like [Lingula anatina],best_score:1283.0,evalue:3.93266e-151,length:1056
+gi:919084309,ref_number:XP_013379437.1,annotation: PREDICTED: unconventional myosin-Ie-like [Lingula anatina],best_score:1272.0,evalue:6.53756e-149,length:1116
+gi:919058516,ref_number:XP_013411137.1,annotation: PREDICTED: myosin-IIIb-like isoform X4 [Lingula anatina],best_score:1287.0,evalue:1.72406e-147,length:1513
+gi:919058512,ref_number:XP_013411135.1,annotation: PREDICTED: myosin-IIIb-like isoform X2 [Lingula anatina],best_score:1289.0,evalue:4.64957e-147,length:1602
+gi:919058514,ref_number:XP_013411136.1,annotation: PREDICTED: myosin-IIIb-like isoform X3 [Lingula anatina],best_score:1286.0,evalue:8.7683e-147,length:1581
+gi:919036391,ref_number:XP_013401655.1,annotation: PREDICTED: unconventional myosin-Id-like [Lingula anatina],best_score:1247.0,evalue:1.0105e-146,length:1005
+gi:919058505,ref_number:XP_013411132.1,annotation: PREDICTED: myosin-IIIb-like isoform X1 [Lingula anatina] >gi,best_score:1291.0,evalue:2.37821e-145,length:1955
+gi:919073783,ref_number:XP_013418100.1,annotation: PREDICTED: myosin-IIIb-like isoform X2 [Lingula anatina],best_score:1267.0,evalue:2.47612e-145,length:1445
+gi:919073787,ref_number:XP_013418102.1,annotation: PREDICTED: myosin-IIIb-like isoform X4 [Lingula anatina] >gi,best_score:1254.0,evalue:4.05354e-144,length:1370
+gi:919073785,ref_number:XP_013418101.1,annotation: PREDICTED: myosin-IIIb-like isoform X3 [Lingula anatina],best_score:1254.0,evalue:9.10777e-144,length:1417
+gi:919073781,ref_number:XP_013418099.1,annotation: PREDICTED: myosin-IIIb-like isoform X1 [Lingula anatina],best_score:1254.0,evalue:1.60895e-143,length:1453
+gi:919038431,ref_number:XP_013402692.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X25 [Lingula anatina],best_score:1255.0,evalue:1.08502e-140,length:1981
+gi:919038409,ref_number:XP_013402681.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X14 [Lingula anatina],best_score:1254.0,evalue:1.46712e-140,length:1982
+gi:919038429,ref_number:XP_013402691.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X24 [Lingula anatina],best_score:1250.0,evalue:2.5465e-140,length:1907
+gi:919038425,ref_number:XP_013402689.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X22 [Lingula anatina],best_score:1247.0,evalue:6.15578e-140,length:1907
+gi:919038427,ref_number:XP_013402690.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X23 [Lingula anatina],best_score:1246.0,evalue:9.22334e-140,length:1907
+gi:919063885,ref_number:XP_013413545.1,annotation: PREDICTED: unconventional myosin-VI-like [Lingula anatina],best_score:1213.0,evalue:1.16026e-139,length:1264
+gi:919038395,ref_number:XP_013402673.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X7 [Lingula anatina],best_score:1244.0,evalue:2.85334e-139,length:1987
+gi:919038411,ref_number:XP_013402682.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X15 [Lingula anatina],best_score:1239.0,evalue:1.2328e-138,length:1967
+gi:919038415,ref_number:XP_013402684.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X17 [Lingula anatina],best_score:1239.0,evalue:1.23573e-138,length:1962
+gi:919038397,ref_number:XP_013402674.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X8 [Lingula anatina],best_score:1239.0,evalue:1.2392e-138,length:1987
+gi:919038399,ref_number:XP_013402675.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X9 [Lingula anatina],best_score:1239.0,evalue:1.33295e-138,length:1987
+gi:919038403,ref_number:XP_013402678.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X11 [Lingula anatina],best_score:1239.0,evalue:1.51559e-138,length:1986
+gi:919038383,ref_number:XP_013402667.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X1 [Lingula anatina],best_score:1238.0,evalue:1.75067e-138,length:1988
+gi:919038413,ref_number:XP_013402683.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X16 [Lingula anatina],best_score:1237.0,evalue:1.94883e-138,length:1964
+gi:919038391,ref_number:XP_013402671.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X5 [Lingula anatina],best_score:1236.0,evalue:2.97213e-138,length:1987
+gi:919038423,ref_number:XP_013402688.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X21 [Lingula anatina],best_score:1232.0,evalue:6.2777e-138,length:1913
+gi:919038389,ref_number:XP_013402670.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X4 [Lingula anatina],best_score:1233.0,evalue:7.65479e-138,length:1988
+gi:919038421,ref_number:XP_013402687.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X20 [Lingula anatina],best_score:1231.0,evalue:8.33695e-138,length:1913
+gi:919038401,ref_number:XP_013402676.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X10 [Lingula anatina],best_score:1233.0,evalue:8.39202e-138,length:1987
+gi:919038419,ref_number:XP_013402686.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X19 [Lingula anatina],best_score:1229.0,evalue:1.30525e-137,length:1913
+gi:919038417,ref_number:XP_013402685.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X18 [Lingula anatina],best_score:1228.0,evalue:1.71733e-137,length:1913
+gi:919038385,ref_number:XP_013402668.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X2 [Lingula anatina],best_score:1230.0,evalue:1.72029e-137,length:1988
+gi:919038393,ref_number:XP_013402672.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X6 [Lingula anatina],best_score:1229.0,evalue:2.81386e-137,length:1987
+gi:919038387,ref_number:XP_013402669.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X3 [Lingula anatina],best_score:1223.0,evalue:1.36588e-136,length:1988
+gi:919003495,ref_number:XP_013418061.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-IXa-like [Lingula anatina],best_score:1219.0,evalue:5.41797e-136,length:2025
+gi:919038405,ref_number:XP_013402679.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X12 [Lingula anatina],best_score:1217.0,evalue:8.17927e-136,length:1986
+gi:919038407,ref_number:XP_013402680.1,annotation: PREDICTED: myosin heavy chain, striated muscle-like isoform X13 [Lingula anatina],best_score:1210.0,evalue:5.94778e-135,length:1986
+gi:780135608,ref_number:XP_011679927.1,annotation: PREDICTED: myosin-VIIa [Strongylocentrotus purpuratus],best_score:6960.0,evalue:0.0,length:2170
+gi:780022091,ref_number:XP_011665267.1,annotation: PREDICTED: unconventional myosin-X [Strongylocentrotus purpuratus],best_score:1633.0,evalue:0.0,length:1770
+gi:780042078,ref_number:XP_011668232.1,annotation: PREDICTED: unconventional myosin-XV [Strongylocentrotus purpuratus],best_score:1471.0,evalue:0.0,length:695
+gi:47550963,ref_number:NP_999655.1,annotation: myosin V [Strongylocentrotus purpuratus],best_score:1448.0,evalue:9.45296e-167,length:1824
+gi:185136133,ref_number:NP_001118234.1,annotation: amoeboid myosin I [Strongylocentrotus purpuratus] >gi,best_score:1272.0,evalue:5.13914e-149,length:1118
+gi:390340931,ref_number:XP_780215.3,annotation: PREDICTED: unconventional myosin-Id isoform X2 [Strongylocentrotus purpuratus],best_score:1258.0,evalue:2.68807e-148,length:1011
+gi:780036684,ref_number:XP_011667502.1,annotation: PREDICTED: unconventional myosin-Id isoform X1 [Strongylocentrotus purpuratus],best_score:1255.0,evalue:1.00498e-147,length:1018
+gi:780159815,ref_number:XP_011682899.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X6 [Strongylocentrotus purpuratus],best_score:1292.0,evalue:1.84543e-145,length:1973
+gi:390350732,ref_number:XP_003727482.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X5 [Strongylocentrotus purpuratus],best_score:1281.0,evalue:4.25837e-144,length:1975
+gi:780159807,ref_number:XP_011682898.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X4 [Strongylocentrotus purpuratus],best_score:1278.0,evalue:1.22895e-143,length:1977
+gi:780122005,ref_number:XP_011678037.1,annotation: PREDICTED: unconventional myosin-XVI, partial [Strongylocentrotus purpuratus],best_score:1231.0,evalue:1.11444e-142,length:1200
+gi:780159801,ref_number:XP_011682897.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X3 [Strongylocentrotus purpuratus],best_score:1266.0,evalue:4.47516e-142,length:1978
+gi:780159824,ref_number:XP_011682900.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X8 [Strongylocentrotus purpuratus],best_score:1254.0,evalue:9.24434e-141,length:1940
+gi:115692122,ref_number:XP_785810.2,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X7 [Strongylocentrotus purpuratus],best_score:1254.0,evalue:9.69334e-141,length:1956
+gi:780159796,ref_number:XP_011682896.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X2 [Strongylocentrotus purpuratus],best_score:1255.0,evalue:1.00123e-140,length:1979
+gi:780159784,ref_number:XP_011682894.1,annotation: PREDICTED: myosin heavy chain, striated muscle isoform X1 [Strongylocentrotus purpuratus] >gi,best_score:1254.0,evalue:1.35388e-140,length:1980
+gi:47550961,ref_number:NP_999654.1,annotation: myosin VI [Strongylocentrotus purpuratus],best_score:1197.0,evalue:1.29511e-137,length:1267
+gi:780174335,ref_number:XP_011661087.1,annotation: PREDICTED: LOW QUALITY PROTEIN: myosin VI isoform X1 [Strongylocentrotus purpuratus],best_score:1167.0,evalue:1.38655e-133,length:1267
+gi:780023917,ref_number:XP_011665644.1,annotation: PREDICTED: myosin-10 [Strongylocentrotus purpuratus],best_score:1197.0,evalue:1.95665e-133,length:1964
+gi:780087711,ref_number:XP_011673626.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-Ib [Strongylocentrotus purpuratus],best_score:1150.0,evalue:5.38399e-132,length:1197
+gi:780065683,ref_number:XP_011670934.1,annotation: PREDICTED: myosin-IIIb [Strongylocentrotus purpuratus],best_score:1080.0,evalue:6.19296e-129,length:618
+gi:780017623,ref_number:XP_011664649.1,annotation: PREDICTED: myosin-IIIa isoform X2 [Strongylocentrotus purpuratus],best_score:781.0,evalue:1.30774e-85,length:1031
+gi:780017619,ref_number:XP_011664648.1,annotation: PREDICTED: unconventional myosin-XVI isoform X1 [Strongylocentrotus purpuratus],best_score:783.0,evalue:1.43607e-85,length:1067
+gi:780112558,ref_number:XP_011676719.1,annotation: PREDICTED: unconventional myosin-XV-like [Strongylocentrotus purpuratus],best_score:710.0,evalue:4.85536e-83,length:353
+gi:780134837,ref_number:XP_011679834.1,annotation: PREDICTED: myosin-IIIb, partial [Strongylocentrotus purpuratus],best_score:716.0,evalue:1.13005e-82,length:448
+gi:780109773,ref_number:XP_798486.4,annotation: PREDICTED: unconventional myosin-XIX, partial [Strongylocentrotus purpuratus],best_score:696.0,evalue:1.49488e-77,length:662
+gi:780104484,ref_number:XP_011675691.1,annotation: PREDICTED: unconventional myosin-X-like, partial [Strongylocentrotus purpuratus],best_score:627.0,evalue:3.39449e-73,length:270
+gi:780053013,ref_number:XP_011669418.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-Ib [Strongylocentrotus purpuratus],best_score:602.0,evalue:1.54881e-67,length:443
+gi:780082924,ref_number:XP_011673030.1,annotation: PREDICTED: unconventional myosin-XIX [Strongylocentrotus purpuratus],best_score:513.0,evalue:1.31979e-56,length:365
+gi:780017748,ref_number:XP_011664668.1,annotation: PREDICTED: myosin-IIIb-like [Strongylocentrotus purpuratus],best_score:499.0,evalue:1.34921e-56,length:230
+gi:780043157,ref_number:XP_011668404.1,annotation: PREDICTED: unconventional myosin-IXa [Strongylocentrotus purpuratus],best_score:510.0,evalue:1.00843e-55,length:406
+gi:390335687,ref_number:XP_003724201.1,annotation: PREDICTED: unconventional myosin-X [Strongylocentrotus purpuratus],best_score:538.0,evalue:4.11959e-55,length:1057
+gi:780000749,ref_number:XP_011680156.1,annotation: PREDICTED: unconventional myosin-IXa [Strongylocentrotus purpuratus],best_score:507.0,evalue:5.25769e-51,length:1467
+gi:390369222,ref_number:XP_790873.3,annotation: PREDICTED: myosin-IA, partial [Strongylocentrotus purpuratus],best_score:462.0,evalue:1.33288e-50,length:306
+gi:780043152,ref_number:XP_011668403.1,annotation: PREDICTED: unconventional myosin-IXa-like [Strongylocentrotus purpuratus],best_score:378.0,evalue:5.6126e-36,length:1033
+gi:780112412,ref_number:XP_011676687.1,annotation: PREDICTED: unconventional myosin-XV isoform X1 [Strongylocentrotus purpuratus],best_score:338.0,evalue:4.92976e-31,length:1882
+gi:780112416,ref_number:XP_011676688.1,annotation: PREDICTED: unconventional myosin-XV isoform X2 [Strongylocentrotus purpuratus],best_score:336.0,evalue:8.23213e-31,length:1877
+gi:390359523,ref_number:XP_003729498.1,annotation: PREDICTED: unconventional myosin-Ia [Strongylocentrotus purpuratus],best_score:263.0,evalue:6.30519e-26,length:147
+gi:390370340,ref_number:XP_001198689.2,annotation: PREDICTED: unconventional myosin-XVIIIa [Strongylocentrotus purpuratus],best_score:246.0,evalue:1.09831e-23,length:149
+gi:780043162,ref_number:XP_011668405.1,annotation: PREDICTED: unconventional myosin-IXb-like, partial [Strongylocentrotus purpuratus],best_score:235.0,evalue:5.82094e-22,length:165
+gi:780104777,ref_number:XP_003731443.2,annotation: PREDICTED: uncharacterized protein LOC100889458, partial [Strongylocentrotus purpuratus],best_score:201.0,evalue:1.03808e-15,length:403
+gi:390349144,ref_number:XP_782886.3,annotation: PREDICTED: pleckstrin homology domain-containing family H member 1 [Strongylocentrotus purpuratus],best_score:174.0,evalue:7.84269e-12,length:1651
+gi:780082749,ref_number:XP_782940.4,annotation: PREDICTED: unconventional myosin-XIX [Strongylocentrotus purpuratus],best_score:149.0,evalue:5.37808e-10,length:220
+gi:780016915,ref_number:XP_011664548.1,annotation: PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC593776 [Strongylocentrotus purpuratus],best_score:150.0,evalue:4.20683e-09,length:1136
+gi:780087561,ref_number:XP_011673606.1,annotation: PREDICTED: talin-1 isoform X3 [Strongylocentrotus purpuratus],best_score:150.0,evalue:5.27476e-09,length:2574
+gi:780087557,ref_number:XP_011673604.1,annotation: PREDICTED: talin-1 isoform X1 [Strongylocentrotus purpuratus],best_score:150.0,evalue:5.27947e-09,length:2595
+gi:780087563,ref_number:XP_011673607.1,annotation: PREDICTED: talin-1 isoform X4 [Strongylocentrotus purpuratus],best_score:150.0,evalue:5.49982e-09,length:2569
+gi:780087571,ref_number:XP_011673609.1,annotation: PREDICTED: talin-1 isoform X6 [Strongylocentrotus purpuratus],best_score:150.0,evalue:5.63701e-09,length:2556
+gi:780087565,ref_number:XP_011673608.1,annotation: PREDICTED: talin-1 isoform X5 [Strongylocentrotus purpuratus],best_score:150.0,evalue:5.98019e-09,length:2563
+gi:780087559,ref_number:XP_011673605.1,annotation: PREDICTED: talin-1 isoform X2 [Strongylocentrotus purpuratus],best_score:149.0,evalue:6.13933e-09,length:2588
+gi:1087825558,ref_number:XP_018667581.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-VIIa-like [Ciona intestinalis],best_score:6782.0,evalue:0.0,length:2141
+gi:1087822964,ref_number:XP_018666876.1,annotation: PREDICTED: unconventional myosin-X [Ciona intestinalis],best_score:1676.0,evalue:0.0,length:2050
+gi:699253395,ref_number:XP_009861105.1,annotation: PREDICTED: unconventional myosin-Va [Ciona intestinalis],best_score:1415.0,evalue:1.06979e-163,length:1670
+gi:1087824493,ref_number:XP_018667283.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X2 [Ciona intestinalis] >gi,best_score:1326.0,evalue:1.01776e-157,length:1021
+gi:1087824490,ref_number:XP_018667282.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X1 [Ciona intestinalis],best_score:1331.0,evalue:5.00005e-157,length:1139
+gi:1087807865,ref_number:XP_018671715.1,annotation: PREDICTED: unconventional myosin-Ib-like isoform X2 [Ciona intestinalis],best_score:1261.0,evalue:3.12856e-148,length:1078
+gi:198418231,ref_number:XP_002123096.1,annotation: PREDICTED: unconventional myosin-Ib-like isoform X1 [Ciona intestinalis],best_score:1259.0,evalue:6.81453e-148,length:1078
+gi:699254850,ref_number:XP_002124785.3,annotation: PREDICTED: unconventional myosin-If [Ciona intestinalis],best_score:1255.0,evalue:4.87139e-146,length:1210
+gi:1087803384,ref_number:XP_018670545.1,annotation: PREDICTED: myosin-7 [Ciona intestinalis],best_score:1244.0,evalue:1.23358e-143,length:1308
+gi:1087826640,ref_number:XP_018667898.1,annotation: PREDICTED: unconventional myosin-Id [Ciona intestinalis],best_score:1191.0,evalue:9.86008e-140,length:988
+gi:1087813402,ref_number:XP_018669544.1,annotation: PREDICTED: myosin-10 isoform X4 [Ciona intestinalis],best_score:1222.0,evalue:8.74315e-137,length:1966
+gi:1087813404,ref_number:XP_018669545.1,annotation: PREDICTED: myosin-10 isoform X5 [Ciona intestinalis],best_score:1219.0,evalue:1.68221e-136,length:1966
+gi:1087813400,ref_number:XP_018669543.1,annotation: PREDICTED: myosin-10 isoform X3 [Ciona intestinalis],best_score:1217.0,evalue:3.40325e-136,length:1970
+gi:1087814425,ref_number:XP_018669809.1,annotation: PREDICTED: unconventional myosin-VI isoform X3 [Ciona intestinalis] >gi,best_score:1184.0,evalue:4.9063e-136,length:1266
+gi:1087813396,ref_number:XP_018669541.1,annotation: PREDICTED: myosin-10 isoform X1 [Ciona intestinalis],best_score:1214.0,evalue:9.53331e-136,length:1974
+gi:1087813406,ref_number:XP_018669546.1,annotation: PREDICTED: myosin-10 isoform X6 [Ciona intestinalis],best_score:1213.0,evalue:1.05828e-135,length:1961
+gi:1087813398,ref_number:XP_018669542.1,annotation: PREDICTED: myosin-10 isoform X2 [Ciona intestinalis],best_score:1213.0,evalue:1.28585e-135,length:1974
+gi:1087805637,ref_number:XP_018671078.1,annotation: PREDICTED: myosin-6-like [Ciona intestinalis],best_score:1193.0,evalue:1.10441e-134,length:1636
+gi:699248582,ref_number:XP_009860375.1,annotation: PREDICTED: unconventional myosin-VI isoform X1 [Ciona intestinalis] >gi,best_score:1155.0,evalue:3.78606e-132,length:1289
+gi:459173783,ref_number:XP_002119856.2,annotation: PREDICTED: myosin heavy chain, cardiac muscle isoform [Ciona intestinalis],best_score:1178.0,evalue:1.87541e-131,length:1928
+gi:1087813839,ref_number:XP_018669646.1,annotation: PREDICTED: myosin-6 [Ciona intestinalis],best_score:1172.0,evalue:1.06884e-130,length:1928
+gi:1087822140,ref_number:XP_009857904.2,annotation: PREDICTED: myosin-16 isoform X2 [Ciona intestinalis],best_score:1164.0,evalue:1.1938e-129,length:1954
+gi:1087822138,ref_number:XP_009857903.2,annotation: PREDICTED: myosin-16 isoform X1 [Ciona intestinalis],best_score:1167.0,evalue:1.28344e-129,length:2060
+gi:699247679,ref_number:XP_004226673.2,annotation: PREDICTED: unconventional myosin-XIX isoform X1 [Ciona intestinalis],best_score:953.0,evalue:1.29991e-107,length:1065
+gi:1087813462,ref_number:XP_018669557.1,annotation: PREDICTED: unconventional myosin-XIX isoform X2 [Ciona intestinalis],best_score:950.0,evalue:2.51643e-107,length:1065
+gi:1087807596,ref_number:XP_018671672.1,annotation: PREDICTED: unconventional myosin-IXa isoform X2 [Ciona intestinalis],best_score:934.0,evalue:2.21288e-101,length:2173
+gi:699255613,ref_number:XP_009861763.1,annotation: PREDICTED: unconventional myosin-IXa isoform X1 [Ciona intestinalis],best_score:934.0,evalue:2.54421e-101,length:2223
+gi:699254520,ref_number:XP_002122505.3,annotation: PREDICTED: myosin-VIIa-like [Ciona intestinalis],best_score:567.0,evalue:4.96455e-61,length:658
+gi:1087813785,ref_number:XP_018669631.1,annotation: PREDICTED: unconventional myosin-XVIIIa [Ciona intestinalis],best_score:453.0,evalue:1.14101e-44,length:2713
+gi:198425934,ref_number:XP_002124555.1,annotation: PREDICTED: unconventional myosin-XV-like [Ciona intestinalis],best_score:334.0,evalue:6.57019e-31,length:1125
+gi:699237309,ref_number:XP_002125699.2,annotation: PREDICTED: rho GTPase-activating protein 39 [Ciona intestinalis],best_score:156.0,evalue:4.74708e-10,length:706
+gi:1087824893,ref_number:XP_002121286.3,annotation: PREDICTED: unconventional myosin-XV-like [Ciona intestinalis],best_score:145.0,evalue:5.61659e-09,length:427
+gi:1087821080,ref_number:XP_018673450.1,annotation: PREDICTED: talin-2 isoform X1 [Ciona intestinalis],best_score:127.0,evalue:1.46068e-06,length:2565
+gi:1087821086,ref_number:XP_018673452.1,annotation: PREDICTED: talin-2 isoform X3 [Ciona intestinalis],best_score:127.0,evalue:1.50999e-06,length:2554
+gi:1087821089,ref_number:XP_018673453.1,annotation: PREDICTED: talin-2 isoform X4 [Ciona intestinalis],best_score:127.0,evalue:1.66939e-06,length:2542
+gi:1087821092,ref_number:XP_018673454.1,annotation: PREDICTED: talin-2 isoform X5 [Ciona intestinalis],best_score:126.0,evalue:1.71131e-06,length:2531
+gi:1087821083,ref_number:XP_018673451.1,annotation: PREDICTED: talin-2 isoform X2 [Ciona intestinalis],best_score:126.0,evalue:1.83245e-06,length:2565
+gi:35215302,ref_number:NP_694515.1,annotation: unconventional myosin-VIIa [Danio rerio],best_score:10173.0,evalue:0.0,length:2179
+gi:688605521,ref_number:XP_009293671.1,annotation: PREDICTED: unconventional myosin-VIIa-like isoform X3 [Danio rerio],best_score:9444.0,evalue:0.0,length:2177
+gi:528513727,ref_number:XP_001921522.2,annotation: PREDICTED: unconventional myosin-VIIa-like isoform X2 [Danio rerio],best_score:9411.0,evalue:0.0,length:2191
+gi:688605515,ref_number:XP_009293670.1,annotation: PREDICTED: unconventional myosin-VIIa-like isoform X1 [Danio rerio],best_score:9397.0,evalue:0.0,length:2204
+gi:1040692988,ref_number:XP_017212115.1,annotation: PREDICTED: unconventional myosin-VIIb-like [Danio rerio],best_score:6222.0,evalue:0.0,length:2167
+gi:1040672573,ref_number:XP_017207112.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X2 [Danio rerio],best_score:5641.0,evalue:0.0,length:2138
+gi:1040672571,ref_number:XP_017207110.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X1 [Danio rerio],best_score:4692.0,evalue:0.0,length:1962
+gi:528471807,ref_number:XP_005171458.1,annotation: PREDICTED: unconventional myosin-X isoform X1 [Danio rerio],best_score:1680.0,evalue:0.0,length:2069
+gi:688538701,ref_number:XP_009297015.1,annotation: PREDICTED: unconventional myosin-X isoform X2 [Danio rerio],best_score:1657.0,evalue:0.0,length:2013
+gi:688570406,ref_number:XP_009302796.1,annotation: PREDICTED: unconventional myosin-X isoform X2 [Danio rerio],best_score:1610.0,evalue:0.0,length:2111
+gi:688570404,ref_number:XP_009302795.1,annotation: PREDICTED: unconventional myosin-X isoform X1 [Danio rerio],best_score:1610.0,evalue:0.0,length:2112
+gi:528481809,ref_number:XP_001924041.3,annotation: PREDICTED: unconventional myosin-X [Danio rerio],best_score:1587.0,evalue:0.0,length:2041
+gi:1040654635,ref_number:XP_017211362.1,annotation: PREDICTED: unconventional myosin-XV [Danio rerio],best_score:1555.0,evalue:6.61109e-178,length:2357
+gi:1040683789,ref_number:XP_017210167.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-XV [Danio rerio],best_score:1530.0,evalue:7.54293e-173,length:4209
+gi:688605206,ref_number:XP_009293602.1,annotation: PREDICTED: unconventional myosin-Vb isoform X2 [Danio rerio],best_score:1480.0,evalue:6.3463e-171,length:1812
+gi:688605200,ref_number:XP_009293600.1,annotation: PREDICTED: unconventional myosin-Vb isoform X1 [Danio rerio],best_score:1480.0,evalue:9.31909e-171,length:1838
+gi:725798589,ref_number:NP_001155104.2,annotation: unconventional myosin-Vb [Danio rerio],best_score:1479.0,evalue:1.32079e-170,length:1838
+gi:1040698792,ref_number:XP_017213253.1,annotation: PREDICTED: unconventional myosin-X isoform X3 [Danio rerio],best_score:1486.0,evalue:4.05668e-170,length:2085
+gi:528508407,ref_number:XP_005173733.1,annotation: PREDICTED: unconventional myosin-Va isoform X8 [Danio rerio],best_score:1470.0,evalue:1.60891e-169,length:1827
+gi:688597870,ref_number:XP_009292073.1,annotation: PREDICTED: unconventional myosin-Va isoform X5 [Danio rerio],best_score:1470.0,evalue:1.92499e-169,length:1846
+gi:1040669711,ref_number:XP_017207607.1,annotation: PREDICTED: unconventional myosin-Va isoform X10 [Danio rerio],best_score:1471.0,evalue:2.03415e-169,length:1854
+gi:688597862,ref_number:XP_009292070.1,annotation: PREDICTED: unconventional myosin-Va isoform X2 [Danio rerio],best_score:1470.0,evalue:2.13632e-169,length:1849
+gi:688597873,ref_number:XP_009292074.1,annotation: PREDICTED: unconventional myosin-Va isoform X6 [Danio rerio],best_score:1463.0,evalue:2.16384e-168,length:1845
+gi:528508405,ref_number:XP_005173732.1,annotation: PREDICTED: unconventional myosin-Va isoform X7 [Danio rerio],best_score:1462.0,evalue:2.22535e-168,length:1828
+gi:688597865,ref_number:XP_009292071.1,annotation: PREDICTED: unconventional myosin-Va isoform X3 [Danio rerio],best_score:1462.0,evalue:2.56808e-168,length:1848
+gi:688597878,ref_number:XP_009292075.1,annotation: PREDICTED: unconventional myosin-Va isoform X9 [Danio rerio],best_score:1461.0,evalue:2.57694e-168,length:1825
+gi:688597867,ref_number:XP_009292072.1,annotation: PREDICTED: unconventional myosin-Va isoform X4 [Danio rerio],best_score:1461.0,evalue:3.25084e-168,length:1847
+gi:688597860,ref_number:XP_009292069.1,annotation: PREDICTED: unconventional myosin-Va isoform X1 [Danio rerio],best_score:1461.0,evalue:3.82032e-168,length:1850
+gi:125854492,ref_number:XP_691143.2,annotation: PREDICTED: unconventional myosin-Vc [Danio rerio],best_score:1445.0,evalue:1.01133e-166,length:1746
+gi:688570657,ref_number:XP_009302848.1,annotation: PREDICTED: unconventional myosin-Ib isoform X5 [Danio rerio],best_score:1380.0,evalue:2.14334e-163,length:1136
+gi:528516238,ref_number:XP_005170598.1,annotation: PREDICTED: unconventional myosin-Vb [Danio rerio],best_score:1414.0,evalue:3.67773e-163,length:1654
+gi:1040682289,ref_number:XP_009296053.2,annotation: PREDICTED: unconventional myosin-Va-like isoform X1 [Danio rerio],best_score:1417.0,evalue:1.44998e-162,length:1800
+gi:1040682291,ref_number:XP_017209671.1,annotation: PREDICTED: unconventional myosin-Va-like isoform X2 [Danio rerio],best_score:1416.0,evalue:1.60929e-162,length:1798
+gi:688570015,ref_number:XP_009302717.1,annotation: PREDICTED: myosin-IIIb isoform X2 [Danio rerio],best_score:1386.0,evalue:2.91005e-162,length:1321
+gi:528489514,ref_number:XP_003199241.2,annotation: PREDICTED: unconventional myosin-Ib isoform X2 [Danio rerio],best_score:1374.0,evalue:3.566e-162,length:1165
+gi:528489520,ref_number:XP_005168008.1,annotation: PREDICTED: unconventional myosin-Ib isoform X8 [Danio rerio],best_score:1368.0,evalue:4.46387e-162,length:1107
+gi:528489173,ref_number:XP_001920287.4,annotation: PREDICTED: myosin-IIIb isoform X4 [Danio rerio],best_score:1383.0,evalue:4.86211e-162,length:1307
+gi:688570012,ref_number:XP_009302716.1,annotation: PREDICTED: myosin-IIIb isoform X1 [Danio rerio],best_score:1384.0,evalue:6.48882e-162,length:1328
+gi:688570651,ref_number:XP_009302846.1,annotation: PREDICTED: unconventional myosin-Ib isoform X3 [Danio rerio],best_score:1369.0,evalue:7.59011e-162,length:1138
+gi:688570018,ref_number:XP_009302718.1,annotation: PREDICTED: myosin-IIIb isoform X3 [Danio rerio],best_score:1383.0,evalue:8.07304e-162,length:1321
+gi:528501964,ref_number:XP_005157724.1,annotation: PREDICTED: unconventional myosin-Ic isoform X2 [Danio rerio],best_score:1358.0,evalue:2.44866e-161,length:1043
+gi:528501966,ref_number:XP_005157725.1,annotation: PREDICTED: unconventional myosin-Ic isoform X3 [Danio rerio],best_score:1356.0,evalue:3.3966e-161,length:1028
+gi:688588345,ref_number:XP_009290030.1,annotation: PREDICTED: unconventional myosin-Ic isoform X1 [Danio rerio],best_score:1359.0,evalue:3.91405e-161,length:1069
+gi:953953809,ref_number:NP_001304118.1,annotation: unconventional myosin-Ic [Danio rerio],best_score:1356.0,evalue:9.46845e-161,length:1068
+gi:326670574,ref_number:XP_001920959.3,annotation: PREDICTED: unconventional myosin-Ib isoform X10 [Danio rerio],best_score:1355.0,evalue:1.31219e-160,length:1078
+gi:528489512,ref_number:XP_005168005.1,annotation: PREDICTED: unconventional myosin-Ib isoform X1 [Danio rerio] >gi,best_score:1361.0,evalue:1.81965e-160,length:1167
+gi:528489516,ref_number:XP_005168006.1,annotation: PREDICTED: unconventional myosin-Ib isoform X7 [Danio rerio],best_score:1356.0,evalue:2.41322e-160,length:1109
+gi:528491261,ref_number:XP_005172645.1,annotation: PREDICTED: myosin-IIIb isoform X2 [Danio rerio],best_score:1353.0,evalue:9.64226e-160,length:1123
+gi:528491259,ref_number:XP_685035.4,annotation: PREDICTED: myosin-IIIb isoform X1 [Danio rerio],best_score:1353.0,evalue:9.88492e-160,length:1124
+gi:528489518,ref_number:XP_005168007.1,annotation: PREDICTED: unconventional myosin-Ib isoform X6 [Danio rerio],best_score:1348.0,evalue:2.81002e-159,length:1109
+gi:167523172,ref_number:XP_001745923.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:5635.0,evalue:0.0,length:1871
+gi:167533219,ref_number:XP_001748290.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1522.0,evalue:3.55375e-174,length:2389
+gi:167535981,ref_number:XP_001749663.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1354.0,evalue:3.50971e-161,length:1076
+gi:167518612,ref_number:XP_001743646.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1394.0,evalue:1.32933e-160,length:1741
+gi:167519577,ref_number:XP_001744128.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:1398.0,evalue:1.29705e-159,length:2006
+gi:167524940,ref_number:XP_001746805.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1288.0,evalue:4.12916e-150,length:1279
+gi:167524867,ref_number:XP_001746769.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1279.0,evalue:4.26875e-150,length:1152
+gi:167516480,ref_number:XP_001742581.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1292.0,evalue:8.88352e-150,length:1372
+gi:167521802,ref_number:XP_001745239.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:1232.0,evalue:1.75277e-148,length:746
+gi:167517679,ref_number:XP_001743180.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1248.0,evalue:2.49291e-147,length:1025
+gi:167521988,ref_number:XP_001745332.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1223.0,evalue:1.4702e-142,length:1158
+gi:167521319,ref_number:XP_001744998.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1213.0,evalue:2.9029e-142,length:1054
+gi:167521125,ref_number:XP_001744901.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1140.0,evalue:4.16251e-139,length:506
+gi:167519783,ref_number:XP_001744231.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:1189.0,evalue:1.52718e-138,length:1107
+gi:167522114,ref_number:XP_001745395.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:1154.0,evalue:3.58157e-138,length:717
+gi:167527328,ref_number:XP_001747996.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1150.0,evalue:5.00737e-136,length:850
+gi:167519651,ref_number:XP_001744165.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:1138.0,evalue:7.76293e-136,length:732
+gi:167517213,ref_number:XP_001742947.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1170.0,evalue:7.51124e-135,length:1224
+gi:167535830,ref_number:XP_001749588.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1147.0,evalue:1.66708e-134,length:947
+gi:167523477,ref_number:XP_001746075.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:1141.0,evalue:6.28028e-128,length:1714
+gi:167525948,ref_number:XP_001747308.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:962.0,evalue:5.98836e-105,length:2296
+gi:167522930,ref_number:XP_001745802.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:915.0,evalue:1.92989e-103,length:1021
+gi:167538066,ref_number:XP_001750699.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:903.0,evalue:1.49818e-101,length:1061
+gi:167523174,ref_number:XP_001745924.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:809.0,evalue:1.1597e-98,length:228
+gi:167523954,ref_number:XP_001746313.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:849.0,evalue:6.80713e-92,length:1762
+gi:167522884,ref_number:XP_001745779.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:701.0,evalue:1.66195e-74,length:1543
+gi:167524641,ref_number:XP_001746656.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:616.0,evalue:3.00348e-70,length:415
+gi:167525367,ref_number:XP_001747018.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:606.0,evalue:2.17479e-67,length:554
+gi:167518878,ref_number:XP_001743779.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:555.0,evalue:5.7279e-59,length:771
+gi:167524350,ref_number:XP_001746511.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:455.0,evalue:1.94451e-51,length:208
+gi:167521127,ref_number:XP_001744902.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:373.0,evalue:1.08148e-38,length:355
+gi:167524348,ref_number:XP_001746510.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:374.0,evalue:7.27086e-37,length:634
+gi:167524643,ref_number:XP_001746657.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:294.0,evalue:1.01332e-30,length:138
+gi:167521129,ref_number:XP_001744903.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:168.0,evalue:8.64903e-12,length:868
+gi:167518654,ref_number:XP_001743667.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:136.0,evalue:5.67264e-08,length:924
+gi:167536652,ref_number:XP_001749997.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:132.0,evalue:2.10526e-07,length:1288
+gi:167522737,ref_number:XP_001745706.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:119.0,evalue:4.97592e-06,length:747
+gi:514699039,ref_number:XP_004997088.1,annotation: myosin-VIIa [Salpingoeca rosetta],best_score:6611.0,evalue:0.0,length:2213
+gi:514688897,ref_number:XP_004992024.1,annotation: hypothetical protein PTSG_06636 [Salpingoeca rosetta],best_score:1764.0,evalue:0.0,length:2351
+gi:514701319,ref_number:XP_004998227.1,annotation: myosin VIIa [Salpingoeca rosetta],best_score:1599.0,evalue:0.0,length:1859
+gi:514699199,ref_number:XP_004997168.1,annotation: MYO2 protein [Salpingoeca rosetta],best_score:1479.0,evalue:1.13324e-170,length:1921
+gi:514698212,ref_number:XP_004996675.1,annotation: myosin-X [Salpingoeca rosetta],best_score:1423.0,evalue:3.08936e-162,length:2101
+gi:514700340,ref_number:XP_004997738.1,annotation: myosin heavy chain [Salpingoeca rosetta],best_score:1334.0,evalue:7.44712e-159,length:1020
+gi:514701823,ref_number:XP_004998479.1,annotation: hypothetical protein PTSG_01006 [Salpingoeca rosetta],best_score:1366.0,evalue:6.88514e-157,length:1716
+gi:514696154,ref_number:XP_004995647.1,annotation: nonmuscle myosin heavy chain B [Salpingoeca rosetta],best_score:1335.0,evalue:6.83545e-156,length:1319
+gi:514688202,ref_number:XP_004991677.1,annotation: hypothetical protein PTSG_07873 [Salpingoeca rosetta],best_score:1274.0,evalue:8.31739e-151,length:1017
+gi:514694073,ref_number:XP_004994608.1,annotation: myosin IE [Salpingoeca rosetta],best_score:1233.0,evalue:9.65826e-145,length:1062
+gi:514700574,ref_number:XP_004997855.1,annotation: MYO1B protein [Salpingoeca rosetta],best_score:1213.0,evalue:3.71694e-143,length:959
+gi:514690652,ref_number:XP_004992900.1,annotation: myosin heavy chain [Salpingoeca rosetta],best_score:1207.0,evalue:3.46747e-142,length:967
+gi:514697723,ref_number:XP_004996431.1,annotation: myosin [Salpingoeca rosetta],best_score:1208.0,evalue:8.38725e-140,length:1223
+gi:514692994,ref_number:XP_004994069.1,annotation: myosin [Salpingoeca rosetta],best_score:1216.0,evalue:8.80131e-140,length:1354
+gi:514696128,ref_number:XP_004995634.1,annotation: myosin [Salpingoeca rosetta],best_score:1190.0,evalue:8.9434e-140,length:976
+gi:514686260,ref_number:XP_004990708.1,annotation: myosin X [Salpingoeca rosetta],best_score:1165.0,evalue:1.60136e-137,length:886
+gi:514686559,ref_number:XP_004990857.1,annotation: hypothetical protein PTSG_07359 [Salpingoeca rosetta],best_score:1165.0,evalue:9.63819e-137,length:950
+gi:514685515,ref_number:XP_004990336.1,annotation: myosin IB [Salpingoeca rosetta],best_score:1167.0,evalue:1.97499e-136,length:1008
+gi:514688348,ref_number:XP_004991750.1,annotation: hypothetical protein PTSG_07948 [Salpingoeca rosetta],best_score:1214.0,evalue:5.62415e-136,length:1966
+gi:514683277,ref_number:XP_004989220.1,annotation: hypothetical protein PTSG_09865 [Salpingoeca rosetta],best_score:1132.0,evalue:2.10037e-134,length:770
+gi:514694151,ref_number:XP_004994647.1,annotation: MYO1C protein [Salpingoeca rosetta],best_score:1157.0,evalue:7.75725e-133,length:1240
+gi:514690528,ref_number:XP_004992838.1,annotation: myosin head [Salpingoeca rosetta],best_score:1161.0,evalue:8.78403e-133,length:1312
+gi:514683223,ref_number:XP_004989193.1,annotation: myosin [Salpingoeca rosetta],best_score:1087.0,evalue:1.25293e-124,length:1133
+gi:514682159,ref_number:XP_004988663.1,annotation: kinase subdomain-containing protein [Salpingoeca rosetta],best_score:1103.0,evalue:3.07739e-123,length:1652
+gi:514680519,ref_number:XP_004987847.1,annotation: hypothetical protein PTSG_11202 [Salpingoeca rosetta],best_score:1098.0,evalue:3.40618e-123,length:1539
+gi:514698698,ref_number:XP_004996918.1,annotation: hypothetical protein PTSG_02425 [Salpingoeca rosetta],best_score:1062.0,evalue:3.21195e-121,length:1157
+gi:514687048,ref_number:XP_004991101.1,annotation: myosin-Ia [Salpingoeca rosetta],best_score:1067.0,evalue:2.43359e-120,length:1342
+gi:514696372,ref_number:XP_004995756.1,annotation: hypothetical protein PTSG_03170 [Salpingoeca rosetta],best_score:992.0,evalue:6.26989e-111,length:1327
+gi:514685374,ref_number:XP_004990266.1,annotation: STE/STE20 protein kinase [Salpingoeca rosetta],best_score:969.0,evalue:1.81816e-105,length:2644
+gi:514701099,ref_number:XP_004998117.1,annotation: serine/threonine protein kinase [Salpingoeca rosetta],best_score:915.0,evalue:5.68488e-99,length:2735
+gi:514697271,ref_number:XP_004996205.1,annotation: hypothetical protein PTSG_02707 [Salpingoeca rosetta],best_score:798.0,evalue:1.39967e-88,length:960
+gi:514701577,ref_number:XP_004998356.1,annotation: hypothetical protein PTSG_00887 [Salpingoeca rosetta],best_score:684.0,evalue:8.73895e-77,length:620
+gi:514695955,ref_number:XP_004995548.1,annotation: hypothetical protein PTSG_03815 [Salpingoeca rosetta],best_score:660.0,evalue:6.36869e-71,length:989
+gi:514699215,ref_number:XP_004997176.1,annotation: Tln1 protein [Salpingoeca rosetta],best_score:142.0,evalue:2.12266e-08,length:2557
+gi:514700128,ref_number:XP_004997632.1,annotation: hypothetical protein PTSG_01654 [Salpingoeca rosetta],best_score:131.0,evalue:3.28468e-07,length:1138
+gi:189083798,ref_number:NP_000251.3,annotation: unconventional myosin-VIIa isoform 1 [Homo sapiens],best_score:11999.0,evalue:0.0,length:2215
+gi:1034573812,ref_number:XP_016873269.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X4 [Homo sapiens],best_score:11964.0,evalue:0.0,length:2245
+gi:189083802,ref_number:NP_001120652.1,annotation: unconventional myosin-VIIa isoform 2 [Homo sapiens],best_score:11696.0,evalue:0.0,length:2175
+gi:1034573835,ref_number:XP_016873277.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X14 [Homo sapiens],best_score:11684.0,evalue:0.0,length:2207
+gi:1034573821,ref_number:XP_016873273.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X9 [Homo sapiens],best_score:11668.0,evalue:0.0,length:2206
+gi:767968213,ref_number:XP_011543346.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X5 [Homo sapiens],best_score:11457.0,evalue:0.0,length:2228
+gi:1034573825,ref_number:XP_016873275.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X11 [Homo sapiens],best_score:11436.0,evalue:0.0,length:2154
+gi:1034573806,ref_number:XP_011543348.2,annotation: PREDICTED: unconventional myosin-VIIa isoform X1 [Homo sapiens],best_score:11428.0,evalue:0.0,length:2258
+gi:1034573817,ref_number:XP_016873271.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X7 [Homo sapiens],best_score:11142.0,evalue:0.0,length:2220
+gi:1034573819,ref_number:XP_016873272.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X8 [Homo sapiens],best_score:11125.0,evalue:0.0,length:2219
+gi:1034573808,ref_number:XP_016873267.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X2 [Homo sapiens],best_score:11088.0,evalue:0.0,length:2256
+gi:1034573810,ref_number:XP_016873268.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X3 [Homo sapiens],best_score:11071.0,evalue:0.0,length:2255
+gi:1034573815,ref_number:XP_016873270.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X6 [Homo sapiens],best_score:10907.0,evalue:0.0,length:2226
+gi:767968230,ref_number:XP_011543352.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X12 [Homo sapiens],best_score:10608.0,evalue:0.0,length:2140
+gi:1034573823,ref_number:XP_016873274.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X10 [Homo sapiens],best_score:9163.0,evalue:0.0,length:2179
+gi:1034573833,ref_number:XP_016873276.1,annotation: PREDICTED: unconventional myosin-VIIa isoform X13 [Homo sapiens],best_score:7415.0,evalue:0.0,length:1451
+gi:256355179,ref_number:NP_001120651.2,annotation: unconventional myosin-VIIa isoform 3 [Homo sapiens],best_score:6314.0,evalue:0.0,length:1178
+gi:767918227,ref_number:XP_011509520.1,annotation: PREDICTED: unconventional myosin-VIIb isoform X2 [Homo sapiens],best_score:6097.0,evalue:0.0,length:2145
+gi:578804363,ref_number:XP_006712602.1,annotation: PREDICTED: unconventional myosin-VIIb isoform X3 [Homo sapiens],best_score:6092.0,evalue:0.0,length:2142
+gi:122937512,ref_number:NP_001073996.1,annotation: unconventional myosin-VIIb [Homo sapiens],best_score:6061.0,evalue:0.0,length:2116
+gi:1034614151,ref_number:XP_016859658.1,annotation: PREDICTED: unconventional myosin-VIIb isoform X1 [Homo sapiens],best_score:5934.0,evalue:0.0,length:2164
+gi:154354979,ref_number:NP_036466.2,annotation: unconventional myosin-X [Homo sapiens],best_score:1664.0,evalue:0.0,length:2058
+gi:578809923,ref_number:XP_006714538.1,annotation: PREDICTED: unconventional myosin-X isoform X1 [Homo sapiens],best_score:1593.0,evalue:0.0,length:2035
+gi:215982794,ref_number:NP_001135967.1,annotation: unconventional myosin-Va isoform 2 [Homo sapiens],best_score:1530.0,evalue:2.55156e-177,length:1828
+gi:215982791,ref_number:NP_000250.3,annotation: unconventional myosin-Va isoform 1 [Homo sapiens],best_score:1530.0,evalue:3.76126e-177,length:1855
+gi:1034590734,ref_number:XP_011519914.2,annotation: PREDICTED: unconventional myosin-Va isoform X9 [Homo sapiens],best_score:1530.0,evalue:3.98516e-177,length:1849
+gi:530405882,ref_number:XP_005254454.1,annotation: PREDICTED: unconventional myosin-Va isoform X3 [Homo sapiens],best_score:1531.0,evalue:4.12513e-177,length:1880
+gi:1034590732,ref_number:XP_011519913.2,annotation: PREDICTED: unconventional myosin-Va isoform X8 [Homo sapiens],best_score:1529.0,evalue:4.48214e-177,length:1852
+gi:1034590728,ref_number:XP_011519912.2,annotation: PREDICTED: unconventional myosin-Va isoform X6 [Homo sapiens],best_score:1530.0,evalue:4.88859e-177,length:1876
+gi:1034590724,ref_number:XP_011519910.2,annotation: PREDICTED: unconventional myosin-Va isoform X4 [Homo sapiens],best_score:1530.0,evalue:5.33327e-177,length:1879
+gi:1034590726,ref_number:XP_011519911.2,annotation: PREDICTED: unconventional myosin-Va isoform X5 [Homo sapiens],best_score:1530.0,evalue:6.46289e-177,length:1877
+gi:1034590721,ref_number:XP_011519909.2,annotation: PREDICTED: unconventional myosin-Va isoform X2 [Homo sapiens],best_score:1529.0,evalue:1.01199e-176,length:1901
+gi:1034590719,ref_number:XP_011519908.2,annotation: PREDICTED: unconventional myosin-Va isoform X1 [Homo sapiens],best_score:1529.0,evalue:1.06063e-176,length:1904
+gi:767992294,ref_number:XP_011522220.1,annotation: PREDICTED: unconventional myosin-XV isoform X2 [Homo sapiens],best_score:1525.0,evalue:7.09612e-175,length:2117
+gi:1034599990,ref_number:XP_016880204.1,annotation: PREDICTED: unconventional myosin-XV isoform X3 [Homo sapiens],best_score:1537.0,evalue:1.65658e-173,length:3531
+gi:118402590,ref_number:NP_057323.3,annotation: unconventional myosin-XV [Homo sapiens],best_score:1534.0,evalue:3.6911e-173,length:3530
+gi:1034599986,ref_number:XP_016880203.1,annotation: PREDICTED: unconventional myosin-XV isoform X1 [Homo sapiens],best_score:1528.0,evalue:2.6049e-172,length:3510
+gi:122937345,ref_number:NP_001073936.1,annotation: unconventional myosin-Vb [Homo sapiens],best_score:1493.0,evalue:3.99962e-172,length:1848
+gi:767984698,ref_number:XP_011520083.1,annotation: PREDICTED: unconventional myosin-Vc isoform X1 [Homo sapiens],best_score:1440.0,evalue:5.56969e-166,length:1714
+gi:153945715,ref_number:NP_061198.2,annotation: unconventional myosin-Vc [Homo sapiens],best_score:1428.0,evalue:3.20564e-164,length:1742
+gi:194328685,ref_number:NP_001123630.1,annotation: unconventional myosin-Ib isoform 1 [Homo sapiens] >gi,best_score:1377.0,evalue:1.18228e-162,length:1136
+gi:1057503234,ref_number:NP_001317166.1,annotation: unconventional myosin-Ib isoform 4 [Homo sapiens] >gi,best_score:1370.0,evalue:5.931e-162,length:1107
+gi:1057503232,ref_number:NP_001317167.1,annotation: unconventional myosin-Ib isoform 5 [Homo sapiens] >gi,best_score:1369.0,evalue:7.01626e-162,length:1107
+gi:1034591294,ref_number:XP_016877897.1,annotation: PREDICTED: unconventional myosin-Vc isoform X2 [Homo sapiens],best_score:1404.0,evalue:2.69571e-161,length:1697
+gi:44889481,ref_number:NP_036355.2,annotation: unconventional myosin-Ib isoform 2 [Homo sapiens] >gi,best_score:1356.0,evalue:1.96338e-160,length:1078
+gi:124494240,ref_number:NP_203693.3,annotation: unconventional myosin-Ic isoform c [Homo sapiens],best_score:1325.0,evalue:1.00744e-156,length:1028
+gi:124494247,ref_number:NP_001074419.1,annotation: unconventional myosin-Ic isoform b [Homo sapiens],best_score:1325.0,evalue:1.3688e-156,length:1044
+gi:767916809,ref_number:XP_011508959.1,annotation: PREDICTED: myosin-IIIb isoform X5 [Homo sapiens] >gi,best_score:1325.0,evalue:2.08382e-156,length:1050
+gi:124494238,ref_number:NP_001074248.1,annotation: unconventional myosin-Ic isoform a [Homo sapiens],best_score:1322.0,evalue:6.25839e-156,length:1063
+gi:767916807,ref_number:XP_011508958.1,annotation: PREDICTED: myosin-IIIb isoform X4 [Homo sapiens],best_score:1326.0,evalue:1.76236e-155,length:1155

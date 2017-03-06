@@ -1,0 +1,592 @@
+gi:305682586,ref_number:NP_001182194.1,annotation: PDZ domain-containing protein 7 [Mus musculus] >gi,best_score:3809.0,evalue:0.0,length:1021
+gi:569006113,ref_number:XP_006526601.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X2 [Mus musculus],best_score:3557.0,evalue:0.0,length:1021
+gi:569006115,ref_number:XP_006526602.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X3 [Mus musculus],best_score:2898.0,evalue:0.0,length:677
+gi:569006121,ref_number:XP_006526605.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X6 [Mus musculus],best_score:2202.0,evalue:0.0,length:557
+gi:569006117,ref_number:XP_006526603.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X4 [Mus musculus],best_score:2191.0,evalue:0.0,length:588
+gi:1039756997,ref_number:XP_017173522.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X8 [Mus musculus],best_score:1978.0,evalue:0.0,length:479
+gi:1039756999,ref_number:XP_017173523.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X9 [Mus musculus],best_score:1977.0,evalue:0.0,length:476
+gi:569006128,ref_number:XP_006526608.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X7 [Mus musculus],best_score:1968.0,evalue:0.0,length:516
+gi:569006119,ref_number:XP_006526604.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X5 [Mus musculus],best_score:1968.0,evalue:0.0,length:588
+gi:57012340,ref_number:NP_082916.1,annotation: whirlin isoform 1 [Mus musculus],best_score:441.0,evalue:5.81894e-44,length:907
+gi:57862816,ref_number:NP_001008792.1,annotation: whirlin isoform 3 [Mus musculus],best_score:441.0,evalue:5.97171e-44,length:911
+gi:57526158,ref_number:NP_001008793.1,annotation: whirlin isoform 4 [Mus musculus],best_score:440.0,evalue:6.4405e-44,length:906
+gi:57012338,ref_number:NP_001008791.1,annotation: whirlin isoform 2 [Mus musculus],best_score:440.0,evalue:7.86756e-44,length:918
+gi:568927493,ref_number:XP_006538372.1,annotation: PREDICTED: whirlin isoform X1 [Mus musculus],best_score:440.0,evalue:8.04528e-44,length:917
+gi:449083370,ref_number:NP_001263300.1,annotation: whirlin isoform 10 [Mus musculus],best_score:301.0,evalue:3.94064e-29,length:322
+gi:254911001,ref_number:NP_710143.2,annotation: harmonin isoform b3 [Mus musculus],best_score:259.0,evalue:4.21232e-22,length:910
+gi:599044252,ref_number:NP_001278111.1,annotation: harmonin isoform b2 [Mus musculus],best_score:258.0,evalue:5.36112e-22,length:859
+gi:254911005,ref_number:NP_001157205.1,annotation: harmonin isoform b4 [Mus musculus],best_score:257.0,evalue:7.14026e-22,length:891
+gi:568948548,ref_number:XP_006541275.1,annotation: PREDICTED: harmonin isoform X1 [Mus musculus],best_score:243.0,evalue:1.39365e-20,length:517
+gi:254911003,ref_number:NP_076138.2,annotation: harmonin isoform a1 [Mus musculus],best_score:241.0,evalue:2.80724e-20,length:548
+gi:21312244,ref_number:NP_082579.1,annotation: PDZ domain-containing protein 11 [Mus musculus] >gi,best_score:162.0,evalue:2.20439e-12,length:140
+gi:887221696,ref_number:NP_001297465.1,annotation: rap guanine nucleotide exchange factor 2 isoform 2 [Mus musculus],best_score:174.0,evalue:7.12453e-12,length:1424
+gi:568924419,ref_number:XP_006502317.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X5 [Mus musculus],best_score:174.0,evalue:7.33711e-12,length:1496
+gi:157278453,ref_number:NP_001093094.2,annotation: rap guanine nucleotide exchange factor 2 isoform 1 [Mus musculus],best_score:173.0,evalue:7.6521e-12,length:1494
+gi:568924415,ref_number:XP_006502315.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X4 [Mus musculus],best_score:173.0,evalue:8.82817e-12,length:1541
+gi:568972364,ref_number:XP_006532629.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X8 [Mus musculus],best_score:173.0,evalue:9.81403e-12,length:1462
+gi:82617638,ref_number:NP_780467.2,annotation: rap guanine nucleotide exchange factor 6 isoform 2 [Mus musculus],best_score:173.0,evalue:1.00268e-11,length:1601
+gi:755504641,ref_number:XP_011238578.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X1 [Mus musculus],best_score:172.0,evalue:1.01883e-11,length:1657
+gi:568972362,ref_number:XP_006532628.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X7 [Mus musculus],best_score:172.0,evalue:1.02475e-11,length:1467
+gi:755504644,ref_number:XP_011238579.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X3 [Mus musculus],best_score:172.0,evalue:1.02643e-11,length:1649
+gi:568924411,ref_number:XP_006502313.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X2 [Mus musculus],best_score:172.0,evalue:1.04423e-11,length:1651
+gi:568972358,ref_number:XP_006532626.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X4 [Mus musculus],best_score:172.0,evalue:1.08734e-11,length:1519
+gi:568972354,ref_number:XP_006532624.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X2 [Mus musculus],best_score:172.0,evalue:1.0925e-11,length:1609
+gi:568972352,ref_number:XP_006532623.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X1 [Mus musculus],best_score:172.0,evalue:1.13091e-11,length:1614
+gi:568972356,ref_number:XP_006532625.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X3 [Mus musculus],best_score:172.0,evalue:1.14246e-11,length:1566
+gi:357394770,ref_number:NP_001239423.1,annotation: rap guanine nucleotide exchange factor 6 isoform 1 [Mus musculus],best_score:172.0,evalue:1.14896e-11,length:1606
+gi:568972368,ref_number:XP_006532631.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X10 [Mus musculus],best_score:172.0,evalue:1.27484e-11,length:1408
+gi:568972360,ref_number:XP_006532627.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X5 [Mus musculus],best_score:172.0,evalue:1.2968e-11,length:1508
+gi:568972366,ref_number:XP_006532630.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X9 [Mus musculus],best_score:171.0,evalue:1.39089e-11,length:1421
+gi:1039736133,ref_number:XP_017169837.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 isoform X6 [Mus musculus],best_score:171.0,evalue:1.39888e-11,length:1505
+gi:357394795,ref_number:NP_001239425.1,annotation: rap guanine nucleotide exchange factor 6 isoform 3 [Mus musculus],best_score:171.0,evalue:1.40064e-11,length:1513
+gi:357394797,ref_number:NP_001239426.1,annotation: rap guanine nucleotide exchange factor 6 isoform 4 [Mus musculus],best_score:169.0,evalue:1.87259e-11,length:604
+gi:1039747199,ref_number:XP_017171733.1,annotation: PREDICTED: FERM and PDZ domain-containing protein 2 [Mus musculus],best_score:163.0,evalue:1.21871e-10,length:1292
+gi:6755971,ref_number:NP_035828.1,annotation: protein lin-7 homolog B [Mus musculus] >gi,best_score:149.0,evalue:4.54744e-10,length:207
+gi:6755973,ref_number:NP_035829.1,annotation: protein lin-7 homolog C [Mus musculus] >gi,best_score:148.0,evalue:4.69918e-10,length:197
+gi:568994560,ref_number:XP_006521827.1,annotation: PREDICTED: disks large homolog 1 isoform X5 [Mus musculus],best_score:157.0,evalue:5.91323e-10,length:924
+gi:568926130,ref_number:XP_006537707.1,annotation: PREDICTED: multiple PDZ domain protein isoform X2 [Mus musculus],best_score:157.0,evalue:7.58269e-10,length:2045
+gi:765826460,ref_number:NP_001292213.1,annotation: multiple PDZ domain protein isoform 1 [Mus musculus],best_score:157.0,evalue:7.85692e-10,length:2069
+gi:568926136,ref_number:XP_006537710.1,annotation: PREDICTED: multiple PDZ domain protein isoform X5 [Mus musculus],best_score:157.0,evalue:7.96852e-10,length:2030
+gi:568926128,ref_number:XP_006537706.1,annotation: PREDICTED: multiple PDZ domain protein isoform X1 [Mus musculus],best_score:156.0,evalue:8.04841e-10,length:2051
+gi:585701977,ref_number:XP_002739893.2,annotation: PREDICTED: uncharacterized protein LOC100375241 [Saccoglossus kowalevskii],best_score:605.0,evalue:1.86678e-64,length:1145
+gi:585702298,ref_number:XP_006823043.1,annotation: PREDICTED: whirlin-like [Saccoglossus kowalevskii],best_score:450.0,evalue:2.38933e-45,length:1157
+gi:585661597,ref_number:XP_006816590.1,annotation: PREDICTED: uncharacterized protein LOC102803337 [Saccoglossus kowalevskii],best_score:244.0,evalue:5.51611e-21,length:718
+gi:585699365,ref_number:XP_006822749.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like, partial [Saccoglossus kowalevskii],best_score:204.0,evalue:1.49461e-16,length:430
+gi:585677648,ref_number:XP_006819180.1,annotation: PREDICTED: harmonin-like [Saccoglossus kowalevskii],best_score:166.0,evalue:7.69652e-13,length:213
+gi:585696285,ref_number:XP_006822177.1,annotation: PREDICTED: multiple PDZ domain protein-like [Saccoglossus kowalevskii],best_score:173.0,evalue:1.87015e-12,length:992
+gi:291237583,ref_number:XP_002738713.1,annotation: PREDICTED: ligand of Numb protein X 2-like [Saccoglossus kowalevskii],best_score:155.0,evalue:1.49435e-10,length:431
+gi:585694212,ref_number:XP_006821778.1,annotation: PREDICTED: protein scribble homolog [Saccoglossus kowalevskii],best_score:157.0,evalue:1.70828e-10,length:1583
+gi:296317273,ref_number:NP_001171736.1,annotation: Veli-like protein [Saccoglossus kowalevskii],best_score:135.0,evalue:7.24006e-09,length:198
+gi:585665790,ref_number:XP_006817000.1,annotation: PREDICTED: delphilin-like [Saccoglossus kowalevskii],best_score:129.0,evalue:3.35253e-07,length:1202
+gi:585665821,ref_number:XP_006817004.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like [Saccoglossus kowalevskii],best_score:129.0,evalue:3.51471e-07,length:1230
+gi:585684442,ref_number:XP_006812581.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13-like [Saccoglossus kowalevskii],best_score:128.0,evalue:4.63531e-07,length:2467
+gi:585715176,ref_number:XP_006825286.1,annotation: PREDICTED: MAGUK p55 subfamily member 5-like [Saccoglossus kowalevskii],best_score:126.0,evalue:8.0752e-07,length:993
+gi:291230222,ref_number:XP_002735067.1,annotation: PREDICTED: golgi-associated PDZ and coiled-coil motif-containing protein-like [Saccoglossus kowalevskii],best_score:118.0,evalue:1.01139e-06,length:198
+gi:585654970,ref_number:XP_006815396.1,annotation: PREDICTED: uncharacterized protein LOC100370705 [Saccoglossus kowalevskii],best_score:123.0,evalue:1.96349e-06,length:3474
+gi:195997863,ref_number:XP_002108800.1,annotation: hypothetical protein TRIADDRAFT_63520 [Trichoplax adhaerens],best_score:193.0,evalue:3.89547e-15,length:745
+gi:196008055,ref_number:XP_002113893.1,annotation: hypothetical protein TRIADDRAFT_27973 [Trichoplax adhaerens],best_score:164.0,evalue:1.43614e-11,length:1926
+gi:196010353,ref_number:XP_002115041.1,annotation: hypothetical protein TRIADDRAFT_59148 [Trichoplax adhaerens],best_score:152.0,evalue:3.05815e-10,length:1168
+gi:196015491,ref_number:XP_002117602.1,annotation: hypothetical protein TRIADDRAFT_61629 [Trichoplax adhaerens],best_score:135.0,evalue:2.99863e-09,length:186
+gi:196005989,ref_number:XP_002112861.1,annotation: hypothetical protein TRIADDRAFT_13274 [Trichoplax adhaerens],best_score:134.0,evalue:1.95816e-08,length:352
+gi:196004210,ref_number:XP_002111972.1,annotation: hypothetical protein TRIADDRAFT_24172 [Trichoplax adhaerens],best_score:135.0,evalue:2.34313e-08,length:537
+gi:195996235,ref_number:XP_002107986.1,annotation: predicted protein [Trichoplax adhaerens],best_score:125.0,evalue:3.51247e-07,length:663
+gi:195997801,ref_number:XP_002108769.1,annotation: hypothetical protein TRIADDRAFT_52081 [Trichoplax adhaerens],best_score:123.0,evalue:6.5288e-07,length:531
+gi:470296585,ref_number:XP_004345405.1,annotation: hypothetical protein CAOG_05815 [Capsaspora owczarzaki ATCC 30864],best_score:152.0,evalue:1.99552e-10,length:489
+gi:470293116,ref_number:XP_004343811.1,annotation: veli-PA [Capsaspora owczarzaki ATCC 30864],best_score:126.0,evalue:5.94267e-08,length:202
+gi:470323867,ref_number:XP_004349749.1,annotation: postsynaptic density protein [Capsaspora owczarzaki ATCC 30864],best_score:128.0,evalue:1.59189e-07,length:651
+gi:470305965,ref_number:XP_004363324.1,annotation: hypothetical protein CAOG_03596 [Capsaspora owczarzaki ATCC 30864],best_score:126.0,evalue:3.20337e-07,length:552
+gi:754343301,ref_number:XP_011269988.1,annotation: hypothetical protein CAOG_08417 [Capsaspora owczarzaki ATCC 30864],best_score:118.0,evalue:2.53897e-06,length:696
+gi:676452844,ref_number:XP_009053162.1,annotation: hypothetical protein LOTGIDRAFT_116246 [Lottia gigantea],best_score:385.0,evalue:5.17534e-39,length:551
+gi:676448922,ref_number:XP_009051887.1,annotation: hypothetical protein LOTGIDRAFT_159301 [Lottia gigantea],best_score:277.0,evalue:2.77865e-25,length:573
+gi:676439566,ref_number:XP_009048894.1,annotation: hypothetical protein LOTGIDRAFT_140690 [Lottia gigantea],best_score:219.0,evalue:2.21332e-21,length:94
+gi:676439563,ref_number:XP_009048893.1,annotation: hypothetical protein LOTGIDRAFT_200813, partial [Lottia gigantea],best_score:173.0,evalue:7.37687e-14,length:213
+gi:676457581,ref_number:XP_009054697.1,annotation: hypothetical protein LOTGIDRAFT_175413 [Lottia gigantea],best_score:165.0,evalue:1.16835e-13,length:128
+gi:676480483,ref_number:XP_009062074.1,annotation: hypothetical protein LOTGIDRAFT_107273 [Lottia gigantea],best_score:177.0,evalue:5.58725e-13,length:986
+gi:676422908,ref_number:XP_009044033.1,annotation: hypothetical protein LOTGIDRAFT_228054 [Lottia gigantea],best_score:176.0,evalue:6.34369e-13,length:683
+gi:676435636,ref_number:XP_009047621.1,annotation: hypothetical protein LOTGIDRAFT_139229, partial [Lottia gigantea],best_score:154.0,evalue:2.43135e-11,length:218
+gi:676452850,ref_number:XP_009053164.1,annotation: hypothetical protein LOTGIDRAFT_116080, partial [Lottia gigantea],best_score:144.0,evalue:4.75839e-11,length:106
+gi:676429300,ref_number:XP_009045555.1,annotation: hypothetical protein LOTGIDRAFT_212273 [Lottia gigantea],best_score:144.0,evalue:1.88495e-09,length:358
+gi:676457935,ref_number:XP_009054812.1,annotation: hypothetical protein LOTGIDRAFT_118327, partial [Lottia gigantea],best_score:130.0,evalue:2.53126e-09,length:93
+gi:676426877,ref_number:XP_009044765.1,annotation: hypothetical protein LOTGIDRAFT_57654, partial [Lottia gigantea],best_score:121.0,evalue:2.90617e-08,length:80
+gi:676467009,ref_number:XP_009057750.1,annotation: hypothetical protein LOTGIDRAFT_217446 [Lottia gigantea],best_score:127.0,evalue:6.59272e-08,length:197
+gi:676451201,ref_number:XP_009052628.1,annotation: hypothetical protein LOTGIDRAFT_174742 [Lottia gigantea],best_score:133.0,evalue:8.42192e-08,length:705
+gi:676478790,ref_number:XP_009061541.1,annotation: hypothetical protein LOTGIDRAFT_78867, partial [Lottia gigantea],best_score:113.0,evalue:4.24323e-07,length:88
+gi:676484197,ref_number:XP_009063269.1,annotation: hypothetical protein LOTGIDRAFT_235611 [Lottia gigantea],best_score:124.0,evalue:6.4318e-07,length:470
+gi:676447550,ref_number:XP_009051444.1,annotation: hypothetical protein LOTGIDRAFT_103997 [Lottia gigantea],best_score:121.0,evalue:1.70573e-06,length:621
+gi:676445930,ref_number:XP_009050913.1,annotation: hypothetical protein LOTGIDRAFT_231326 [Lottia gigantea],best_score:119.0,evalue:3.21932e-06,length:480
+gi:676445611,ref_number:XP_009050810.1,annotation: hypothetical protein LOTGIDRAFT_142844, partial [Lottia gigantea],best_score:106.0,evalue:8.29275e-06,length:111
+gi:957829066,ref_number:XP_014664433.1,annotation: PREDICTED: whirlin-like [Priapulus caudatus],best_score:406.0,evalue:6.50081e-42,length:505
+gi:957833560,ref_number:XP_014666843.1,annotation: PREDICTED: PDZ domain-containing protein 11-like isoform X1 [Priapulus caudatus] >gi,best_score:175.0,evalue:1.19307e-14,length:158
+gi:957840875,ref_number:XP_014670758.1,annotation: PREDICTED: harmonin-like [Priapulus caudatus],best_score:170.0,evalue:1.08044e-13,length:192
+gi:957833576,ref_number:XP_014666852.1,annotation: PREDICTED: PDZ domain-containing protein 11-like isoform X2 [Priapulus caudatus],best_score:153.0,evalue:5.25747e-12,length:131
+gi:957834294,ref_number:XP_014667242.1,annotation: PREDICTED: protein lin-7 homolog C-like [Priapulus caudatus],best_score:138.0,evalue:2.3471e-09,length:198
+gi:957837910,ref_number:XP_014669174.1,annotation: PREDICTED: protein lin-7 homolog C-like [Priapulus caudatus],best_score:137.0,evalue:2.65339e-09,length:198
+gi:957821453,ref_number:XP_014681051.1,annotation: PREDICTED: Golgi-associated PDZ and coiled-coil motif-containing protein-like [Priapulus caudatus],best_score:143.0,evalue:3.14017e-09,length:437
+gi:957829663,ref_number:XP_014664751.1,annotation: PREDICTED: uncharacterized protein LOC106807044 isoform X5 [Priapulus caudatus],best_score:142.0,evalue:8.06584e-09,length:1407
+gi:957829655,ref_number:XP_014664746.1,annotation: PREDICTED: uncharacterized protein LOC106807044 isoform X1 [Priapulus caudatus],best_score:142.0,evalue:9.08278e-09,length:1539
+gi:957829657,ref_number:XP_014664747.1,annotation: PREDICTED: uncharacterized protein LOC106807044 isoform X2 [Priapulus caudatus],best_score:142.0,evalue:9.15889e-09,length:1538
+gi:957829661,ref_number:XP_014664750.1,annotation: PREDICTED: uncharacterized protein LOC106807044 isoform X4 [Priapulus caudatus],best_score:141.0,evalue:1.13286e-08,length:1414
+gi:957829659,ref_number:XP_014664749.1,annotation: PREDICTED: uncharacterized protein LOC106807044 isoform X3 [Priapulus caudatus],best_score:140.0,evalue:1.24588e-08,length:1493
+gi:957818740,ref_number:XP_014671282.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like isoform X2 [Priapulus caudatus],best_score:130.0,evalue:2.01691e-07,length:1422
+gi:957818742,ref_number:XP_014671285.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like isoform X3 [Priapulus caudatus] >gi,best_score:130.0,evalue:2.09082e-07,length:1259
+gi:957818736,ref_number:XP_014671266.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like isoform X1 [Priapulus caudatus] >gi,best_score:130.0,evalue:2.14188e-07,length:1429
+gi:957829068,ref_number:XP_014664434.1,annotation: PREDICTED: uncharacterized protein LOC106806827 [Priapulus caudatus],best_score:128.0,evalue:2.73139e-07,length:653
+gi:957818463,ref_number:XP_014669927.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X2 [Priapulus caudatus],best_score:125.0,evalue:3.78659e-07,length:336
+gi:957818461,ref_number:XP_014669919.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X1 [Priapulus caudatus],best_score:125.0,evalue:3.83879e-07,length:359
+gi:957860886,ref_number:XP_014679096.1,annotation: PREDICTED: protein scribble homolog, partial [Priapulus caudatus],best_score:121.0,evalue:7.24905e-07,length:244
+gi:957825138,ref_number:XP_014662338.1,annotation: PREDICTED: inaD-like protein [Priapulus caudatus],best_score:117.0,evalue:1.63873e-06,length:220
+gi:961078947,ref_number:XP_014767796.1,annotation: PREDICTED: harmonin-like, partial [Octopus bimaculoides],best_score:233.0,evalue:6.53953e-20,length:495
+gi:961133530,ref_number:XP_014786854.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X8 [Octopus bimaculoides],best_score:190.0,evalue:2.4965e-14,length:1257
+gi:961133511,ref_number:XP_014786849.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X3 [Octopus bimaculoides],best_score:190.0,evalue:2.72528e-14,length:1334
+gi:961133508,ref_number:XP_014786848.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X2 [Octopus bimaculoides],best_score:189.0,evalue:2.82339e-14,length:1340
+gi:961133505,ref_number:XP_014786847.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X1 [Octopus bimaculoides],best_score:189.0,evalue:2.84812e-14,length:1341
+gi:961133518,ref_number:XP_014786850.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X4 [Octopus bimaculoides],best_score:189.0,evalue:2.93087e-14,length:1319
+gi:961133533,ref_number:XP_014786855.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X9 [Octopus bimaculoides],best_score:189.0,evalue:3.40697e-14,length:1216
+gi:961133536,ref_number:XP_014786856.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X10 [Octopus bimaculoides],best_score:188.0,evalue:3.72267e-14,length:1200
+gi:961133539,ref_number:XP_014786857.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X11 [Octopus bimaculoides],best_score:188.0,evalue:3.87704e-14,length:1194
+gi:961133524,ref_number:XP_014786852.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X6 [Octopus bimaculoides],best_score:188.0,evalue:3.97053e-14,length:1278
+gi:961133527,ref_number:XP_014786853.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X7 [Octopus bimaculoides],best_score:188.0,evalue:4.65183e-14,length:1267
+gi:961133521,ref_number:XP_014786851.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X5 [Octopus bimaculoides],best_score:187.0,evalue:4.93669e-14,length:1300
+gi:961133542,ref_number:XP_014786859.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X12 [Octopus bimaculoides],best_score:186.0,evalue:6.6228e-14,length:1142
+gi:961133545,ref_number:XP_014786860.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X13 [Octopus bimaculoides],best_score:186.0,evalue:6.73787e-14,length:1051
+gi:961122888,ref_number:XP_014783153.1,annotation: PREDICTED: PDZ domain-containing protein 11-like [Octopus bimaculoides],best_score:169.0,evalue:9.97726e-14,length:151
+gi:961106930,ref_number:XP_014777493.1,annotation: PREDICTED: protein scribble homolog [Octopus bimaculoides],best_score:173.0,evalue:1.39915e-12,length:567
+gi:961103276,ref_number:XP_014776228.1,annotation: PREDICTED: uncharacterized protein LOC106873395 [Octopus bimaculoides],best_score:140.0,evalue:3.88824e-10,length:123
+gi:961098521,ref_number:XP_014774561.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X2 [Octopus bimaculoides],best_score:152.0,evalue:6.34746e-10,length:1134
+gi:961098518,ref_number:XP_014774560.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X1 [Octopus bimaculoides],best_score:150.0,evalue:1.322e-09,length:1150
+gi:961125861,ref_number:XP_014784184.1,annotation: PREDICTED: disks large homolog 4-like [Octopus bimaculoides],best_score:143.0,evalue:2.14787e-09,length:299
+gi:961097002,ref_number:XP_014774086.1,annotation: PREDICTED: gamma-1-syntrophin-like [Octopus bimaculoides],best_score:143.0,evalue:6.14312e-09,length:560
+gi:961143159,ref_number:XP_014790209.1,annotation: PREDICTED: uncharacterized protein LOC106883629 [Octopus bimaculoides],best_score:143.0,evalue:6.79366e-09,length:601
+gi:961125176,ref_number:XP_014783948.1,annotation: PREDICTED: multiple PDZ domain protein-like [Octopus bimaculoides],best_score:141.0,evalue:1.43067e-08,length:1180
+gi:961138743,ref_number:XP_014788657.1,annotation: PREDICTED: protein lin-7 homolog C-like isoform X2 [Octopus bimaculoides],best_score:129.0,evalue:3.96137e-08,length:197
+gi:961138746,ref_number:XP_014788658.1,annotation: PREDICTED: protein lin-7 homolog C-like isoform X3 [Octopus bimaculoides] >gi,best_score:128.0,evalue:4.13315e-08,length:172
+gi:961071520,ref_number:XP_014779247.1,annotation: PREDICTED: Golgi-associated PDZ and coiled-coil motif-containing protein-like [Octopus bimaculoides],best_score:134.0,evalue:6.64311e-08,length:584
+gi:961142786,ref_number:XP_014790071.1,annotation: PREDICTED: tight junction protein ZO-1-like [Octopus bimaculoides],best_score:128.0,evalue:5.33008e-07,length:1718
+gi:961138737,ref_number:XP_014788654.1,annotation: PREDICTED: protein lin-7 homolog C-like isoform X1 [Octopus bimaculoides] >gi,best_score:123.0,evalue:6.72197e-07,length:270
+gi:961132967,ref_number:XP_014786662.1,annotation: PREDICTED: beta-1-syntrophin-like [Octopus bimaculoides],best_score:120.0,evalue:2.93845e-06,length:504
+gi:961092335,ref_number:XP_014772465.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13-like [Octopus bimaculoides],best_score:121.0,evalue:3.5007e-06,length:1007
+gi:961102983,ref_number:XP_014776123.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X7 [Octopus bimaculoides],best_score:120.0,evalue:4.30073e-06,length:1300
+gi:961071111,ref_number:XP_014777830.1,annotation: PREDICTED: ligand of Numb protein X 2-like [Octopus bimaculoides],best_score:119.0,evalue:4.55575e-06,length:542
+gi:961102971,ref_number:XP_014776118.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X3 [Octopus bimaculoides],best_score:119.0,evalue:5.00757e-06,length:1519
+gi:961102974,ref_number:XP_014776119.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X4 [Octopus bimaculoides],best_score:119.0,evalue:5.04268e-06,length:1504
+gi:961102956,ref_number:XP_014776113.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X1 [Octopus bimaculoides] >gi,best_score:119.0,evalue:5.46507e-06,length:1549
+gi:961102977,ref_number:XP_014776120.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X5 [Octopus bimaculoides],best_score:119.0,evalue:5.61871e-06,length:1486
+gi:961102968,ref_number:XP_014776117.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X2 [Octopus bimaculoides],best_score:119.0,evalue:5.93904e-06,length:1534
+gi:961073218,ref_number:XP_014785167.1,annotation: PREDICTED: protein LAP2-like [Octopus bimaculoides],best_score:119.0,evalue:6.25709e-06,length:1318
+gi:961102980,ref_number:XP_014776121.1,annotation: PREDICTED: partitioning defective 3 homolog isoform X6 [Octopus bimaculoides],best_score:119.0,evalue:6.33165e-06,length:1416
+gi:1133456164,ref_number:XP_003385034.3,annotation: PREDICTED: titin homolog isoform X1 [Amphimedon queenslandica],best_score:405.0,evalue:6.88883e-40,length:1248
+gi:340376105,ref_number:XP_003386574.1,annotation: PREDICTED: whirlin-like [Amphimedon queenslandica],best_score:387.0,evalue:3.9643e-38,length:848
+gi:1133456166,ref_number:XP_019849791.1,annotation: PREDICTED: golgin subfamily A member 6-like protein 22 isoform X2 [Amphimedon queenslandica],best_score:226.0,evalue:1.1104e-18,length:1046
+gi:761902112,ref_number:XP_011407680.1,annotation: PREDICTED: disks large homolog 2-like isoform X2 [Amphimedon queenslandica],best_score:195.0,evalue:2.50764e-15,length:485
+gi:1133450075,ref_number:XP_019857331.1,annotation: PREDICTED: disks large homolog 4-like isoform X1 [Amphimedon queenslandica],best_score:193.0,evalue:4.24954e-15,length:494
+gi:1133456860,ref_number:XP_019850037.1,annotation: PREDICTED: disks large homolog 2-like [Amphimedon queenslandica],best_score:193.0,evalue:6.63556e-15,length:596
+gi:1133458426,ref_number:XP_019850603.1,annotation: PREDICTED: harmonin-like [Amphimedon queenslandica],best_score:188.0,evalue:2.79344e-14,length:627
+gi:761905820,ref_number:XP_011402656.1,annotation: PREDICTED: whirlin-like [Amphimedon queenslandica],best_score:162.0,evalue:6.18416e-12,length:259
+gi:761921279,ref_number:XP_011409516.1,annotation: PREDICTED: whirlin-like [Amphimedon queenslandica],best_score:154.0,evalue:2.31647e-11,length:195
+gi:1133452816,ref_number:XP_019864486.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like [Amphimedon queenslandica],best_score:146.0,evalue:3.30586e-09,length:1095
+gi:1133474374,ref_number:XP_019856715.1,annotation: PREDICTED: protein lin-7 homolog C-like [Amphimedon queenslandica],best_score:138.0,evalue:3.3536e-09,length:202
+gi:1133463032,ref_number:XP_019852372.1,annotation: PREDICTED: protein scribble homolog [Amphimedon queenslandica],best_score:135.0,evalue:6.99551e-08,length:1561
+gi:1133449649,ref_number:XP_019855523.1,annotation: PREDICTED: glutamate receptor-interacting protein 2-like [Amphimedon queenslandica],best_score:133.0,evalue:1.04775e-07,length:1071
+gi:1133451688,ref_number:XP_019863147.1,annotation: PREDICTED: syntaxin-binding protein 4-like isoform X2 [Amphimedon queenslandica],best_score:129.0,evalue:3.18859e-07,length:710
+gi:1133451686,ref_number:XP_019863144.1,annotation: PREDICTED: syntaxin-binding protein 4-like isoform X1 [Amphimedon queenslandica],best_score:128.0,evalue:3.44513e-07,length:711
+gi:340375907,ref_number:XP_003386475.1,annotation: PREDICTED: kelch-like protein 29 [Amphimedon queenslandica],best_score:125.0,evalue:9.98797e-07,length:723
+gi:1133473355,ref_number:XP_019856326.1,annotation: PREDICTED: protein kibra-like [Amphimedon queenslandica],best_score:123.0,evalue:1.29393e-06,length:485
+gi:1133456022,ref_number:XP_019849744.1,annotation: PREDICTED: uncharacterized protein LOC109580709 [Amphimedon queenslandica],best_score:122.0,evalue:2.45836e-06,length:1741
+gi:156393382,ref_number:XP_001636307.1,annotation: predicted protein [Nematostella vectensis],best_score:374.0,evalue:5.35934e-38,length:482
+gi:156405451,ref_number:XP_001640745.1,annotation: predicted protein [Nematostella vectensis],best_score:249.0,evalue:3.43518e-25,length:108
+gi:156340278,ref_number:XP_001620405.1,annotation: hypothetical protein NEMVEDRAFT_v1g148264 [Nematostella vectensis],best_score:205.0,evalue:1.19647e-19,length:79
+gi:156405449,ref_number:XP_001640744.1,annotation: predicted protein [Nematostella vectensis],best_score:175.0,evalue:1.25016e-15,length:73
+gi:156340280,ref_number:XP_001620406.1,annotation: hypothetical protein NEMVEDRAFT_v1g223150 [Nematostella vectensis],best_score:164.0,evalue:8.84108e-13,length:197
+gi:156402804,ref_number:XP_001639780.1,annotation: predicted protein [Nematostella vectensis],best_score:161.0,evalue:2.57817e-11,length:563
+gi:156361922,ref_number:XP_001625532.1,annotation: predicted protein [Nematostella vectensis],best_score:158.0,evalue:9.74943e-11,length:1030
+gi:156402814,ref_number:XP_001639785.1,annotation: predicted protein [Nematostella vectensis],best_score:143.0,evalue:3.63941e-10,length:193
+gi:156398291,ref_number:XP_001638122.1,annotation: predicted protein [Nematostella vectensis],best_score:144.0,evalue:3.66553e-10,length:201
+gi:156399847,ref_number:XP_001638712.1,annotation: predicted protein [Nematostella vectensis],best_score:140.0,evalue:5.48817e-09,length:376
+gi:156362482,ref_number:XP_001625806.1,annotation: predicted protein [Nematostella vectensis],best_score:143.0,evalue:6.13168e-09,length:1833
+gi:156388226,ref_number:XP_001634602.1,annotation: predicted protein [Nematostella vectensis],best_score:142.0,evalue:7.87503e-09,length:1130
+gi:156386345,ref_number:XP_001633873.1,annotation: predicted protein [Nematostella vectensis],best_score:140.0,evalue:1.15813e-08,length:850
+gi:156342029,ref_number:XP_001620854.1,annotation: hypothetical protein NEMVEDRAFT_v1g6439 [Nematostella vectensis],best_score:124.0,evalue:1.40497e-08,length:89
+gi:156397945,ref_number:XP_001637950.1,annotation: predicted protein [Nematostella vectensis],best_score:139.0,evalue:1.73741e-08,length:1104
+gi:156400084,ref_number:XP_001638830.1,annotation: predicted protein [Nematostella vectensis],best_score:128.0,evalue:4.23439e-08,length:207
+gi:156402897,ref_number:XP_001639826.1,annotation: predicted protein [Nematostella vectensis],best_score:119.0,evalue:6.85731e-08,length:85
+gi:156331271,ref_number:XP_001619181.1,annotation: hypothetical protein NEMVEDRAFT_v1g152143 [Nematostella vectensis],best_score:116.0,evalue:2.75874e-07,length:101
+gi:156370155,ref_number:XP_001628337.1,annotation: predicted protein [Nematostella vectensis],best_score:110.0,evalue:9.61315e-07,length:82
+gi:156386423,ref_number:XP_001633912.1,annotation: predicted protein [Nematostella vectensis],best_score:118.0,evalue:5.02412e-06,length:1114
+gi:156390771,ref_number:XP_001635443.1,annotation: predicted protein [Nematostella vectensis],best_score:116.0,evalue:7.85166e-06,length:614
+gi:156332993,ref_number:XP_001619340.1,annotation: hypothetical protein NEMVEDRAFT_v1g151640 [Nematostella vectensis],best_score:103.0,evalue:9.1677e-06,length:90
+gi:828213713,ref_number:XP_002158118.2,annotation: PREDICTED: whirlin-like, partial [Hydra vulgaris],best_score:302.0,evalue:5.62211e-32,length:246
+gi:828198996,ref_number:XP_012554457.1,annotation: PREDICTED: myosin-1-like [Hydra vulgaris],best_score:237.0,evalue:2.78019e-21,length:1817
+gi:828198711,ref_number:XP_002155415.3,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 [Hydra vulgaris],best_score:161.0,evalue:2.17689e-12,length:1241
+gi:828207870,ref_number:XP_012557441.1,annotation: PREDICTED: uncharacterized protein LOC100198221 isoform X2 [Hydra vulgaris],best_score:160.0,evalue:3.12154e-12,length:1964
+gi:828207868,ref_number:XP_012557440.1,annotation: PREDICTED: uncharacterized protein LOC100198221 isoform X1 [Hydra vulgaris],best_score:160.0,evalue:3.94704e-12,length:2046
+gi:828205187,ref_number:XP_012556528.1,annotation: PREDICTED: disks large homolog 1-like [Hydra vulgaris],best_score:155.0,evalue:1.03664e-11,length:782
+gi:828194319,ref_number:XP_012565920.1,annotation: PREDICTED: protein lin-7 homolog C-like [Hydra vulgaris],best_score:143.0,evalue:2.14663e-11,length:195
+gi:828192922,ref_number:XP_012561741.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13-like [Hydra vulgaris],best_score:151.0,evalue:3.70963e-11,length:1457
+gi:828214113,ref_number:XP_004209241.2,annotation: PREDICTED: protein scribble homolog isoform X1 [Hydra vulgaris],best_score:149.0,evalue:6.42647e-11,length:1342
+gi:828214116,ref_number:XP_012559552.1,annotation: PREDICTED: protein scribble homolog isoform X2 [Hydra vulgaris] >gi,best_score:148.0,evalue:8.3986e-11,length:1275
+gi:828209186,ref_number:XP_012557877.1,annotation: PREDICTED: beta-1-syntrophin-like [Hydra vulgaris],best_score:142.0,evalue:2.52821e-10,length:498
+gi:828211478,ref_number:XP_012558679.1,annotation: PREDICTED: patj homolog, partial [Hydra vulgaris],best_score:128.0,evalue:9.35442e-09,length:329
+gi:828212321,ref_number:XP_012558951.1,annotation: PREDICTED: multiple PDZ domain protein-like [Hydra vulgaris],best_score:128.0,evalue:1.85443e-08,length:1729
+gi:449665577,ref_number:XP_002167025.2,annotation: PREDICTED: golgi-associated PDZ and coiled-coil motif-containing protein-like [Hydra vulgaris],best_score:122.0,evalue:5.47473e-08,length:429
+gi:828208023,ref_number:XP_012557503.1,annotation: PREDICTED: MAGUK p55 subfamily member 5-like [Hydra vulgaris],best_score:123.0,evalue:6.0114e-08,length:818
+gi:828202843,ref_number:XP_012555738.1,annotation: PREDICTED: segment polarity protein dishevelled homolog DVL-3-like isoform X1 [Hydra vulgaris],best_score:115.0,evalue:5.448e-07,length:719
+gi:567757566,ref_number:NP_001274723.1,annotation: segment polarity protein dishevelled homolog DVL-3-like [Hydra vulgaris],best_score:115.0,evalue:5.7969e-07,length:724
+gi:828211475,ref_number:XP_012558678.1,annotation: PREDICTED: multiple PDZ domain protein-like [Hydra vulgaris],best_score:114.0,evalue:6.23577e-07,length:429
+gi:828197049,ref_number:XP_012553746.1,annotation: PREDICTED: PDZ and LIM domain protein 7-like [Hydra vulgaris],best_score:109.0,evalue:8.64717e-07,length:219
+gi:449672813,ref_number:XP_002159074.2,annotation: PREDICTED: E3 ubiquitin-protein ligase PDZRN3-like [Hydra vulgaris],best_score:109.0,evalue:3.21698e-06,length:1008
+gi:828191049,ref_number:XP_012555547.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13-like [Hydra vulgaris],best_score:109.0,evalue:3.69087e-06,length:2088
+gi:828198590,ref_number:XP_012554301.1,annotation: PREDICTED: GATA zinc finger domain-containing protein 24-like, partial [Hydra vulgaris],best_score:102.0,evalue:4.2297e-06,length:180
+gi:828223436,ref_number:XP_004210881.2,annotation: PREDICTED: merozoite surface protein 1-like [Hydra vulgaris],best_score:106.0,evalue:6.5735e-06,length:1560
+gi:449667490,ref_number:XP_002169477.2,annotation: PREDICTED: segment polarity protein dishevelled-like [Hydra vulgaris],best_score:99.0,evalue:7.17527e-06,length:159
+gi:844849012,ref_number:XP_012795239.1,annotation: Disks large 2 [Schistosoma haematobium],best_score:186.0,evalue:4.93026e-15,length:315
+gi:844864260,ref_number:XP_012798807.1,annotation: Protein lap4 [Schistosoma haematobium],best_score:156.0,evalue:9.73787e-11,length:1066
+gi:844834312,ref_number:XP_012791822.1,annotation: Synaptopodin 2-like protein [Schistosoma haematobium],best_score:135.0,evalue:2.11351e-08,length:569
+gi:844837272,ref_number:XP_012792435.1,annotation: Beta-1-syntrophin [Schistosoma haematobium],best_score:130.0,evalue:8.71322e-08,length:554
+gi:844845479,ref_number:XP_012794291.1,annotation: Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3, partial [Schistosoma haematobium],best_score:128.0,evalue:1.95175e-07,length:1547
+gi:844848015,ref_number:XP_012795007.1,annotation: Disks large 1 tumor suppressor protein [Schistosoma haematobium],best_score:127.0,evalue:2.76587e-07,length:1565
+gi:844863403,ref_number:XP_012798558.1,annotation: Protein lin-7 B [Schistosoma haematobium],best_score:111.0,evalue:6.05199e-07,length:89
+gi:844879399,ref_number:XP_012802455.1,annotation: Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1, partial [Schistosoma haematobium],best_score:111.0,evalue:1.03026e-06,length:113
+gi:844866375,ref_number:XP_012799297.1,annotation: Multiple PDZ domain protein [Schistosoma haematobium],best_score:118.0,evalue:3.16695e-06,length:2843
+gi:71984092,ref_number:NP_001024431.1,annotation: Drosophila Discs LarGe homolog [Caenorhabditis elegans],best_score:153.0,evalue:5.28303e-10,length:967
+gi:392892459,ref_number:NP_001122664.2,annotation: Uncharacterized protein CELE_Y54G11A.10 [Caenorhabditis elegans],best_score:142.0,evalue:1.01802e-09,length:209
+gi:25150157,ref_number:NP_741478.1,annotation: NHERF (mammalian Na/H Exchange Regulatory Factor) Like [Caenorhabditis elegans],best_score:146.0,evalue:2.32478e-09,length:467
+gi:808357080,ref_number:NP_001294068.1,annotation: NHERF (mammalian Na/H Exchange Regulatory Factor) Like [Caenorhabditis elegans],best_score:145.0,evalue:2.48992e-09,length:399
+gi:392900925,ref_number:NP_001255579.1,annotation: MAGI (Membrane Associated Guanylate kinase Inverted) homolog [Caenorhabditis elegans],best_score:146.0,evalue:3.50693e-09,length:855
+gi:392900927,ref_number:NP_001255580.1,annotation: MAGI (Membrane Associated Guanylate kinase Inverted) homolog [Caenorhabditis elegans],best_score:145.0,evalue:4.01462e-09,length:802
+gi:392900929,ref_number:NP_001255581.1,annotation: MAGI (Membrane Associated Guanylate kinase Inverted) homolog [Caenorhabditis elegans],best_score:143.0,evalue:6.90331e-09,length:829
+gi:392900921,ref_number:NP_001255577.1,annotation: MAGI (Membrane Associated Guanylate kinase Inverted) homolog [Caenorhabditis elegans],best_score:142.0,evalue:1.09904e-08,length:1054
+gi:392900923,ref_number:NP_001255578.1,annotation: MAGI (Membrane Associated Guanylate kinase Inverted) homolog [Caenorhabditis elegans],best_score:135.0,evalue:7.9691e-08,length:1004
+gi:392892457,ref_number:NP_496982.2,annotation: Uncharacterized protein CELE_Y54G11A.10 [Caenorhabditis elegans],best_score:126.0,evalue:1.19794e-07,length:208
+gi:392891583,ref_number:NP_001254264.1,annotation: Multiple PDZ domain protein [Caenorhabditis elegans],best_score:130.0,evalue:2.22145e-07,length:470
+gi:17552626,ref_number:NP_498071.1,annotation: Uncharacterized protein CELE_C45G9.7 [Caenorhabditis elegans],best_score:117.0,evalue:4.38495e-07,length:124
+gi:71991525,ref_number:NP_001023850.1,annotation: Protein lap1 [Caenorhabditis elegans],best_score:127.0,evalue:4.98965e-07,length:679
+gi:71991531,ref_number:NP_001023851.1,annotation: Protein lap1 [Caenorhabditis elegans],best_score:127.0,evalue:5.22899e-07,length:699
+gi:808357078,ref_number:NP_001294067.1,annotation: NHERF (mammalian Na/H Exchange Regulatory Factor) Like [Caenorhabditis elegans],best_score:123.0,evalue:1.45495e-06,length:491
+gi:115532776,ref_number:NP_001040908.1,annotation: NHERF (mammalian Na/H Exchange Regulatory Factor) Like [Caenorhabditis elegans],best_score:121.0,evalue:2.21227e-06,length:423
+gi:193203732,ref_number:NP_001021878.2,annotation: GOlgi-associated PDZ and Coiled-coil motif protein [Caenorhabditis elegans],best_score:121.0,evalue:2.33596e-06,length:412
+gi:193203730,ref_number:NP_001021877.2,annotation: GOlgi-associated PDZ and Coiled-coil motif protein [Caenorhabditis elegans],best_score:120.0,evalue:2.49331e-06,length:414
+gi:193203734,ref_number:NP_001122569.1,annotation: GOlgi-associated PDZ and Coiled-coil motif protein [Caenorhabditis elegans],best_score:120.0,evalue:2.59099e-06,length:390
+gi:71988848,ref_number:NP_001024610.1,annotation: SynTrophiN [Caenorhabditis elegans],best_score:120.0,evalue:3.25635e-06,length:515
+gi:71988842,ref_number:NP_001024609.1,annotation: SynTrophiN [Caenorhabditis elegans],best_score:120.0,evalue:3.3334e-06,length:513
+gi:115532778,ref_number:NP_001040909.1,annotation: NHERF (mammalian Na/H Exchange Regulatory Factor) Like [Caenorhabditis elegans],best_score:118.0,evalue:4.739e-06,length:446
+gi:339261042,ref_number:XP_003368105.1,annotation: putative Ras association domain protein [Trichinella spiralis],best_score:175.0,evalue:4.93712e-13,length:877
+gi:339237249,ref_number:XP_003380179.1,annotation: putative RasGEF domain protein [Trichinella spiralis],best_score:176.0,evalue:5.05177e-13,length:1360
+gi:339237235,ref_number:XP_003380172.1,annotation: Rap guanine nucleotide exchange factor 2 [Trichinella spiralis],best_score:168.0,evalue:1.99923e-12,length:447
+gi:339247479,ref_number:XP_003375373.1,annotation: putative PDZ domain protein [Trichinella spiralis],best_score:162.0,evalue:1.71558e-11,length:716
+gi:339237181,ref_number:XP_003380145.1,annotation: putative PDZ domain protein [Trichinella spiralis],best_score:146.0,evalue:1.91367e-09,length:2175
+gi:339235629,ref_number:XP_003379369.1,annotation: putative glutamate receptor-interacting protein 2 [Trichinella spiralis],best_score:143.0,evalue:3.2561e-09,length:935
+gi:339237423,ref_number:XP_003380266.1,annotation: putative PDZ domain protein [Trichinella spiralis],best_score:142.0,evalue:3.9645e-09,length:963
+gi:339247543,ref_number:XP_003375405.1,annotation: Lin-7 protein [Trichinella spiralis],best_score:140.0,evalue:5.64188e-09,length:583
+gi:339253990,ref_number:XP_003372218.1,annotation: PDZ domain protein [Trichinella spiralis],best_score:133.0,evalue:1.45954e-08,length:271
+gi:339254394,ref_number:XP_003372420.1,annotation: putative PDZ domain (Also known as DHR or GLGF) [Trichinella spiralis],best_score:133.0,evalue:4.57831e-08,length:673
+gi:339253036,ref_number:XP_003371741.1,annotation: golgi-associated PDZ and coiled-coil motif protein-containing protein [Trichinella spiralis],best_score:128.0,evalue:1.24714e-07,length:431
+gi:339252948,ref_number:XP_003371697.1,annotation: golgi-associated PDZ and coiled-coil motif protein-containing protein [Trichinella spiralis],best_score:128.0,evalue:1.31347e-07,length:416
+gi:339247497,ref_number:XP_003375382.1,annotation: putative PDZ domain protein [Trichinella spiralis],best_score:123.0,evalue:7.96989e-07,length:818
+gi:339247481,ref_number:XP_003375374.1,annotation: putative PDZ domain protein [Trichinella spiralis],best_score:120.0,evalue:1.60922e-06,length:880
+gi:339261398,ref_number:XP_003367926.1,annotation: PDZ domain protein [Trichinella spiralis],best_score:116.0,evalue:2.72678e-06,length:340
+gi:339250388,ref_number:XP_003374179.1,annotation: sorting nexin-27 [Trichinella spiralis],best_score:114.0,evalue:6.63447e-06,length:518
+gi:675856560,ref_number:XP_009013840.1,annotation: hypothetical protein HELRODRAFT_75327 [Helobdella robusta],best_score:187.0,evalue:3.30629e-14,length:731
+gi:675853782,ref_number:XP_009012451.1,annotation: hypothetical protein HELRODRAFT_73781, partial [Helobdella robusta],best_score:166.0,evalue:1.13208e-11,length:920
+gi:675879167,ref_number:XP_009025142.1,annotation: hypothetical protein HELRODRAFT_67826, partial [Helobdella robusta],best_score:143.0,evalue:3.2397e-11,length:77
+gi:675847938,ref_number:XP_009009529.1,annotation: hypothetical protein HELRODRAFT_105536 [Helobdella robusta],best_score:158.0,evalue:6.41582e-11,length:547
+gi:675879478,ref_number:XP_009025270.1,annotation: hypothetical protein HELRODRAFT_95514 [Helobdella robusta],best_score:159.0,evalue:6.97924e-11,length:998
+gi:675856438,ref_number:XP_009013779.1,annotation: hypothetical protein HELRODRAFT_190836 [Helobdella robusta],best_score:158.0,evalue:9.42424e-11,length:1177
+gi:675869076,ref_number:XP_009020098.1,annotation: hypothetical protein HELRODRAFT_188808 [Helobdella robusta],best_score:139.0,evalue:1.435e-09,length:195
+gi:675875726,ref_number:XP_009023423.1,annotation: hypothetical protein HELRODRAFT_192938 [Helobdella robusta],best_score:146.0,evalue:2.95543e-09,length:1799
+gi:675876162,ref_number:XP_009023641.1,annotation: hypothetical protein HELRODRAFT_185861 [Helobdella robusta],best_score:134.0,evalue:6.49644e-09,length:199
+gi:675888718,ref_number:XP_009029861.1,annotation: hypothetical protein HELRODRAFT_181830 [Helobdella robusta],best_score:134.0,evalue:4.35531e-08,length:414
+gi:675865068,ref_number:XP_009018094.1,annotation: hypothetical protein HELRODRAFT_173236 [Helobdella robusta],best_score:118.0,evalue:2.55193e-07,length:131
+gi:675884214,ref_number:XP_009027609.1,annotation: hypothetical protein HELRODRAFT_95740 [Helobdella robusta],best_score:126.0,evalue:3.97591e-07,length:546
+gi:675849000,ref_number:XP_009010060.1,annotation: hypothetical protein HELRODRAFT_190005 [Helobdella robusta],best_score:126.0,evalue:5.5724e-07,length:1349
+gi:675891282,ref_number:XP_009031143.1,annotation: hypothetical protein HELRODRAFT_70634, partial [Helobdella robusta],best_score:111.0,evalue:1.41746e-06,length:103
+gi:675860548,ref_number:XP_009015834.1,annotation: hypothetical protein HELRODRAFT_188365 [Helobdella robusta],best_score:122.0,evalue:1.52597e-06,length:868
+gi:675846428,ref_number:XP_009008774.1,annotation: hypothetical protein HELRODRAFT_158463 [Helobdella robusta],best_score:119.0,evalue:3.98278e-06,length:795
+gi:675886926,ref_number:XP_009028965.1,annotation: hypothetical protein HELRODRAFT_164735 [Helobdella robusta],best_score:109.0,evalue:4.08072e-06,length:128
+gi:241053658,ref_number:XP_002407609.1,annotation: pdzk7, putative [Ixodes scapularis],best_score:234.0,evalue:4.7482e-20,length:721
+gi:241785157,ref_number:XP_002414420.1,annotation: whirlin, putative [Ixodes scapularis],best_score:200.0,evalue:4.2499e-16,length:564
+gi:241813079,ref_number:XP_002414620.1,annotation: pdz domain-containing guanine nucleotide exchange factor, pdz-gef, putative [Ixodes scapularis],best_score:173.0,evalue:1.02799e-12,length:1244
+gi:241156201,ref_number:XP_002407719.1,annotation: PDZ-containing protein, putative [Ixodes scapularis],best_score:167.0,evalue:6.11541e-12,length:957
+gi:241623176,ref_number:XP_002407534.1,annotation: leucine rich domain-containing protein, putative [Ixodes scapularis],best_score:142.0,evalue:5.33299e-09,length:1327
+gi:241608408,ref_number:XP_002405974.1,annotation: multiple pdz domain protein, putative [Ixodes scapularis],best_score:140.0,evalue:8.5977e-09,length:877
+gi:241714769,ref_number:XP_002413519.1,annotation: atrophin 1 interacting protein 1, aip1, putative [Ixodes scapularis],best_score:132.0,evalue:5.93815e-08,length:707
+gi:241407181,ref_number:XP_002409814.1,annotation: PDZ domain-containing protein, putative [Ixodes scapularis],best_score:119.0,evalue:5.93357e-07,length:226
+gi:241694468,ref_number:XP_002402210.1,annotation: beta 1 syntrophin, putative [Ixodes scapularis],best_score:119.0,evalue:1.60348e-06,length:427
+gi:241337044,ref_number:XP_002408411.1,annotation: conserved hypothetical protein [Ixodes scapularis],best_score:108.0,evalue:2.9156e-06,length:122
+gi:241843810,ref_number:XP_002415457.1,annotation: pdz domain protein arc, putative [Ixodes scapularis],best_score:115.0,evalue:4.02715e-06,length:326
+gi:241688878,ref_number:XP_002411731.1,annotation: phosphatase/kinase domain-containing protein, putative [Ixodes scapularis],best_score:116.0,evalue:4.67295e-06,length:530
+gi:241594913,ref_number:XP_002404411.1,annotation: tight junction protein tama, putative [Ixodes scapularis],best_score:115.0,evalue:8.90245e-06,length:1421
+gi:241993488,ref_number:XP_002399452.1,annotation: receptor targeting protein Lin-7, putative [Ixodes scapularis],best_score:109.0,evalue:9.07272e-06,length:204
+gi:442615262,ref_number:NP_001259265.1,annotation: CG5921, isoform E [Drosophila melanogaster],best_score:253.0,evalue:6.49464e-22,length:728
+gi:386763881,ref_number:NP_727061.2,annotation: CG5921, isoform D [Drosophila melanogaster],best_score:254.0,evalue:7.17626e-22,length:886
+gi:386763879,ref_number:NP_572290.2,annotation: CG5921, isoform C [Drosophila melanogaster],best_score:252.0,evalue:9.68458e-22,length:829
+gi:442632176,ref_number:NP_001261810.1,annotation: dyschronic, isoform G [Drosophila melanogaster],best_score:188.0,evalue:4.64101e-14,length:1254
+gi:221331146,ref_number:NP_001137946.1,annotation: dyschronic, isoform F [Drosophila melanogaster],best_score:186.0,evalue:5.72082e-14,length:689
+gi:442632182,ref_number:NP_001261813.1,annotation: dyschronic, isoform J [Drosophila melanogaster],best_score:187.0,evalue:6.00364e-14,length:982
+gi:442632180,ref_number:NP_001261812.1,annotation: dyschronic, isoform I [Drosophila melanogaster],best_score:187.0,evalue:6.43927e-14,length:986
+gi:221331142,ref_number:NP_648668.3,annotation: dyschronic, isoform C [Drosophila melanogaster],best_score:187.0,evalue:6.50681e-14,length:990
+gi:442632178,ref_number:NP_001261811.1,annotation: dyschronic, isoform H [Drosophila melanogaster],best_score:187.0,evalue:7.10661e-14,length:1015
+gi:221331148,ref_number:NP_001137947.1,annotation: dyschronic, isoform E [Drosophila melanogaster],best_score:186.0,evalue:7.76834e-14,length:866
+gi:281362512,ref_number:NP_733076.2,annotation: veli, isoform C [Drosophila melanogaster],best_score:144.0,evalue:1.39402e-09,length:246
+gi:21356237,ref_number:NP_651330.1,annotation: veli, isoform A [Drosophila melanogaster] >gi,best_score:138.0,evalue:3.85456e-09,length:195
+gi:24158429,ref_number:NP_609012.2,annotation: PDZ domain-containing guanine nucleotide exchange factor, isoform A [Drosophila melanogaster],best_score:135.0,evalue:8.69852e-08,length:1573
+gi:221473035,ref_number:NP_001137797.1,annotation: PDZ domain-containing guanine nucleotide exchange factor, isoform B [Drosophila melanogaster] >gi,best_score:135.0,evalue:8.99411e-08,length:1569
+gi:221473037,ref_number:NP_001137798.1,annotation: PDZ domain-containing guanine nucleotide exchange factor, isoform C [Drosophila melanogaster],best_score:135.0,evalue:1.0036e-07,length:1422
+gi:386766571,ref_number:NP_001247319.1,annotation: scribbled, isoform N [Drosophila melanogaster],best_score:133.0,evalue:1.657e-07,length:2554
+gi:442621260,ref_number:NP_001262988.1,annotation: scribbled, isoform T [Drosophila melanogaster],best_score:133.0,evalue:1.82589e-07,length:2444
+gi:442634058,ref_number:NP_001262191.1,annotation: Syntrophin-like 1, isoform C [Drosophila melanogaster],best_score:131.0,evalue:1.94514e-07,length:625
+gi:386766579,ref_number:NP_001247322.1,annotation: scribbled, isoform R [Drosophila melanogaster],best_score:132.0,evalue:1.95374e-07,length:1951
+gi:442634062,ref_number:NP_730686.3,annotation: Syntrophin-like 1, isoform E [Drosophila melanogaster],best_score:131.0,evalue:1.97703e-07,length:624
+gi:281362655,ref_number:NP_001163746.1,annotation: scribbled, isoform L [Drosophila melanogaster],best_score:133.0,evalue:1.98063e-07,length:2585
+gi:116008173,ref_number:NP_524205.2,annotation: Syntrophin-like 1, isoform B [Drosophila melanogaster] >gi,best_score:131.0,evalue:2.1225e-07,length:627
+gi:386766573,ref_number:NP_001247320.1,annotation: scribbled, isoform O [Drosophila melanogaster],best_score:132.0,evalue:2.13147e-07,length:2515
+gi:386766577,ref_number:NP_001247321.1,annotation: scribbled, isoform Q [Drosophila melanogaster],best_score:132.0,evalue:2.17273e-07,length:2577
+gi:281362657,ref_number:NP_001163747.1,annotation: scribbled, isoform M [Drosophila melanogaster],best_score:132.0,evalue:2.29753e-07,length:2490
+gi:281362651,ref_number:NP_001163745.1,annotation: scribbled, isoform J [Drosophila melanogaster],best_score:132.0,evalue:2.49361e-07,length:2426
+gi:62472958,ref_number:NP_001014669.1,annotation: scribbled, isoform I [Drosophila melanogaster],best_score:131.0,evalue:2.57998e-07,length:1711
+gi:24650330,ref_number:NP_524754.2,annotation: scribbled, isoform D [Drosophila melanogaster],best_score:131.0,evalue:2.60834e-07,length:1851
+gi:24650336,ref_number:NP_733156.1,annotation: scribbled, isoform C [Drosophila melanogaster],best_score:131.0,evalue:2.72465e-07,length:1247
+gi:386766575,ref_number:NP_733155.2,annotation: scribbled, isoform P [Drosophila melanogaster],best_score:131.0,evalue:2.74143e-07,length:1729
+gi:386766567,ref_number:NP_001247318.1,annotation: scribbled, isoform K [Drosophila melanogaster],best_score:131.0,evalue:2.79526e-07,length:2331
+gi:442621262,ref_number:NP_001262989.1,annotation: scribbled, isoform U [Drosophila melanogaster],best_score:131.0,evalue:2.94205e-07,length:1766
+gi:24650332,ref_number:NP_733154.1,annotation: scribbled, isoform A [Drosophila melanogaster] >gi,best_score:131.0,evalue:3.04083e-07,length:1756
+gi:19923004,ref_number:NP_612045.1,annotation: CG3402 [Drosophila melanogaster] >gi,best_score:116.0,evalue:7.17688e-07,length:123
+gi:442621258,ref_number:NP_001262987.1,annotation: scribbled, isoform S [Drosophila melanogaster],best_score:128.0,evalue:7.25667e-07,length:1859
+gi:116007092,ref_number:NP_001014670.2,annotation: scribbled, isoform H [Drosophila melanogaster],best_score:127.0,evalue:8.49312e-07,length:1939
+gi:221377869,ref_number:NP_730892.2,annotation: canoe, isoform D [Drosophila melanogaster],best_score:127.0,evalue:9.01349e-07,length:1817
+gi:442617489,ref_number:NP_001262274.1,annotation: canoe, isoform I [Drosophila melanogaster],best_score:127.0,evalue:9.1678e-07,length:1818
+gi:442617483,ref_number:NP_001262271.1,annotation: canoe, isoform F [Drosophila melanogaster],best_score:126.0,evalue:1.16294e-06,length:1721
+gi:442617487,ref_number:NP_001262273.1,annotation: canoe, isoform H [Drosophila melanogaster],best_score:126.0,evalue:1.17293e-06,length:1968
+gi:24644127,ref_number:NP_524232.2,annotation: canoe, isoform E [Drosophila melanogaster] >gi,best_score:126.0,evalue:1.23978e-06,length:2051
+gi:442617485,ref_number:NP_001262272.1,annotation: canoe, isoform G [Drosophila melanogaster],best_score:125.0,evalue:1.29676e-06,length:1951
+gi:24644125,ref_number:NP_730891.1,annotation: canoe, isoform C [Drosophila melanogaster],best_score:125.0,evalue:1.33553e-06,length:1882
+gi:442615951,ref_number:NP_001259446.1,annotation: discs large 1, isoform R [Drosophila melanogaster],best_score:122.0,evalue:3.38308e-06,length:1001
+gi:161077752,ref_number:NP_001096955.1,annotation: discs large 1, isoform K [Drosophila melanogaster],best_score:121.0,evalue:3.71699e-06,length:911
+gi:24641282,ref_number:NP_511120.2,annotation: discs large 1, isoform D [Drosophila melanogaster] >gi,best_score:121.0,evalue:4.06909e-06,length:960
+gi:442615957,ref_number:NP_001259448.1,annotation: discs large 1, isoform T [Drosophila melanogaster],best_score:121.0,evalue:4.11945e-06,length:943
+gi:45554804,ref_number:NP_996405.1,annotation: discs large 1, isoform G [Drosophila melanogaster] >gi,best_score:121.0,evalue:4.1907e-06,length:975
+gi:24641280,ref_number:NP_727520.1,annotation: discs large 1, isoform A [Drosophila melanogaster],best_score:121.0,evalue:4.21866e-06,length:968
+gi:386764220,ref_number:NP_001245622.1,annotation: discs large 1, isoform P [Drosophila melanogaster],best_score:120.0,evalue:4.45644e-06,length:983
+gi:919052405,ref_number:XP_013408160.1,annotation: PREDICTED: uncharacterized protein LOC106172110 isoform X4 [Lingula anatina],best_score:834.0,evalue:2.75995e-94,length:1185
+gi:919052410,ref_number:XP_013408162.1,annotation: PREDICTED: whirlin-like isoform X6 [Lingula anatina],best_score:820.0,evalue:3.64692e-94,length:913
+gi:919052407,ref_number:XP_013408161.1,annotation: PREDICTED: whirlin-like isoform X5 [Lingula anatina],best_score:820.0,evalue:4.27651e-94,length:914
+gi:919052402,ref_number:XP_013408159.1,annotation: PREDICTED: whirlin-like isoform X3 [Lingula anatina],best_score:823.0,evalue:1.29566e-92,length:1195
+gi:919052397,ref_number:XP_013408157.1,annotation: PREDICTED: whirlin-like isoform X1 [Lingula anatina],best_score:822.0,evalue:1.63009e-92,length:1198
+gi:919052400,ref_number:XP_013408158.1,annotation: PREDICTED: whirlin-like isoform X2 [Lingula anatina],best_score:819.0,evalue:4.58135e-92,length:1197
+gi:919077915,ref_number:XP_013420098.1,annotation: PREDICTED: uncharacterized protein LOC106180619 [Lingula anatina],best_score:464.0,evalue:1.11763e-46,length:1271
+gi:919079106,ref_number:XP_013420719.1,annotation: PREDICTED: harmonin-like isoform X1 [Lingula anatina],best_score:271.0,evalue:4.62318e-24,length:650
+gi:919079108,ref_number:XP_013420720.1,annotation: PREDICTED: harmonin-like isoform X2 [Lingula anatina],best_score:270.0,evalue:6.14043e-24,length:607
+gi:919057726,ref_number:XP_013410720.1,annotation: PREDICTED: uncharacterized protein LOC106173927 [Lingula anatina],best_score:244.0,evalue:1.69772e-20,length:964
+gi:919038838,ref_number:XP_013402910.1,annotation: PREDICTED: protein lap4-like [Lingula anatina],best_score:207.0,evalue:4.43039e-16,length:1895
+gi:919079612,ref_number:XP_013420975.1,annotation: PREDICTED: protein scribble homolog [Lingula anatina],best_score:206.0,evalue:6.20166e-16,length:2109
+gi:919094017,ref_number:XP_013383860.1,annotation: PREDICTED: uncharacterized protein LOC106154139 [Lingula anatina],best_score:205.0,evalue:6.49664e-16,length:1001
+gi:919047780,ref_number:XP_013407080.1,annotation: PREDICTED: uncharacterized protein LOC106171325 [Lingula anatina] >gi,best_score:203.0,evalue:1.16057e-15,length:987
+gi:919077911,ref_number:XP_013420096.1,annotation: PREDICTED: whirlin-like [Lingula anatina],best_score:182.0,evalue:2.10923e-14,length:246
+gi:919048490,ref_number:XP_013407363.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X2 [Lingula anatina],best_score:190.0,evalue:4.46336e-14,length:1351
+gi:919048493,ref_number:XP_013407364.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X3 [Lingula anatina],best_score:190.0,evalue:4.66484e-14,length:1199
+gi:919032373,ref_number:XP_013399837.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6-like isoform X1 [Lingula anatina],best_score:190.0,evalue:4.76729e-14,length:1419
+gi:919048487,ref_number:XP_013407362.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2-like isoform X1 [Lingula anatina],best_score:190.0,evalue:4.8874e-14,length:1377
+gi:919032375,ref_number:XP_013399838.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6-like isoform X2 [Lingula anatina],best_score:190.0,evalue:4.9665e-14,length:1412
+gi:919032377,ref_number:XP_013399839.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6-like isoform X3 [Lingula anatina],best_score:189.0,evalue:5.74758e-14,length:1344
+gi:919041785,ref_number:XP_013404155.1,annotation: PREDICTED: disks large 1 tumor suppressor protein-like isoform X2 [Lingula anatina],best_score:177.0,evalue:1.40755e-12,length:901
+gi:919041782,ref_number:XP_013404154.1,annotation: PREDICTED: disks large 1 tumor suppressor protein-like isoform X1 [Lingula anatina],best_score:176.0,evalue:1.56841e-12,length:912
+gi:919041787,ref_number:XP_013404156.1,annotation: PREDICTED: disks large 1 tumor suppressor protein-like isoform X3 [Lingula anatina],best_score:176.0,evalue:1.66069e-12,length:892
+gi:919041789,ref_number:XP_013404157.1,annotation: PREDICTED: disks large homolog 2-like isoform X4 [Lingula anatina],best_score:175.0,evalue:2.10423e-12,length:833
+gi:919097351,ref_number:XP_013385360.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3-like isoform X2 [Lingula anatina],best_score:164.0,evalue:4.5917e-11,length:1306
+gi:919097355,ref_number:XP_013385362.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X4 [Lingula anatina],best_score:159.0,evalue:2.12749e-10,length:1300
+gi:919097365,ref_number:XP_013385368.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like isoform X9 [Lingula anatina],best_score:158.0,evalue:2.23665e-10,length:1148
+gi:919097361,ref_number:XP_013385366.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X7 [Lingula anatina],best_score:158.0,evalue:2.48645e-10,length:1235
+gi:919040548,ref_number:XP_013403617.1,annotation: PREDICTED: PDZ domain-containing protein 11-like [Lingula anatina],best_score:145.0,evalue:2.66191e-10,length:150
+gi:919097359,ref_number:XP_013385365.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X6 [Lingula anatina],best_score:158.0,evalue:2.69073e-10,length:1247
+gi:919097357,ref_number:XP_013385363.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X5 [Lingula anatina],best_score:158.0,evalue:2.7838e-10,length:1288
+gi:919097363,ref_number:XP_013385367.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X8 [Lingula anatina],best_score:158.0,evalue:2.899e-10,length:1322
+gi:919097353,ref_number:XP_013385361.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3-like isoform X3 [Lingula anatina],best_score:157.0,evalue:3.03792e-10,length:1301
+gi:919097343,ref_number:XP_013385356.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like isoform X1 [Lingula anatina] >gi,best_score:157.0,evalue:3.04735e-10,length:1317
+gi:919040572,ref_number:XP_013403627.1,annotation: PREDICTED: PDZ domain-containing protein 11-like [Lingula anatina],best_score:145.0,evalue:3.60729e-10,length:164
+gi:919100886,ref_number:XP_013386807.1,annotation: PREDICTED: protein lin-7 homolog C-like [Lingula anatina],best_score:140.0,evalue:2.82125e-09,length:196
+gi:919081484,ref_number:XP_013421809.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X2 [Lingula anatina],best_score:145.0,evalue:1.0132e-08,length:2416
+gi:919081487,ref_number:XP_013421810.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X3 [Lingula anatina],best_score:145.0,evalue:1.02017e-08,length:2382
+gi:919081482,ref_number:XP_013421808.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X1 [Lingula anatina],best_score:144.0,evalue:1.12183e-08,length:2427
+gi:919081490,ref_number:XP_013421811.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X4 [Lingula anatina],best_score:144.0,evalue:1.31567e-08,length:2234
+gi:919081493,ref_number:XP_013421813.1,annotation: PREDICTED: multiple PDZ domain protein-like isoform X5 [Lingula anatina],best_score:143.0,evalue:1.46568e-08,length:2200
+gi:919095681,ref_number:XP_013384582.1,annotation: PREDICTED: Golgi-associated PDZ and coiled-coil motif-containing protein-like [Lingula anatina],best_score:141.0,evalue:1.88837e-08,length:668
+gi:919025260,ref_number:XP_013396442.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13-like [Lingula anatina],best_score:139.0,evalue:5.14032e-08,length:2967
+gi:919069095,ref_number:XP_013416022.1,annotation: PREDICTED: gamma-2-syntrophin-like [Lingula anatina],best_score:135.0,evalue:7.32938e-08,length:456
+gi:919036730,ref_number:XP_013401792.1,annotation: PREDICTED: partitioning defective 3 homolog [Lingula anatina],best_score:135.0,evalue:1.53485e-07,length:1703
+gi:919066383,ref_number:XP_013414731.1,annotation: PREDICTED: disks large homolog 2-like isoform X2 [Lingula anatina],best_score:125.0,evalue:1.27455e-06,length:512
+gi:919066380,ref_number:XP_013414730.1,annotation: PREDICTED: disks large homolog 2-like isoform X1 [Lingula anatina],best_score:125.0,evalue:1.35764e-06,length:521
+gi:919066387,ref_number:XP_013414733.1,annotation: PREDICTED: disks large homolog 2-like isoform X4 [Lingula anatina],best_score:124.0,evalue:1.59775e-06,length:483
+gi:919055467,ref_number:XP_013409656.1,annotation: PREDICTED: beta-1-syntrophin-like [Lingula anatina],best_score:124.0,evalue:2.02101e-06,length:516
+gi:390333584,ref_number:XP_793549.3,annotation: PREDICTED: whirlin isoform X1 [Strongylocentrotus purpuratus],best_score:439.0,evalue:8.84541e-44,length:1204
+gi:780112217,ref_number:XP_011676653.1,annotation: PREDICTED: whirlin isoform X2 [Strongylocentrotus purpuratus],best_score:438.0,evalue:1.05522e-43,length:1193
+gi:780174505,ref_number:XP_011661135.1,annotation: PREDICTED: whirlin-like, partial [Strongylocentrotus purpuratus],best_score:265.0,evalue:5.20005e-25,length:286
+gi:780146010,ref_number:XP_011681349.1,annotation: PREDICTED: harmonin-like, partial [Strongylocentrotus purpuratus],best_score:264.0,evalue:1.12342e-24,length:307
+gi:390360531,ref_number:XP_787871.2,annotation: PREDICTED: uncharacterized protein LOC582840 [Strongylocentrotus purpuratus],best_score:266.0,evalue:2.7867e-23,length:825
+gi:780070964,ref_number:XP_011671554.1,annotation: PREDICTED: uncharacterized protein LOC575423 [Strongylocentrotus purpuratus],best_score:228.0,evalue:1.2432e-18,length:1300
+gi:780009769,ref_number:XP_011663599.1,annotation: PREDICTED: protein scribble homolog isoform X4 [Strongylocentrotus purpuratus],best_score:181.0,evalue:3.42006e-13,length:922
+gi:780009776,ref_number:XP_011663600.1,annotation: PREDICTED: protein scribble homolog isoform X5 [Strongylocentrotus purpuratus],best_score:181.0,evalue:3.49515e-13,length:915
+gi:780009781,ref_number:XP_011663601.1,annotation: PREDICTED: protein scribble homolog isoform X6 [Strongylocentrotus purpuratus],best_score:181.0,evalue:3.61029e-13,length:912
+gi:780009759,ref_number:XP_011663597.1,annotation: PREDICTED: protein scribble homolog isoform X2 [Strongylocentrotus purpuratus],best_score:181.0,evalue:3.89463e-13,length:926
+gi:780009762,ref_number:XP_011663598.1,annotation: PREDICTED: protein scribble homolog isoform X3 [Strongylocentrotus purpuratus],best_score:180.0,evalue:4.2772e-13,length:926
+gi:780009747,ref_number:XP_011663596.1,annotation: PREDICTED: protein scribble homolog isoform X1 [Strongylocentrotus purpuratus],best_score:180.0,evalue:4.43485e-13,length:930
+gi:780009787,ref_number:XP_011663602.1,annotation: PREDICTED: protein scribble homolog isoform X7 [Strongylocentrotus purpuratus],best_score:180.0,evalue:4.50307e-13,length:911
+gi:780009792,ref_number:XP_011663603.1,annotation: PREDICTED: protein scribble homolog isoform X8 [Strongylocentrotus purpuratus],best_score:180.0,evalue:4.85114e-13,length:907
+gi:780009801,ref_number:XP_011663605.1,annotation: PREDICTED: protein scribble homolog isoform X10 [Strongylocentrotus purpuratus],best_score:179.0,evalue:6.12583e-13,length:883
+gi:780009816,ref_number:XP_011663608.1,annotation: PREDICTED: protein scribble homolog isoform X13 [Strongylocentrotus purpuratus],best_score:179.0,evalue:6.45243e-13,length:831
+gi:780009811,ref_number:XP_011663607.1,annotation: PREDICTED: protein scribble homolog isoform X12 [Strongylocentrotus purpuratus],best_score:179.0,evalue:6.53536e-13,length:850
+gi:780009805,ref_number:XP_011663606.1,annotation: PREDICTED: protein scribble homolog isoform X11 [Strongylocentrotus purpuratus],best_score:179.0,evalue:6.72217e-13,length:854
+gi:780009822,ref_number:XP_011663609.1,annotation: PREDICTED: protein scribble homolog isoform X14 [Strongylocentrotus purpuratus],best_score:177.0,evalue:9.39309e-13,length:807
+gi:780009798,ref_number:XP_011663604.1,annotation: PREDICTED: protein scribble homolog isoform X9 [Strongylocentrotus purpuratus],best_score:176.0,evalue:1.4688e-12,length:892
+gi:780182071,ref_number:XP_011662141.1,annotation: PREDICTED: multiple PDZ domain protein [Strongylocentrotus purpuratus],best_score:163.0,evalue:5.22651e-11,length:1340
+gi:780098595,ref_number:XP_011674937.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X1 [Strongylocentrotus purpuratus],best_score:160.0,evalue:1.06356e-10,length:1086
+gi:780098600,ref_number:XP_011674938.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X2 [Strongylocentrotus purpuratus],best_score:160.0,evalue:1.23386e-10,length:997
+gi:115769710,ref_number:XP_001195489.1,annotation: PREDICTED: PDZ domain-containing protein 11 [Strongylocentrotus purpuratus],best_score:146.0,evalue:1.88465e-10,length:153
+gi:115752496,ref_number:XP_781935.2,annotation: PREDICTED: PDZ domain-containing protein 11 [Strongylocentrotus purpuratus],best_score:145.0,evalue:2.0949e-10,length:153
+gi:780165640,ref_number:XP_011683716.1,annotation: PREDICTED: tax1-binding protein 3-like [Strongylocentrotus purpuratus],best_score:138.0,evalue:5.47484e-10,length:102
+gi:390357212,ref_number:XP_003728954.1,annotation: PREDICTED: tax1-binding protein 3 [Strongylocentrotus purpuratus],best_score:139.0,evalue:5.67129e-10,length:109
+gi:780045904,ref_number:XP_011668841.1,annotation: PREDICTED: disks large homolog 5 [Strongylocentrotus purpuratus],best_score:152.0,evalue:1.14111e-09,length:2618
+gi:780008460,ref_number:XP_011663437.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13 [Strongylocentrotus purpuratus],best_score:150.0,evalue:2.0232e-09,length:2800
+gi:780124888,ref_number:XP_011678441.1,annotation: PREDICTED: uncharacterized protein LOC100893809, partial [Strongylocentrotus purpuratus],best_score:150.0,evalue:2.09678e-09,length:1486
+gi:780123943,ref_number:XP_011678316.1,annotation: PREDICTED: discs large homolog 1-like protein [Strongylocentrotus purpuratus],best_score:144.0,evalue:7.95034e-09,length:886
+gi:780073809,ref_number:XP_011671899.1,annotation: PREDICTED: protein lin-7 homolog C isoform X1 [Strongylocentrotus purpuratus] >gi,best_score:134.0,evalue:1.65179e-08,length:198
+gi:780073821,ref_number:XP_011671901.1,annotation: PREDICTED: protein lin-7 homolog C isoform X2 [Strongylocentrotus purpuratus],best_score:133.0,evalue:1.83213e-08,length:198
+gi:780090469,ref_number:XP_011673960.1,annotation: PREDICTED: gamma-2-syntrophin [Strongylocentrotus purpuratus],best_score:132.0,evalue:1.81532e-07,length:557
+gi:780136641,ref_number:XP_011680077.1,annotation: PREDICTED: uncharacterized protein LOC105445791 isoform X1 [Strongylocentrotus purpuratus],best_score:122.0,evalue:3.1085e-06,length:859
+gi:390357670,ref_number:XP_795922.3,annotation: PREDICTED: golgi-associated PDZ and coiled-coil motif-containing protein isoform X1 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.14252e-06,length:580
+gi:779989722,ref_number:XP_011667355.1,annotation: PREDICTED: golgi-associated PDZ and coiled-coil motif-containing protein isoform X2 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.21034e-06,length:579
+gi:780047182,ref_number:XP_011669035.1,annotation: PREDICTED: delphilin isoform X7 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.55297e-06,length:1397
+gi:780047185,ref_number:XP_011669036.1,annotation: PREDICTED: delphilin isoform X8 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.63014e-06,length:1396
+gi:780047169,ref_number:XP_011669031.1,annotation: PREDICTED: delphilin isoform X3 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.67826e-06,length:1412
+gi:780047179,ref_number:XP_011669034.1,annotation: PREDICTED: delphilin isoform X6 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.91679e-06,length:1403
+gi:780047173,ref_number:XP_011669033.1,annotation: PREDICTED: delphilin isoform X5 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.9208e-06,length:1410
+gi:780047171,ref_number:XP_011669032.1,annotation: PREDICTED: delphilin isoform X4 [Strongylocentrotus purpuratus],best_score:121.0,evalue:4.92194e-06,length:1412
+gi:780047165,ref_number:XP_011669029.1,annotation: PREDICTED: delphilin isoform X1 [Strongylocentrotus purpuratus] >gi,best_score:121.0,evalue:4.9225e-06,length:1413
+gi:780116229,ref_number:XP_011677237.1,annotation: PREDICTED: beta-1-syntrophin-like [Strongylocentrotus purpuratus],best_score:119.0,evalue:6.238e-06,length:542
+gi:780075193,ref_number:XP_011672082.1,annotation: PREDICTED: disks large homolog 2 [Strongylocentrotus purpuratus],best_score:119.0,evalue:7.91509e-06,length:670
+gi:1087806511,ref_number:XP_018671371.1,annotation: PREDICTED: whirlin-like isoform X2 [Ciona intestinalis],best_score:278.0,evalue:6.10126e-25,length:968
+gi:1087806509,ref_number:XP_018671370.1,annotation: PREDICTED: whirlin-like isoform X1 [Ciona intestinalis],best_score:278.0,evalue:7.58447e-25,length:998
+gi:198424363,ref_number:XP_002126321.1,annotation: PREDICTED: PDZ domain-containing protein 11-like [Ciona intestinalis],best_score:149.0,evalue:2.80301e-11,length:143
+gi:198429307,ref_number:XP_002131501.1,annotation: PREDICTED: disks large homolog 2 isoform X1 [Ciona intestinalis],best_score:157.0,evalue:1.5273e-10,length:926
+gi:1087811277,ref_number:XP_018670811.1,annotation: PREDICTED: disks large homolog 2 isoform X2 [Ciona intestinalis],best_score:156.0,evalue:1.70512e-10,length:837
+gi:1087818105,ref_number:XP_018672996.1,annotation: PREDICTED: protein scribble homolog isoform X1 [Ciona intestinalis],best_score:152.0,evalue:6.22589e-10,length:2036
+gi:1087818109,ref_number:XP_018672997.1,annotation: PREDICTED: protein scribble homolog isoform X2 [Ciona intestinalis],best_score:152.0,evalue:6.67919e-10,length:1957
+gi:1087825346,ref_number:XP_018667522.1,annotation: PREDICTED: multiple PDZ domain protein isoform X2 [Ciona intestinalis],best_score:149.0,evalue:1.55368e-09,length:2060
+gi:1087825344,ref_number:XP_018667521.1,annotation: PREDICTED: multiple PDZ domain protein isoform X1 [Ciona intestinalis],best_score:149.0,evalue:1.59369e-09,length:2061
+gi:1087825348,ref_number:XP_018667523.1,annotation: PREDICTED: multiple PDZ domain protein isoform X3 [Ciona intestinalis],best_score:149.0,evalue:1.619e-09,length:2044
+gi:1087827401,ref_number:XP_018668120.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 isoform X1 [Ciona intestinalis],best_score:148.0,evalue:1.77419e-09,length:1378
+gi:1087818111,ref_number:XP_018672998.1,annotation: PREDICTED: protein scribble homolog isoform X3 [Ciona intestinalis],best_score:148.0,evalue:2.21109e-09,length:1718
+gi:699239636,ref_number:XP_009857744.1,annotation: PREDICTED: protein scribble homolog isoform X4 [Ciona intestinalis],best_score:146.0,evalue:3.82972e-09,length:1555
+gi:1087818116,ref_number:XP_018672999.1,annotation: PREDICTED: protein scribble homolog isoform X5 [Ciona intestinalis],best_score:145.0,evalue:3.84048e-09,length:1509
+gi:1087826084,ref_number:XP_018667729.1,annotation: PREDICTED: LOW QUALITY PROTEIN: rap guanine nucleotide exchange factor 6-like, partial [Ciona intestinalis],best_score:145.0,evalue:3.84385e-09,length:742
+gi:1087827405,ref_number:XP_018668122.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 isoform X3 [Ciona intestinalis],best_score:143.0,evalue:7.65842e-09,length:1175
+gi:1087827403,ref_number:XP_018668121.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 isoform X2 [Ciona intestinalis],best_score:143.0,evalue:7.79612e-09,length:1179
+gi:699252204,ref_number:XP_002126585.3,annotation: PREDICTED: protein lin-7 homolog C-like [Ciona intestinalis],best_score:135.0,evalue:1.11018e-08,length:241
+gi:198413059,ref_number:XP_002129232.1,annotation: PREDICTED: Na(+)/H(+) exchange regulatory cofactor NHE-RF1 [Ciona intestinalis],best_score:133.0,evalue:3.99414e-08,length:296
+gi:1087827311,ref_number:XP_018668094.1,annotation: PREDICTED: uncharacterized protein LOC100179724 isoform X2 [Ciona intestinalis],best_score:129.0,evalue:3.4998e-07,length:1449
+gi:198424934,ref_number:XP_002127219.1,annotation: PREDICTED: Golgi-associated PDZ and coiled-coil motif-containing protein [Ciona intestinalis],best_score:127.0,evalue:3.77778e-07,length:430
+gi:1087821972,ref_number:XP_009857929.2,annotation: PREDICTED: E3 ubiquitin-protein ligase HECW2-like [Ciona intestinalis],best_score:126.0,evalue:7.91398e-07,length:1562
+gi:1087812904,ref_number:XP_009859854.2,annotation: PREDICTED: LOW QUALITY PROTEIN: Na(+)/H(+) exchange regulatory cofactor NHE-RF3-like [Ciona intestinalis],best_score:124.0,evalue:1.19101e-06,length:903
+gi:1087827309,ref_number:XP_018668093.1,annotation: PREDICTED: uncharacterized protein LOC100179724 isoform X1 [Ciona intestinalis],best_score:124.0,evalue:1.21274e-06,length:1604
+gi:198425955,ref_number:XP_002126764.1,annotation: PREDICTED: tax1-binding protein 3 [Ciona intestinalis],best_score:111.0,evalue:3.3989e-06,length:136
+gi:198437022,ref_number:XP_002122134.1,annotation: PREDICTED: disks large homolog 5-like isoform X3 [Ciona intestinalis],best_score:120.0,evalue:4.22548e-06,length:1567
+gi:1087826506,ref_number:XP_018667847.1,annotation: PREDICTED: disks large homolog 5-like isoform X1 [Ciona intestinalis],best_score:119.0,evalue:4.49002e-06,length:1584
+gi:1087826508,ref_number:XP_018667848.1,annotation: PREDICTED: disks large homolog 5-like isoform X2 [Ciona intestinalis],best_score:119.0,evalue:4.7634e-06,length:1583
+gi:1087826511,ref_number:XP_018667849.1,annotation: PREDICTED: disks large homolog 5-like isoform X4 [Ciona intestinalis],best_score:119.0,evalue:5.11857e-06,length:1537
+gi:688582305,ref_number:XP_009305498.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X1 [Danio rerio],best_score:1978.0,evalue:0.0,length:933
+gi:299782467,ref_number:NP_001177686.1,annotation: PDZ domain-containing protein 7 [Danio rerio],best_score:1941.0,evalue:0.0,length:954
+gi:528496877,ref_number:XP_002664089.3,annotation: PREDICTED: uncharacterized protein pdzd7b [Danio rerio] >gi,best_score:889.0,evalue:5.46597e-105,length:783
+gi:528479545,ref_number:XP_005172005.1,annotation: PREDICTED: whirlin-like [Danio rerio],best_score:471.0,evalue:1.03023e-47,length:946
+gi:528513380,ref_number:XP_002665968.3,annotation: PREDICTED: whirlin [Danio rerio],best_score:446.0,evalue:9.36073e-45,length:939
+gi:1040681888,ref_number:XP_017209575.1,annotation: PREDICTED: harmonin isoform X3 [Danio rerio],best_score:249.0,evalue:8.12035e-22,length:416
+gi:688617056,ref_number:XP_009296312.1,annotation: PREDICTED: harmonin isoform X1 [Danio rerio] >gi,best_score:252.0,evalue:1.07286e-21,length:586
+gi:1040681886,ref_number:XP_017209574.1,annotation: PREDICTED: harmonin isoform X2 [Danio rerio],best_score:247.0,evalue:2.06919e-21,length:471
+gi:90093339,ref_number:NP_001035018.1,annotation: harmonin [Danio rerio],best_score:248.0,evalue:3.2572e-21,length:548
+gi:1040676315,ref_number:XP_017208494.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 6 [Danio rerio],best_score:183.0,evalue:4.5734e-13,length:1560
+gi:688565062,ref_number:XP_009301661.1,annotation: PREDICTED: protein scribble homolog isoform X4 [Danio rerio],best_score:181.0,evalue:6.82701e-13,length:1836
+gi:688565064,ref_number:XP_009301662.1,annotation: PREDICTED: protein scribble homolog isoform X5 [Danio rerio],best_score:181.0,evalue:6.88353e-13,length:1834
+gi:528485679,ref_number:XP_005166472.1,annotation: PREDICTED: protein scribble homolog isoform X9 [Danio rerio],best_score:181.0,evalue:7.03847e-13,length:1806
+gi:688565059,ref_number:XP_009301660.1,annotation: PREDICTED: protein scribble homolog isoform X3 [Danio rerio],best_score:181.0,evalue:7.30768e-13,length:1839
+gi:688565079,ref_number:XP_009301668.1,annotation: PREDICTED: protein scribble homolog isoform X11 [Danio rerio],best_score:181.0,evalue:7.37601e-13,length:1772
+gi:688565067,ref_number:XP_009301663.1,annotation: PREDICTED: protein scribble homolog isoform X6 [Danio rerio],best_score:181.0,evalue:7.61604e-13,length:1830
+gi:688565070,ref_number:XP_009301664.1,annotation: PREDICTED: protein scribble homolog isoform X7 [Danio rerio],best_score:181.0,evalue:7.86869e-13,length:1819
+gi:688565057,ref_number:XP_009301659.1,annotation: PREDICTED: protein scribble homolog isoform X2 [Danio rerio],best_score:181.0,evalue:7.966e-13,length:1854
+gi:688565055,ref_number:XP_009301658.1,annotation: PREDICTED: protein scribble homolog isoform X1 [Danio rerio],best_score:181.0,evalue:8.10285e-13,length:1855
+gi:688565072,ref_number:XP_009301665.1,annotation: PREDICTED: protein scribble homolog isoform X8 [Danio rerio],best_score:180.0,evalue:9.08541e-13,length:1818
+gi:688565076,ref_number:XP_009301667.1,annotation: PREDICTED: protein scribble homolog isoform X10 [Danio rerio],best_score:180.0,evalue:9.13782e-13,length:1794
+gi:110626183,ref_number:NP_001007176.1,annotation: protein scribble homolog [Danio rerio],best_score:180.0,evalue:1.05532e-12,length:1724
+gi:688565082,ref_number:XP_009301669.1,annotation: PREDICTED: protein scribble homolog isoform X12 [Danio rerio],best_score:180.0,evalue:1.07011e-12,length:1769
+gi:47085747,ref_number:NP_998122.1,annotation: PDZ domain-containing protein 11 [Danio rerio],best_score:160.0,evalue:2.48008e-12,length:142
+gi:528517388,ref_number:XP_001921128.3,annotation: PREDICTED: E3 ubiquitin-protein ligase PDZRN3 isoform X1 [Danio rerio],best_score:175.0,evalue:2.79976e-12,length:1033
+gi:1040663347,ref_number:XP_017214671.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X12 [Danio rerio],best_score:164.0,evalue:7.58798e-11,length:1473
+gi:1040663345,ref_number:XP_017214670.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X11 [Danio rerio],best_score:163.0,evalue:8.45712e-11,length:1518
+gi:1040663331,ref_number:XP_017214663.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X3 [Danio rerio],best_score:163.0,evalue:1.03409e-10,length:1628
+gi:1040663327,ref_number:XP_017214661.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X1 [Danio rerio],best_score:162.0,evalue:1.08878e-10,length:1634
+gi:1040663340,ref_number:XP_017214668.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X8 [Danio rerio],best_score:162.0,evalue:1.11258e-10,length:1604
+gi:1040663336,ref_number:XP_017214666.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X6 [Danio rerio],best_score:162.0,evalue:1.11371e-10,length:1612
+gi:1040663342,ref_number:XP_017214669.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X9 [Danio rerio],best_score:162.0,evalue:1.1216e-10,length:1601
+gi:1040663338,ref_number:XP_017214667.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X7 [Danio rerio],best_score:162.0,evalue:1.12246e-10,length:1607
+gi:1040663329,ref_number:XP_017214662.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X2 [Danio rerio],best_score:162.0,evalue:1.16434e-10,length:1629
+gi:1040663333,ref_number:XP_017214665.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X4 [Danio rerio],best_score:162.0,evalue:1.1738e-10,length:1626
+gi:688586216,ref_number:XP_009289555.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X5 [Danio rerio],best_score:162.0,evalue:1.35412e-10,length:1618
+gi:528488944,ref_number:XP_002663308.2,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1 [Danio rerio],best_score:161.0,evalue:1.48942e-10,length:1401
+gi:688586238,ref_number:XP_009289563.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X10 [Danio rerio],best_score:160.0,evalue:2.01175e-10,length:1538
+gi:1040685832,ref_number:XP_017210536.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 isoform X8 [Danio rerio] >gi,best_score:159.0,evalue:2.54878e-10,length:1283
+gi:52219174,ref_number:NP_001004672.1,annotation: protein lin-7 homolog C [Danio rerio],best_score:147.0,evalue:5.77886e-10,length:201
+gi:688532444,ref_number:XP_009289382.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X5 [Danio rerio],best_score:154.0,evalue:1.13946e-09,length:1359
+gi:528467991,ref_number:XP_005170988.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X2 [Danio rerio],best_score:152.0,evalue:1.65747e-09,length:1481
+gi:528467989,ref_number:XP_005170987.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X1 [Danio rerio],best_score:152.0,evalue:1.68696e-09,length:1486
+gi:688532442,ref_number:XP_009289381.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X4 [Danio rerio],best_score:152.0,evalue:1.71263e-09,length:1473
+gi:528467993,ref_number:XP_005170989.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X3 [Danio rerio],best_score:152.0,evalue:1.8185e-09,length:1478
+gi:41152313,ref_number:NP_957003.1,annotation: protein lin-7 homolog A [Danio rerio],best_score:143.0,evalue:2.40415e-09,length:218
+gi:528476677,ref_number:XP_005164923.1,annotation: PREDICTED: protein lin-7 homolog A isoform X1 [Danio rerio],best_score:143.0,evalue:2.7693e-09,length:225
+gi:688583237,ref_number:XP_009305698.1,annotation: PREDICTED: tyrosine-protein phosphatase non-receptor type 13 isoform X3 [Danio rerio],best_score:150.0,evalue:3.47369e-09,length:2167
+gi:688583240,ref_number:XP_009305699.1,annotation: PREDICTED: FERM and PDZ domain-containing protein 2 isoform X4 [Danio rerio],best_score:150.0,evalue:3.63065e-09,length:1841
+gi:688608896,ref_number:XP_009294506.1,annotation: PREDICTED: inaD-like protein isoform X3 [Danio rerio],best_score:150.0,evalue:3.67493e-09,length:1885
+gi:167523108,ref_number:XP_001745891.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:178.0,evalue:2.59569e-13,length:1212
+gi:167525880,ref_number:XP_001747274.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:169.0,evalue:2.537e-12,length:681
+gi:167519050,ref_number:XP_001743865.1,annotation: hypothetical protein, partial [Monosiga brevicollis MX1],best_score:149.0,evalue:6.5758e-10,length:664
+gi:167525547,ref_number:XP_001747108.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:150.0,evalue:7.19221e-10,length:2600
+gi:167519519,ref_number:XP_001744099.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:145.0,evalue:1.67857e-09,length:725
+gi:167517833,ref_number:XP_001743257.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:140.0,evalue:7.92277e-09,length:1145
+gi:167538375,ref_number:XP_001750852.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:131.0,evalue:9.98184e-08,length:2437
+gi:167518265,ref_number:XP_001743473.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:121.0,evalue:9.38641e-07,length:484
+gi:167516598,ref_number:XP_001742640.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:115.0,evalue:8.47913e-06,length:2785
+gi:514689859,ref_number:XP_004992504.1,annotation: hypothetical protein PTSG_07089 [Salpingoeca rosetta],best_score:351.0,evalue:1.04274e-33,length:989
+gi:514683987,ref_number:XP_004989574.1,annotation: hypothetical protein PTSG_09316 [Salpingoeca rosetta],best_score:301.0,evalue:3.36895e-28,length:605
+gi:514696628,ref_number:XP_004995884.1,annotation: PSD-95 alpha [Salpingoeca rosetta],best_score:178.0,evalue:4.16929e-13,length:1317
+gi:514698658,ref_number:XP_004996898.1,annotation: hypothetical protein PTSG_02407 [Salpingoeca rosetta],best_score:143.0,evalue:3.73662e-09,length:527
+gi:514698474,ref_number:XP_004996806.1,annotation: hypothetical protein PTSG_02317 [Salpingoeca rosetta],best_score:134.0,evalue:1.18755e-08,length:237
+gi:514699085,ref_number:XP_004997111.1,annotation: lethal(1)discs large-1 tumor suppressor [Salpingoeca rosetta],best_score:129.0,evalue:1.93082e-07,length:801
+gi:514688653,ref_number:XP_004991902.1,annotation: hypothetical protein PTSG_12450 [Salpingoeca rosetta],best_score:122.0,evalue:1.55884e-06,length:2578
+gi:514696552,ref_number:XP_004995846.1,annotation: hypothetical protein PTSG_03266 [Salpingoeca rosetta],best_score:122.0,evalue:1.73975e-06,length:1988
+gi:514682926,ref_number:XP_004989045.1,annotation: hypothetical protein PTSG_09691 [Salpingoeca rosetta],best_score:119.0,evalue:3.91597e-06,length:1187
+gi:514692906,ref_number:XP_004994025.1,annotation: hypothetical protein PTSG_04703 [Salpingoeca rosetta],best_score:116.0,evalue:8.56468e-06,length:2546
+gi:305632788,ref_number:NP_001182192.1,annotation: PDZ domain-containing protein 7 isoform 1 [Homo sapiens] >gi,best_score:5367.0,evalue:0.0,length:1033
+gi:767963828,ref_number:XP_011538480.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X2 [Homo sapiens],best_score:5351.0,evalue:0.0,length:1032
+gi:767963830,ref_number:XP_011538481.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X3 [Homo sapiens],best_score:3497.0,evalue:0.0,length:677
+gi:767963834,ref_number:XP_011538483.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X6 [Homo sapiens],best_score:2751.0,evalue:0.0,length:544
+gi:13376349,ref_number:NP_079171.1,annotation: PDZ domain-containing protein 7 isoform 2 [Homo sapiens],best_score:2670.0,evalue:0.0,length:517
+gi:1034569585,ref_number:XP_016872156.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X4 [Homo sapiens],best_score:2658.0,evalue:0.0,length:573
+gi:530394375,ref_number:XP_005270222.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X5 [Homo sapiens],best_score:2653.0,evalue:0.0,length:561
+gi:1034569592,ref_number:XP_016872157.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X9 [Homo sapiens],best_score:2306.0,evalue:0.0,length:528
+gi:767963839,ref_number:XP_011538485.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X8 [Homo sapiens],best_score:2302.0,evalue:0.0,length:533
+gi:767963836,ref_number:XP_011538484.1,annotation: PREDICTED: PDZ domain-containing protein 7 isoform X7 [Homo sapiens],best_score:2299.0,evalue:0.0,length:539
+gi:767956922,ref_number:XP_011516790.1,annotation: PREDICTED: whirlin isoform X4 [Homo sapiens],best_score:432.0,evalue:5.81451e-43,length:837
+gi:290746380,ref_number:NP_001166896.1,annotation: whirlin isoform 3 [Homo sapiens],best_score:432.0,evalue:8.62982e-43,length:906
+gi:290746376,ref_number:NP_056219.3,annotation: whirlin isoform 1 [Homo sapiens],best_score:432.0,evalue:8.81884e-43,length:907
+gi:767956918,ref_number:XP_011516788.1,annotation: PREDICTED: whirlin isoform X2 [Homo sapiens],best_score:432.0,evalue:9.01548e-43,length:917
+gi:767956914,ref_number:XP_011516786.1,annotation: PREDICTED: whirlin isoform X1 [Homo sapiens] >gi,best_score:432.0,evalue:9.29215e-43,length:918
+gi:767956946,ref_number:XP_011516796.1,annotation: PREDICTED: whirlin isoform X7 [Homo sapiens],best_score:419.0,evalue:1.65988e-42,length:556
+gi:767956940,ref_number:XP_011516793.1,annotation: PREDICTED: whirlin isoform X6 [Homo sapiens] >gi,best_score:419.0,evalue:1.99901e-42,length:571
+gi:767956930,ref_number:XP_011516791.1,annotation: PREDICTED: whirlin isoform X5 [Homo sapiens],best_score:419.0,evalue:2.34653e-42,length:577
+gi:767956920,ref_number:XP_011516789.1,annotation: PREDICTED: whirlin isoform X3 [Homo sapiens],best_score:319.0,evalue:4.40733e-29,length:876
+gi:1034571590,ref_number:XP_016872564.1,annotation: PREDICTED: harmonin isoform X6 [Homo sapiens],best_score:267.0,evalue:7.2248e-23,length:956
+gi:41281808,ref_number:NP_710142.1,annotation: harmonin isoform b3 [Homo sapiens],best_score:264.0,evalue:1.45819e-22,length:899
+gi:1034571581,ref_number:XP_016872561.1,annotation: PREDICTED: harmonin isoform X1 [Homo sapiens],best_score:262.0,evalue:1.81321e-22,length:714
+gi:767965248,ref_number:XP_011518136.1,annotation: PREDICTED: harmonin isoform X5 [Homo sapiens],best_score:257.0,evalue:2.36762e-22,length:470
+gi:71480164,ref_number:NP_005700.2,annotation: harmonin isoform a [Homo sapiens],best_score:251.0,evalue:2.43638e-21,length:552
+gi:1034571586,ref_number:XP_016872563.1,annotation: PREDICTED: harmonin isoform X4 [Homo sapiens],best_score:250.0,evalue:3.42581e-21,length:553
+gi:767965244,ref_number:XP_011518134.1,annotation: PREDICTED: harmonin isoform X3 [Homo sapiens],best_score:250.0,evalue:4.04127e-21,length:603
+gi:1034571583,ref_number:XP_016872562.1,annotation: PREDICTED: harmonin isoform X2 [Homo sapiens],best_score:240.0,evalue:7.9288e-20,length:695
+gi:663071174,ref_number:NP_001284693.1,annotation: harmonin isoform c [Homo sapiens],best_score:228.0,evalue:1.29833e-18,length:533
+gi:931611471,ref_number:XP_014198964.1,annotation: PREDICTED: PDZ domain-containing protein 11 isoform X1 [Pan paniscus] >gi,best_score:173.0,evalue:2.13026e-13,length:172
+gi:7657261,ref_number:NP_055062.1,annotation: rap guanine nucleotide exchange factor 2 [Homo sapiens] >gi,best_score:180.0,evalue:1.73968e-12,length:1499
+gi:1034641912,ref_number:XP_016864348.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X12 [Homo sapiens],best_score:180.0,evalue:1.77686e-12,length:1524
+gi:1034641907,ref_number:XP_016864346.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X10 [Homo sapiens] >gi,best_score:180.0,evalue:1.8756e-12,length:1544
+gi:694909391,ref_number:XP_009446763.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X9 [Pan troglodytes] >gi,best_score:180.0,evalue:1.92265e-12,length:1540
+gi:578809656,ref_number:XP_006714485.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X9 [Homo sapiens] >gi,best_score:180.0,evalue:2.03709e-12,length:1585
+gi:767933100,ref_number:XP_011530727.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X8 [Homo sapiens],best_score:179.0,evalue:2.09077e-12,length:1589
+gi:530378447,ref_number:XP_005263417.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X5 [Homo sapiens] >gi,best_score:179.0,evalue:2.18476e-12,length:1660
+gi:530378449,ref_number:XP_005263418.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X6 [Homo sapiens] >gi,best_score:179.0,evalue:2.25819e-12,length:1654
+gi:1034641902,ref_number:XP_016864345.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X7 [Homo sapiens],best_score:179.0,evalue:2.35522e-12,length:1652
+gi:578809654,ref_number:XP_006714484.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X4 [Homo sapiens] >gi,best_score:179.0,evalue:2.38574e-12,length:1685
+gi:578809652,ref_number:XP_006714483.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X2 [Homo sapiens] >gi,best_score:179.0,evalue:2.38884e-12,length:1695
+gi:530378443,ref_number:XP_005263415.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X1 [Homo sapiens] >gi,best_score:179.0,evalue:2.4315e-12,length:1701
+gi:530378445,ref_number:XP_005263416.1,annotation: PREDICTED: rap guanine nucleotide exchange factor 2 isoform X3 [Homo sapiens] >gi,best_score:179.0,evalue:2.53405e-12,length:1693
+gi:355390313,ref_number:NP_874365.3,annotation: protein scribble homolog isoform a [Homo sapiens],best_score:177.0,evalue:4.22632e-12,length:1655
+gi:7706025,ref_number:NP_057568.1,annotation: PDZ domain-containing protein 11 [Homo sapiens] >gi,best_score:160.0,evalue:4.65685e-12,length:140
+gi:355390315,ref_number:NP_056171.3,annotation: protein scribble homolog isoform b [Homo sapiens],best_score:176.0,evalue:5.11768e-12,length:1630
+gi:256600196,ref_number:NP_001157858.1,annotation: rap guanine nucleotide exchange factor 6 isoform 1 [Homo sapiens],best_score:171.0,evalue:1.91217e-11,length:1609
+gi:256600194,ref_number:NP_057424.3,annotation: rap guanine nucleotide exchange factor 6 isoform 2 [Homo sapiens],best_score:171.0,evalue:1.92631e-11,length:1601
+gi:256600202,ref_number:NP_001157861.1,annotation: rap guanine nucleotide exchange factor 6 isoform 5 [Homo sapiens],best_score:171.0,evalue:2.20599e-11,length:1391
+gi:256600200,ref_number:NP_001157860.1,annotation: rap guanine nucleotide exchange factor 6 isoform 4 [Homo sapiens],best_score:170.0,evalue:2.40714e-11,length:1504
+gi:256600198,ref_number:NP_001157859.1,annotation: rap guanine nucleotide exchange factor 6 isoform 3 [Homo sapiens],best_score:170.0,evalue:2.40903e-11,length:1509

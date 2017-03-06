@@ -1,0 +1,504 @@
+gi:9790085,ref_number:NP_062660.1,annotation: calcium and integrin-binding family member 2 [Mus musculus],best_score:733.0,evalue:2.312e-100,length:187
+gi:256223190,ref_number:NP_001074281.1,annotation: calcium and integrin-binding family member 3 [Mus musculus],best_score:497.0,evalue:6.90027e-65,length:160
+gi:568955453,ref_number:XP_006509731.1,annotation: PREDICTED: calcium and integrin-binding family member 3 isoform X1 [Mus musculus],best_score:497.0,evalue:1.85834e-64,length:187
+gi:568934636,ref_number:XP_006504216.1,annotation: PREDICTED: calcium and integrin-binding family member 4 isoform X1 [Mus musculus],best_score:259.0,evalue:4.63828e-29,length:134
+gi:226371702,ref_number:NP_082759.1,annotation: calcium and integrin-binding family member 4 [Mus musculus],best_score:259.0,evalue:1.78373e-28,length:185
+gi:6755154,ref_number:NP_036000.1,annotation: calcium and integrin-binding protein 1 isoform 1 [Mus musculus],best_score:253.0,evalue:1.69961e-27,length:191
+gi:602617462,ref_number:NP_001278205.1,annotation: calcium and integrin-binding protein 1 isoform 3 [Mus musculus],best_score:230.0,evalue:1.17325e-24,length:143
+gi:602617449,ref_number:NP_001278204.1,annotation: calcium and integrin-binding protein 1 isoform 2 [Mus musculus],best_score:216.0,evalue:4.75608e-22,length:186
+gi:755521012,ref_number:XP_011249163.1,annotation: PREDICTED: calcium and integrin-binding protein 1 isoform X1 [Mus musculus],best_score:194.0,evalue:2.06598e-19,length:117
+gi:4506025,ref_number:NP_000936.1,annotation: calcineurin subunit B type 1 [Homo sapiens] >gi,best_score:191.0,evalue:1.76979e-18,length:170
+gi:51591899,ref_number:NP_001004025.1,annotation: calcineurin subunit B type 2 [Mus musculus],best_score:181.0,evalue:6.60462e-17,length:179
+gi:9790225,ref_number:NP_062743.1,annotation: calcineurin B homologous protein 1 [Mus musculus] >gi,best_score:148.0,evalue:6.14143e-12,length:195
+gi:779176972,ref_number:NP_001292554.1,annotation: calmodulin isoform 3 [Homo sapiens] >gi,best_score:122.0,evalue:8.17399e-09,length:113
+gi:113931150,ref_number:NP_081639.1,annotation: calcineurin B homologous protein 2 [Mus musculus] >gi,best_score:125.0,evalue:1.27263e-08,length:196
+gi:13386230,ref_number:NP_081692.1,annotation: calmodulin-like protein 3 [Mus musculus],best_score:122.0,evalue:1.47499e-08,length:149
+gi:4502549,ref_number:NP_001734.1,annotation: calmodulin isoform 2 [Homo sapiens] >gi,best_score:120.0,evalue:2.80617e-08,length:149
+gi:927442713,ref_number:NP_001300863.1,annotation: calmodulin isoform 1 [Mus musculus],best_score:120.0,evalue:6.44051e-08,length:197
+gi:1039751659,ref_number:XP_006522538.2,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1 isoform X2 [Mus musculus],best_score:117.0,evalue:1.69119e-07,length:229
+gi:21313314,ref_number:NP_080045.1,annotation: EF-hand calcium-binding domain-containing protein 1 [Mus musculus],best_score:117.0,evalue:1.74395e-07,length:212
+gi:568996053,ref_number:XP_006522537.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1 isoform X1 [Mus musculus],best_score:117.0,evalue:1.91244e-07,length:244
+gi:124249218,ref_number:NP_084119.1,annotation: uncharacterized protein LOC77036 [Mus musculus],best_score:114.0,evalue:3.97234e-07,length:210
+gi:150010671,ref_number:NP_001092767.1,annotation: dual oxidase 1 precursor [Mus musculus] >gi,best_score:116.0,evalue:4.45006e-07,length:1551
+gi:22212902,ref_number:NP_671712.1,annotation: Kv channel-interacting protein 4 isoform 4 [Homo sapiens] >gi,best_score:109.0,evalue:2.57381e-06,length:229
+gi:312839886,ref_number:NP_001186174.1,annotation: Kv channel-interacting protein 4 isoform 6 [Mus musculus] >gi,best_score:108.0,evalue:3.25453e-06,length:233
+gi:7304943,ref_number:NP_038905.1,annotation: calcium-binding protein 5 [Mus musculus],best_score:107.0,evalue:3.33108e-06,length:173
+gi:1039778935,ref_number:XP_017177786.1,annotation: PREDICTED: calcium-binding protein 5 isoform X1 [Mus musculus] >gi,best_score:106.0,evalue:3.7548e-06,length:156
+gi:22212900,ref_number:NP_671711.1,annotation: Kv channel-interacting protein 4 isoform 3 [Homo sapiens] >gi,best_score:107.0,evalue:3.91839e-06,length:188
+gi:22212898,ref_number:NP_671710.1,annotation: Kv channel-interacting protein 4 isoform 2 [Homo sapiens] >gi,best_score:107.0,evalue:4.2051e-06,length:216
+gi:78190486,ref_number:NP_001030175.1,annotation: Kv channel-interacting protein 4 isoform 5 [Homo sapiens] >gi,best_score:107.0,evalue:4.28629e-06,length:225
+gi:31077142,ref_number:NP_852030.1,annotation: Kv channel-interacting protein 4 [Rattus norvegicus] >gi,best_score:106.0,evalue:5.82774e-06,length:250
+gi:291221681,ref_number:XP_002730829.1,annotation: PREDICTED: calcium and integrin-binding family member 3-like [Saccoglossus kowalevskii],best_score:378.0,evalue:5.8151e-47,length:188
+gi:291223415,ref_number:XP_002731705.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Saccoglossus kowalevskii],best_score:344.0,evalue:7.40525e-42,length:184
+gi:269785111,ref_number:NP_001161511.1,annotation: calcineurin B regulatory subunit [Saccoglossus kowalevskii],best_score:190.0,evalue:5.8835e-19,length:170
+gi:291242843,ref_number:XP_002741313.1,annotation: PREDICTED: calcineurin B homologous protein 1-like [Saccoglossus kowalevskii],best_score:163.0,evalue:8.2702e-15,length:189
+gi:291240002,ref_number:XP_002739903.1,annotation: PREDICTED: calmodulin-like [Saccoglossus kowalevskii],best_score:150.0,evalue:3.72956e-13,length:149
+gi:291228252,ref_number:XP_002734090.1,annotation: PREDICTED: calmodulin-like [Saccoglossus kowalevskii],best_score:127.0,evalue:7.57019e-10,length:149
+gi:291222156,ref_number:XP_002731084.1,annotation: PREDICTED: NADPH oxidase 5-like [Saccoglossus kowalevskii],best_score:129.0,evalue:2.09536e-09,length:860
+gi:585667601,ref_number:XP_002735410.2,annotation: PREDICTED: calmodulin-like, partial [Saccoglossus kowalevskii],best_score:123.0,evalue:2.19416e-09,length:137
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:4.39105e-09,length:149
+gi:291228246,ref_number:XP_002734091.1,annotation: PREDICTED: calmodulin-like, partial [Saccoglossus kowalevskii],best_score:119.0,evalue:5.00017e-09,length:101
+gi:291243081,ref_number:XP_002741434.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like [Saccoglossus kowalevskii],best_score:122.0,evalue:1.14736e-08,length:223
+gi:585676824,ref_number:XP_006819032.1,annotation: PREDICTED: calmodulin-like [Saccoglossus kowalevskii],best_score:118.0,evalue:2.03322e-08,length:158
+gi:585676835,ref_number:XP_006819034.1,annotation: PREDICTED: calmodulin-like [Saccoglossus kowalevskii],best_score:110.0,evalue:2.36041e-07,length:155
+gi:585676831,ref_number:XP_006819033.1,annotation: PREDICTED: calmodulin-like [Saccoglossus kowalevskii],best_score:105.0,evalue:1.61743e-06,length:176
+gi:585708751,ref_number:XP_006824229.1,annotation: PREDICTED: Kv channel-interacting protein 4-like [Saccoglossus kowalevskii],best_score:100.0,evalue:8.32614e-06,length:198
+gi:196008529,ref_number:XP_002114130.1,annotation: hypothetical protein TRIADDRAFT_58279 [Trichoplax adhaerens],best_score:265.0,evalue:1.24386e-29,length:246
+gi:196001317,ref_number:XP_002110526.1,annotation: hypothetical protein TRIADDRAFT_54638 [Trichoplax adhaerens],best_score:259.0,evalue:5.92985e-29,length:230
+gi:196008507,ref_number:XP_002114119.1,annotation: hypothetical protein TRIADDRAFT_58257 [Trichoplax adhaerens],best_score:223.0,evalue:9.95784e-24,length:212
+gi:195998331,ref_number:XP_002109034.1,annotation: conserved hypothetical protein [Trichoplax adhaerens],best_score:208.0,evalue:5.02605e-22,length:160
+gi:196009145,ref_number:XP_002114438.1,annotation: hypothetical protein TRIADDRAFT_58256 [Trichoplax adhaerens],best_score:180.0,evalue:8.62619e-18,length:167
+gi:196016356,ref_number:XP_002118031.1,annotation: hypothetical protein TRIADDRAFT_33396 [Trichoplax adhaerens],best_score:148.0,evalue:7.56484e-13,length:195
+gi:195998389,ref_number:XP_002109063.1,annotation: calmodulin [Trichoplax adhaerens],best_score:127.0,evalue:3.26339e-10,length:149
+gi:196011144,ref_number:XP_002115436.1,annotation: hypothetical protein TRIADDRAFT_29444 [Trichoplax adhaerens],best_score:113.0,evalue:1.49541e-07,length:728
+gi:196005759,ref_number:XP_002112746.1,annotation: conserved hypothetical protein [Trichoplax adhaerens],best_score:98.0,evalue:4.95022e-06,length:157
+gi:195999956,ref_number:XP_002109846.1,annotation: expressed hypothetical protein [Trichoplax adhaerens],best_score:99.0,evalue:5.66196e-06,length:190
+gi:196008517,ref_number:XP_002114124.1,annotation: conserved hypothetical protein [Trichoplax adhaerens],best_score:98.0,evalue:7.37137e-06,length:194
+gi:575475468,ref_number:XP_006677028.1,annotation: hypothetical protein BATDEDRAFT_86479 [Batrachochytrium dendrobatidis JAM81],best_score:200.0,evalue:9.58118e-21,length:175
+gi:575474478,ref_number:XP_006676533.1,annotation: hypothetical protein BATDEDRAFT_9620, partial [Batrachochytrium dendrobatidis JAM81],best_score:190.0,evalue:1.38073e-19,length:153
+gi:575479244,ref_number:XP_006678916.1,annotation: calmodulin [Batrachochytrium dendrobatidis JAM81],best_score:124.0,evalue:1.12455e-09,length:169
+gi:575486044,ref_number:XP_006682316.1,annotation: hypothetical protein BATDEDRAFT_91935 [Batrachochytrium dendrobatidis JAM81],best_score:122.0,evalue:3.16754e-09,length:216
+gi:575475582,ref_number:XP_006677085.1,annotation: hypothetical protein BATDEDRAFT_86384 [Batrachochytrium dendrobatidis JAM81],best_score:119.0,evalue:1.03724e-08,length:225
+gi:575479434,ref_number:XP_006679011.1,annotation: hypothetical protein BATDEDRAFT_25085 [Batrachochytrium dendrobatidis JAM81],best_score:112.0,evalue:4.68725e-08,length:152
+gi:575479072,ref_number:XP_006678830.1,annotation: hypothetical protein BATDEDRAFT_6388, partial [Batrachochytrium dendrobatidis JAM81],best_score:101.0,evalue:1.09274e-06,length:118
+gi:470321958,ref_number:XP_004349136.1,annotation: DNA-dependent protein kinase catalytic subunit-interacting protein 2 [Capsaspora owczarzaki ATCC 30864],best_score:261.0,evalue:1.18149e-29,length:184
+gi:470361769,ref_number:XP_004365186.1,annotation: calcineurin b subunit [Capsaspora owczarzaki ATCC 30864],best_score:209.0,evalue:5.09827e-22,length:171
+gi:754344975,ref_number:XP_004349371.2,annotation: calcium-binding protein p22 [Capsaspora owczarzaki ATCC 30864],best_score:182.0,evalue:6.0515e-18,length:178
+gi:470323229,ref_number:XP_004349444.1,annotation: calmodulin [Capsaspora owczarzaki ATCC 30864],best_score:111.0,evalue:8.06968e-08,length:149
+gi:470289927,ref_number:XP_004343009.1,annotation: hypothetical protein CAOG_07924 [Capsaspora owczarzaki ATCC 30864],best_score:109.0,evalue:4.43508e-07,length:1043
+gi:599419662,ref_number:XP_007416165.1,annotation: hypothetical protein MELLADRAFT_73160 [Melampsora larici-populina 98AG31],best_score:231.0,evalue:3.02418e-27,length:175
+gi:599408840,ref_number:XP_007413757.1,annotation: hypothetical protein MELLADRAFT_65992 [Melampsora larici-populina 98AG31],best_score:121.0,evalue:2.84988e-11,length:149
+gi:599408829,ref_number:XP_007413755.1,annotation: hypothetical protein MELLADRAFT_90594 [Melampsora larici-populina 98AG31],best_score:112.0,evalue:7.22164e-10,length:149
+gi:599408834,ref_number:XP_007413756.1,annotation: hypothetical protein MELLADRAFT_109742 [Melampsora larici-populina 98AG31],best_score:102.0,evalue:1.44049e-08,length:148
+gi:599366439,ref_number:XP_007406111.1,annotation: hypothetical protein MELLADRAFT_71017 [Melampsora larici-populina 98AG31],best_score:89.0,evalue:1.34975e-06,length:190
+gi:676477781,ref_number:XP_009061215.1,annotation: hypothetical protein LOTGIDRAFT_206941 [Lottia gigantea],best_score:435.0,evalue:1.26414e-55,length:189
+gi:676422829,ref_number:XP_009044011.1,annotation: hypothetical protein LOTGIDRAFT_228042 [Lottia gigantea],best_score:324.0,evalue:7.23939e-39,length:184
+gi:676461002,ref_number:XP_009055806.1,annotation: hypothetical protein LOTGIDRAFT_216002 [Lottia gigantea],best_score:198.0,evalue:3.84193e-20,length:170
+gi:676437271,ref_number:XP_009048149.1,annotation: hypothetical protein LOTGIDRAFT_148903 [Lottia gigantea] >gi,best_score:126.0,evalue:8.65857e-10,length:150
+gi:676461816,ref_number:XP_009056065.1,annotation: hypothetical protein LOTGIDRAFT_216228 [Lottia gigantea],best_score:125.0,evalue:1.43292e-09,length:149
+gi:676461801,ref_number:XP_009056060.1,annotation: hypothetical protein LOTGIDRAFT_216194 [Lottia gigantea],best_score:123.0,evalue:2.74579e-09,length:150
+gi:676461798,ref_number:XP_009056059.1,annotation: hypothetical protein LOTGIDRAFT_216192 [Lottia gigantea],best_score:123.0,evalue:2.86222e-09,length:150
+gi:676461804,ref_number:XP_009056061.1,annotation: hypothetical protein LOTGIDRAFT_216207 [Lottia gigantea],best_score:123.0,evalue:2.92226e-09,length:150
+gi:676478882,ref_number:XP_009061568.1,annotation: hypothetical protein LOTGIDRAFT_219848 [Lottia gigantea],best_score:123.0,evalue:3.401e-09,length:164
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:3.6508e-09,length:149
+gi:676457707,ref_number:XP_009054739.1,annotation: hypothetical protein LOTGIDRAFT_215397 [Lottia gigantea],best_score:118.0,evalue:1.22721e-08,length:149
+gi:676469225,ref_number:XP_009058463.1,annotation: hypothetical protein LOTGIDRAFT_122753, partial [Lottia gigantea],best_score:116.0,evalue:2.27753e-08,length:153
+gi:676439378,ref_number:XP_009048833.1,annotation: hypothetical protein LOTGIDRAFT_112352 [Lottia gigantea],best_score:116.0,evalue:1.12295e-07,length:1552
+gi:676468874,ref_number:XP_009058349.1,annotation: hypothetical protein LOTGIDRAFT_163609 [Lottia gigantea],best_score:112.0,evalue:1.35239e-07,length:187
+gi:676464942,ref_number:XP_009057083.1,annotation: hypothetical protein LOTGIDRAFT_121213, partial [Lottia gigantea],best_score:107.0,evalue:3.89326e-07,length:133
+gi:676421257,ref_number:XP_009043793.1,annotation: hypothetical protein LOTGIDRAFT_227902 [Lottia gigantea],best_score:99.0,evalue:9.62409e-06,length:187
+gi:546297184,ref_number:XP_005710147.1,annotation: unnamed protein product [Chondrus crispus],best_score:190.0,evalue:2.13983e-19,length:172
+gi:546320686,ref_number:XP_005717351.1,annotation: Calmodulin [Chondrus crispus],best_score:97.0,evalue:4.21486e-06,length:150
+gi:219129760,ref_number:XP_002185049.1,annotation: calmoduline [Phaeodactylum tricornutum CCAP 1055/1],best_score:123.0,evalue:1.20919e-09,length:149
+gi:219113539,ref_number:XP_002186353.1,annotation: calcium binding protein [Phaeodactylum tricornutum CCAP 1055/1],best_score:113.0,evalue:3.27773e-08,length:132
+gi:302839840,ref_number:XP_002951476.1,annotation: hypothetical protein VOLCADRAFT_75021 [Volvox carteri f. nagariensis],best_score:137.0,evalue:7.77161e-13,length:167
+gi:302847992,ref_number:XP_002955529.1,annotation: hypothetical protein VOLCADRAFT_65983 [Volvox carteri f. nagariensis],best_score:132.0,evalue:3.12127e-12,length:159
+gi:302830252,ref_number:XP_002946692.1,annotation: calmodulin [Volvox carteri f. nagariensis],best_score:117.0,evalue:6.38214e-10,length:165
+gi:302830604,ref_number:XP_002946868.1,annotation: calmodulin-like protein Fap272 [Volvox carteri f. nagariensis],best_score:102.0,evalue:8.89544e-08,length:169
+gi:302842201,ref_number:XP_002952644.1,annotation: centrin [Volvox carteri f. nagariensis],best_score:93.0,evalue:1.61901e-06,length:170
+gi:302850021,ref_number:XP_002956539.1,annotation: centrin [Volvox carteri f. nagariensis],best_score:91.0,evalue:2.27514e-06,length:168
+gi:831772241,ref_number:XP_012753544.1,annotation: hypothetical protein SAMD00019534_069780 [Acytostelium subglobosum LB1],best_score:196.0,evalue:4.53305e-20,length:170
+gi:831757192,ref_number:XP_012748954.1,annotation: hypothetical protein SAMD00019534_111710 [Acytostelium subglobosum LB1],best_score:172.0,evalue:2.43975e-16,length:181
+gi:831759844,ref_number:XP_012749770.1,annotation: hypothetical protein SAMD00019534_104780, partial [Acytostelium subglobosum LB1],best_score:156.0,evalue:2.20065e-14,length:147
+gi:831790314,ref_number:XP_012759347.1,annotation: hypothetical protein SAMD00019534_004600 [Acytostelium subglobosum LB1],best_score:119.0,evalue:8.97375e-09,length:171
+gi:831787768,ref_number:XP_012758537.1,annotation: hypothetical protein SAMD00019534_011160 [Acytostelium subglobosum LB1],best_score:107.0,evalue:6.26045e-07,length:222
+gi:831782649,ref_number:XP_012756751.1,annotation: hypothetical protein SAMD00019534_031640 [Acytostelium subglobosum LB1],best_score:98.0,evalue:8.40067e-06,length:189
+gi:1063733688,ref_number:NP_001331304.1,annotation: Calcium-binding EF-hand family protein [Arabidopsis thaliana],best_score:157.0,evalue:8.37454e-14,length:175
+gi:1063733684,ref_number:NP_001331302.1,annotation: Calcium-binding EF-hand family protein [Arabidopsis thaliana],best_score:156.0,evalue:1.55795e-13,length:197
+gi:15237928,ref_number:NP_197815.1,annotation: Calcium-binding EF-hand family protein [Arabidopsis thaliana] >gi,best_score:156.0,evalue:2.441e-13,length:222
+gi:42572939,ref_number:NP_974566.1,annotation: calcineurin B-like protein 1 [Arabidopsis thaliana],best_score:152.0,evalue:3.81231e-13,length:171
+gi:18414931,ref_number:NP_567533.1,annotation: calcineurin B-like protein 1 [Arabidopsis thaliana] >gi,best_score:152.0,evalue:8.38583e-13,length:213
+gi:1063723302,ref_number:NP_001329533.1,annotation: calcineurin B-like protein 1 [Arabidopsis thaliana],best_score:153.0,evalue:1.02966e-12,length:252
+gi:15238015,ref_number:NP_199521.1,annotation: calcineurin B-like protein 9 [Arabidopsis thaliana],best_score:147.0,evalue:3.85453e-12,length:213
+gi:15241101,ref_number:NP_200410.1,annotation: calcineurin B-like protein 2 [Arabidopsis thaliana] >gi,best_score:141.0,evalue:3.03044e-11,length:226
+gi:1063696934,ref_number:NP_001322654.1,annotation: calcineurin B-like protein 8 [Arabidopsis thaliana],best_score:137.0,evalue:9.46616e-11,length:197
+gi:15236778,ref_number:NP_194387.1,annotation: calcineurin B-like 3 [Arabidopsis thaliana] >gi,best_score:138.0,evalue:1.06781e-10,length:226
+gi:15217657,ref_number:NP_176629.1,annotation: calcineurin B-like protein 8 [Arabidopsis thaliana] >gi,best_score:137.0,evalue:1.32065e-10,length:214
+gi:30689575,ref_number:NP_849485.1,annotation: calcineurin B-like protein 10 [Arabidopsis thaliana],best_score:137.0,evalue:1.61695e-10,length:246
+gi:15234011,ref_number:NP_195026.1,annotation: calcineurin B-like protein 10 [Arabidopsis thaliana],best_score:137.0,evalue:1.7547e-10,length:256
+gi:18414640,ref_number:NP_567492.1,annotation: calcineurin B-like protein 6 [Arabidopsis thaliana] >gi,best_score:127.0,evalue:3.16539e-09,length:226
+gi:1063725128,ref_number:NP_001320073.1,annotation: calcineurin B-like 3 [Arabidopsis thaliana] >gi,best_score:126.0,evalue:3.95019e-09,length:230
+gi:1063722480,ref_number:NP_001329798.1,annotation: calmodulin 8 [Arabidopsis thaliana],best_score:122.0,evalue:5.12469e-09,length:133
+gi:1063714803,ref_number:NP_001326524.1,annotation: calmodulin 7 [Arabidopsis thaliana] >gi,best_score:121.0,evalue:5.527e-09,length:113
+gi:15228905,ref_number:NP_188933.1,annotation: calmodulin-like 11 [Arabidopsis thaliana],best_score:123.0,evalue:5.98109e-09,length:173
+gi:334184850,ref_number:NP_001189724.1,annotation: calmodulin 2 [Arabidopsis thaliana],best_score:121.0,evalue:9.47642e-09,length:161
+gi:15235516,ref_number:NP_193022.1,annotation: EF hand calcium-binding protein family [Arabidopsis thaliana],best_score:121.0,evalue:9.65873e-09,length:152
+gi:42566231,ref_number:NP_192051.2,annotation: calcineurin B-like protein 5 [Arabidopsis thaliana],best_score:122.0,evalue:1.13489e-08,length:203
+gi:15225840,ref_number:NP_180271.1,annotation: calmodulin 5 [Arabidopsis thaliana] >gi,best_score:120.0,evalue:1.40883e-08,length:149
+gi:1063720413,ref_number:NP_001329076.1,annotation: calcineurin B-like protein 5 [Arabidopsis thaliana],best_score:121.0,evalue:1.49048e-08,length:192
+gi:15229784,ref_number:NP_189967.1,annotation: calmodulin 7 [Arabidopsis thaliana] >gi,best_score:119.0,evalue:1.96232e-08,length:149
+gi:1063695361,ref_number:NP_001320584.1,annotation: calmodulin 4 [Arabidopsis thaliana] >gi,best_score:116.0,evalue:2.23669e-08,length:113
+gi:30683369,ref_number:NP_850097.1,annotation: calmodulin 5 [Arabidopsis thaliana],best_score:120.0,evalue:2.3518e-08,length:181
+gi:15233513,ref_number:NP_193200.1,annotation: calmodulin 8 [Arabidopsis thaliana],best_score:118.0,evalue:2.41318e-08,length:151
+gi:1063714800,ref_number:NP_001326523.1,annotation: calmodulin 7 [Arabidopsis thaliana],best_score:120.0,evalue:2.506e-08,length:214
+gi:30688187,ref_number:NP_850860.1,annotation: calmodulin 6 [Arabidopsis thaliana] >gi,best_score:117.0,evalue:3.06155e-08,length:149
+gi:15236775,ref_number:NP_194386.1,annotation: calcineurin B-like protein 7 [Arabidopsis thaliana],best_score:118.0,evalue:4.8033e-08,length:214
+gi:1063734863,ref_number:NP_001330399.1,annotation: calmodulin 1 [Arabidopsis thaliana],best_score:115.0,evalue:6.44196e-08,length:136
+gi:15219652,ref_number:NP_176814.1,annotation: calmodulin 4 [Arabidopsis thaliana] >gi,best_score:114.0,evalue:8.41915e-08,length:149
+gi:334183678,ref_number:NP_001185330.1,annotation: calmodulin 4 [Arabidopsis thaliana],best_score:114.0,evalue:9.32108e-08,length:159
+gi:238481447,ref_number:NP_001154755.1,annotation: calmodulin 1 [Arabidopsis thaliana],best_score:114.0,evalue:1.19989e-07,length:175
+gi:238481445,ref_number:NP_001154754.1,annotation: calmodulin 1 [Arabidopsis thaliana],best_score:114.0,evalue:1.23487e-07,length:164
+gi:15231470,ref_number:NP_187405.1,annotation: ARF-GAP domain 11 [Arabidopsis thaliana] >gi,best_score:108.0,evalue:7.22652e-07,length:153
+gi:15236276,ref_number:NP_192238.1,annotation: EF hand calcium-binding protein family [Arabidopsis thaliana],best_score:106.0,evalue:1.39208e-06,length:154
+gi:15221030,ref_number:NP_173259.1,annotation: Calcium-binding EF-hand family protein [Arabidopsis thaliana] >gi,best_score:105.0,evalue:2.0339e-06,length:170
+gi:15221358,ref_number:NP_172089.1,annotation: EF hand calcium-binding protein family [Arabidopsis thaliana],best_score:103.0,evalue:3.4785e-06,length:150
+gi:18401887,ref_number:NP_566610.1,annotation: Calcium-binding EF-hand family protein [Arabidopsis thaliana] >gi,best_score:104.0,evalue:3.91076e-06,length:175
+gi:15231073,ref_number:NP_190760.1,annotation: calmodulin 9 [Arabidopsis thaliana],best_score:101.0,evalue:5.97379e-06,length:151
+gi:15219514,ref_number:NP_177504.1,annotation: EF hand calcium-binding protein family [Arabidopsis thaliana],best_score:102.0,evalue:6.20175e-06,length:163
+gi:15231685,ref_number:NP_191503.1,annotation: Calcium-binding EF-hand family protein [Arabidopsis thaliana],best_score:102.0,evalue:7.22497e-06,length:195
+gi:957839293,ref_number:XP_014669911.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Priapulus caudatus],best_score:320.0,evalue:3.13724e-38,length:192
+gi:957821101,ref_number:XP_014680863.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Priapulus caudatus],best_score:305.0,evalue:4.21551e-36,length:180
+gi:957844768,ref_number:XP_014672791.1,annotation: PREDICTED: calcium and integrin-binding family member 2-like [Priapulus caudatus],best_score:214.0,evalue:2.2215e-23,length:93
+gi:957830231,ref_number:XP_014665054.1,annotation: PREDICTED: calcineurin subunit B type 1 [Priapulus caudatus],best_score:186.0,evalue:2.43308e-18,length:170
+gi:957832961,ref_number:XP_014666517.1,annotation: PREDICTED: calmodulin-A-like isoform X2 [Priapulus caudatus],best_score:132.0,evalue:1.45836e-10,length:153
+gi:957832959,ref_number:XP_014666516.1,annotation: PREDICTED: calmodulin-A-like isoform X1 [Priapulus caudatus],best_score:131.0,evalue:2.20634e-10,length:161
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:3.5869e-09,length:149
+gi:957830767,ref_number:XP_014665340.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X3 [Priapulus caudatus],best_score:109.0,evalue:5.21414e-07,length:250
+gi:957819479,ref_number:XP_014675016.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like isoform X1 [Priapulus caudatus],best_score:108.0,evalue:5.61445e-07,length:201
+gi:957830763,ref_number:XP_014665338.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X1 [Priapulus caudatus],best_score:109.0,evalue:6.23544e-07,length:257
+gi:957819481,ref_number:XP_014675023.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like isoform X2 [Priapulus caudatus] >gi,best_score:105.0,evalue:7.3848e-07,length:144
+gi:957830765,ref_number:XP_014665339.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X2 [Priapulus caudatus],best_score:104.0,evalue:2.81998e-06,length:256
+gi:961099808,ref_number:XP_014775000.1,annotation: PREDICTED: calcium and integrin-binding family member 2-like [Octopus bimaculoides],best_score:395.0,evalue:1.65567e-49,length:189
+gi:961095909,ref_number:XP_014773702.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Octopus bimaculoides],best_score:320.0,evalue:1.30191e-38,length:152
+gi:961079142,ref_number:XP_014767864.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Octopus bimaculoides],best_score:280.0,evalue:3.76614e-32,length:190
+gi:961125743,ref_number:XP_014784142.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Octopus bimaculoides],best_score:264.0,evalue:1.14615e-29,length:193
+gi:961072802,ref_number:XP_014783704.1,annotation: PREDICTED: calcineurin subunit B type 1 [Octopus bimaculoides],best_score:204.0,evalue:6.02831e-21,length:170
+gi:961133934,ref_number:XP_014786994.1,annotation: PREDICTED: calcineurin B homologous protein 1-like [Octopus bimaculoides],best_score:159.0,evalue:4.36436e-14,length:190
+gi:961104627,ref_number:XP_014776698.1,annotation: PREDICTED: neo-calmodulin-like isoform X1 [Octopus bimaculoides],best_score:130.0,evalue:3.69444e-10,length:154
+gi:961075074,ref_number:XP_014790465.1,annotation: PREDICTED: calmodulin-like [Octopus bimaculoides],best_score:126.0,evalue:5.92828e-10,length:114
+gi:961104630,ref_number:XP_014776699.1,annotation: PREDICTED: calmodulin-beta-like isoform X2 [Octopus bimaculoides],best_score:127.0,evalue:8.98753e-10,length:148
+gi:961105669,ref_number:XP_014777046.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X4 [Octopus bimaculoides],best_score:126.0,evalue:2.8493e-09,length:213
+gi:961105660,ref_number:XP_014777043.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X1 [Octopus bimaculoides],best_score:126.0,evalue:2.87232e-09,length:215
+gi:961105663,ref_number:XP_014777044.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X2 [Octopus bimaculoides],best_score:126.0,evalue:2.94699e-09,length:208
+gi:961105672,ref_number:XP_014777047.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X5 [Octopus bimaculoides],best_score:126.0,evalue:3.06051e-09,length:212
+gi:961105666,ref_number:XP_014777045.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X3 [Octopus bimaculoides],best_score:126.0,evalue:3.93343e-09,length:252
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:4.87824e-09,length:149
+gi:961115575,ref_number:XP_014780626.1,annotation: PREDICTED: neo-calmodulin-like [Octopus bimaculoides],best_score:120.0,evalue:9.57532e-09,length:151
+gi:961136139,ref_number:XP_014787760.1,annotation: PREDICTED: neo-calmodulin-like [Octopus bimaculoides],best_score:119.0,evalue:2.16622e-08,length:191
+gi:961112325,ref_number:XP_014779360.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like isoform X2 [Octopus bimaculoides],best_score:117.0,evalue:3.49519e-08,length:180
+gi:961112322,ref_number:XP_014779359.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like isoform X1 [Octopus bimaculoides],best_score:117.0,evalue:3.88624e-08,length:198
+gi:961118136,ref_number:XP_014781512.1,annotation: PREDICTED: neo-calmodulin-like isoform X2 [Octopus bimaculoides],best_score:113.0,evalue:8.96914e-08,length:146
+gi:961118133,ref_number:XP_014781511.1,annotation: PREDICTED: neo-calmodulin-like isoform X1 [Octopus bimaculoides],best_score:113.0,evalue:1.0608e-07,length:154
+gi:961075077,ref_number:XP_014790466.1,annotation: PREDICTED: squidulin-like [Octopus bimaculoides],best_score:109.0,evalue:2.83237e-07,length:135
+gi:961069351,ref_number:XP_014771763.1,annotation: PREDICTED: neo-calmodulin-like isoform X1 [Octopus bimaculoides],best_score:104.0,evalue:2.74519e-06,length:201
+gi:961069353,ref_number:XP_014771770.1,annotation: PREDICTED: neo-calmodulin-like isoform X2 [Octopus bimaculoides],best_score:103.0,evalue:3.18848e-06,length:169
+gi:340374533,ref_number:XP_003385792.1,annotation: PREDICTED: calcium and integrin-binding family member 2-like [Amphimedon queenslandica],best_score:316.0,evalue:1.28703e-37,length:186
+gi:340378050,ref_number:XP_003387541.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X2 [Amphimedon queenslandica],best_score:209.0,evalue:1.258e-21,length:185
+gi:1133466222,ref_number:XP_019853612.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X1 [Amphimedon queenslandica],best_score:193.0,evalue:3.29129e-19,length:191
+gi:340377541,ref_number:XP_003387288.1,annotation: PREDICTED: calcineurin subunit B type 1-like [Amphimedon queenslandica],best_score:174.0,evalue:1.78594e-16,length:171
+gi:340370380,ref_number:XP_003383724.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Amphimedon queenslandica],best_score:132.0,evalue:5.78051e-10,length:254
+gi:1133456397,ref_number:XP_019849868.1,annotation: PREDICTED: LOW QUALITY PROTEIN: calmodulin-like protein 12 [Amphimedon queenslandica],best_score:130.0,evalue:1.40034e-09,length:454
+gi:340377791,ref_number:XP_003387412.1,annotation: PREDICTED: calcium-binding protein NCS-1-like [Amphimedon queenslandica],best_score:123.0,evalue:5.47941e-09,length:190
+gi:340376352,ref_number:XP_003386697.1,annotation: PREDICTED: neurocalcin homolog [Amphimedon queenslandica] >gi,best_score:117.0,evalue:3.76364e-08,length:195
+gi:340370282,ref_number:XP_003383675.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like [Amphimedon queenslandica],best_score:111.0,evalue:2.839e-07,length:205
+gi:1133478192,ref_number:XP_011406986.2,annotation: PREDICTED: NADPH oxidase 5-like [Amphimedon queenslandica],best_score:111.0,evalue:5.12162e-07,length:743
+gi:1133473631,ref_number:XP_019856436.1,annotation: PREDICTED: NADPH oxidase 5-like [Amphimedon queenslandica],best_score:107.0,evalue:1.82475e-06,length:785
+gi:66808443,ref_number:XP_637944.1,annotation: calcium-binding EF-hand domain-containing protein [Dictyostelium discoideum AX4],best_score:200.0,evalue:1.66651e-20,length:183
+gi:66827885,ref_number:XP_647297.1,annotation: protein phosphatase 2B [Dictyostelium discoideum AX4],best_score:171.0,evalue:2.51008e-16,length:165
+gi:111219450,ref_number:XP_001134484.1,annotation: protein phosphatase 2B [Dictyostelium discoideum AX4],best_score:171.0,evalue:3.63943e-16,length:180
+gi:66815357,ref_number:XP_641695.1,annotation: hypothetical protein DDB_G0279407 [Dictyostelium discoideum AX4],best_score:127.0,evalue:5.98387e-10,length:152
+gi:66820612,ref_number:XP_643895.1,annotation: calcium-binding protein [Dictyostelium discoideum AX4],best_score:110.0,evalue:2.93063e-07,length:225
+gi:156402399,ref_number:XP_001639578.1,annotation: predicted protein [Nematostella vectensis],best_score:341.0,evalue:1.68057e-41,length:184
+gi:156371471,ref_number:XP_001628787.1,annotation: predicted protein [Nematostella vectensis],best_score:310.0,evalue:7.10239e-37,length:182
+gi:156405156,ref_number:XP_001640598.1,annotation: predicted protein [Nematostella vectensis],best_score:201.0,evalue:1.2371e-20,length:170
+gi:156382046,ref_number:XP_001632366.1,annotation: predicted protein [Nematostella vectensis],best_score:146.0,evalue:2.50253e-12,length:193
+gi:156352468,ref_number:XP_001622774.1,annotation: predicted protein [Nematostella vectensis],best_score:127.0,evalue:8.70971e-10,length:172
+gi:156352470,ref_number:XP_001622775.1,annotation: predicted protein [Nematostella vectensis],best_score:125.0,evalue:8.76869e-10,length:133
+gi:156395109,ref_number:XP_001636954.1,annotation: predicted protein [Nematostella vectensis],best_score:124.0,evalue:1.84133e-09,length:161
+gi:156364597,ref_number:XP_001626433.1,annotation: predicted protein [Nematostella vectensis],best_score:126.0,evalue:2.10934e-09,length:219
+gi:156399760,ref_number:XP_001638669.1,annotation: predicted protein [Nematostella vectensis],best_score:122.0,evalue:2.36846e-09,length:140
+gi:156399584,ref_number:XP_001638581.1,annotation: predicted protein [Nematostella vectensis] >gi,best_score:122.0,evalue:3.12113e-09,length:149
+gi:156376815,ref_number:XP_001630554.1,annotation: predicted protein [Nematostella vectensis],best_score:107.0,evalue:2.5359e-07,length:113
+gi:156362224,ref_number:XP_001625680.1,annotation: predicted protein [Nematostella vectensis],best_score:106.0,evalue:6.16968e-07,length:153
+gi:156402513,ref_number:XP_001639635.1,annotation: predicted protein [Nematostella vectensis],best_score:106.0,evalue:1.12404e-06,length:190
+gi:156402515,ref_number:XP_001639636.1,annotation: predicted protein [Nematostella vectensis],best_score:104.0,evalue:1.72156e-06,length:191
+gi:156381041,ref_number:XP_001632075.1,annotation: predicted protein [Nematostella vectensis],best_score:104.0,evalue:1.82773e-06,length:202
+gi:156399630,ref_number:XP_001638604.1,annotation: predicted protein [Nematostella vectensis],best_score:102.0,evalue:2.04446e-06,length:148
+gi:156383433,ref_number:XP_001632838.1,annotation: predicted protein [Nematostella vectensis],best_score:100.0,evalue:4.42521e-06,length:162
+gi:156388256,ref_number:XP_001634617.1,annotation: predicted protein [Nematostella vectensis],best_score:103.0,evalue:4.88167e-06,length:598
+gi:156401448,ref_number:XP_001639303.1,annotation: predicted protein [Nematostella vectensis],best_score:99.0,evalue:9.49842e-06,length:190
+gi:1069963788,ref_number:XP_018285925.1,annotation: calcineurin regulatory B subunit [Phycomyces blakesleeanus NRRL 1555(-)],best_score:200.0,evalue:1.1704e-20,length:173
+gi:1069949251,ref_number:XP_018293120.1,annotation: hypothetical protein PHYBLDRAFT_32453 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:199.0,evalue:1.61335e-20,length:173
+gi:1069955579,ref_number:XP_018290060.1,annotation: hypothetical protein PHYBLDRAFT_146998 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:165.0,evalue:1.39504e-14,length:345
+gi:1069940027,ref_number:XP_018297339.1,annotation: hypothetical protein PHYBLDRAFT_157210 [Phycomyces blakesleeanus NRRL 1555(-)],best_score:147.0,evalue:2.56003e-12,length:296
+gi:1069951490,ref_number:XP_018291668.1,annotation: calmodulin [Phycomyces blakesleeanus NRRL 1555(-)],best_score:119.0,evalue:5.26336e-09,length:149
+gi:1069960501,ref_number:XP_018287630.1,annotation: calmodulin [Phycomyces blakesleeanus NRRL 1555(-)],best_score:109.0,evalue:1.68908e-07,length:148
+gi:6322658,ref_number:NP_012731.1,annotation: calcineurin regulatory subunit B [Saccharomyces cerevisiae S288c],best_score:200.0,evalue:6.85284e-21,length:175
+gi:923132699,ref_number:XP_013759815.1,annotation: calcineurin B [Thecamonas trahens ATCC 50062],best_score:189.0,evalue:7.37655e-20,length:202
+gi:923123035,ref_number:XP_013754987.1,annotation: calcineurin B [Thecamonas trahens ATCC 50062],best_score:186.0,evalue:1.17169e-19,length:185
+gi:923125606,ref_number:XP_013756271.1,annotation: calcineurin Ca2+-binding regulatory subunit CnaB [Thecamonas trahens ATCC 50062],best_score:136.0,evalue:1.74984e-12,length:157
+gi:923125360,ref_number:XP_013756148.1,annotation: calmodulin [Thecamonas trahens ATCC 50062],best_score:120.0,evalue:2.73584e-10,length:149
+gi:923135463,ref_number:XP_013761197.1,annotation: calmodulin mutant syncam9 [Thecamonas trahens ATCC 50062],best_score:112.0,evalue:5.08634e-09,length:155
+gi:923119959,ref_number:XP_013753452.1,annotation: hypothetical protein AMSG_12329 [Thecamonas trahens ATCC 50062],best_score:112.0,evalue:1.19414e-08,length:1018
+gi:923126985,ref_number:XP_013756959.1,annotation: hypothetical protein AMSG_06909 [Thecamonas trahens ATCC 50062],best_score:102.0,evalue:3.31717e-07,length:1217
+gi:923134429,ref_number:XP_013760680.1,annotation: hypothetical protein AMSG_02839 [Thecamonas trahens ATCC 50062],best_score:100.0,evalue:3.3234e-07,length:231
+gi:923130543,ref_number:XP_013758737.1,annotation: calcium-binding protein NCS-1 [Thecamonas trahens ATCC 50062],best_score:95.0,evalue:1.53384e-06,length:183
+gi:551667648,ref_number:XP_005836584.1,annotation: hypothetical protein GUITHDRAFT_151413 [Guillardia theta CCMP2712] >gi,best_score:117.0,evalue:1.8063e-08,length:149
+gi:551676224,ref_number:XP_005840866.1,annotation: hypothetical protein GUITHDRAFT_150323 [Guillardia theta CCMP2712],best_score:114.0,evalue:4.05131e-08,length:130
+gi:71746484,ref_number:XP_822297.1,annotation: calcineurin B subunit [Trypanosoma brucei brucei TREU927],best_score:156.0,evalue:7.11417e-14,length:179
+gi:788015679,ref_number:XP_011777215.1,annotation: calcineurin B subunit, putative [Trypanosoma brucei gambiense DAL972],best_score:154.0,evalue:1.26667e-13,length:179
+gi:74025586,ref_number:XP_829359.1,annotation: calmodulin [Trypanosoma brucei brucei TREU927] >gi,best_score:122.0,evalue:2.90708e-09,length:149
+gi:788026728,ref_number:XP_011780593.1,annotation: calmodulin, putative, (fragment), partial [Trypanosoma brucei gambiense DAL972],best_score:113.0,evalue:6.84538e-08,length:148
+gi:74024954,ref_number:XP_829043.1,annotation: calmodulin [Trypanosoma brucei brucei TREU927] >gi,best_score:108.0,evalue:3.72553e-07,length:163
+gi:67468945,ref_number:XP_650464.1,annotation: calcineurin B subunit [Entamoeba histolytica HM-1:IMSS] >gi,best_score:164.0,evalue:1.50448e-15,length:179
+gi:290996123,ref_number:XP_002680632.1,annotation: calcineurin regulatory subunit B [Naegleria gruberi],best_score:201.0,evalue:1.13738e-20,length:177
+gi:291001933,ref_number:XP_002683533.1,annotation: flagellar calmodulin [Naegleria gruberi],best_score:124.0,evalue:1.79184e-09,length:155
+gi:258597843,ref_number:XP_001348666.2,annotation: protein phosphatase 2b regulatory subunit, putative [Plasmodium falciparum 3D7],best_score:174.0,evalue:7.63393e-17,length:177
+gi:124809127,ref_number:XP_001348497.1,annotation: calmodulin [Plasmodium falciparum 3D7] >gi,best_score:116.0,evalue:1.08257e-08,length:149
+gi:124505775,ref_number:XP_001351001.1,annotation: centrin-1 [Plasmodium falciparum 3D7] >gi,best_score:110.0,evalue:1.07301e-07,length:168
+gi:145494480,ref_number:XP_001433234.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2] >gi,best_score:163.0,evalue:1.05055e-14,length:169
+gi:145503194,ref_number:XP_001437574.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:121.0,evalue:6.18978e-09,length:132
+gi:145517885,ref_number:XP_001444820.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:114.0,evalue:3.72222e-07,length:1220
+gi:145484352,ref_number:XP_001428186.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:112.0,evalue:4.24038e-07,length:240
+gi:145479139,ref_number:XP_001425592.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:112.0,evalue:4.67715e-07,length:240
+gi:145525082,ref_number:XP_001448363.1,annotation: hypothetical protein [Paramecium tetraurelia strain d4-2],best_score:107.0,evalue:9.78132e-07,length:149
+gi:19173343,ref_number:NP_597146.1,annotation: CALCINEURIN BETA SUBUNIT [Encephalitozoon cuniculi GB-M1],best_score:95.0,evalue:2.81435e-06,length:200
+gi:449668625,ref_number:XP_004206833.1,annotation: PREDICTED: calcineurin subunit B type 1-like [Hydra vulgaris] >gi,best_score:183.0,evalue:3.64821e-19,length:170
+gi:828198248,ref_number:XP_002160750.2,annotation: PREDICTED: calmodulin-beta-like [Hydra vulgaris],best_score:131.0,evalue:4.46175e-12,length:112
+gi:828222231,ref_number:XP_002159174.3,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like [Hydra vulgaris],best_score:131.0,evalue:1.87454e-11,length:203
+gi:828210852,ref_number:XP_012558450.1,annotation: PREDICTED: calmodulin-like [Hydra vulgaris],best_score:121.0,evalue:2.28861e-10,length:146
+gi:828205641,ref_number:XP_012556685.1,annotation: PREDICTED: zinc finger MYM-type protein 1-like [Hydra vulgaris],best_score:123.0,evalue:5.02939e-10,length:1137
+gi:449687549,ref_number:XP_002154349.2,annotation: PREDICTED: calmodulin-A [Hydra vulgaris],best_score:117.0,evalue:1.1004e-09,length:149
+gi:449684447,ref_number:XP_002159500.2,annotation: PREDICTED: neurocalcin homolog [Hydra vulgaris],best_score:112.0,evalue:8.46755e-09,length:191
+gi:828199918,ref_number:XP_012554754.1,annotation: PREDICTED: neo-calmodulin-like isoform X4 [Hydra vulgaris],best_score:96.0,evalue:1.09417e-06,length:171
+gi:828199921,ref_number:XP_012554755.1,annotation: PREDICTED: neo-calmodulin-like isoform X6 [Hydra vulgaris],best_score:96.0,evalue:1.11201e-06,length:156
+gi:828199923,ref_number:XP_012554756.1,annotation: PREDICTED: neo-calmodulin-like isoform X7 [Hydra vulgaris],best_score:95.0,evalue:1.14538e-06,length:155
+gi:828199914,ref_number:XP_012554753.1,annotation: PREDICTED: neo-calmodulin-like isoform X1 [Hydra vulgaris],best_score:96.0,evalue:1.1487e-06,length:182
+gi:828190120,ref_number:XP_004205484.2,annotation: PREDICTED: caltractin [Hydra vulgaris],best_score:95.0,evalue:1.50621e-06,length:170
+gi:828199925,ref_number:XP_012554757.1,annotation: PREDICTED: neo-calmodulin-like isoform X8 [Hydra vulgaris],best_score:94.0,evalue:1.51847e-06,length:146
+gi:449669051,ref_number:XP_004206928.1,annotation: PREDICTED: neo-calmodulin-like isoform X2 [Hydra vulgaris],best_score:95.0,evalue:1.62685e-06,length:177
+gi:828201192,ref_number:XP_004207142.2,annotation: PREDICTED: guanylyl cyclase-activating protein 1-like [Hydra vulgaris],best_score:93.0,evalue:4.10789e-06,length:203
+gi:844869004,ref_number:XP_012799928.1,annotation: Calcineurin subunit B type 1 [Schistosoma haematobium] >gi,best_score:196.0,evalue:3.85668e-20,length:169
+gi:844876052,ref_number:XP_012801655.1,annotation: Calcineurin subunit B type 1 [Schistosoma haematobium],best_score:205.0,evalue:6.21889e-20,length:994
+gi:844859665,ref_number:XP_012797683.1,annotation: Calcineurin B homologous protein 1, partial [Schistosoma haematobium],best_score:147.0,evalue:5.23513e-13,length:164
+gi:844854779,ref_number:XP_012796497.1,annotation: Calmodulin [Schistosoma haematobium],best_score:119.0,evalue:2.76885e-09,length:113
+gi:392886714,ref_number:NP_492514.2,annotation: CALMyrin (Calcium and Integrin Binding protein) homolog [Caenorhabditis elegans],best_score:344.0,evalue:1.21997e-41,length:201
+gi:392920726,ref_number:NP_001256317.1,annotation: CalciNeurin B [Caenorhabditis elegans],best_score:197.0,evalue:8.37343e-20,length:170
+gi:392920728,ref_number:NP_001256318.1,annotation: Protein phosphatase 2B regulatory subunit cnb-1 [Caenorhabditis elegans] >gi,best_score:195.0,evalue:1.62642e-19,length:171
+gi:392918575,ref_number:NP_503830.2,annotation: Calcineurin-like EF-Hand Protein Family member [Caenorhabditis elegans],best_score:178.0,evalue:7.72023e-17,length:195
+gi:17566934,ref_number:NP_505623.1,annotation: Calcineurin-like EF-Hand Protein Family member [Caenorhabditis elegans],best_score:156.0,evalue:1.35794e-13,length:195
+gi:17556408,ref_number:NP_497601.1,annotation: Uncharacterized protein CELE_Y71H2AL.1 [Caenorhabditis elegans],best_score:153.0,evalue:4.03232e-13,length:196
+gi:922581266,ref_number:NP_001300203.1,annotation: CalMoDulin [Caenorhabditis elegans],best_score:123.0,evalue:1.90946e-09,length:113
+gi:17564542,ref_number:NP_503386.1,annotation: Calmodulin [Caenorhabditis elegans] >gi,best_score:122.0,evalue:5.08163e-09,length:149
+gi:392921167,ref_number:NP_001256428.1,annotation: CALmodulin related genes [Caenorhabditis elegans] >gi,best_score:112.0,evalue:2.28211e-07,length:180
+gi:392921169,ref_number:NP_001256429.1,annotation: Calmodulin-like protein [Caenorhabditis elegans],best_score:111.0,evalue:2.31314e-07,length:161
+gi:71982496,ref_number:NP_495906.2,annotation: CALmodulin related genes [Caenorhabditis elegans],best_score:108.0,evalue:5.81169e-07,length:171
+gi:392900497,ref_number:NP_001255489.1,annotation: CALmodulin related genes [Caenorhabditis elegans],best_score:102.0,evalue:5.92658e-06,length:236
+gi:392900501,ref_number:NP_001255491.1,annotation: CALmodulin related genes [Caenorhabditis elegans],best_score:101.0,evalue:5.94433e-06,length:182
+gi:392900499,ref_number:NP_001255490.1,annotation: CALmodulin related genes [Caenorhabditis elegans],best_score:101.0,evalue:7.26377e-06,length:208
+gi:339249055,ref_number:XP_003373515.1,annotation: calcium and integrin-binding family member 2 [Trichinella spiralis],best_score:405.0,evalue:3.64871e-51,length:203
+gi:339235305,ref_number:XP_003379207.1,annotation: calcineurin B subunit [Trichinella spiralis],best_score:192.0,evalue:3.8211e-19,length:218
+gi:339251434,ref_number:XP_003372739.1,annotation: EF hand domain containing protein [Trichinella spiralis],best_score:133.0,evalue:1.82596e-10,length:239
+gi:339236665,ref_number:XP_003379887.1,annotation: calcium-binding protein p22 [Trichinella spiralis],best_score:124.0,evalue:2.59022e-09,length:223
+gi:339236011,ref_number:XP_003379560.1,annotation: calmodulin-1 [Trichinella spiralis],best_score:123.0,evalue:3.47446e-09,length:241
+gi:339249972,ref_number:XP_003373971.1,annotation: calmodulin [Trichinella spiralis],best_score:104.0,evalue:1.15431e-06,length:215
+gi:339247807,ref_number:XP_003375537.1,annotation: EF hand domain containing protein [Trichinella spiralis],best_score:102.0,evalue:2.48534e-06,length:190
+gi:675861636,ref_number:XP_009016378.1,annotation: hypothetical protein HELRODRAFT_77588 [Helobdella robusta],best_score:299.0,evalue:2.95153e-35,length:178
+gi:675860134,ref_number:XP_009015627.1,annotation: hypothetical protein HELRODRAFT_65068 [Helobdella robusta],best_score:195.0,evalue:1.08327e-19,length:173
+gi:675886688,ref_number:XP_009028846.1,annotation: hypothetical protein HELRODRAFT_69604, partial [Helobdella robusta],best_score:195.0,evalue:1.11597e-19,length:170
+gi:675868140,ref_number:XP_009019630.1,annotation: hypothetical protein HELRODRAFT_126208, partial [Helobdella robusta],best_score:175.0,evalue:4.28466e-17,length:139
+gi:675855096,ref_number:XP_009013108.1,annotation: hypothetical protein HELRODRAFT_110019 [Helobdella robusta],best_score:132.0,evalue:1.2086e-10,length:151
+gi:675867770,ref_number:XP_009019445.1,annotation: hypothetical protein HELRODRAFT_65191 [Helobdella robusta],best_score:126.0,evalue:1.82783e-09,length:189
+gi:675869982,ref_number:XP_009020551.1,annotation: hypothetical protein HELRODRAFT_81905 [Helobdella robusta],best_score:125.0,evalue:2.37102e-09,length:193
+gi:675892056,ref_number:XP_009031530.1,annotation: hypothetical protein HELRODRAFT_185219 [Helobdella robusta],best_score:122.0,evalue:3.54527e-09,length:150
+gi:675873946,ref_number:XP_009022533.1,annotation: hypothetical protein HELRODRAFT_67135 [Helobdella robusta],best_score:114.0,evalue:9.25243e-08,length:192
+gi:675883542,ref_number:XP_009027273.1,annotation: hypothetical protein HELRODRAFT_185098 [Helobdella robusta],best_score:112.0,evalue:1.49583e-07,length:194
+gi:675873882,ref_number:XP_009022501.1,annotation: hypothetical protein HELRODRAFT_66963, partial [Helobdella robusta],best_score:104.0,evalue:9.24936e-07,length:123
+gi:675870348,ref_number:XP_009020734.1,annotation: hypothetical protein HELRODRAFT_123894, partial [Helobdella robusta],best_score:102.0,evalue:2.09559e-06,length:129
+gi:675869970,ref_number:XP_009020545.1,annotation: hypothetical protein HELRODRAFT_185708 [Helobdella robusta],best_score:99.0,evalue:7.01216e-06,length:151
+gi:675855084,ref_number:XP_009013102.1,annotation: hypothetical protein HELRODRAFT_74054, partial [Helobdella robusta],best_score:99.0,evalue:7.23372e-06,length:161
+gi:694529743,ref_number:XP_009493678.1,annotation: hypothetical protein H696_01507 [Fonticula alba],best_score:170.0,evalue:3.14698e-16,length:182
+gi:694543354,ref_number:XP_009497593.1,annotation: hypothetical protein H696_05494 [Fonticula alba],best_score:141.0,evalue:5.73793e-12,length:188
+gi:694531446,ref_number:XP_009494169.1,annotation: calmodulin [Fonticula alba],best_score:124.0,evalue:9.1838e-10,length:149
+gi:694527877,ref_number:XP_009493135.1,annotation: hypothetical protein H696_00971 [Fonticula alba],best_score:118.0,evalue:1.61015e-08,length:267
+gi:694528808,ref_number:XP_009493407.1,annotation: hypothetical protein H696_01248 [Fonticula alba],best_score:111.0,evalue:1.6872e-07,length:272
+gi:241164558,ref_number:XP_002409502.1,annotation: calmodulin, putative [Ixodes scapularis],best_score:186.0,evalue:4.87901e-18,length:236
+gi:241029447,ref_number:XP_002406438.1,annotation: DNA-dependent protein kinase catalytic subunit-interacting protein, putative [Ixodes scapularis],best_score:147.0,evalue:1.24517e-13,length:83
+gi:241151593,ref_number:XP_002406715.1,annotation: calcineurin B, putative [Ixodes scapularis],best_score:151.0,evalue:2.39545e-13,length:189
+gi:241689635,ref_number:XP_002401872.1,annotation: DNA-dependent protein kinase catalytic subunit-interacting protein, putative [Ixodes scapularis],best_score:137.0,evalue:5.88941e-12,length:107
+gi:241647569,ref_number:XP_002411168.1,annotation: nonmuscle myosin essential light chain, putative [Ixodes scapularis],best_score:124.0,evalue:9.78548e-10,length:143
+gi:240999683,ref_number:XP_002404770.1,annotation: calmodulin, putative [Ixodes scapularis],best_score:117.0,evalue:1.47862e-08,length:159
+gi:241812379,ref_number:XP_002414608.1,annotation: Ca2+ sensor, putative [Ixodes scapularis],best_score:116.0,evalue:2.62958e-08,length:193
+gi:241653602,ref_number:XP_002410492.1,annotation: Ca2+ sensor, putative [Ixodes scapularis],best_score:101.0,evalue:3.39952e-06,length:191
+gi:241589178,ref_number:XP_002403948.1,annotation: calmodulin, putative [Ixodes scapularis],best_score:95.0,evalue:4.50885e-06,length:70
+gi:241246115,ref_number:XP_002402607.1,annotation: calmodulin, putative [Ixodes scapularis],best_score:95.0,evalue:5.29375e-06,length:77
+gi:240982979,ref_number:XP_002403920.1,annotation: Ca2+ sensor, putative [Ixodes scapularis],best_score:99.0,evalue:7.23428e-06,length:193
+gi:929748033,ref_number:XP_014149000.1,annotation: hypothetical protein SARC_12370 [Sphaeroforma arctica JP610],best_score:196.0,evalue:7.35173e-20,length:187
+gi:929757009,ref_number:XP_014153486.1,annotation: calmodulin [Sphaeroforma arctica JP610],best_score:119.0,evalue:6.18678e-09,length:149
+gi:929738461,ref_number:XP_014144218.1,annotation: hypothetical protein SARC_17162, partial [Sphaeroforma arctica JP610],best_score:94.0,evalue:4.69607e-06,length:57
+gi:386768369,ref_number:NP_611523.3,annotation: calcium and integrin binding family member 2 [Drosophila melanogaster] >gi,best_score:421.0,evalue:2.76444e-53,length:189
+gi:24586365,ref_number:NP_524874.2,annotation: calcineurin B2, isoform A [Drosophila melanogaster] >gi,best_score:172.0,evalue:4.24917e-16,length:170
+gi:17864336,ref_number:NP_524741.1,annotation: calcineurin B, isoform A [Drosophila melanogaster] >gi,best_score:169.0,evalue:1.13911e-15,length:170
+gi:21357187,ref_number:NP_649568.1,annotation: ethanol sensitive with low memory, isoform A [Drosophila melanogaster] >gi,best_score:146.0,evalue:3.96587e-12,length:189
+gi:17136916,ref_number:NP_476988.1,annotation: androcam, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:5.32497e-09,length:148
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:6.19439e-09,length:149
+gi:281360586,ref_number:NP_572437.2,annotation: CG2256 [Drosophila melanogaster],best_score:122.0,evalue:1.96345e-08,length:324
+gi:161077140,ref_number:NP_001097336.1,annotation: NADPH oxidase, isoform C [Drosophila melanogaster] >gi,best_score:112.0,evalue:5.47484e-07,length:1340
+gi:665401335,ref_number:NP_001286485.1,annotation: NADPH oxidase, isoform B [Drosophila melanogaster],best_score:112.0,evalue:5.72718e-07,length:1282
+gi:320541947,ref_number:NP_572699.2,annotation: uncharacterized protein Dmel_CG44422, isoform A [Drosophila melanogaster],best_score:110.0,evalue:1.13013e-06,length:746
+gi:24642972,ref_number:NP_573271.1,annotation: frequenin 1, isoform B [Drosophila melanogaster] >gi,best_score:105.0,evalue:2.14815e-06,length:187
+gi:24665772,ref_number:NP_524122.2,annotation: troponin C at 73F, isoform A [Drosophila melanogaster] >gi,best_score:104.0,evalue:2.23965e-06,length:155
+gi:320541951,ref_number:NP_572700.2,annotation: uncharacterized protein Dmel_CG44422, isoform C [Drosophila melanogaster],best_score:106.0,evalue:2.74271e-06,length:450
+gi:442615934,ref_number:NP_001259444.1,annotation: uncharacterized protein Dmel_CG44422, isoform D [Drosophila melanogaster],best_score:105.0,evalue:3.9633e-06,length:439
+gi:665390719,ref_number:NP_727507.2,annotation: uncharacterized protein Dmel_CG44422, isoform F [Drosophila melanogaster],best_score:105.0,evalue:4.26194e-06,length:673
+gi:320541949,ref_number:NP_001188578.1,annotation: uncharacterized protein Dmel_CG44422, isoform B [Drosophila melanogaster],best_score:105.0,evalue:4.52494e-06,length:436
+gi:28574621,ref_number:NP_788543.1,annotation: neurocalcin [Drosophila melanogaster] >gi,best_score:103.0,evalue:5.28658e-06,length:190
+gi:665390717,ref_number:NP_001285117.1,annotation: uncharacterized protein Dmel_CG44422, isoform E [Drosophila melanogaster],best_score:103.0,evalue:7.98287e-06,length:363
+gi:919000998,ref_number:XP_013406524.1,annotation: PREDICTED: calcium and integrin-binding family member 3-like [Lingula anatina],best_score:465.0,evalue:8.66112e-60,length:189
+gi:919042116,ref_number:XP_013404295.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X2 [Lingula anatina],best_score:332.0,evalue:1.02066e-39,length:184
+gi:919042118,ref_number:XP_013404296.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X3 [Lingula anatina],best_score:318.0,evalue:1.21914e-37,length:184
+gi:919042114,ref_number:XP_013404294.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X1 [Lingula anatina],best_score:307.0,evalue:5.00183e-36,length:184
+gi:919042121,ref_number:XP_013404297.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X4 [Lingula anatina],best_score:238.0,evalue:8.17209e-26,length:168
+gi:919024085,ref_number:XP_013395931.1,annotation: PREDICTED: calcineurin subunit B type 1 [Lingula anatina],best_score:203.0,evalue:1.68565e-20,length:170
+gi:919066101,ref_number:XP_013414584.1,annotation: PREDICTED: calcineurin B homologous protein 1-like [Lingula anatina],best_score:158.0,evalue:9.639e-14,length:189
+gi:919004062,ref_number:XP_013421070.1,annotation: PREDICTED: calmodulin-A-like [Lingula anatina],best_score:133.0,evalue:2.21041e-10,length:150
+gi:918999743,ref_number:XP_013400713.1,annotation: PREDICTED: neo-calmodulin-like isoform X7 [Lingula anatina],best_score:131.0,evalue:3.87159e-10,length:154
+gi:918999741,ref_number:XP_013400705.1,annotation: PREDICTED: calmodulin-A-like isoform X6 [Lingula anatina],best_score:132.0,evalue:3.94389e-10,length:168
+gi:918999739,ref_number:XP_013400697.1,annotation: PREDICTED: neo-calmodulin-like isoform X5 [Lingula anatina],best_score:132.0,evalue:4.92299e-10,length:171
+gi:918999733,ref_number:XP_013400682.1,annotation: PREDICTED: calmodulin-A-like isoform X3 [Lingula anatina],best_score:132.0,evalue:5.44353e-10,length:187
+gi:918999736,ref_number:XP_013400688.1,annotation: PREDICTED: calmodulin-A-like isoform X4 [Lingula anatina],best_score:129.0,evalue:1.06315e-09,length:172
+gi:918999727,ref_number:XP_013400665.1,annotation: PREDICTED: neo-calmodulin-like isoform X1 [Lingula anatina],best_score:131.0,evalue:1.10474e-09,length:212
+gi:918999730,ref_number:XP_013400674.1,annotation: PREDICTED: calmodulin-beta-like isoform X2 [Lingula anatina],best_score:129.0,evalue:1.66205e-09,length:197
+gi:919021566,ref_number:XP_013394630.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like [Lingula anatina],best_score:129.0,evalue:1.77654e-09,length:203
+gi:156399584,ref_number:XP_001638581.1,annotation: predicted protein [Nematostella vectensis] >gi,best_score:122.0,evalue:8.26253e-09,length:149
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:8.88523e-09,length:149
+gi:919089026,ref_number:XP_013381514.1,annotation: PREDICTED: calmodulin-alpha isoform X1 [Lingula anatina],best_score:121.0,evalue:1.20715e-08,length:150
+gi:919016288,ref_number:XP_013392506.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X14 [Lingula anatina],best_score:123.0,evalue:1.44052e-08,length:210
+gi:919016290,ref_number:XP_013392507.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X15 [Lingula anatina],best_score:121.0,evalue:1.85807e-08,length:188
+gi:919081434,ref_number:XP_013421789.1,annotation: PREDICTED: uncharacterized protein LOC106181833 [Lingula anatina],best_score:121.0,evalue:1.89712e-08,length:181
+gi:919016276,ref_number:XP_013392499.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X8 [Lingula anatina],best_score:122.0,evalue:2.87899e-08,length:270
+gi:919016266,ref_number:XP_013392493.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X3 [Lingula anatina],best_score:122.0,evalue:2.8892e-08,length:286
+gi:919016286,ref_number:XP_013392505.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X13 [Lingula anatina],best_score:120.0,evalue:3.87444e-08,length:248
+gi:919016280,ref_number:XP_013392501.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X10 [Lingula anatina],best_score:120.0,evalue:5.18986e-08,length:258
+gi:919016278,ref_number:XP_013392500.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X9 [Lingula anatina],best_score:119.0,evalue:5.62782e-08,length:261
+gi:919016284,ref_number:XP_013392504.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X12 [Lingula anatina],best_score:119.0,evalue:5.74221e-08,length:252
+gi:919016270,ref_number:XP_013392495.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X5 [Lingula anatina],best_score:119.0,evalue:5.81903e-08,length:279
+gi:919016282,ref_number:XP_013392502.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X11 [Lingula anatina],best_score:119.0,evalue:6.35795e-08,length:255
+gi:919016268,ref_number:XP_013392494.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X4 [Lingula anatina],best_score:119.0,evalue:6.55165e-08,length:283
+gi:919016264,ref_number:XP_013392492.1,annotation: PREDICTED: Kv channel-interacting protein 4-like isoform X2 [Lingula anatina],best_score:119.0,evalue:6.57515e-08,length:288
+gi:919016272,ref_number:XP_013392496.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X6 [Lingula anatina],best_score:119.0,evalue:7.13922e-08,length:279
+gi:919016262,ref_number:XP_013392491.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X1 [Lingula anatina],best_score:119.0,evalue:7.29657e-08,length:295
+gi:919016274,ref_number:XP_013392498.1,annotation: PREDICTED: Kv channel-interacting protein 1-like isoform X7 [Lingula anatina],best_score:117.0,evalue:1.07608e-07,length:273
+gi:390358587,ref_number:XP_003729293.1,annotation: PREDICTED: calcium and integrin-binding family member 2 isoform X1 [Strongylocentrotus purpuratus] >gi,best_score:299.0,evalue:7.17309e-35,length:184
+gi:115723081,ref_number:XP_795492.2,annotation: PREDICTED: calcineurin subunit B type 2 isoform X2 [Strongylocentrotus purpuratus] >gi,best_score:204.0,evalue:8.06239e-21,length:170
+gi:115873116,ref_number:XP_781855.2,annotation: PREDICTED: calcineurin B homologous protein 1 [Strongylocentrotus purpuratus],best_score:147.0,evalue:3.28228e-12,length:190
+gi:780033029,ref_number:XP_003729933.2,annotation: PREDICTED: LOW QUALITY PROTEIN: EF-hand calcium-binding domain-containing protein 1 [Strongylocentrotus purpuratus],best_score:141.0,evalue:3.00431e-11,length:202
+gi:779995342,ref_number:XP_011674052.1,annotation: PREDICTED: calcineurin subunit B type 1, partial [Strongylocentrotus purpuratus],best_score:132.0,evalue:9.67729e-11,length:103
+gi:780106502,ref_number:XP_011675926.1,annotation: PREDICTED: calmodulin-A-like [Strongylocentrotus purpuratus],best_score:133.0,evalue:1.77539e-10,length:149
+gi:780152034,ref_number:XP_011681852.1,annotation: PREDICTED: uncharacterized protein LOC100888051 isoform X1 [Strongylocentrotus purpuratus],best_score:129.0,evalue:3.72573e-09,length:751
+gi:780187474,ref_number:XP_780925.4,annotation: PREDICTED: calmodulin [Strongylocentrotus purpuratus],best_score:122.0,evalue:6.15306e-09,length:149
+gi:17647231,ref_number:NP_523710.1,annotation: calmodulin, isoform A [Drosophila melanogaster] >gi,best_score:122.0,evalue:7.3407e-09,length:149
+gi:115699898,ref_number:XP_001177619.1,annotation: PREDICTED: calmodulin isoform X1 [Strongylocentrotus purpuratus],best_score:122.0,evalue:7.38876e-09,length:156
+gi:780106508,ref_number:XP_011675927.1,annotation: PREDICTED: calmodulin-beta [Strongylocentrotus purpuratus],best_score:121.0,evalue:8.57703e-09,length:149
+gi:780187518,ref_number:XP_780862.3,annotation: PREDICTED: calmodulin [Strongylocentrotus purpuratus],best_score:122.0,evalue:1.29786e-08,length:213
+gi:780152038,ref_number:XP_011681853.1,annotation: PREDICTED: uncharacterized protein LOC100888051 isoform X2 [Strongylocentrotus purpuratus],best_score:123.0,evalue:2.40576e-08,length:751
+gi:780120223,ref_number:XP_011677804.1,annotation: PREDICTED: NADPH oxidase 5 [Strongylocentrotus purpuratus],best_score:119.0,evalue:6.85099e-08,length:988
+gi:390342178,ref_number:XP_797866.3,annotation: PREDICTED: NADPH oxidase 5-like [Strongylocentrotus purpuratus],best_score:119.0,evalue:7.42806e-08,length:930
+gi:780080477,ref_number:XP_011672718.1,annotation: PREDICTED: NADPH oxidase 5-like, partial [Strongylocentrotus purpuratus],best_score:119.0,evalue:8.47324e-08,length:823
+gi:780155760,ref_number:XP_789104.4,annotation: PREDICTED: calmodulin-A [Strongylocentrotus purpuratus],best_score:115.0,evalue:1.07677e-07,length:170
+gi:390352928,ref_number:XP_786737.3,annotation: PREDICTED: NADPH oxidase 5 [Strongylocentrotus purpuratus] >gi,best_score:116.0,evalue:1.79198e-07,length:826
+gi:390332716,ref_number:XP_003723564.1,annotation: PREDICTED: neurocalcin homolog [Strongylocentrotus purpuratus],best_score:111.0,evalue:4.27436e-07,length:188
+gi:1087805763,ref_number:XP_018671111.1,annotation: PREDICTED: calcium and integrin-binding family member 3-like [Ciona intestinalis],best_score:354.0,evalue:1.24955e-43,length:165
+gi:198415390,ref_number:XP_002128104.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Ciona intestinalis],best_score:325.0,evalue:5.90794e-39,length:187
+gi:699236794,ref_number:XP_009862115.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Ciona intestinalis],best_score:255.0,evalue:1.82971e-28,length:190
+gi:198431285,ref_number:XP_002130765.1,annotation: PREDICTED: calcineurin subunit B type 1 [Ciona intestinalis],best_score:193.0,evalue:2.01054e-19,length:170
+gi:198426863,ref_number:XP_002128696.1,annotation: PREDICTED: calcineurin B homologous protein 1-like [Ciona intestinalis],best_score:147.0,evalue:1.94243e-12,length:189
+gi:74096311,ref_number:NP_001027633.1,annotation: calmodulin [Ciona intestinalis],best_score:123.0,evalue:2.79259e-09,length:149
+gi:198437234,ref_number:XP_002124710.1,annotation: PREDICTED: calmodulin-beta-like [Ciona intestinalis],best_score:120.0,evalue:8.93656e-09,length:160
+gi:74096329,ref_number:NP_001027760.1,annotation: calaxin [Ciona intestinalis],best_score:110.0,evalue:3.77602e-07,length:203
+gi:350535304,ref_number:NP_001231973.1,annotation: calmodulin-like [Ciona intestinalis],best_score:108.0,evalue:6.09722e-07,length:170
+gi:699252156,ref_number:XP_009861445.1,annotation: PREDICTED: neurocalcin-delta-like isoform X2 [Ciona intestinalis],best_score:107.0,evalue:9.21347e-07,length:191
+gi:198417187,ref_number:XP_002128527.1,annotation: PREDICTED: neurocalcin-delta-like isoform X1 [Ciona intestinalis],best_score:102.0,evalue:4.14992e-06,length:194
+gi:1087804617,ref_number:XP_018670888.1,annotation: PREDICTED: dual oxidase 2 isoform X4 [Ciona intestinalis],best_score:104.0,evalue:4.54838e-06,length:1578
+gi:1087804615,ref_number:XP_018670887.1,annotation: PREDICTED: dual oxidase 2 isoform X3 [Ciona intestinalis],best_score:104.0,evalue:4.59221e-06,length:1579
+gi:1087804613,ref_number:XP_018670886.1,annotation: PREDICTED: dual oxidase 2 isoform X2 [Ciona intestinalis],best_score:104.0,evalue:4.68251e-06,length:1590
+gi:1087804611,ref_number:XP_018670885.1,annotation: PREDICTED: dual oxidase 2 isoform X1 [Ciona intestinalis],best_score:104.0,evalue:4.68251e-06,length:1590
+gi:41152321,ref_number:NP_957000.1,annotation: calcium and integrin-binding family member 2 [Danio rerio],best_score:574.0,evalue:2.25012e-76,length:187
+gi:326665332,ref_number:XP_003198013.1,annotation: PREDICTED: calcium and integrin-binding family member 3 [Danio rerio],best_score:508.0,evalue:2.75925e-66,length:187
+gi:326679996,ref_number:XP_003201427.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Danio rerio],best_score:264.0,evalue:2.8403e-29,length:188
+gi:62955331,ref_number:NP_001017681.1,annotation: calcium and integrin-binding protein 1 [Danio rerio],best_score:258.0,evalue:1.81896e-28,length:188
+gi:688581611,ref_number:XP_009305321.1,annotation: PREDICTED: calcineurin subunit B type 1 isoform X1 [Danio rerio],best_score:196.0,evalue:2.22165e-19,length:175
+gi:1032199947,ref_number:NP_001314701.1,annotation: calcineurin subunit B type 1 [Danio rerio],best_score:195.0,evalue:2.82966e-19,length:170
+gi:528469158,ref_number:XP_005160183.1,annotation: PREDICTED: protein phosphatase 3 (formerly 2B), regulatory s1ubunit B, alpha isoform, b isoform X1 [Danio rerio],best_score:192.0,evalue:7.62014e-19,length:166
+gi:4506025,ref_number:NP_000936.1,annotation: calcineurin subunit B type 1 [Homo sapiens] >gi,best_score:191.0,evalue:1.26335e-18,length:170
+gi:41054369,ref_number:NP_956009.1,annotation: calcineurin B homologous protein 1 [Danio rerio],best_score:136.0,evalue:2.23634e-10,length:194
+gi:41054153,ref_number:NP_956130.1,annotation: calcineurin B homologous protein 2 [Danio rerio],best_score:134.0,evalue:4.84239e-10,length:195
+gi:528485410,ref_number:XP_005169036.1,annotation: PREDICTED: lysophosphatidylcholine acyltransferase 2 isoform X1 [Danio rerio],best_score:128.0,evalue:6.20392e-09,length:529
+gi:66472436,ref_number:NP_001018492.1,annotation: lysophosphatidylcholine acyltransferase 2 [Danio rerio],best_score:128.0,evalue:6.2639e-09,length:529
+gi:4502549,ref_number:NP_001734.1,annotation: calmodulin isoform 2 [Homo sapiens] >gi,best_score:120.0,evalue:2.00316e-08,length:149
+gi:113678162,ref_number:NP_001038325.1,annotation: EF-hand calcium-binding domain-containing protein 1 [Danio rerio],best_score:122.0,evalue:2.36697e-08,length:216
+gi:688568875,ref_number:XP_009302458.1,annotation: PREDICTED: Kv channel interacting protein 3a, calsenilin isoform X5 [Danio rerio],best_score:114.0,evalue:3.22018e-07,length:231
+gi:688568870,ref_number:XP_009302456.1,annotation: PREDICTED: Kv channel interacting protein 3a, calsenilin isoform X3 [Danio rerio],best_score:114.0,evalue:3.70092e-07,length:233
+gi:688568872,ref_number:XP_009302457.1,annotation: PREDICTED: Kv channel interacting protein 3a, calsenilin isoform X4 [Danio rerio],best_score:114.0,evalue:3.86701e-07,length:232
+gi:688568878,ref_number:XP_009302459.1,annotation: PREDICTED: Kv channel interacting protein 3a, calsenilin isoform X6 [Danio rerio],best_score:113.0,evalue:4.24456e-07,length:231
+gi:688568868,ref_number:XP_009302455.1,annotation: PREDICTED: Kv channel interacting protein 3a, calsenilin isoform X2 [Danio rerio],best_score:113.0,evalue:6.30366e-07,length:256
+gi:528488457,ref_number:XP_005169145.1,annotation: PREDICTED: Kv channel interacting protein 3a, calsenilin isoform X1 [Danio rerio],best_score:112.0,evalue:6.49482e-07,length:259
+gi:41387116,ref_number:NP_957113.1,annotation: Kv channel interacting protein 3a, calsenilin [Danio rerio],best_score:112.0,evalue:6.77255e-07,length:257
+gi:66472278,ref_number:NP_001018568.1,annotation: calcium binding protein 5 [Danio rerio],best_score:109.0,evalue:1.02424e-06,length:169
+gi:41152283,ref_number:NP_957017.1,annotation: neuron-specific calcium-binding protein hippocalcin [Danio rerio],best_score:108.0,evalue:2.11898e-06,length:193
+gi:1040695771,ref_number:XP_017212630.1,annotation: PREDICTED: Kv channel-interacting protein 4 [Danio rerio],best_score:107.0,evalue:2.80103e-06,length:225
+gi:528491924,ref_number:XP_005155350.1,annotation: PREDICTED: Kv channel interacting protein 3b, calsenilin isoform X2 [Danio rerio],best_score:105.0,evalue:5.95147e-06,length:229
+gi:41152336,ref_number:NP_956992.1,annotation: calcium binding protein 5a [Danio rerio] >gi,best_score:103.0,evalue:8.10311e-06,length:165
+gi:528491922,ref_number:XP_005155349.1,annotation: PREDICTED: Kv channel interacting protein 3b, calsenilin isoform X1 [Danio rerio],best_score:104.0,evalue:9.51782e-06,length:258
+gi:167516266,ref_number:XP_001742474.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:323.0,evalue:5.82786e-39,length:184
+gi:167519601,ref_number:XP_001744140.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:268.0,evalue:1.43596e-30,length:195
+gi:167535418,ref_number:XP_001749383.1,annotation: hypothetical protein [Monosiga brevicollis MX1],best_score:196.0,evalue:8.91655e-19,length:524
+gi:167534692,ref_number:XP_001749021.1,annotation: hypothetical protein [Monosiga brevicollis MX1] >gi,best_score:110.0,evalue:9.60002e-08,length:149
+gi:514688979,ref_number:XP_004992065.1,annotation: calcium and integrin-binding protein 2 [Salpingoeca rosetta],best_score:336.0,evalue:8.71137e-41,length:185
+gi:514655490,ref_number:XP_004999033.1,annotation: calcium and integrin binding family member 2 [Salpingoeca rosetta],best_score:247.0,evalue:4.15479e-27,length:214
+gi:514690965,ref_number:XP_004993056.1,annotation: calcineurin B [Salpingoeca rosetta],best_score:190.0,evalue:5.97489e-19,length:173
+gi:514688977,ref_number:XP_004992064.1,annotation: hypothetical protein PTSG_06674 [Salpingoeca rosetta],best_score:144.0,evalue:1.16573e-12,length:118
+gi:514681955,ref_number:XP_004988562.1,annotation: calcium binding protein P22 [Salpingoeca rosetta],best_score:138.0,evalue:3.35842e-11,length:206
+gi:514691313,ref_number:XP_004993230.1,annotation: calmodulin [Salpingoeca rosetta],best_score:120.0,evalue:5.37213e-09,length:149
+gi:514681357,ref_number:XP_004988264.1,annotation: frequenin-1 [Salpingoeca rosetta],best_score:123.0,evalue:6.31958e-09,length:230
+gi:514691990,ref_number:XP_004993568.1,annotation: hypothetical protein PTSG_05703 [Salpingoeca rosetta],best_score:100.0,evalue:6.57785e-06,length:205
+gi:428980593,ref_number:NP_001258817.1,annotation: calcium and integrin-binding family member 2 isoform 2 [Homo sapiens] >gi,best_score:748.0,evalue:3.88444e-103,length:144
+gi:5453708,ref_number:NP_006374.1,annotation: calcium and integrin-binding family member 2 isoform 1 [Homo sapiens] >gi,best_score:749.0,evalue:1.22763e-102,length:187
+gi:767983130,ref_number:XP_011519463.1,annotation: PREDICTED: calcium and integrin-binding family member 2 isoform X3 [Homo sapiens],best_score:721.0,evalue:9.82456e-99,length:167
+gi:530405317,ref_number:XP_005254183.1,annotation: PREDICTED: calcium and integrin-binding family member 2 isoform X1 [Homo sapiens],best_score:721.0,evalue:4.52651e-98,length:210
+gi:428980688,ref_number:NP_001258818.1,annotation: calcium and integrin-binding family member 2 isoform 3 [Homo sapiens] >gi,best_score:630.0,evalue:2.41183e-85,length:138
+gi:669033270,ref_number:NP_001288153.1,annotation: calcium and integrin-binding family member 2 isoform 4 [Homo sapiens] >gi,best_score:628.0,evalue:2.89129e-84,length:192
+gi:16930817,ref_number:NP_473454.1,annotation: calcium and integrin-binding family member 3 isoform 1 [Homo sapiens],best_score:475.0,evalue:4.96626e-61,length:187
+gi:665506024,ref_number:NP_001287851.1,annotation: calcium and integrin-binding family member 3 isoform 2 [Homo sapiens],best_score:424.0,evalue:5.76473e-54,length:138
+gi:163644313,ref_number:NP_006375.2,annotation: calcium and integrin-binding protein 1 isoform b [Homo sapiens] >gi,best_score:266.0,evalue:2.26809e-29,length:191
+gi:480540325,ref_number:NP_001264693.1,annotation: calcium and integrin-binding protein 1 isoform a [Homo sapiens],best_score:267.0,evalue:5.42137e-29,length:231
+gi:1034611537,ref_number:XP_016858818.1,annotation: PREDICTED: calcium and integrin-binding family member 4 isoform X3 [Homo sapiens],best_score:255.0,evalue:4.79727e-28,length:162
+gi:71274156,ref_number:NP_001025052.1,annotation: calcium and integrin-binding family member 4 [Homo sapiens],best_score:254.0,evalue:1.17828e-27,length:185
+gi:767913747,ref_number:XP_011530816.1,annotation: PREDICTED: calcium and integrin-binding family member 4 isoform X1 [Homo sapiens],best_score:254.0,evalue:1.92682e-27,length:201
+gi:578826559,ref_number:XP_006720438.1,annotation: PREDICTED: calcium and integrin-binding protein 1 isoform X1 [Homo sapiens],best_score:252.0,evalue:1.70473e-26,length:264
+gi:1034611539,ref_number:XP_016858819.1,annotation: PREDICTED: calcium and integrin-binding family member 4 isoform X4 [Homo sapiens],best_score:236.0,evalue:1.9526e-25,length:140
+gi:767913753,ref_number:XP_011530819.1,annotation: PREDICTED: calcium and integrin-binding family member 4 isoform X2 [Homo sapiens],best_score:239.0,evalue:2.6797e-25,length:187
+gi:4506025,ref_number:NP_000936.1,annotation: calcineurin subunit B type 1 [Homo sapiens] >gi,best_score:191.0,evalue:2.44377e-18,length:170
+gi:22212896,ref_number:NP_671709.1,annotation: calcineurin subunit B type 2 [Homo sapiens] >gi,best_score:175.0,evalue:5.45944e-16,length:173
+gi:11545811,ref_number:NP_071380.1,annotation: calcineurin B homologous protein 2 [Homo sapiens] >gi,best_score:147.0,evalue:1.224e-11,length:196
+gi:6005731,ref_number:NP_009167.1,annotation: calcineurin B homologous protein 1 [Homo sapiens] >gi,best_score:145.0,evalue:2.06773e-11,length:195
+gi:779176972,ref_number:NP_001292554.1,annotation: calmodulin isoform 3 [Homo sapiens] >gi,best_score:122.0,evalue:1.12868e-08,length:113
+gi:296278231,ref_number:NP_001171709.1,annotation: NADPH oxidase 5 isoform 3 [Homo sapiens],best_score:128.0,evalue:1.42793e-08,length:730
+gi:296278227,ref_number:NP_001171708.1,annotation: NADPH oxidase 5 isoform 2 [Homo sapiens],best_score:128.0,evalue:1.42963e-08,length:737
+gi:332223528,ref_number:XP_003260925.1,annotation: PREDICTED: calmodulin isoform X2 [Nomascus leucogenys] >gi,best_score:121.0,evalue:3.44058e-08,length:150
+gi:4502549,ref_number:NP_001734.1,annotation: calmodulin isoform 2 [Homo sapiens] >gi,best_score:120.0,evalue:3.87481e-08,length:149
+gi:779176942,ref_number:NP_001292553.1,annotation: calmodulin isoform 1 [Homo sapiens] >gi,best_score:122.0,evalue:4.16438e-08,length:197
+gi:4885111,ref_number:NP_005176.1,annotation: calmodulin-like protein 3 [Homo sapiens] >gi,best_score:119.0,evalue:5.86415e-08,length:149
+gi:767951926,ref_number:XP_011515892.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1 isoform X3 [Homo sapiens] >gi,best_score:115.0,evalue:2.41525e-07,length:149
+gi:13375787,ref_number:NP_078869.1,annotation: EF-hand calcium-binding domain-containing protein 1 isoform a [Homo sapiens] >gi,best_score:115.0,evalue:4.13847e-07,length:211
+gi:78190495,ref_number:NP_001030086.1,annotation: calsenilin isoform 2 precursor [Homo sapiens],best_score:115.0,evalue:5.66728e-07,length:230
+gi:20149640,ref_number:NP_059130.2,annotation: dual oxidase 1 precursor [Homo sapiens] >gi,best_score:116.0,evalue:6.14472e-07,length:1551
+gi:767984444,ref_number:XP_011519984.1,annotation: PREDICTED: dual oxidase 1 isoform X2 [Homo sapiens],best_score:116.0,evalue:6.4042e-07,length:1197
+gi:767984442,ref_number:XP_011519983.1,annotation: PREDICTED: dual oxidase 1 isoform X1 [Homo sapiens],best_score:116.0,evalue:6.43756e-07,length:1512
+gi:7305199,ref_number:NP_038462.1,annotation: calsenilin isoform 1 [Homo sapiens],best_score:114.0,evalue:7.12898e-07,length:256
+gi:218751877,ref_number:NP_001136329.1,annotation: EF-hand calcium-binding domain-containing protein 1 isoform b [Homo sapiens] >gi,best_score:108.0,evalue:2.43376e-06,length:159
+gi:767929890,ref_number:XP_011512186.1,annotation: PREDICTED: Kv channel-interacting protein 4 isoform X3 [Homo sapiens],best_score:109.0,evalue:3.17082e-06,length:236
+gi:22212902,ref_number:NP_671712.1,annotation: Kv channel-interacting protein 4 isoform 4 [Homo sapiens] >gi,best_score:109.0,evalue:3.55397e-06,length:229
+gi:767929888,ref_number:XP_011512185.1,annotation: PREDICTED: Kv channel-interacting protein 4 isoform X2 [Homo sapiens],best_score:109.0,evalue:3.96121e-06,length:240
+gi:312839886,ref_number:NP_001186174.1,annotation: Kv channel-interacting protein 4 isoform 6 [Mus musculus] >gi,best_score:108.0,evalue:4.49391e-06,length:233
+gi:767929897,ref_number:XP_011512189.1,annotation: PREDICTED: Kv channel-interacting protein 4 isoform X7 [Homo sapiens] >gi,best_score:107.0,evalue:4.51152e-06,length:195
+gi:767929893,ref_number:XP_011512187.1,annotation: PREDICTED: Kv channel-interacting protein 4 isoform X5 [Homo sapiens],best_score:108.0,evalue:4.79079e-06,length:232
+gi:767929895,ref_number:XP_011512188.1,annotation: PREDICTED: Kv channel-interacting protein 4 isoform X6 [Homo sapiens],best_score:108.0,evalue:4.8131e-06,length:223
+gi:22212900,ref_number:NP_671711.1,annotation: Kv channel-interacting protein 4 isoform 3 [Homo sapiens] >gi,best_score:107.0,evalue:5.41058e-06,length:188
+gi:22212898,ref_number:NP_671710.1,annotation: Kv channel-interacting protein 4 isoform 2 [Homo sapiens] >gi,best_score:107.0,evalue:5.80648e-06,length:216
+gi:78190486,ref_number:NP_001030175.1,annotation: Kv channel-interacting protein 4 isoform 5 [Homo sapiens] >gi,best_score:107.0,evalue:5.91858e-06,length:225
+gi:132566532,ref_number:NP_054799.4,annotation: dual oxidase 2 precursor [Homo sapiens],best_score:109.0,evalue:6.01018e-06,length:1548
+gi:530405931,ref_number:XP_005254478.1,annotation: PREDICTED: dual oxidase 2 isoform X1 [Homo sapiens],best_score:109.0,evalue:6.01018e-06,length:1548
+gi:767929886,ref_number:XP_011512184.1,annotation: PREDICTED: Kv channel-interacting protein 4 isoform X1 [Homo sapiens],best_score:107.0,evalue:6.64269e-06,length:257
+gi:24586671,ref_number:NP_079497.2,annotation: Kv channel-interacting protein 4 isoform 1 [Homo sapiens] >gi,best_score:107.0,evalue:7.51809e-06,length:250
+gi:19913441,ref_number:NP_002140.2,annotation: hippocalcin-like protein 1 [Homo sapiens] >gi,best_score:105.0,evalue:9.46575e-06,length:193
