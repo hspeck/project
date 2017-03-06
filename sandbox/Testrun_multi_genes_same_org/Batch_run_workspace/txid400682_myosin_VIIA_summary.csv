@@ -1,30 +1,30 @@
-gi: 1133451887,ref_number: XP_019863708.1,annotation:  PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score: 6310.0,evalue: 0.0,length: 2190
-gi: 1133459753,ref_number: XP_019851103.1,annotation:  PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score: 1622.0,evalue: 0.0,length: 533
-gi: 1133483664,ref_number: XP_019860107.1,annotation:  PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score: 1594.0,evalue: 0.0,length: 897
-gi: 1133450128,ref_number: XP_019857517.1,annotation:  PREDICTED: unconventional myosin-X [Amphimedon queenslandica],best_score: 1456.0,evalue: 9.39106e-179,length: 773
-gi: 1133455731,ref_number: XP_019849639.1,annotation:  PREDICTED: unconventional myosin-Ia [Amphimedon queenslandica],best_score: 1356.0,evalue: 1.83303e-160,length: 1138
-gi: 1133448985,ref_number: XP_019852881.1,annotation:  PREDICTED: unconventional myosin-Vb-like [Amphimedon queenslandica],best_score: 1363.0,evalue: 1.34406e-157,length: 1545
-gi: 1133468041,ref_number: XP_019854287.1,annotation:  PREDICTED: myosin-IIIb [Amphimedon queenslandica],best_score: 1350.0,evalue: 2.47949e-157,length: 1370
-gi: 1133448439,ref_number: XP_019850778.1,annotation:  PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-Id-like [Amphimedon queenslandica],best_score: 1314.0,evalue: 3.32782e-156,length: 1006
-gi: 1133475246,ref_number: XP_019857046.1,annotation:  PREDICTED: unconventional myosin-Ic-like isoform X2 [Amphimedon queenslandica],best_score: 1291.0,evalue: 2.25018e-152,length: 1062
-gi: 1133475244,ref_number: XP_019857045.1,annotation:  PREDICTED: unconventional myosin-Ic-like isoform X1 [Amphimedon queenslandica],best_score: 1277.0,evalue: 2.8412e-150,length: 1081
-gi: 340368596,ref_number: XP_003382837.1,annotation:  PREDICTED: myosin heavy chain, striated muscle [Amphimedon queenslandica],best_score: 1270.0,evalue: 4.22467e-143,length: 1922
-gi: 1133463446,ref_number: XP_019852528.1,annotation:  PREDICTED: unconventional myosin-Ie, partial [Amphimedon queenslandica],best_score: 1211.0,evalue: 1.51171e-142,length: 974
-gi: 1133461626,ref_number: XP_019851817.1,annotation:  PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score: 1259.0,evalue: 1.55484e-141,length: 1954
-gi: 340368578,ref_number: XP_003382828.1,annotation:  PREDICTED: myosin heavy chain, non-muscle [Amphimedon queenslandica],best_score: 1258.0,evalue: 2.32576e-141,length: 1974
-gi: 1133460696,ref_number: XP_019851458.1,annotation:  PREDICTED: unconventional myosin-VI [Amphimedon queenslandica],best_score: 1174.0,evalue: 4.91969e-135,length: 1226
-gi: 1133468739,ref_number: XP_019854572.1,annotation:  PREDICTED: myosin-IIIb-like [Amphimedon queenslandica],best_score: 1148.0,evalue: 2.93457e-134,length: 958
-gi: 1133472170,ref_number: XP_019855869.1,annotation:  PREDICTED: myosin-IIIb-like [Amphimedon queenslandica],best_score: 1137.0,evalue: 6.86393e-130,length: 1273
-gi: 1133457368,ref_number: XP_019850217.1,annotation:  PREDICTED: unconventional myosin-IXb-like [Amphimedon queenslandica] >gi,best_score: 1112.0,evalue: 1.62268e-122,length: 2300
-gi: 1133459722,ref_number: XP_019851091.1,annotation:  PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score: 735.0,evalue: 2.2272e-88,length: 235
-gi: 1133472822,ref_number: XP_019856108.1,annotation:  PREDICTED: myosin-VIIa-like [Amphimedon queenslandica],best_score: 752.0,evalue: 2.2518e-86,length: 553
-gi: 1133454690,ref_number: XP_019849259.1,annotation:  PREDICTED: unconventional myosin-IXa-like [Amphimedon queenslandica],best_score: 582.0,evalue: 2.3432e-61,length: 901
-gi: 1133480148,ref_number: XP_019858959.1,annotation:  PREDICTED: unconventional myosin-If-like, partial [Amphimedon queenslandica],best_score: 554.0,evalue: 1.08215e-59,length: 609
-gi: 1133464676,ref_number: XP_019853008.1,annotation:  PREDICTED: unconventional myosin-XVIIIa [Amphimedon queenslandica],best_score: 565.0,evalue: 9.79049e-58,length: 2216
-gi: 1133493317,ref_number: XP_011409105.2,annotation:  PREDICTED: myosin-1-like, partial [Amphimedon queenslandica],best_score: 310.0,evalue: 2.40439e-32,length: 159
-gi: 1133453539,ref_number: XP_019848832.1,annotation:  PREDICTED: rho GTPase-activating protein 39-like isoform X2 [Amphimedon queenslandica],best_score: 166.0,evalue: 3.20405e-11,length: 725
-gi: 761904248,ref_number: XP_011410218.1,annotation:  PREDICTED: rho GTPase-activating protein 39-like isoform X1 [Amphimedon queenslandica],best_score: 166.0,evalue: 3.54931e-11,length: 735
-gi: 1133465501,ref_number: XP_019853340.1,annotation:  PREDICTED: pleckstrin homology domain-containing family H member 1-like [Amphimedon queenslandica],best_score: 157.0,evalue: 4.50379e-10,length: 1593
-gi: 1133464622,ref_number: XP_019852994.1,annotation:  PREDICTED: uncharacterized protein LOC109582609 [Amphimedon queenslandica],best_score: 136.0,evalue: 1.27214e-07,length: 2058
-gi: 1133458079,ref_number: XP_019850470.1,annotation:  PREDICTED: abnormal spindle-like microcephaly-associated protein homolog, partial [Amphimedon queenslandica],best_score: 125.0,evalue: 2.89265e-06,length: 2354
-gi: 1133454380,ref_number: XP_019849140.1,annotation:  PREDICTED: talin-1 [Amphimedon queenslandica],best_score: 124.0,evalue: 3.74129e-06,length: 2490
+gi:1133451887,ref_number:XP_019863708.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:6310.0,evalue:0.0,length:2190
+gi:1133459753,ref_number:XP_019851103.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:1622.0,evalue:0.0,length:533
+gi:1133483664,ref_number:XP_019860107.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:1594.0,evalue:0.0,length:897
+gi:1133450128,ref_number:XP_019857517.1,annotation: PREDICTED: unconventional myosin-X [Amphimedon queenslandica],best_score:1456.0,evalue:9.39106e-179,length:773
+gi:1133455731,ref_number:XP_019849639.1,annotation: PREDICTED: unconventional myosin-Ia [Amphimedon queenslandica],best_score:1356.0,evalue:1.83303e-160,length:1138
+gi:1133448985,ref_number:XP_019852881.1,annotation: PREDICTED: unconventional myosin-Vb-like [Amphimedon queenslandica],best_score:1363.0,evalue:1.34406e-157,length:1545
+gi:1133468041,ref_number:XP_019854287.1,annotation: PREDICTED: myosin-IIIb [Amphimedon queenslandica],best_score:1350.0,evalue:2.47949e-157,length:1370
+gi:1133448439,ref_number:XP_019850778.1,annotation: PREDICTED: LOW QUALITY PROTEIN: unconventional myosin-Id-like [Amphimedon queenslandica],best_score:1314.0,evalue:3.32782e-156,length:1006
+gi:1133475246,ref_number:XP_019857046.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X2 [Amphimedon queenslandica],best_score:1291.0,evalue:2.25018e-152,length:1062
+gi:1133475244,ref_number:XP_019857045.1,annotation: PREDICTED: unconventional myosin-Ic-like isoform X1 [Amphimedon queenslandica],best_score:1277.0,evalue:2.8412e-150,length:1081
+gi:340368596,ref_number:XP_003382837.1,annotation: PREDICTED: myosin heavy chain, striated muscle [Amphimedon queenslandica],best_score:1270.0,evalue:4.22467e-143,length:1922
+gi:1133463446,ref_number:XP_019852528.1,annotation: PREDICTED: unconventional myosin-Ie, partial [Amphimedon queenslandica],best_score:1211.0,evalue:1.51171e-142,length:974
+gi:1133461626,ref_number:XP_019851817.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:1259.0,evalue:1.55484e-141,length:1954
+gi:340368578,ref_number:XP_003382828.1,annotation: PREDICTED: myosin heavy chain, non-muscle [Amphimedon queenslandica],best_score:1258.0,evalue:2.32576e-141,length:1974
+gi:1133460696,ref_number:XP_019851458.1,annotation: PREDICTED: unconventional myosin-VI [Amphimedon queenslandica],best_score:1174.0,evalue:4.91969e-135,length:1226
+gi:1133468739,ref_number:XP_019854572.1,annotation: PREDICTED: myosin-IIIb-like [Amphimedon queenslandica],best_score:1148.0,evalue:2.93457e-134,length:958
+gi:1133472170,ref_number:XP_019855869.1,annotation: PREDICTED: myosin-IIIb-like [Amphimedon queenslandica],best_score:1137.0,evalue:6.86393e-130,length:1273
+gi:1133457368,ref_number:XP_019850217.1,annotation: PREDICTED: unconventional myosin-IXb-like [Amphimedon queenslandica] >gi,best_score:1112.0,evalue:1.62268e-122,length:2300
+gi:1133459722,ref_number:XP_019851091.1,annotation: PREDICTED: unconventional myosin-VIIa-like [Amphimedon queenslandica],best_score:735.0,evalue:2.2272e-88,length:235
+gi:1133472822,ref_number:XP_019856108.1,annotation: PREDICTED: myosin-VIIa-like [Amphimedon queenslandica],best_score:752.0,evalue:2.2518e-86,length:553
+gi:1133454690,ref_number:XP_019849259.1,annotation: PREDICTED: unconventional myosin-IXa-like [Amphimedon queenslandica],best_score:582.0,evalue:2.3432e-61,length:901
+gi:1133480148,ref_number:XP_019858959.1,annotation: PREDICTED: unconventional myosin-If-like, partial [Amphimedon queenslandica],best_score:554.0,evalue:1.08215e-59,length:609
+gi:1133464676,ref_number:XP_019853008.1,annotation: PREDICTED: unconventional myosin-XVIIIa [Amphimedon queenslandica],best_score:565.0,evalue:9.79049e-58,length:2216
+gi:1133493317,ref_number:XP_011409105.2,annotation: PREDICTED: myosin-1-like, partial [Amphimedon queenslandica],best_score:310.0,evalue:2.40439e-32,length:159
+gi:1133453539,ref_number:XP_019848832.1,annotation: PREDICTED: rho GTPase-activating protein 39-like isoform X2 [Amphimedon queenslandica],best_score:166.0,evalue:3.20405e-11,length:725
+gi:761904248,ref_number:XP_011410218.1,annotation: PREDICTED: rho GTPase-activating protein 39-like isoform X1 [Amphimedon queenslandica],best_score:166.0,evalue:3.54931e-11,length:735
+gi:1133465501,ref_number:XP_019853340.1,annotation: PREDICTED: pleckstrin homology domain-containing family H member 1-like [Amphimedon queenslandica],best_score:157.0,evalue:4.50379e-10,length:1593
+gi:1133464622,ref_number:XP_019852994.1,annotation: PREDICTED: uncharacterized protein LOC109582609 [Amphimedon queenslandica],best_score:136.0,evalue:1.27214e-07,length:2058
+gi:1133458079,ref_number:XP_019850470.1,annotation: PREDICTED: abnormal spindle-like microcephaly-associated protein homolog, partial [Amphimedon queenslandica],best_score:125.0,evalue:2.89265e-06,length:2354
+gi:1133454380,ref_number:XP_019849140.1,annotation: PREDICTED: talin-1 [Amphimedon queenslandica],best_score:124.0,evalue:3.74129e-06,length:2490

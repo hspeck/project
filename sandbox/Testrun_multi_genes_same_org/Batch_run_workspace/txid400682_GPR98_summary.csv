@@ -1,32 +1,32 @@
-gi: 1133454764,ref_number: XP_019849292.1,annotation:  PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score: 2998.0,evalue: 0.0,length: 5021
-gi: 1133454894,ref_number: XP_019849333.1,annotation:  PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score: 370.0,evalue: 5.83807e-35,length: 829
-gi: 1133492165,ref_number: XP_019862878.1,annotation:  PREDICTED: G-protein coupled receptor 98-like, partial [Amphimedon queenslandica],best_score: 310.0,evalue: 1.23624e-29,length: 364
-gi: 1133452455,ref_number: XP_019864355.1,annotation:  PREDICTED: extracellular matrix protein FRAS1-like [Amphimedon queenslandica],best_score: 186.0,evalue: 6.26132e-13,length: 2566
-gi: 1133456090,ref_number: XP_011402630.2,annotation:  PREDICTED: adhesion G protein-coupled receptor L3-like [Amphimedon queenslandica],best_score: 179.0,evalue: 3.31829e-12,length: 877
-gi: 1133479308,ref_number: XP_019858642.1,annotation:  PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score: 177.0,evalue: 3.54191e-12,length: 519
-gi: 761919926,ref_number: XP_011408871.1,annotation:  PREDICTED: G-protein coupled receptor 98-like, partial [Amphimedon queenslandica],best_score: 172.0,evalue: 7.06709e-12,length: 375
-gi: 1133447830,ref_number: XP_011410083.2,annotation:  PREDICTED: adhesion G protein-coupled receptor E3-like isoform X2 [Amphimedon queenslandica],best_score: 174.0,evalue: 1.04826e-11,length: 724
-gi: 1133447828,ref_number: XP_019864485.1,annotation:  PREDICTED: adhesion G protein-coupled receptor L4-like isoform X1 [Amphimedon queenslandica],best_score: 174.0,evalue: 1.4818e-11,length: 1031
-gi: 1133457711,ref_number: XP_019850345.1,annotation:  PREDICTED: adhesion G protein-coupled receptor L3-like [Amphimedon queenslandica],best_score: 171.0,evalue: 2.26617e-11,length: 780
-gi: 1133453621,ref_number: XP_019848861.1,annotation:  PREDICTED: adhesion G protein-coupled receptor L2-like [Amphimedon queenslandica],best_score: 172.0,evalue: 2.29505e-11,length: 1177
-gi: 1133447834,ref_number: XP_019864498.1,annotation:  PREDICTED: adhesion G-protein coupled receptor F1-like [Amphimedon queenslandica],best_score: 172.0,evalue: 2.30018e-11,length: 974
-gi: 1133456342,ref_number: XP_019849851.1,annotation:  PREDICTED: latrophilin-like protein LAT-2 [Amphimedon queenslandica],best_score: 168.0,evalue: 6.80018e-11,length: 1353
-gi: 1133474727,ref_number: XP_019856849.1,annotation:  PREDICTED: uncharacterized protein LOC100636215 [Amphimedon queenslandica],best_score: 167.0,evalue: 1.16303e-10,length: 2476
-gi: 1133472860,ref_number: XP_011406052.2,annotation:  PREDICTED: extracellular matrix protein 3-like [Amphimedon queenslandica],best_score: 163.0,evalue: 1.89557e-10,length: 566
-gi: 1133453619,ref_number: XP_011410208.2,annotation:  PREDICTED: uncharacterized protein LOC100641033 [Amphimedon queenslandica],best_score: 164.0,evalue: 2.60212e-10,length: 2205
-gi: 1133447832,ref_number: XP_011410094.2,annotation:  PREDICTED: adhesion G protein-coupled receptor L4-like [Amphimedon queenslandica],best_score: 162.0,evalue: 3.63827e-10,length: 977
-gi: 1133468821,ref_number: XP_003388131.2,annotation:  PREDICTED: uncharacterized protein LOC100635907 isoform X3 [Amphimedon queenslandica],best_score: 150.0,evalue: 8.72133e-09,length: 1275
-gi: 1133461696,ref_number: XP_011403870.2,annotation:  PREDICTED: usherin-like [Amphimedon queenslandica],best_score: 148.0,evalue: 1.8912e-08,length: 4885
-gi: 1133468817,ref_number: XP_019854597.1,annotation:  PREDICTED: uncharacterized protein LOC100635907 isoform X1 [Amphimedon queenslandica],best_score: 144.0,evalue: 4.89432e-08,length: 1278
-gi: 1133473418,ref_number: XP_019856351.1,annotation:  PREDICTED: adhesion G-protein coupled receptor G6-like [Amphimedon queenslandica],best_score: 142.0,evalue: 8.75344e-08,length: 1159
-gi: 1133450339,ref_number: XP_019858323.1,annotation:  PREDICTED: adhesion G-protein coupled receptor G4-like isoform X2 [Amphimedon queenslandica],best_score: 141.0,evalue: 1.10104e-07,length: 1208
-gi: 1133454454,ref_number: XP_019849170.1,annotation:  PREDICTED: uncharacterized protein LOC100641243 [Amphimedon queenslandica],best_score: 141.0,evalue: 1.2787e-07,length: 2832
-gi: 1133470850,ref_number: XP_019855359.1,annotation:  PREDICTED: adhesion G protein-coupled receptor L4-like isoform X1 [Amphimedon queenslandica],best_score: 140.0,evalue: 1.33078e-07,length: 806
-gi: 1133468819,ref_number: XP_019854598.1,annotation:  PREDICTED: uncharacterized protein LOC100635907 isoform X2 [Amphimedon queenslandica],best_score: 140.0,evalue: 1.42398e-07,length: 1277
-gi: 1133470852,ref_number: XP_019855360.1,annotation:  PREDICTED: adhesion G protein-coupled receptor L4-like isoform X2 [Amphimedon queenslandica],best_score: 139.0,evalue: 1.45597e-07,length: 800
-gi: 1133454361,ref_number: XP_019849130.1,annotation:  PREDICTED: uncharacterized protein LOC105316852 [Amphimedon queenslandica],best_score: 130.0,evalue: 2.04152e-06,length: 2147
-gi: 1133454448,ref_number: XP_019849167.1,annotation:  PREDICTED: G-protein coupled receptor 98-like isoform X1 [Amphimedon queenslandica],best_score: 129.0,evalue: 2.86949e-06,length: 1625
-gi: 340383872,ref_number: XP_003390440.1,annotation:  PREDICTED: G-protein coupled receptor 98-like isoform X2 [Amphimedon queenslandica],best_score: 128.0,evalue: 3.04313e-06,length: 698
-gi: 1133481070,ref_number: XP_019859303.1,annotation:  PREDICTED: G-protein coupled receptor 98-like isoform X1 [Amphimedon queenslandica],best_score: 128.0,evalue: 3.04507e-06,length: 699
-gi: 1133481073,ref_number: XP_019859304.1,annotation:  PREDICTED: G-protein coupled receptor 98-like isoform X3 [Amphimedon queenslandica],best_score: 128.0,evalue: 3.09516e-06,length: 698
-gi: 1133454450,ref_number: XP_019849169.1,annotation:  PREDICTED: extracellular matrix protein 3-like isoform X2 [Amphimedon queenslandica],best_score: 128.0,evalue: 3.75711e-06,length: 1404
+gi:1133454764,ref_number:XP_019849292.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score:2998.0,evalue:0.0,length:5021
+gi:1133454894,ref_number:XP_019849333.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score:370.0,evalue:5.83807e-35,length:829
+gi:1133492165,ref_number:XP_019862878.1,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Amphimedon queenslandica],best_score:310.0,evalue:1.23624e-29,length:364
+gi:1133452455,ref_number:XP_019864355.1,annotation: PREDICTED: extracellular matrix protein FRAS1-like [Amphimedon queenslandica],best_score:186.0,evalue:6.26132e-13,length:2566
+gi:1133456090,ref_number:XP_011402630.2,annotation: PREDICTED: adhesion G protein-coupled receptor L3-like [Amphimedon queenslandica],best_score:179.0,evalue:3.31829e-12,length:877
+gi:1133479308,ref_number:XP_019858642.1,annotation: PREDICTED: G-protein coupled receptor 98-like [Amphimedon queenslandica],best_score:177.0,evalue:3.54191e-12,length:519
+gi:761919926,ref_number:XP_011408871.1,annotation: PREDICTED: G-protein coupled receptor 98-like, partial [Amphimedon queenslandica],best_score:172.0,evalue:7.06709e-12,length:375
+gi:1133447830,ref_number:XP_011410083.2,annotation: PREDICTED: adhesion G protein-coupled receptor E3-like isoform X2 [Amphimedon queenslandica],best_score:174.0,evalue:1.04826e-11,length:724
+gi:1133447828,ref_number:XP_019864485.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like isoform X1 [Amphimedon queenslandica],best_score:174.0,evalue:1.4818e-11,length:1031
+gi:1133457711,ref_number:XP_019850345.1,annotation: PREDICTED: adhesion G protein-coupled receptor L3-like [Amphimedon queenslandica],best_score:171.0,evalue:2.26617e-11,length:780
+gi:1133453621,ref_number:XP_019848861.1,annotation: PREDICTED: adhesion G protein-coupled receptor L2-like [Amphimedon queenslandica],best_score:172.0,evalue:2.29505e-11,length:1177
+gi:1133447834,ref_number:XP_019864498.1,annotation: PREDICTED: adhesion G-protein coupled receptor F1-like [Amphimedon queenslandica],best_score:172.0,evalue:2.30018e-11,length:974
+gi:1133456342,ref_number:XP_019849851.1,annotation: PREDICTED: latrophilin-like protein LAT-2 [Amphimedon queenslandica],best_score:168.0,evalue:6.80018e-11,length:1353
+gi:1133474727,ref_number:XP_019856849.1,annotation: PREDICTED: uncharacterized protein LOC100636215 [Amphimedon queenslandica],best_score:167.0,evalue:1.16303e-10,length:2476
+gi:1133472860,ref_number:XP_011406052.2,annotation: PREDICTED: extracellular matrix protein 3-like [Amphimedon queenslandica],best_score:163.0,evalue:1.89557e-10,length:566
+gi:1133453619,ref_number:XP_011410208.2,annotation: PREDICTED: uncharacterized protein LOC100641033 [Amphimedon queenslandica],best_score:164.0,evalue:2.60212e-10,length:2205
+gi:1133447832,ref_number:XP_011410094.2,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like [Amphimedon queenslandica],best_score:162.0,evalue:3.63827e-10,length:977
+gi:1133468821,ref_number:XP_003388131.2,annotation: PREDICTED: uncharacterized protein LOC100635907 isoform X3 [Amphimedon queenslandica],best_score:150.0,evalue:8.72133e-09,length:1275
+gi:1133461696,ref_number:XP_011403870.2,annotation: PREDICTED: usherin-like [Amphimedon queenslandica],best_score:148.0,evalue:1.8912e-08,length:4885
+gi:1133468817,ref_number:XP_019854597.1,annotation: PREDICTED: uncharacterized protein LOC100635907 isoform X1 [Amphimedon queenslandica],best_score:144.0,evalue:4.89432e-08,length:1278
+gi:1133473418,ref_number:XP_019856351.1,annotation: PREDICTED: adhesion G-protein coupled receptor G6-like [Amphimedon queenslandica],best_score:142.0,evalue:8.75344e-08,length:1159
+gi:1133450339,ref_number:XP_019858323.1,annotation: PREDICTED: adhesion G-protein coupled receptor G4-like isoform X2 [Amphimedon queenslandica],best_score:141.0,evalue:1.10104e-07,length:1208
+gi:1133454454,ref_number:XP_019849170.1,annotation: PREDICTED: uncharacterized protein LOC100641243 [Amphimedon queenslandica],best_score:141.0,evalue:1.2787e-07,length:2832
+gi:1133470850,ref_number:XP_019855359.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like isoform X1 [Amphimedon queenslandica],best_score:140.0,evalue:1.33078e-07,length:806
+gi:1133468819,ref_number:XP_019854598.1,annotation: PREDICTED: uncharacterized protein LOC100635907 isoform X2 [Amphimedon queenslandica],best_score:140.0,evalue:1.42398e-07,length:1277
+gi:1133470852,ref_number:XP_019855360.1,annotation: PREDICTED: adhesion G protein-coupled receptor L4-like isoform X2 [Amphimedon queenslandica],best_score:139.0,evalue:1.45597e-07,length:800
+gi:1133454361,ref_number:XP_019849130.1,annotation: PREDICTED: uncharacterized protein LOC105316852 [Amphimedon queenslandica],best_score:130.0,evalue:2.04152e-06,length:2147
+gi:1133454448,ref_number:XP_019849167.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X1 [Amphimedon queenslandica],best_score:129.0,evalue:2.86949e-06,length:1625
+gi:340383872,ref_number:XP_003390440.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X2 [Amphimedon queenslandica],best_score:128.0,evalue:3.04313e-06,length:698
+gi:1133481070,ref_number:XP_019859303.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X1 [Amphimedon queenslandica],best_score:128.0,evalue:3.04507e-06,length:699
+gi:1133481073,ref_number:XP_019859304.1,annotation: PREDICTED: G-protein coupled receptor 98-like isoform X3 [Amphimedon queenslandica],best_score:128.0,evalue:3.09516e-06,length:698
+gi:1133454450,ref_number:XP_019849169.1,annotation: PREDICTED: extracellular matrix protein 3-like isoform X2 [Amphimedon queenslandica],best_score:128.0,evalue:3.75711e-06,length:1404

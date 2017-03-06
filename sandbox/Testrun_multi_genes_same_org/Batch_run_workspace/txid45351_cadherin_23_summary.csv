@@ -1,50 +1,50 @@
-gi: 156382383,ref_number: XP_001632533.1,annotation:  predicted protein [Nematostella vectensis],best_score: 2335.0,evalue: 0.0,length: 2676
-gi: 156398552,ref_number: XP_001638252.1,annotation:  predicted protein [Nematostella vectensis],best_score: 2165.0,evalue: 0.0,length: 1852
-gi: 156386258,ref_number: XP_001633830.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1990.0,evalue: 0.0,length: 4187
-gi: 156351334,ref_number: XP_001622464.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1825.0,evalue: 0.0,length: 2058
-gi: 156406024,ref_number: XP_001641031.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1728.0,evalue: 0.0,length: 4697
-gi: 156399515,ref_number: XP_001638547.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1637.0,evalue: 0.0,length: 3186
-gi: 156368055,ref_number: XP_001627512.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1582.0,evalue: 0.0,length: 1677
-gi: 156379093,ref_number: XP_001631293.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1614.0,evalue: 2.51315e-180,length: 4354
-gi: 156399381,ref_number: XP_001638480.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1520.0,evalue: 2.47681e-169,length: 3766
-gi: 156399383,ref_number: XP_001638481.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1402.0,evalue: 5.09586e-159,length: 1888
-gi: 156383896,ref_number: XP_001633068.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1357.0,evalue: 3.6512e-155,length: 1610
-gi: 156383976,ref_number: XP_001633108.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1336.0,evalue: 1.44832e-147,length: 4639
-gi: 156368057,ref_number: XP_001627513.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1141.0,evalue: 7.74612e-127,length: 1781
-gi: 156365971,ref_number: XP_001626915.1,annotation:  predicted protein [Nematostella vectensis],best_score: 1062.0,evalue: 8.02732e-124,length: 850
-gi: 156404209,ref_number: XP_001640300.1,annotation:  predicted protein [Nematostella vectensis],best_score: 943.0,evalue: 7.43489e-102,length: 2493
-gi: 156361307,ref_number: XP_001625459.1,annotation:  predicted protein [Nematostella vectensis],best_score: 859.0,evalue: 1.72696e-97,length: 814
-gi: 156379563,ref_number: XP_001631526.1,annotation:  predicted protein [Nematostella vectensis],best_score: 860.0,evalue: 4.14837e-97,length: 868
-gi: 156365975,ref_number: XP_001626917.1,annotation:  predicted protein [Nematostella vectensis],best_score: 719.0,evalue: 2.66932e-78,length: 943
-gi: 156347842,ref_number: XP_001621773.1,annotation:  hypothetical protein NEMVEDRAFT_v1g221587 [Nematostella vectensis],best_score: 715.0,evalue: 2.0331e-77,length: 1012
-gi: 156361309,ref_number: XP_001625460.1,annotation:  predicted protein [Nematostella vectensis],best_score: 590.0,evalue: 6.03814e-66,length: 460
-gi: 156365973,ref_number: XP_001626916.1,annotation:  predicted protein [Nematostella vectensis],best_score: 590.0,evalue: 9.12173e-66,length: 471
-gi: 156383974,ref_number: XP_001633107.1,annotation:  predicted protein [Nematostella vectensis],best_score: 603.0,evalue: 5.14221e-63,length: 1096
-gi: 156361305,ref_number: XP_001625458.1,annotation:  predicted protein [Nematostella vectensis],best_score: 541.0,evalue: 3.27347e-59,length: 479
-gi: 156371437,ref_number: XP_001628770.1,annotation:  predicted protein [Nematostella vectensis],best_score: 510.0,evalue: 3.07272e-55,length: 470
-gi: 156365969,ref_number: XP_001626914.1,annotation:  predicted protein [Nematostella vectensis],best_score: 500.0,evalue: 6.34696e-55,length: 377
-gi: 156311353,ref_number: XP_001617773.1,annotation:  hypothetical protein NEMVEDRAFT_v1g48709 [Nematostella vectensis],best_score: 446.0,evalue: 3.93332e-48,length: 347
-gi: 156397095,ref_number: XP_001637727.1,annotation:  predicted protein [Nematostella vectensis],best_score: 441.0,evalue: 1.8726e-45,length: 550
-gi: 156379561,ref_number: XP_001631525.1,annotation:  predicted protein [Nematostella vectensis],best_score: 426.0,evalue: 2.85975e-44,length: 459
-gi: 156603040,ref_number: XP_001618766.1,annotation:  hypothetical protein NEMVEDRAFT_v1g153449 [Nematostella vectensis],best_score: 420.0,evalue: 3.78106e-44,length: 389
-gi: 156390721,ref_number: XP_001635418.1,annotation:  predicted protein [Nematostella vectensis],best_score: 348.0,evalue: 3.63779e-35,length: 351
-gi: 156351338,ref_number: XP_001622466.1,annotation:  predicted protein [Nematostella vectensis],best_score: 344.0,evalue: 1.26007e-34,length: 341
-gi: 156333666,ref_number: XP_001619382.1,annotation:  hypothetical protein NEMVEDRAFT_v1g4597 [Nematostella vectensis],best_score: 247.0,evalue: 1.26454e-23,length: 175
-gi: 156383900,ref_number: XP_001633070.1,annotation:  predicted protein [Nematostella vectensis],best_score: 246.0,evalue: 1.45461e-22,length: 257
-gi: 156379559,ref_number: XP_001631524.1,annotation:  predicted protein [Nematostella vectensis],best_score: 221.0,evalue: 4.30751e-20,length: 180
-gi: 156339187,ref_number: XP_001620105.1,annotation:  hypothetical protein NEMVEDRAFT_v1g223469 [Nematostella vectensis],best_score: 200.0,evalue: 1.51193e-17,length: 150
-gi: 156363834,ref_number: XP_001626245.1,annotation:  predicted protein [Nematostella vectensis],best_score: 191.0,evalue: 8.45696e-17,length: 116
-gi: 156382200,ref_number: XP_001632442.1,annotation:  predicted protein [Nematostella vectensis],best_score: 214.0,evalue: 1.08376e-16,length: 1003
-gi: 156339537,ref_number: XP_001620191.1,annotation:  hypothetical protein NEMVEDRAFT_v1g148827 [Nematostella vectensis],best_score: 181.0,evalue: 2.48703e-14,length: 228
-gi: 156307468,ref_number: XP_001617637.1,annotation:  hypothetical protein NEMVEDRAFT_v1g225923 [Nematostella vectensis],best_score: 162.0,evalue: 5.36801e-13,length: 107
-gi: 156363832,ref_number: XP_001626244.1,annotation:  predicted protein [Nematostella vectensis],best_score: 161.0,evalue: 1.24623e-12,length: 119
-gi: 156405044,ref_number: XP_001640542.1,annotation:  predicted protein [Nematostella vectensis],best_score: 160.0,evalue: 2.45505e-12,length: 136
-gi: 156360905,ref_number: XP_001625263.1,annotation:  predicted protein [Nematostella vectensis],best_score: 171.0,evalue: 6.09937e-12,length: 491
-gi: 156379565,ref_number: XP_001631527.1,annotation:  predicted protein [Nematostella vectensis],best_score: 154.0,evalue: 7.10338e-12,length: 104
-gi: 156385274,ref_number: XP_001633556.1,annotation:  predicted protein [Nematostella vectensis],best_score: 169.0,evalue: 1.79867e-11,length: 738
-gi: 156307405,ref_number: XP_001617626.1,annotation:  hypothetical protein NEMVEDRAFT_v1g225928 [Nematostella vectensis],best_score: 144.0,evalue: 1.23479e-10,length: 102
-gi: 156363838,ref_number: XP_001626247.1,annotation:  predicted protein [Nematostella vectensis],best_score: 131.0,evalue: 4.98528e-09,length: 91
-gi: 156358459,ref_number: XP_001624536.1,annotation:  predicted protein [Nematostella vectensis],best_score: 146.0,evalue: 9.05026e-09,length: 1362
-gi: 156354326,ref_number: XP_001623348.1,annotation:  predicted protein [Nematostella vectensis],best_score: 142.0,evalue: 2.15443e-08,length: 593
-gi: 156354330,ref_number: XP_001623350.1,annotation:  predicted protein [Nematostella vectensis],best_score: 138.0,evalue: 4.54189e-08,length: 389
-gi: 156318733,ref_number: XP_001618103.1,annotation:  hypothetical protein NEMVEDRAFT_v1g225510 [Nematostella vectensis],best_score: 122.0,evalue: 3.86646e-07,length: 155
+gi:156382383,ref_number:XP_001632533.1,annotation: predicted protein [Nematostella vectensis],best_score:2335.0,evalue:0.0,length:2676
+gi:156398552,ref_number:XP_001638252.1,annotation: predicted protein [Nematostella vectensis],best_score:2165.0,evalue:0.0,length:1852
+gi:156386258,ref_number:XP_001633830.1,annotation: predicted protein [Nematostella vectensis],best_score:1990.0,evalue:0.0,length:4187
+gi:156351334,ref_number:XP_001622464.1,annotation: predicted protein [Nematostella vectensis],best_score:1825.0,evalue:0.0,length:2058
+gi:156406024,ref_number:XP_001641031.1,annotation: predicted protein [Nematostella vectensis],best_score:1728.0,evalue:0.0,length:4697
+gi:156399515,ref_number:XP_001638547.1,annotation: predicted protein [Nematostella vectensis],best_score:1637.0,evalue:0.0,length:3186
+gi:156368055,ref_number:XP_001627512.1,annotation: predicted protein [Nematostella vectensis],best_score:1582.0,evalue:0.0,length:1677
+gi:156379093,ref_number:XP_001631293.1,annotation: predicted protein [Nematostella vectensis],best_score:1614.0,evalue:2.51315e-180,length:4354
+gi:156399381,ref_number:XP_001638480.1,annotation: predicted protein [Nematostella vectensis],best_score:1520.0,evalue:2.47681e-169,length:3766
+gi:156399383,ref_number:XP_001638481.1,annotation: predicted protein [Nematostella vectensis],best_score:1402.0,evalue:5.09586e-159,length:1888
+gi:156383896,ref_number:XP_001633068.1,annotation: predicted protein [Nematostella vectensis],best_score:1357.0,evalue:3.6512e-155,length:1610
+gi:156383976,ref_number:XP_001633108.1,annotation: predicted protein [Nematostella vectensis],best_score:1336.0,evalue:1.44832e-147,length:4639
+gi:156368057,ref_number:XP_001627513.1,annotation: predicted protein [Nematostella vectensis],best_score:1141.0,evalue:7.74612e-127,length:1781
+gi:156365971,ref_number:XP_001626915.1,annotation: predicted protein [Nematostella vectensis],best_score:1062.0,evalue:8.02732e-124,length:850
+gi:156404209,ref_number:XP_001640300.1,annotation: predicted protein [Nematostella vectensis],best_score:943.0,evalue:7.43489e-102,length:2493
+gi:156361307,ref_number:XP_001625459.1,annotation: predicted protein [Nematostella vectensis],best_score:859.0,evalue:1.72696e-97,length:814
+gi:156379563,ref_number:XP_001631526.1,annotation: predicted protein [Nematostella vectensis],best_score:860.0,evalue:4.14837e-97,length:868
+gi:156365975,ref_number:XP_001626917.1,annotation: predicted protein [Nematostella vectensis],best_score:719.0,evalue:2.66932e-78,length:943
+gi:156347842,ref_number:XP_001621773.1,annotation: hypothetical protein NEMVEDRAFT_v1g221587 [Nematostella vectensis],best_score:715.0,evalue:2.0331e-77,length:1012
+gi:156361309,ref_number:XP_001625460.1,annotation: predicted protein [Nematostella vectensis],best_score:590.0,evalue:6.03814e-66,length:460
+gi:156365973,ref_number:XP_001626916.1,annotation: predicted protein [Nematostella vectensis],best_score:590.0,evalue:9.12173e-66,length:471
+gi:156383974,ref_number:XP_001633107.1,annotation: predicted protein [Nematostella vectensis],best_score:603.0,evalue:5.14221e-63,length:1096
+gi:156361305,ref_number:XP_001625458.1,annotation: predicted protein [Nematostella vectensis],best_score:541.0,evalue:3.27347e-59,length:479
+gi:156371437,ref_number:XP_001628770.1,annotation: predicted protein [Nematostella vectensis],best_score:510.0,evalue:3.07272e-55,length:470
+gi:156365969,ref_number:XP_001626914.1,annotation: predicted protein [Nematostella vectensis],best_score:500.0,evalue:6.34696e-55,length:377
+gi:156311353,ref_number:XP_001617773.1,annotation: hypothetical protein NEMVEDRAFT_v1g48709 [Nematostella vectensis],best_score:446.0,evalue:3.93332e-48,length:347
+gi:156397095,ref_number:XP_001637727.1,annotation: predicted protein [Nematostella vectensis],best_score:441.0,evalue:1.8726e-45,length:550
+gi:156379561,ref_number:XP_001631525.1,annotation: predicted protein [Nematostella vectensis],best_score:426.0,evalue:2.85975e-44,length:459
+gi:156603040,ref_number:XP_001618766.1,annotation: hypothetical protein NEMVEDRAFT_v1g153449 [Nematostella vectensis],best_score:420.0,evalue:3.78106e-44,length:389
+gi:156390721,ref_number:XP_001635418.1,annotation: predicted protein [Nematostella vectensis],best_score:348.0,evalue:3.63779e-35,length:351
+gi:156351338,ref_number:XP_001622466.1,annotation: predicted protein [Nematostella vectensis],best_score:344.0,evalue:1.26007e-34,length:341
+gi:156333666,ref_number:XP_001619382.1,annotation: hypothetical protein NEMVEDRAFT_v1g4597 [Nematostella vectensis],best_score:247.0,evalue:1.26454e-23,length:175
+gi:156383900,ref_number:XP_001633070.1,annotation: predicted protein [Nematostella vectensis],best_score:246.0,evalue:1.45461e-22,length:257
+gi:156379559,ref_number:XP_001631524.1,annotation: predicted protein [Nematostella vectensis],best_score:221.0,evalue:4.30751e-20,length:180
+gi:156339187,ref_number:XP_001620105.1,annotation: hypothetical protein NEMVEDRAFT_v1g223469 [Nematostella vectensis],best_score:200.0,evalue:1.51193e-17,length:150
+gi:156363834,ref_number:XP_001626245.1,annotation: predicted protein [Nematostella vectensis],best_score:191.0,evalue:8.45696e-17,length:116
+gi:156382200,ref_number:XP_001632442.1,annotation: predicted protein [Nematostella vectensis],best_score:214.0,evalue:1.08376e-16,length:1003
+gi:156339537,ref_number:XP_001620191.1,annotation: hypothetical protein NEMVEDRAFT_v1g148827 [Nematostella vectensis],best_score:181.0,evalue:2.48703e-14,length:228
+gi:156307468,ref_number:XP_001617637.1,annotation: hypothetical protein NEMVEDRAFT_v1g225923 [Nematostella vectensis],best_score:162.0,evalue:5.36801e-13,length:107
+gi:156363832,ref_number:XP_001626244.1,annotation: predicted protein [Nematostella vectensis],best_score:161.0,evalue:1.24623e-12,length:119
+gi:156405044,ref_number:XP_001640542.1,annotation: predicted protein [Nematostella vectensis],best_score:160.0,evalue:2.45505e-12,length:136
+gi:156360905,ref_number:XP_001625263.1,annotation: predicted protein [Nematostella vectensis],best_score:171.0,evalue:6.09937e-12,length:491
+gi:156379565,ref_number:XP_001631527.1,annotation: predicted protein [Nematostella vectensis],best_score:154.0,evalue:7.10338e-12,length:104
+gi:156385274,ref_number:XP_001633556.1,annotation: predicted protein [Nematostella vectensis],best_score:169.0,evalue:1.79867e-11,length:738
+gi:156307405,ref_number:XP_001617626.1,annotation: hypothetical protein NEMVEDRAFT_v1g225928 [Nematostella vectensis],best_score:144.0,evalue:1.23479e-10,length:102
+gi:156363838,ref_number:XP_001626247.1,annotation: predicted protein [Nematostella vectensis],best_score:131.0,evalue:4.98528e-09,length:91
+gi:156358459,ref_number:XP_001624536.1,annotation: predicted protein [Nematostella vectensis],best_score:146.0,evalue:9.05026e-09,length:1362
+gi:156354326,ref_number:XP_001623348.1,annotation: predicted protein [Nematostella vectensis],best_score:142.0,evalue:2.15443e-08,length:593
+gi:156354330,ref_number:XP_001623350.1,annotation: predicted protein [Nematostella vectensis],best_score:138.0,evalue:4.54189e-08,length:389
+gi:156318733,ref_number:XP_001618103.1,annotation: hypothetical protein NEMVEDRAFT_v1g225510 [Nematostella vectensis],best_score:122.0,evalue:3.86646e-07,length:155

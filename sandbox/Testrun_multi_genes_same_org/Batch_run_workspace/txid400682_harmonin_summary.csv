@@ -1,15 +1,15 @@
-gi: 340376105,ref_number: XP_003386574.1,annotation:  PREDICTED: whirlin-like [Amphimedon queenslandica],best_score: 405.0,evalue: 1.76763e-40,length: 848
-gi: 1133458426,ref_number: XP_019850603.1,annotation:  PREDICTED: harmonin-like [Amphimedon queenslandica],best_score: 371.0,evalue: 8.81803e-37,length: 627
-gi: 1133456164,ref_number: XP_003385034.3,annotation:  PREDICTED: titin homolog isoform X1 [Amphimedon queenslandica],best_score: 268.0,evalue: 1.12488e-23,length: 1248
-gi: 1133450075,ref_number: XP_019857331.1,annotation:  PREDICTED: disks large homolog 4-like isoform X1 [Amphimedon queenslandica],best_score: 182.0,evalue: 8.49693e-14,length: 494
-gi: 761902112,ref_number: XP_011407680.1,annotation:  PREDICTED: disks large homolog 2-like isoform X2 [Amphimedon queenslandica],best_score: 180.0,evalue: 1.43073e-13,length: 485
-gi: 1133456860,ref_number: XP_019850037.1,annotation:  PREDICTED: disks large homolog 2-like [Amphimedon queenslandica],best_score: 160.0,evalue: 4.87132e-11,length: 596
-gi: 1133456166,ref_number: XP_019849791.1,annotation:  PREDICTED: golgin subfamily A member 6-like protein 22 isoform X2 [Amphimedon queenslandica],best_score: 150.0,evalue: 9.50995e-10,length: 1046
-gi: 1133463032,ref_number: XP_019852372.1,annotation:  PREDICTED: protein scribble homolog [Amphimedon queenslandica],best_score: 148.0,evalue: 1.93198e-09,length: 1561
-gi: 1133452816,ref_number: XP_019864486.1,annotation:  PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like [Amphimedon queenslandica],best_score: 143.0,evalue: 6.05001e-09,length: 1095
-gi: 340375907,ref_number: XP_003386475.1,annotation:  PREDICTED: kelch-like protein 29 [Amphimedon queenslandica],best_score: 142.0,evalue: 6.88095e-09,length: 723
-gi: 761921279,ref_number: XP_011409516.1,annotation:  PREDICTED: whirlin-like [Amphimedon queenslandica],best_score: 126.0,evalue: 7.88482e-08,length: 195
-gi: 1133474374,ref_number: XP_019856715.1,annotation:  PREDICTED: protein lin-7 homolog C-like [Amphimedon queenslandica],best_score: 123.0,evalue: 2.19089e-07,length: 202
-gi: 1133473355,ref_number: XP_019856326.1,annotation:  PREDICTED: protein kibra-like [Amphimedon queenslandica],best_score: 128.0,evalue: 2.61827e-07,length: 485
-gi: 1133465096,ref_number: XP_019853185.1,annotation:  PREDICTED: SH3 and multiple ankyrin repeat domains protein 1-like [Amphimedon queenslandica],best_score: 125.0,evalue: 8.72877e-07,length: 1426
-gi: 1133456022,ref_number: XP_019849744.1,annotation:  PREDICTED: uncharacterized protein LOC109580709 [Amphimedon queenslandica],best_score: 118.0,evalue: 6.80215e-06,length: 1741
+gi:340376105,ref_number:XP_003386574.1,annotation: PREDICTED: whirlin-like [Amphimedon queenslandica],best_score:405.0,evalue:1.76763e-40,length:848
+gi:1133458426,ref_number:XP_019850603.1,annotation: PREDICTED: harmonin-like [Amphimedon queenslandica],best_score:371.0,evalue:8.81803e-37,length:627
+gi:1133456164,ref_number:XP_003385034.3,annotation: PREDICTED: titin homolog isoform X1 [Amphimedon queenslandica],best_score:268.0,evalue:1.12488e-23,length:1248
+gi:1133450075,ref_number:XP_019857331.1,annotation: PREDICTED: disks large homolog 4-like isoform X1 [Amphimedon queenslandica],best_score:182.0,evalue:8.49693e-14,length:494
+gi:761902112,ref_number:XP_011407680.1,annotation: PREDICTED: disks large homolog 2-like isoform X2 [Amphimedon queenslandica],best_score:180.0,evalue:1.43073e-13,length:485
+gi:1133456860,ref_number:XP_019850037.1,annotation: PREDICTED: disks large homolog 2-like [Amphimedon queenslandica],best_score:160.0,evalue:4.87132e-11,length:596
+gi:1133456166,ref_number:XP_019849791.1,annotation: PREDICTED: golgin subfamily A member 6-like protein 22 isoform X2 [Amphimedon queenslandica],best_score:150.0,evalue:9.50995e-10,length:1046
+gi:1133463032,ref_number:XP_019852372.1,annotation: PREDICTED: protein scribble homolog [Amphimedon queenslandica],best_score:148.0,evalue:1.93198e-09,length:1561
+gi:1133452816,ref_number:XP_019864486.1,annotation: PREDICTED: membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2-like [Amphimedon queenslandica],best_score:143.0,evalue:6.05001e-09,length:1095
+gi:340375907,ref_number:XP_003386475.1,annotation: PREDICTED: kelch-like protein 29 [Amphimedon queenslandica],best_score:142.0,evalue:6.88095e-09,length:723
+gi:761921279,ref_number:XP_011409516.1,annotation: PREDICTED: whirlin-like [Amphimedon queenslandica],best_score:126.0,evalue:7.88482e-08,length:195
+gi:1133474374,ref_number:XP_019856715.1,annotation: PREDICTED: protein lin-7 homolog C-like [Amphimedon queenslandica],best_score:123.0,evalue:2.19089e-07,length:202
+gi:1133473355,ref_number:XP_019856326.1,annotation: PREDICTED: protein kibra-like [Amphimedon queenslandica],best_score:128.0,evalue:2.61827e-07,length:485
+gi:1133465096,ref_number:XP_019853185.1,annotation: PREDICTED: SH3 and multiple ankyrin repeat domains protein 1-like [Amphimedon queenslandica],best_score:125.0,evalue:8.72877e-07,length:1426
+gi:1133456022,ref_number:XP_019849744.1,annotation: PREDICTED: uncharacterized protein LOC109580709 [Amphimedon queenslandica],best_score:118.0,evalue:6.80215e-06,length:1741

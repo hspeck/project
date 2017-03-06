@@ -1,24 +1,24 @@
-gi: 1133449996,ref_number: XP_011407489.2,annotation:  PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score: 745.0,evalue: 8.12091e-79,length: 4222
-gi: 1133460344,ref_number: XP_019851325.1,annotation:  PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score: 674.0,evalue: 1.88509e-70,length: 7157
-gi: 1133477134,ref_number: XP_011406816.2,annotation:  PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score: 612.0,evalue: 2.5927e-63,length: 3005
-gi: 1133456359,ref_number: XP_019849856.1,annotation:  PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score: 571.0,evalue: 1.51799e-58,length: 2929
-gi: 340379309,ref_number: XP_003388169.1,annotation:  PREDICTED: protocadherin Fat 4 [Amphimedon queenslandica],best_score: 570.0,evalue: 1.71545e-58,length: 2416
-gi: 1133469689,ref_number: XP_019854931.1,annotation:  PREDICTED: cadherin-23, partial [Amphimedon queenslandica],best_score: 568.0,evalue: 4.11031e-58,length: 4212
-gi: 1133459127,ref_number: XP_019850869.1,annotation:  PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score: 546.0,evalue: 1.55694e-55,length: 5185
-gi: 761902972,ref_number: XP_011409706.1,annotation:  PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica] >gi,best_score: 540.0,evalue: 8.53991e-55,length: 3368
-gi: 1133460441,ref_number: XP_011403606.2,annotation:  PREDICTED: uncharacterized protein LOC105312562 [Amphimedon queenslandica],best_score: 531.0,evalue: 1.13056e-53,length: 9044
-gi: 340372651,ref_number: XP_003384857.1,annotation:  PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score: 475.0,evalue: 3.57521e-47,length: 5831
-gi: 1133461122,ref_number: XP_019851623.1,annotation:  PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score: 432.0,evalue: 2.78504e-42,length: 2407
-gi: 1133491143,ref_number: XP_011408723.2,annotation:  PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score: 370.0,evalue: 2.29993e-35,length: 930
-gi: 1133460434,ref_number: XP_019851361.1,annotation:  PREDICTED: protocadherin-16-like, partial [Amphimedon queenslandica],best_score: 323.0,evalue: 1.25623e-29,length: 1130
-gi: 1133451519,ref_number: XP_019862670.1,annotation:  PREDICTED: protocadherin alpha-12-like [Amphimedon queenslandica] >gi,best_score: 314.0,evalue: 1.51503e-28,length: 1315
-gi: 1133454584,ref_number: XP_011410447.2,annotation:  PREDICTED: uncharacterized protein LOC105316885 [Amphimedon queenslandica],best_score: 314.0,evalue: 2.37836e-28,length: 5650
-gi: 1133462033,ref_number: XP_011403950.2,annotation:  PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score: 296.0,evalue: 2.07422e-26,length: 1549
-gi: 1133490791,ref_number: XP_011408651.2,annotation:  PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score: 270.0,evalue: 1.57716e-23,length: 995
-gi: 1133494371,ref_number: XP_011409268.2,annotation:  PREDICTED: protocadherin gamma-A4-like, partial [Amphimedon queenslandica],best_score: 260.0,evalue: 7.21811e-23,length: 502
-gi: 1133454538,ref_number: XP_019849207.1,annotation:  PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score: 263.0,evalue: 1.68283e-22,length: 3314
-gi: 1133494781,ref_number: XP_011409312.2,annotation:  PREDICTED: protocadherin-11 X-linked-like, partial [Amphimedon queenslandica],best_score: 242.0,evalue: 9.62079e-21,length: 477
-gi: 1133486608,ref_number: XP_019864228.1,annotation:  PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3-like, partial [Amphimedon queenslandica],best_score: 199.0,evalue: 1.92829e-16,length: 263
-gi: 1133469726,ref_number: XP_011405435.2,annotation:  PREDICTED: uncharacterized protein LOC105313586 [Amphimedon queenslandica],best_score: 207.0,evalue: 5.23021e-16,length: 1695
-gi: 1133486406,ref_number: XP_019864165.1,annotation:  PREDICTED: protocadherin gamma-A2-like, partial [Amphimedon queenslandica],best_score: 186.0,evalue: 1.40965e-15,length: 176
-gi: 1133456692,ref_number: XP_019849970.1,annotation:  PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Amphimedon queenslandica],best_score: 120.0,evalue: 9.72715e-06,length: 2821
+gi:1133449996,ref_number:XP_011407489.2,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:745.0,evalue:8.12091e-79,length:4222
+gi:1133460344,ref_number:XP_019851325.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:674.0,evalue:1.88509e-70,length:7157
+gi:1133477134,ref_number:XP_011406816.2,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:612.0,evalue:2.5927e-63,length:3005
+gi:1133456359,ref_number:XP_019849856.1,annotation: PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score:571.0,evalue:1.51799e-58,length:2929
+gi:340379309,ref_number:XP_003388169.1,annotation: PREDICTED: protocadherin Fat 4 [Amphimedon queenslandica],best_score:570.0,evalue:1.71545e-58,length:2416
+gi:1133469689,ref_number:XP_019854931.1,annotation: PREDICTED: cadherin-23, partial [Amphimedon queenslandica],best_score:568.0,evalue:4.11031e-58,length:4212
+gi:1133459127,ref_number:XP_019850869.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:546.0,evalue:1.55694e-55,length:5185
+gi:761902972,ref_number:XP_011409706.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica] >gi,best_score:540.0,evalue:8.53991e-55,length:3368
+gi:1133460441,ref_number:XP_011403606.2,annotation: PREDICTED: uncharacterized protein LOC105312562 [Amphimedon queenslandica],best_score:531.0,evalue:1.13056e-53,length:9044
+gi:340372651,ref_number:XP_003384857.1,annotation: PREDICTED: protocadherin Fat 4-like [Amphimedon queenslandica],best_score:475.0,evalue:3.57521e-47,length:5831
+gi:1133461122,ref_number:XP_019851623.1,annotation: PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score:432.0,evalue:2.78504e-42,length:2407
+gi:1133491143,ref_number:XP_011408723.2,annotation: PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score:370.0,evalue:2.29993e-35,length:930
+gi:1133460434,ref_number:XP_019851361.1,annotation: PREDICTED: protocadherin-16-like, partial [Amphimedon queenslandica],best_score:323.0,evalue:1.25623e-29,length:1130
+gi:1133451519,ref_number:XP_019862670.1,annotation: PREDICTED: protocadherin alpha-12-like [Amphimedon queenslandica] >gi,best_score:314.0,evalue:1.51503e-28,length:1315
+gi:1133454584,ref_number:XP_011410447.2,annotation: PREDICTED: uncharacterized protein LOC105316885 [Amphimedon queenslandica],best_score:314.0,evalue:2.37836e-28,length:5650
+gi:1133462033,ref_number:XP_011403950.2,annotation: PREDICTED: cadherin-23-like [Amphimedon queenslandica],best_score:296.0,evalue:2.07422e-26,length:1549
+gi:1133490791,ref_number:XP_011408651.2,annotation: PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score:270.0,evalue:1.57716e-23,length:995
+gi:1133494371,ref_number:XP_011409268.2,annotation: PREDICTED: protocadherin gamma-A4-like, partial [Amphimedon queenslandica],best_score:260.0,evalue:7.21811e-23,length:502
+gi:1133454538,ref_number:XP_019849207.1,annotation: PREDICTED: protocadherin Fat 4-like, partial [Amphimedon queenslandica],best_score:263.0,evalue:1.68283e-22,length:3314
+gi:1133494781,ref_number:XP_011409312.2,annotation: PREDICTED: protocadherin-11 X-linked-like, partial [Amphimedon queenslandica],best_score:242.0,evalue:9.62079e-21,length:477
+gi:1133486608,ref_number:XP_019864228.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 3-like, partial [Amphimedon queenslandica],best_score:199.0,evalue:1.92829e-16,length:263
+gi:1133469726,ref_number:XP_011405435.2,annotation: PREDICTED: uncharacterized protein LOC105313586 [Amphimedon queenslandica],best_score:207.0,evalue:5.23021e-16,length:1695
+gi:1133486406,ref_number:XP_019864165.1,annotation: PREDICTED: protocadherin gamma-A2-like, partial [Amphimedon queenslandica],best_score:186.0,evalue:1.40965e-15,length:176
+gi:1133456692,ref_number:XP_019849970.1,annotation: PREDICTED: cadherin EGF LAG seven-pass G-type receptor 2-like isoform X2 [Amphimedon queenslandica],best_score:120.0,evalue:9.72715e-06,length:2821

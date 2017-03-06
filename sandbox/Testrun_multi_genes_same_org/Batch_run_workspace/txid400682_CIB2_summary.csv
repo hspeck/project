@@ -1,11 +1,11 @@
-gi: 340374533,ref_number: XP_003385792.1,annotation:  PREDICTED: calcium and integrin-binding family member 2-like [Amphimedon queenslandica],best_score: 316.0,evalue: 1.28703e-37,length: 186
-gi: 340378050,ref_number: XP_003387541.1,annotation:  PREDICTED: calcium and integrin-binding protein 1-like isoform X2 [Amphimedon queenslandica],best_score: 209.0,evalue: 1.258e-21,length: 185
-gi: 1133466222,ref_number: XP_019853612.1,annotation:  PREDICTED: calcium and integrin-binding protein 1-like isoform X1 [Amphimedon queenslandica],best_score: 193.0,evalue: 3.29129e-19,length: 191
-gi: 340377541,ref_number: XP_003387288.1,annotation:  PREDICTED: calcineurin subunit B type 1-like [Amphimedon queenslandica],best_score: 174.0,evalue: 1.78594e-16,length: 171
-gi: 340370380,ref_number: XP_003383724.1,annotation:  PREDICTED: calcium and integrin-binding protein 1-like [Amphimedon queenslandica],best_score: 132.0,evalue: 5.78051e-10,length: 254
-gi: 1133456397,ref_number: XP_019849868.1,annotation:  PREDICTED: LOW QUALITY PROTEIN: calmodulin-like protein 12 [Amphimedon queenslandica],best_score: 130.0,evalue: 1.40034e-09,length: 454
-gi: 340377791,ref_number: XP_003387412.1,annotation:  PREDICTED: calcium-binding protein NCS-1-like [Amphimedon queenslandica],best_score: 123.0,evalue: 5.47941e-09,length: 190
-gi: 340376352,ref_number: XP_003386697.1,annotation:  PREDICTED: neurocalcin homolog [Amphimedon queenslandica] >gi,best_score: 117.0,evalue: 3.76364e-08,length: 195
-gi: 340370282,ref_number: XP_003383675.1,annotation:  PREDICTED: EF-hand calcium-binding domain-containing protein 1-like [Amphimedon queenslandica],best_score: 111.0,evalue: 2.839e-07,length: 205
-gi: 1133478192,ref_number: XP_011406986.2,annotation:  PREDICTED: NADPH oxidase 5-like [Amphimedon queenslandica],best_score: 111.0,evalue: 5.12162e-07,length: 743
-gi: 1133473631,ref_number: XP_019856436.1,annotation:  PREDICTED: NADPH oxidase 5-like [Amphimedon queenslandica],best_score: 107.0,evalue: 1.82475e-06,length: 785
+gi:340374533,ref_number:XP_003385792.1,annotation: PREDICTED: calcium and integrin-binding family member 2-like [Amphimedon queenslandica],best_score:316.0,evalue:1.28703e-37,length:186
+gi:340378050,ref_number:XP_003387541.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X2 [Amphimedon queenslandica],best_score:209.0,evalue:1.258e-21,length:185
+gi:1133466222,ref_number:XP_019853612.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like isoform X1 [Amphimedon queenslandica],best_score:193.0,evalue:3.29129e-19,length:191
+gi:340377541,ref_number:XP_003387288.1,annotation: PREDICTED: calcineurin subunit B type 1-like [Amphimedon queenslandica],best_score:174.0,evalue:1.78594e-16,length:171
+gi:340370380,ref_number:XP_003383724.1,annotation: PREDICTED: calcium and integrin-binding protein 1-like [Amphimedon queenslandica],best_score:132.0,evalue:5.78051e-10,length:254
+gi:1133456397,ref_number:XP_019849868.1,annotation: PREDICTED: LOW QUALITY PROTEIN: calmodulin-like protein 12 [Amphimedon queenslandica],best_score:130.0,evalue:1.40034e-09,length:454
+gi:340377791,ref_number:XP_003387412.1,annotation: PREDICTED: calcium-binding protein NCS-1-like [Amphimedon queenslandica],best_score:123.0,evalue:5.47941e-09,length:190
+gi:340376352,ref_number:XP_003386697.1,annotation: PREDICTED: neurocalcin homolog [Amphimedon queenslandica] >gi,best_score:117.0,evalue:3.76364e-08,length:195
+gi:340370282,ref_number:XP_003383675.1,annotation: PREDICTED: EF-hand calcium-binding domain-containing protein 1-like [Amphimedon queenslandica],best_score:111.0,evalue:2.839e-07,length:205
+gi:1133478192,ref_number:XP_011406986.2,annotation: PREDICTED: NADPH oxidase 5-like [Amphimedon queenslandica],best_score:111.0,evalue:5.12162e-07,length:743
+gi:1133473631,ref_number:XP_019856436.1,annotation: PREDICTED: NADPH oxidase 5-like [Amphimedon queenslandica],best_score:107.0,evalue:1.82475e-06,length:785
