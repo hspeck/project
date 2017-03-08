@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_186847</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_186847</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|219116416|ref|XP_002179003.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002179003</Hit_accession>
+  <Hit_len>867</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>505.753</Hsp_bit-score>
+      <Hsp_score>1301</Hsp_score>
+      <Hsp_evalue>2.40122e-156</Hsp_evalue>
+      <Hsp_query-from>69</Hsp_query-from>
+      <Hsp_query-to>854</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>862</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>312</Hsp_identity>
+      <Hsp_positive>467</Hsp_positive>
+      <Hsp_gaps>93</Hsp_gaps>
+      <Hsp_align-len>870</Hsp_align-len>
+      <Hsp_qseq>DMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKI---------GEMPPHIFAIADNCYFNMKRNSR-DQCCIISGESGAGKTESTKLILQFLAAI-SGQHSWIE-------------QQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKL--------GLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNN--------HETQ-------FGINHFAGIVYYETQ-GFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQ-------ADVAMGAETRK--RSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRG-----TCQRMAEAVLGT--HDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLG------------FLRLQALHRSRKLHQQYR-------LARQR-IIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIARR</Hsp_qseq>
+      <Hsp_hseq>DLIALPHLHEPAILHSLSDRFFRGKIYTWTGPVLIAVNPFQRLQLYGTEILESYRRDGLLKAQGMQSGQDLEPHIFAIADRSYRQMMSESRRSQSILISGESGAGKTESTKIVMLYLTTLGAGNNEAVQDETNGSNGELSVMQKVLQSNPVLEAFGNARTLRNDNSSRFGKFIELGFSRAGHLMGAKVQTYLLEKVRLAFHAAGERNYHIFYQLLRGCTEEDHAKYEFHDGLTGGLDLPNYFHYTGQGGAPHLREFTDEDGLSYTLKAMRKLGWTEKTIDDTLRLIAGLLHLGQITFNSVEKDGLETAEVAEDKILNYTAKLLGVDVDKMRVALTEKIIVARGQEIKTLLTPEKAQDARDALAKTIYGALFLWVVDQVNLSIGWERDDDI---RSSCGVLDIFGFECFAINSFEQLCINFTNEALQQQFNQFIFKLEQAEYEAESIAWAFIEFPDNQDCLDTIQAPKVGILSMLDDECRLPKGSDR------NFAKRLIDHYLPEKNQTVSENTRIHATNIQKGKSIFSVRHFAGLVQYSVETNFMEKNKDEIPLTAEILFETAPSKLIQDTYAIQKRENLGRAATEAKTGKQPKPKTVGQQFKEQLTTLIESVQKTDPHYIRCIKPNDAAKPLLMTRKRTTEQLRYGGVLEAVRVARAGYPVRMKHTAFFQRYRMLLPTVAEEVLPWSMDGHEPQQLCVKLNQPIPMSFPKTDVQLGKTKVFMRKHPHDCLEAHRVFHQHASASVIQCWARGLEQQRSFFISQDAIQTIQRCYRGFKGRERWTNLRKADAGKLLTITFRMLIKWRAFNRARKGTVRFQSRIRGRNLRRERAAVKIENRFRTYALRKKFTMLCSAVLSLQCATRSRVAKK</Hsp_hseq>
+      <Hsp_midline>D+I L  L+E  IL +L  R+    IYT+TG +L+AVNP+Q L +Y  E +  Y    +          ++ PHIFAIAD  Y  M   SR  Q  +ISGESGAGKTESTK+++ +L  + +G +  ++             Q+VL++ P+LEAFGNA+T+RNDNSSRFGK+I++ F++ G + GAK++ YLLEK R+   A  ERNYH+FY +L G +E+   K         GL   + ++Y   G         D    +    AM+ L +T+    +  +L+A +LHLG + + +   + L+  EV     L   A LL V+   +   LT + ++ RG+ + T L+ E+A D RDA  K IYG LF+W+VD++N +I      D+   R S G+LDIFGFE FA+NSFEQLCINF NE LQQ F + +FKLEQ EY+ ESI W  IEF DNQD LD I    + I+S++D+E + PKG+D       N   +L  +Y+P KN         H T        F + HFAG+V Y  +  F+EKN+D +      L  ++ +K I+  +           A  A+T K  +  T+  QFK  L  L+ ++    P ++RCIKPN+  KP+L  R     QLRY G++E +R+ RAGYP+R     F +RYR+LLP V        + G      C ++ + +  +    D Q+GKTK+F++ H    LE  R         ++Q   RG + + +F   ++A   IQR +RG   R+ +  +R               ++ +A +R+RK   +++       L R+R  ++ + R R Y +RK F     AVL++Q   R  +A++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|219122035|ref|XP_002181360.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002181360</Hit_accession>
+  <Hit_len>1027</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>469.159</Hsp_bit-score>
+      <Hsp_score>1206</Hsp_score>
+      <Hsp_evalue>1.3522e-141</Hsp_evalue>
+      <Hsp_query-from>68</Hsp_query-from>
+      <Hsp_query-to>884</Hsp_query-to>
+      <Hsp_hit-from>156</Hsp_hit-from>
+      <Hsp_hit-to>1024</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>323</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>78</Hsp_gaps>
+      <Hsp_align-len>882</Hsp_align-len>
+      <Hsp_qseq>EDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMP--------PHIFAIADNCYFNMKRN-------SRDQCCIISGESGAGKTESTKLILQFLAAISGQHS-----WIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQAS--DYNYLAMGNCITCEGRV-DSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFS-PSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNS-RRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHET-QFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFI----KQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQG-DLRG--TCQRMAE--AVLGTHDDWQIGKTKIFLKDHHDMLLE----VERDKAITD-------------------RVILLQKVIR--GFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQ--QYRLARQRIIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIARRLHQRLRAEY--LWRLEAEKMRLAEE-EKLRKEM</Hsp_qseq>
+      <Hsp_hseq>EDLTSLEQLHEPAVVFCLLQRYQLDHVYTYTGKILLALNPFQTLPIYGEEIMRLYWHTTGSSSPKAQYERPPPHIYAIAEDAYRSMMRSLQINASRGENQSILVSGESGAGKTVTTKIIMRYLATLSEQRSHTSRVGIESQVLQSNPILESFGNARTVRNDNSSRFGKFIEISF-RDGSLVSASVETYLLEKVRLISQSPGERNYHIFYEALVGLSSKDAQSLGIADSSPRDFRMTAVSGTFDRRDQVRDVDTYRDLRQALDTVGFSTEEQHGLFVVVCALLHASNLTL---TEYGHDASALDESNPSLPATIALLGVDPEDLNNAVCSCAIEAGGEILFKNLPVEKAHKAMEALIKATYGALFTFIVRKINSKI--QAQHDTSGLWQASIGVLDIFGFESFEVNSFEQLCINYCNEALQQQFNRFVFKLEQQEYHKEGIDWSFIAFPDNQDVLDLIEKRHDGILSVLDEQSRLGRCTDKSFAQAIYEKCGAHPRFESSKSQQAILAFGIQHYAGSVEYNTANFLEKNRDDLPKETTELLMSSSNPFLVGLGKILCEKSLQRAASSILRD-SVGSQFSSQLQLLRKRIESTAPHYVRCLKPNDDLVPNSFDPLVIADQLRCAGVLEAIRVSRVGFPHRYFHDHFVQRYSLLV--AKRLTKRGRGLNGCDSCGSLVEEISLLGM----QMGKTKVFLRRRAFEALEHLRGLKMEKAASKIQAFGRMIVAKLNYDISVYAAVLIQNFFRQIGAFRLERAQRIEDAAERIQCSWRSYDARRTMQAARYVAWWCQSTYRGSVARQLCAYLFLDRKVLTIQHAWKYYASTRTFRKLRKAVVLLQCRHRGRVAYRDLCRLRREARDLSTVAAERDQLRQESQRLRRAL</Hsp_hseq>
+      <Hsp_midline>ED+  L  L+E  ++  LL RY+   +YTYTG IL+A+NP+Q L IY  E +R Y +      P        PHI+AIA++ Y +M R+         +Q  ++SGESGAGKT +TK+I+++LA +S Q S      IE QVL++ PILE+FGNA+T+RNDNSSRFGK+I+I F + G++  A +E YLLEK R+  Q+  ERNYH+FY  L G+S    + LG+  +S  D+   A+        +V D   Y ++R A+  + F+  E   +  ++ A+LH  NL     T    DA  +  S PSL    +LL V+P DL + + S  +   GE +   L  E+A    +A +K  YG LF +IV KIN+ I      D     + SIG+LDIFGFE+F VNSFEQLCIN+ NE LQQ F R VFKLEQ+EY  E IDW  I F DNQD LD+I  +   I+S++DE+S+  + TD +    +  +   +  +   K+      FGI H+AG V Y T  FLEKNRD L  +  +L+ SS N F+    K + +  +   A +  R  ++ SQF   L+LL + + +  P +VRC+KPN+   P  FD  +   QLR +G++E IR+ R G+P RY    FV+RY +L+   K   K+G  L G  +C  + E  ++LG     Q+GKTK+FL+      LE    ++ +KA +                      +L+Q   R  G        ++++AA  IQ  WR ++ R+     R      Q+ +R     Q   Y    ++++  Q   + Y   + FR    AV+ +Q   RG +A R   RLR E   L  + AE+ +L +E ++LR+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|219120564|ref|XP_002181018.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002181018</Hit_accession>
+  <Hit_len>867</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>436.417</Hsp_bit-score>
+      <Hsp_score>1121</Hsp_score>
+      <Hsp_evalue>5.1988e-132</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>834</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>867</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>290</Hsp_identity>
+      <Hsp_positive>441</Hsp_positive>
+      <Hsp_gaps>74</Hsp_gaps>
+      <Hsp_align-len>837</Hsp_align-len>
+      <Hsp_qseq>EDNEHWISPQNATHIKPMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQY---TNKKIGEMPPHIFAIADNCYFNMKRNS-RDQCCIISGESGAGKTESTKLILQFLAAISGQHS------------------WIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLG--QASDYNYLAM-GNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTD---TTMLHKLNSQH-KLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQI--FQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVL------LPGVKPA-YKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGH-NCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRI----IQFQARCRAYLVRKAFR</Hsp_qseq>
+      <Hsp_hseq>EDPEAGVIASPGTRVDS---TVVGGVDDLIGLTHLHEPAILHALRLRYDADIIYTATGPILIAVNPFKRMDHIYNDSVMETYRVQGEEGTRRLAPHVYQTSDDAY--RQRNAPTNQSVLVSGESGAGKTVTTKIVLNYFAMLSKRRAETTRSTPSKSGSPAREGVSIEQQVLKSNPILESFGNARTIRNDNSSRFGKYIDIRFTRSGKLSGASVETYLLEKVRLIHPGLGERNYHVFYQFLAAATPRERRELYIGNMQYGDFRLLSQSGTYDRRDGVSDGTNHQEMLDAMSTMGFSPEIIRSLMRLVTGVLFAGNCTFTSS--RDGESCRLDETDAALACAALLGISFEGLAASLTARVILAGDEIVHKPLTIEESTKALEALIKAVYGAMFDFIVETVNESIVDERATD---GTASIGVLDIFGFETFETNSFEQLCINYTNEALQQQFNKYVFKLEQQEYEKEGIMWKFISFPDNQDVLDLIDKKHTGVLALLDEQCILPRSTDEKYTRYLYGRCDNHPRFNAS---SAQRVDHLFSIEHYAGYVEYNTDSWIEKNKDQLPAASSDLLKSSTFEFINEIQKFVRSEERAGRGTVATKSVSSQFSTQLRILRARIDETVPHYIRCLKPNDELASDYFEPKNVVEQLRCGGVLEAVRVSRAGYPTRYPHEVFLARYYILGDQRDETPQKSVSEFESLDFASRC-----AVAG----LQLGRTKVFLRREAFDRIEGMRSDKFHFAASLIQKVVRGKLGVTHYMQMRQAVIIIQSTFRMKLSCYRAEGLRYLGAI--------VKIQNAWRGCSARIFMEEIVMARRYAAIVIQRAFR</Hsp_hseq>
+      <Hsp_midline>ED E  +     T +     T V GV+D+I L  L+E  IL  L +RY   +IYT TG IL+AVNP++ +  IY+   +  Y     +    + PH++  +D+ Y   +RN+  +Q  ++SGESGAGKT +TK++L + A +S + +                   IEQQVL++ PILE+FGNA+TIRNDNSSRFGKYIDI F + G + GA +E YLLEK R+    L ERNYHVFY  L   +  ++++L +G  Q  D+  L+  G     +G  D   +  +  AM  + F+      + +L+  +L  GN  + +    + ++C +  + +    A+LL ++   L + LT+R ++   E V  PL+ E++    +A +K +YG +F +IV+ +N +I    + D      SIG+LDIFGFE F  NSFEQLCIN+ NE LQQ F ++VFKLEQ+EY+ E I W  I F DNQD LD+I  K   +++L+DE+   P+ TD   T  L+     H + NA+        +  F I H+AG V Y T  ++EKN+D L      L+ SS  +FI +I  F             + ++SSQF   L +L   +    P ++RC+KPN+      F+    V QLR  G++E +R+ RAGYP RY    F+ RY +L       P    + ++  D    C     AV G     Q+G+TK+FL+      +E  R         L+QKV+RG    +++++++ A  +IQ  +R   +C +  GL  LG +         K+   +R    RI    I    R  A ++++AFR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|219122135|ref|XP_002181408.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002181408</Hit_accession>
+  <Hit_len>763</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>432.18</Hsp_bit-score>
+      <Hsp_score>1110</Hsp_score>
+      <Hsp_evalue>8.75833e-132</Hsp_evalue>
+      <Hsp_query-from>61</Hsp_query-from>
+      <Hsp_query-to>729</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>741</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>398</Hsp_positive>
+      <Hsp_gaps>64</Hsp_gaps>
+      <Hsp_align-len>730</Hsp_align-len>
+      <Hsp_qseq>PTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLL------SIYSPEHIRQYTNKKIG--EMPPHIFAIADNCYFNMKRNS----RDQCCIISGESGAGKTESTKLILQFLAAISGQH-------------------SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNK-RGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFS----PSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRS--IGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMI--ANKPMNIISLIDEE------SKFPKGTDTTMLHKL----------NSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIF---QADVAMGAETRK--RSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLK</Hsp_qseq>
+      <Hsp_hseq>PDDYIGMDDVLHLPQITEASLLHTLRLRYRRDDIYTLAGPILISINPYQSVCLPGGESIYSEEQMLVYRSSTLAVDDKTPHLFQIADRAYTALMDSPPGMVRNQSIIISGESGAGKTEATKIIMKYLARITRKSEKPSATEGTALLSPNGKRIAALEDRVLSSNPLLETFGNAQTLRNDNSSRFGKFIHIYFDTIKGGITGASISNYLLEKTRITTQVDGERNYHIFYQLLSGVDSTLMEDLGL-QEGVQGFAYLGNRSAEKSEADAEAFRETIVCLERIGLDTEDQRAVFGMTAAVLHLGNIQFEATDQE--ENCEAIISAATLPSLRKACELLGLDEAKLSEAILTKVLVVNGKTIKKPQNVALAEDKRDALAKMTYSCLFLWLVQCINETLQQKSTSKAFNSDKLGFIGVLDIYGFECFEQNGLEQLLINYCNEKLQRHFNRHLFEVEQELYANEGVDWSYITFNDNRPCLELIEGGSGIVGILNTLDDAWGGMGTASEKDGKFVTHLHKLFGTGSGDSKKGDTESGHPNFVTPKFGNDRQFIVLHYAGEVRYTAEGFVEKNMETMSNEIRELGEQSSLDLSQKVYSCGQSDISGKDPLRSSIRGISVGSQFRSSLQSLVTDLDRTQPHYIRCIKPNLSKAPGSFLAGEVLKQLRYSGMMEAIRIRREGYALREEHESFFSRFSVLLNQDEVDTDETGIEQLVKVLSKRLNVTEADWQIGHSKIFLR</Hsp_hseq>
+      <Hsp_midline>P    G++D++ L  + EA +L  L +RYR   IYT  G IL+++NPYQ +      SIYS E +  Y +  +   +  PH+F IAD  Y  +  +     R+Q  IISGESGAGKTE+TK+I+++LA I+ +                    + +E +VL + P+LE FGNA+T+RNDNSSRFGK+I I+F+  +G I GA I  YLLEK+R+  Q   ERNYH+FY +L G+     + LGL Q     +  +GN    +   D++ +      ++ +     +   +  + AA+LHLGN+Q+EA   E  + CE + S    PSL  A  LL ++   L   + ++ L+  G+T+  P +   A D RDA  K  Y  LF+W+V  IN  + +  +    NS +   IG+LDI+GFE F  N  EQL IN+ NE LQ+ F RH+F++EQE Y  E +DW +I F DN+  L++I   +  + I++ +D+       +    G   T LHKL                + N++ PK  ++ QF + H+AG V Y  +GF+EKN +T+  +I +L   S     ++++   Q+D++     R   R  ++ SQF+ SL+ L+  L   QP ++RCIKPN  K P  F     ++QLRYSGMME IRIRR GY +R     F  R+ VLL   +    +  +    + +++ +  T  DWQIG +KIFL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|219114377|ref|XP_002176359.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002176359</Hit_accession>
+  <Hit_len>746</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>413.69</Hsp_bit-score>
+      <Hsp_score>1062</Hsp_score>
+      <Hsp_evalue>1.44218e-125</Hsp_evalue>
+      <Hsp_query-from>68</Hsp_query-from>
+      <Hsp_query-to>758</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>742</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>260</Hsp_identity>
+      <Hsp_positive>397</Hsp_positive>
+      <Hsp_gaps>59</Hsp_gaps>
+      <Hsp_align-len>746</Hsp_align-len>
+      <Hsp_qseq>EDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKI---------GEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG-------QHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGA----------IEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKL---GLGQASDYNYLAMGNC--ITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIY--KPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAET----RKRSP----------TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVL---GTHDD----WQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGF</Hsp_qseq>
+      <Hsp_hseq>EDMVDLPYLHEAAILFNLKARHIQGLPYTRTGDIVIALNPYQWLDDLYSEKKQNRYSQKLVWESHDSDPRQEIAPHVYETSALSYKGLAADGQNQSILVSGESGAGKTETVKICMNHIASVQAGPGSKHKKANKVVQRVVESNPLLEAFGNAKTRRNDNSSRFGKYIQLQFDRGDASVGERIPPCMLAGSKCDVYLLEKTRIVQHDENERTYHIFYQIL--AAEDSDKAAIWSGLRGKRNQDFKYVGKCAPLNYDGHTDDQHYYNTVKSLELIDIKDEKLMTLMRAITVVMQLGNIN-TGPLHGDYDKSTVTNRNELDDLSELIGIPSNDMIHALTERTMTTRGEVFKVPLKPDQAKDSCDAFAKEIYSKLFLWLVREINDATCAEKNYSGQRQADFTTIGLLDIFGFESFPVNGFEQLCINYANEKLQQKFTRDIFQTVQEEYKFEGIRLDDIMYDNNTDVLDLIEGRG-GLLAILNEECVRPKGSDREFVYKAKDTNKNSACLINDKLLGPMDFGIHHYAGKVVYFADGFLVRNQDAIAADLKEIAKKSSNDIIANHLDNDKSLNEENDTAARNMPPRRGKSGISNDTLWSKFKTQLNSLMKSLNETQSRYIRCIKPNTLKKPFILQHMTTVEQLRCAGVVAAVTISRSAFPNRLDHRACLERFKLLSKKKAKKSSKGDTKDEVTKMLERALRGMPSSDDGREPFVVGKTRVYFRAGALEFLESERMKGWDKWAIDIQRVTRGW</Hsp_hseq>
+      <Hsp_midline>EDM+ L  L+EA IL NL  R+   L YT TG I++A+NPYQ L  +YS +   +Y+ K +          E+ PH++  +   Y  +  + ++Q  ++SGESGAGKTE+ K+ +  +A++         + + + Q+V+E+ P+LEAFGNAKT RNDNSSRFGKYI + F++  A          + G+K + YLLEK+R+ +   +ER YH+FY +L   +ED  K     GL    + ++  +G C  +  +G  D Q Y N   +++++   D +   + + +  ++ LGN+        + D   V     L   + L+ +   D++  LT RT+ TRGE    PL  +QA D  DAF K IY +LF+W+V +IN A    K  S   +    +IGLLDIFGFE+F VN FEQLCIN+ANE LQQ F R +F+  QEEY  E I    I + +N D LD+I  +   ++++++EE   PKG+D   ++K    +K +A  I  K      FGI+H+AG V Y   GFL +N+D +  D+ ++   S N  I      D ++  E     R   P          TL S+FK  L  LM++L   Q  ++RCIKPN  KKP +      V QLR +G++  + I R+ +P R      +ER+++L         +GD +    +M E  L    + DD    + +GKT+++ +      LE ER K      I +Q+V RG+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|219129131|ref|XP_002184750.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002184750</Hit_accession>
+  <Hit_len>769</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>401.364</Hsp_bit-score>
+      <Hsp_score>1030</Hsp_score>
+      <Hsp_evalue>5.36904e-121</Hsp_evalue>
+      <Hsp_query-from>68</Hsp_query-from>
+      <Hsp_query-to>740</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>739</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>403</Hsp_positive>
+      <Hsp_gaps>86</Hsp_gaps>
+      <Hsp_align-len>749</Hsp_align-len>
+      <Hsp_qseq>EDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQ-LLSIYSPEHIRQY----------TNKKIGEMPPHIFAIADNCYFNMKRNSRD-----QCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQAS---DYNYLAMGNC-------ITCEGR-------VDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY----EARTFENL--DACEVLFSPS--LATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVK-NSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPK-NNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQ----------ADVAMGAETRKRS------PTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQ-----GDLR----GTCQRMAEAV--------LGTHDDWQIGKTKIFLKDHHDMLLEVER</Hsp_qseq>
+      <Hsp_hseq>DDLIALTHLHEPAVVESLQVRYAQNRIYTATGPVLLALNPFRNLRGLYGEAVMKSYWQSDDSGAPTTRDTSTSLPPHVYNIANQSFRNLMRCLEDGTNPHQSILVSGESGAGKTVSTKLVMKYLAALSHYRS-MGTQVLQSNPILESFGNARTTRNDNSSRFGKFVELQFSARGNLVGAQLETYLLEKVRVVHVGTGERNYHIFYELLQAHIDNRRTGNTLGSYSKNYDMSQLHLAPTATSRDFKLTCDGERSRRDGVADGQNFAALLQAMQTLRFSEQEIREIWRVTSSLLHASNLNFVPVRDLTTGETDPDDAC-ILDSTNVHLSSVCALLGVTEKELNQALCEVVLRAGKEEARKRMTAAQAQRGLEALIKATYGALFEYLVSRINDAIQGENSNESNAGSAATIGVLDIFGFESFQVNSFEQLCINYCNEALQQQFNAFVLRNEQAEYEKEGILWKFIEFPENQDVLDLIDKRGIGILHILDDQCRAPGPSDTSFGLQVYQMCANSSRFSATRAQKAHLQFAVHHYAGPVTYTAKGFTEKNRDELPTSTRTLFLSSESTFVQQLAHILEWAPNSNASASAFSVRSFQRSDSTVGRPTVAGQFQRQLKKLRSKIDQTSPHYIRCLKPNDCLLPDKFDVAVVAEQLRCGGILEAVRVARAGFTQHYPHSDFYRRYRVL------AWREMNKVGGRLRHSSSGNPLSAPSAIRPGRLFKDVCTNLGIQMGKSKVFLR--HSAFEALER</Hsp_hseq>
+      <Hsp_midline>+D+I L  L+E  ++ +L +RY  + IYT TG +L+A+NP++ L  +Y    ++ Y          T      +PPH++ IA+  + N+ R   D     Q  ++SGESGAGKT STKL++++LAA+S   S +  QVL++ PILE+FGNA+T RNDNSSRFGK++++ F+ RG + GA++E YLLEK RV      ERNYH+FY +L+   ++++    LG  S   D + L +          +TC+G         D Q +A +  AM+ L F++ E  EI ++ +++LH  NL +    +  T E    DAC +L S +  L++  +LL V   +L   L    L    E     ++  QA    +A +K  YG LF ++V +IN AI    S +    S  +IG+LDIFGFE+F VNSFEQLCIN+ NE LQQ F   V + EQ EY+ E I W  IEF +NQD LD+I  + + I+ ++D++ + P  +DT+   ++      ++ +   +      QF ++H+AG V Y  +GF EKNRD L      L  SS + F++Q+            +  A    + +RS      PT++ QF+R L+ L   +    P ++RC+KPN+   P  FD  +   QLR  G++E +R+ RAG+   Y   +F  RYRVL      A+++     G LR    G       A+        + T+   Q+GK+K+FL+  H     +ER</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|219118019|ref|XP_002179793.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002179793</Hit_accession>
+  <Hit_len>932</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>401.364</Hsp_bit-score>
+      <Hsp_score>1030</Hsp_score>
+      <Hsp_evalue>2.95158e-119</Hsp_evalue>
+      <Hsp_query-from>63</Hsp_query-from>
+      <Hsp_query-to>853</Hsp_query-to>
+      <Hsp_hit-from>80</Hsp_hit-from>
+      <Hsp_hit-to>932</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>431</Hsp_positive>
+      <Hsp_gaps>110</Hsp_gaps>
+      <Hsp_align-len>877</Hsp_align-len>
+      <Hsp_qseq>SVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKIGEMP---------PHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQH----------SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIE--------------GAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQAS----DYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATA-ASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRR--SIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGA------ETRKRSP-----------------TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVL-------LPGVKPA-YKQGDLRGTCQRMAEAVLGTH-DDWQ-------------IGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIAR</Hsp_qseq>
+      <Hsp_hseq>NLNEVEDMVDLPFLHEAAILYNLKTRHQQQKPYTRTGDIVIACNPYQWFERLYNEETRVHYSRSLVWDPPDGDPRQGLEPHIYEASALAYRGLAVDGEDQSILVSGESGAGKTESVKICLNHIASVQQGHAHGSDDVDFESPIVQRVLDSNPLLEAFGNAKTVRNDNSSRFGKYIRLQFDAEDPVDAAYAGRSVPSCRLAGSKCEVYLLEKSRVVTHEEEERTYHIFYQLL-AADEDVKTKIWGGLADTDNESFSYVGFTDTDTIEGNSDAERFQHTIDSLALIGIKDEKLMNLMRAICIVLQLGNLIFEKD--EKDDTHTAITSEDEFTALAELMDIPKDELLPALTIRTMRARNEEFKVPLNEVQSKDSCDAFAKEIYAKTFLWLVRAINDATCAELNYDGKKKANFAVIGLLDIFGFESFTTNRFEQLCINYANEKLQQKFTQDIFRSVQAEYETEGIELEEITYDDNTDVLDLVEGR-MGLLAVLNEECVRPGGSDRGFVSKVQAMNKESPCFLREKQFEECVFGVRHFAGRVIYDANGFVTKNMDTLPSDLQDCAKKSSNMILVHELSNEAMMNSLEVKTKKPRKSSPKVKKAPPAKRGSNLVGDTVWTKFKSQLTSLMTNLTKTRTRYIRCIKPNPLKAPLVMQHVSTIEQLRCAGVVAAVTISRSAFPNRLEHEAVLYRFKSLWGKGEQHLADLKVLDIDDPDLKS--RTLVDRLLGSALKDLQNQINDETLVKAFVIGNTRAYFRAGALEHLEAERVKKLGVWVVEIQKIARKYMVRARYGKMRFCTIALQSFARKRHARRTFTILRNASILLTCCM----IQTHWRMAIA--ITELKRCRK------------AAAVIQSIARGALQR</Hsp_hseq>
+      <Hsp_midline>+++ VEDM+ L  L+EA IL NL  R++    YT TG I++A NPYQ    +Y+ E    Y+   + + P         PHI+  +   Y  +  +  DQ  ++SGESGAGKTES K+ L  +A++   H          S I Q+VL++ P+LEAFGNAKT+RNDNSSRFGKYI + F+    ++              G+K E YLLEKSRV     +ER YH+FY +L    ED K K+  G A      ++Y+   +  T EG  D++ + +   ++ ++   D +   + + +  +L LGNL +E    E  D    + S    TA A L+++   +L+  LT RT+  R E    PL+  Q+ D  DAF K IY + F+W+V  IN A     + D K       IGLLDIFGFE+F  N FEQLCIN+ANE LQQ F + +F+  Q EY+ E I+   I + DN D LD++  + M ++++++EE   P G+D   + K+ + +K +  ++  K   E  FG+ HFAG V Y+  GF+ KN DTL  D+      S N  +      +  M +      + RK SP                 T+ ++FK  L  LM  L   +  ++RCIKPN  K P++      + QLR +G++  + I R+ +P R      + R++ L       L  +K       DL+   + + + +LG+   D Q             IG T+ + +      LE ER K +   V+ +QK+ R +  R+ + K++     +Q   R  + R+ + ++R   + L        +   +R+A    I    RCR             A   +Q+ ARG + R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|219113793|ref|XP_002186480.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002186480</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>374.785</Hsp_bit-score>
+      <Hsp_score>961</Hsp_score>
+      <Hsp_evalue>1.8834e-111</Hsp_evalue>
+      <Hsp_query-from>70</Hsp_query-from>
+      <Hsp_query-to>825</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>795</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>250</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>61</Hsp_gaps>
+      <Hsp_align-len>806</Hsp_align-len>
+      <Hsp_qseq>MIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLL-SIYSPEHIRQYTNK-KIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW-------------IEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGA----------IEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGL----GQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSP--SLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAE------TRKRS--PTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPG-VKPAYKQGDLRGTCQRMAEAVLG------THDDWQI----GKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCR</Hsp_qseq>
+      <Hsp_hseq>MAELQFLHEAAVLYQIKARHASQRPYTRVGDIVVAVNPYTWIEGLYDPAQQALYANRLTLRQYPPHVYEISALAYRGMIQEGKNQTIIVSGESGAGKTETVKIVVQHLAML--EHTAPSVSVDTNPASLDIVRHVVESSPLFEAFGNAMTTKNSNGSRFGKVTRLHFAPDWTADTQDTFCYNLKGSSYQTYLLETNRIVYQTAGERSFHIFYQLLSASSDLKRTMLGEEWIDATEKDFCYLGEPRECQVDGHSDAQSFIKTLHALELFGWEGDALQSLFGALGAVLRIGNL-----TFQEQEEGEAIVSSDTALRLLADAVGLSTTDLESAFTHLIIKANNDTIEVPLSAEISKNTTDALAKQMYSFIFDSVVMKVNQWTASSKSSEAEAA---ISLVDICGFESFETNRFDQLCINYANEKLQHKYVQDNLLKKRVEHEREEIELFDTTLMDNSDILDLIEGRE-GLINVMNEECMRPNGNNKTFVFKLTNVHRKNARFLRKKLDRSTQFGISHFAGDVMYDASEFIERNTDKVPESLLTLFTKSSNVLIREQFVAFLQKSEEKRSTRATRKKSTVTTVLDKFRVSLKDLMLTMSDTHTRYIRCIKPNDTMSIAIADHLLTVKQLQCAGLVTAIDLTRESFPNKYSFSTAVQRFHSLMNSEQKHDLKDMKLHDKAQYMMSSLFTPLIEQYRNSDFTMPFVCGKTKIFFRSGALEVLETQRRELHFMKASILQQQIRGIQSRSNYRRMKFAVISSQAAYRGKTKRSEFRRAQQSIILLQAWARRSRTQRKYLRLKRAVVVLQMRAR</Hsp_hseq>
+      <Hsp_midline>M  L  L+EA +L  +  R+     YT  G I+VAVNPY  +  +Y P     Y N+  + + PPH++ I+   Y  M +  ++Q  I+SGESGAGKTE+ K+++Q LA +  +H+              I + V+E++P+ EAFGNA T +N N SRFGK   +HF               ++G+  + YLLE +R+  Q   ER++H+FY +L   S+ ++  LG         D+ YL        +G  D+Q +     A+++  +       +   L A+L +GNL     TF+  +  E + S   +L   A  + ++  DL S  T   +    +T+  PLS E + +  DA  K +Y  +F  +V K+N       S + + +   I L+DI GFE+F  N F+QLCIN+ANE LQ  +V+     ++ E++ E I+       DN D LD+I  +   +I++++EE   P G + T + KL + H+ NA ++  K +  TQFGI+HFAG V Y+   F+E+N D +   ++ L   S N  I++ F A +    E      TRK+S   T+  +F+ SL+ LM T+      ++RCIKPN+     + D  L V+QL+ +G++  I + R  +P +YSF   V+R+  L+    K   K   L    Q M  ++         + D+ +    GKTKIF +     +LE +R +    +  +LQ+ IRG + RSN+ ++K A    Q  +RG   R  +   +   + LQA  R  +  ++Y   ++ ++  Q R R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|219114485|ref|XP_002176413.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002176413</Hit_accession>
+  <Hit_len>721</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>355.91</Hsp_bit-score>
+      <Hsp_score>912</Hsp_score>
+      <Hsp_evalue>5.9098e-106</Hsp_evalue>
+      <Hsp_query-from>34</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>720</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>85</Hsp_gaps>
+      <Hsp_align-len>717</Hsp_align-len>
+      <Hsp_qseq>GQVQVVDDEDNEHWISP-QNATHIKPMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLL-SIYSPEHIRQYTNKKIGE---------MPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAIS------GQHSWIE---QQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIE--------------GAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKK---KLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFT--------------------DTENWEISKLLA------AILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRS----IGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFI----KQIFQADVAMGAETRKRS----PTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIR</Hsp_qseq>
+      <Hsp_hseq>GQQQTIDLKEYPSKVLPLQNVDH-----NGNLTAYPDMVRLPYLHEAGILYNLKERHLSGKPYTRTGDIVIAVNPFQWFHDLYTEKKRVYYSNRLVWEAADQDPRDSMEPHVYEVSSLSYKGLAFEMMNQSILVSGESGAGKTETVKICMNHMASVQKGPIRPGMEESLDPVVQRVVESNPLLEAFGNAKTRRNDNSSRFGKYLQLQFDNSKMKESSLTSRSVSNCLLAGSKCDVYLLEKNRVCVHDDWERTYHIFYQLLAAPDDVKGKFWSKLKGTSNKSFKYVGETDTKKIEGQTDAEHFQHTINTLELIGISGDKLKTLSDGEHFANTVKTLDLINIRGDKLVAMMRAICAVLQLGNLGFNAKNGD-ADKSAVATIEELRDLAELMGVEEKDLTLAFTERTMKTKTEEYKVPLNAVAAKDACDALAKEIYGKLFLWLVSEINTATC--AEDNYKNGSMSNFGIIGLLDIFGFESFVVNRFEQLCINYANEKLQQKFTEDIFRSVQTEYEAEGIELAEIWYDDNTDVLDLIEGRT-GLLALLNEECVRPQGSDQAFVQKALQVNNASQCLIVNKMDRMS-FGIHHYAGKVMYDADQFVSSNQDTLPTDLSDLCSMSTNFVIANEMAKVEAANMTRGTPRRQKSNLVAPTAWGKYKTQLLSLMTNLRKTESRYIRCIKPNMKKVPVLMEHIPTVEQLRCAGVVAAVTLSRSAFPNR</Hsp_hseq>
+      <Hsp_midline>GQ Q +D ++    + P QN  H       ++    DM+RL  L+EAGIL NL  R+     YT TG I++AVNP+Q    +Y+ +    Y+N+ + E         M PH++ ++   Y  +     +Q  ++SGESGAGKTE+ K+ +  +A++       G    ++   Q+V+E+ P+LEAFGNAKT RNDNSSRFGKY+ + F+     E              G+K + YLLEK+RVC     ER YH+FY +L    + + K   KL       + Y+   +    EG+ D++ + +  + ++++  +                    D  N    KL+A      A+L LGNL + A+  +  D   V     L   A L+ V   DL    T RT+ T+ E    PL+   A D  DA  K IYG+LF+W+V +IN A       + KN   S    IGLLDIFGFE+F VN FEQLCIN+ANE LQQ F   +F+  Q EY+ E I+   I + DN D LD+I  +   +++L++EE   P+G+D   + K    +  +   I  K +  + FGI+H+AG V Y+   F+  N+DTL  D+  L   S N  I     ++  A++  G   R++S    PT   ++K  L  LM  L   +  ++RCIKPN  K P+L +    V QLR +G++  + + R+ +P R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_186848</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_186849</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_186850</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_186851</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|219114091|ref|XP_002176223.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1] &gt;gi|219114156|ref|XP_002176252.1| predicted protein, partial [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002176223</Hit_accession>
+  <Hit_len>90</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>4.24967e-08</Hsp_evalue>
+      <Hsp_query-from>37</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>LWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>LQAASENDKTLLECLLNDGVDVTHADASGETALHLAADKGSLDCLQALLEHGANVNATDQDGISVLQAAVIAGHVEICRLL</Hsp_hseq>
+      <Hsp_midline>L AA   +   L  +++ G D    D  G T LHLAA  G L CL  L+  GAN+   D D  + L  A + GH+E  R L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|219110973|ref|XP_002177238.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002177238</Hit_accession>
+  <Hit_len>449</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.3654</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>5.05902e-06</Hsp_evalue>
+      <Hsp_query-from>65</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>271</Hsp_hit-from>
+      <Hsp_hit-to>324</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>54</Hsp_align-len>
+      <Hsp_qseq>GNTPLHLAASNGHLHCLSFLV-SFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>GKTCLHYAARNGHLNCIRFLVEQEGCKVDDTSGDGTSPLHLACFGGYLEVVKYL</Hsp_hseq>
+      <Hsp_midline>G T LH AA NGHL+C+ FLV   G  +     D  +PL +A   G++E V+YL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|219113986|ref|XP_002176175.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002176175</Hit_accession>
+  <Hit_len>839</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.3654</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>5.27215e-06</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>330</Hsp_hit-from>
+      <Hsp_hit-to>428</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDY-HTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>APERLLEARDSTGCTPLLIAAQYGQVETVAYLIQKGANKAAKDDSHDTATHWAAYKGSPTVLGLLLYYDVRPLTAPDVYGQTPLHLAALRGHASACRYM</Hsp_hseq>
+      <Hsp_midline>A  + L A D  G TP L AA +G +E++  ++ +G +    D   +T  H AA  G    L  L+ +        + Y  TPL +AA++GH    RY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|219124471|ref|XP_002182526.1|</Hit_id>
+  <Hit_def>predicted protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002182526</Hit_accession>
+  <Hit_len>783</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.3654</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>6.20574e-06</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>412</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPD-KCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>DGHGNTPLHWAAFKNETECVNLLLRYGSDPNARAHPSGWTPLHDAAYSNSRECIALLMDAGALVDARANSGATPLCFAAQEDSAEAAALL</Hsp_hseq>
+      <Hsp_midline>D  G TP  WAA+    E + L++  G DP+ +    G TPLH AA +    C++ L+  GA +    N   TPL  AA +   E    L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_186852</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|219129760|ref|XP_002185049.1|</Hit_id>
+  <Hit_def>calmoduline [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002185049</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>1.20919e-09</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>146</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELMDMIQEIDADGSGTIDFPEFLTMMARKMKDTDSEEEILEAFKVFDKDGNGFISAAELRHIMTNLGEKLTDEE-----VDEMIREADIDGDGQINYEEFVKMM</Hsp_hseq>
+      <Hsp_midline>M  L +NP +  ++    E   DG G + F +F+ M +   +    E +   AFK++D + + FI   +L   +  L +   DEE      D++I EAD+DGDG++ + +F  M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|219113539|ref|XP_002186353.1|</Hit_id>
+  <Hit_def>calcium binding protein [Phaeodactylum tricornutum CCAP 1055/1]</Hit_def>
+  <Hit_accession>XP_002186353</Hit_accession>
+  <Hit_len>132</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>3.27773e-08</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>117</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKER---IVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANY--AFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MTKLGEQPNDEELEDIVKAVDLNGDGAIDFEEFISMMRLRMDERNQDPEEDLREAFNMFDADGSGFIDRNEVRMLMKKLAQTLTDDE-----IDAIMEIVDVDGDGEISFEEFKNMM</Hsp_hseq>
+      <Hsp_midline>M +L E P  E    IV A   +G+G + F +F+ M  +  +   ++ + +   AF ++D +   FI + ++ + + +L ++  D+E      D ++E  D+DGDG++ F +F++M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_186853</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_186854</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_186855</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_186856</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_186857</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>10500</Statistics_db-num>
+      <Statistics_db-len>4848019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

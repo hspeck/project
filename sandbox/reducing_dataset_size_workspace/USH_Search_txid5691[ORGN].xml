@@ -1,0 +1,858 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_157435</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_157435</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|72388128|ref|XP_844488.1|</Hit_id>
+  <Hit_def>myosin IB heavy chain [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_844488</Hit_accession>
+  <Hit_len>1167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>433.335</Hsp_bit-score>
+      <Hsp_score>1113</Hsp_score>
+      <Hsp_evalue>9.15747e-128</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>768</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>740</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>73</Hsp_gaps>
+      <Hsp_align-len>752</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQ-LLSIYSPEHIRQYTNKKIGEMP-----PHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG---QHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAA-----SLLEVNPPDLMSC--------------LTSRTL-ITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIAN-KPMNIISLIDE-----ESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIF-----------QADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDD--WQIGKTKIFLKD-HHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLK</Hsp_qseq>
+      <Hsp_hseq>GVEDLVLLPQLSDKAIMENLKLRHSKDLIYTSIGSVLLSVNPFKNIPNLYSDECVAYFRNGGKGEGSGSYGGPHIFGLAEETYRTMVSDGENQCVIISGESGAGKTEASKHIMRYISAVSGDTEEMQRVKHIILASNPVLEAFGNAKTVRNDNSSRFGKFFEIFFDQMGGPIGGRLSNFLLEKSRVVSQQKGERNFHVFYQMCCGAKPELREKLRLRDPGNFAYLNQGGVHDRSGIDDVRGWEEMLTSMETLMLTPEKQQAIFETLSLILHLGELQFGP--------------PSSASAAGGDSNTLVVSNRDELEFCAGLLGADAAAMEKAFTKRRLAMGANEVVDVPLDAQQCRNTRDAMAKTLYHYLFDFVVDSVNTALGK------KQYDLMLGVLDIYGFEVFNKNGFEQFCINYVNEKLQQIFIELTLKVEQEEYVREKIPWEEIKYFNNKVVCDLIEGMQPPGLFPIFDDVCATMAKEKESVADIKMLDKLDAVHAGNRHF----NRTERGFFVKHYAGDVHYDADGFTNRNKDTLSPDLIGLLRSVTNRFILDILAETLNEAAEAESAAVSGAGGRKKRSTTAGSKIRQQAGHLVKTLMACNPHYLRTIKSNDEKRADFIDEARVQHQVKYLGLLENLRVRRAGYSYRKHFDKFIKRFKYLSSATFPRPFKGSDRDACAAILKQVGGRLPDGSWQLGQQKLFIRQPQHLSILEELRDAALSDIVYKIQRAWRRYLQNKHGILLK</Hsp_hseq>
+      <Hsp_midline>GVED++ L  L++  I+ NL +R+   LIYT  GS+L++VNP++ + ++YS E +  + N   GE       PHIF +A+  Y  M  +  +QC IISGESGAGKTE++K I+++++A+SG   +   ++  +L + P+LEAFGNAKT+RNDNSSRFGK+ +I F++ G   G ++  +LLEKSRV  Q   ERN+HVFY M  G   + ++KL L    ++ YL  G      G  D + +  + ++M+ LM T  +   I + L+ ILHLG LQ+                PS A+AA     +L+  N  +L  C               T R L +   E V  PL  +Q  + RDA  K +Y  LF ++VD +N A+ K      K     +G+LDI+GFE F  N FEQ CIN+ NE LQQ F+    K+EQEEY  E I W  I++ +N+   D+I   +P  +  + D+       +     D  ML KL++ H  N ++    N  E  F + H+AG V+Y+  GF  +N+DTL  D+I L+ S  N+FI  I             A V+     +KRS T  S+ ++    L++TL AC P ++R IK N+ K+    D      Q++Y G++E +R+RRAGY  R  F +F++R++ L     P   +G  R  C  + + V G   D  WQ+G+ K+F++   H  +LE  RD A++D V  +Q+  R +    + + LK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|788002222|ref|XP_011772926.1|</Hit_id>
+  <Hit_def>myosin IB heavy chain, putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011772926</Hit_accession>
+  <Hit_len>1167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>432.18</Hsp_bit-score>
+      <Hsp_score>1110</Hsp_score>
+      <Hsp_evalue>2.84196e-127</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>768</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>740</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>45</Hsp_gaps>
+      <Hsp_align-len>738</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQ-LLSIYSPEHIRQYTNKKIGEMP-----PHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG---QHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY---EARTFENLDACEVLFS--PSLATAASLLEVNPPDLMSCLTSRTL-ITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIAN-KPMNIISLIDE-----ESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIF-----------QADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDD--WQIGKTKIFLKD-HHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLK</Hsp_qseq>
+      <Hsp_hseq>GVEDLVLLPQLSDKAIMENLKLRHSKDLIYTSIGSVLLSVNPFKNIPNLYSDECVAYFRNGGKGEGSGSYGGPHIFGLAEETYRTMVSDGENQCVIISGESGAGKTEASKHIMRYISAVSGDTEEMQRVKHIILASNPVLEAFGNAKTVRNDNSSRFGKFFEIFFDQMGGPIGGRLSNFLLEKSRVVSQQKGERNFHVFYQMCCGAKPELREKLRLRDPGNFAYLNQGGVHDRSGIDDVRGWEEMLTSMETLMLTPEKQQAIFETLSLILHLGELQFGPPSSASVAGGDSNTLVVSNRDELEFCAGLLGADAAAMEKAFTKRRLAMGANEVVDVPLDAQQCRNTRDAMAKTLYHYLFDFVVDSVNTALGK------KQYDLMLGVLDIYGFEVFNKNGFEQFCINYVNEKLQQIFIELTLKVEQEEYVREKIPWEEIKYFNNKVVCDLIEGMQPPGLFPIFDDVCATMAKEKESVADIKMLDKLDAVHAGNRHF----NRTERGFFVKHYAGDVHYDADGFTNRNKDTLSPDLIGLLRSVTNRFILDILAETLNEAAEAESAAVSGAGGRKKRSTTAGSKIRQQAGHLVKTLMACNPHYLRTIKSNDEKRADFIDEARVQHQVKYLGLLENLRVRRAGYSYRKHFDKFIKRFKYLSSATFPRPFKGSDRDACAAILKQVGGRLPDGSWQLGQQKLFIRQPQHLSILEELRDAALSDIVYKIQRAWRRYLQNKHGILLK</Hsp_hseq>
+      <Hsp_midline>GVED++ L  L++  I+ NL +R+   LIYT  GS+L++VNP++ + ++YS E +  + N   GE       PHIF +A+  Y  M  +  +QC IISGESGAGKTE++K I+++++A+SG   +   ++  +L + P+LEAFGNAKT+RNDNSSRFGK+ +I F++ G   G ++  +LLEKSRV  Q   ERN+HVFY M  G   + ++KL L    ++ YL  G      G  D + +  + ++M+ LM T  +   I + L+ ILHLG LQ+    + +    D+  ++ S    L   A LL  +   +    T R L +   E V  PL  +Q  + RDA  K +Y  LF ++VD +N A+ K      K     +G+LDI+GFE F  N FEQ CIN+ NE LQQ F+    K+EQEEY  E I W  I++ +N+   D+I   +P  +  + D+       +     D  ML KL++ H  N ++    N  E  F + H+AG V+Y+  GF  +N+DTL  D+I L+ S  N+FI  I             A V+     +KRS T  S+ ++    L++TL AC P ++R IK N+ K+    D      Q++Y G++E +R+RRAGY  R  F +F++R++ L     P   +G  R  C  + + V G   D  WQ+G+ K+F++   H  +LE  RD A++D V  +Q+  R +    + + LK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|74026244|ref|XP_829688.1|</Hit_id>
+  <Hit_def>myosin [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_829688</Hit_accession>
+  <Hit_len>1059</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>396.356</Hsp_bit-score>
+      <Hsp_score>1017</Hsp_score>
+      <Hsp_evalue>4.29225e-116</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>729</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>745</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>257</Hsp_identity>
+      <Hsp_positive>405</Hsp_positive>
+      <Hsp_gaps>62</Hsp_gaps>
+      <Hsp_align-len>744</Hsp_align-len>
+      <Hsp_qseq>IGAVVKLC--DSGQVQVVDDEDNEHWISPQNATHIKPMHPTSVHGV---------EDMIRLGDLNEAGILRNLLIRYRD-HLIYTYTGSILVAVNPYQLLSIYSPEHIRQY-TNKKIGEMPPHIFAIADNCYFNM-KRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW--IEQQVLE--------ATPILEAFGNAKTIRNDNSSRFGKYIDIHFNK-RGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLG-LGQASDYNYLAMGNC-----ITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKL-NSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPA--YKQGDLRGTCQRMAEAVLGTHD----DWQIGKTKIFLK</Hsp_qseq>
+      <Hsp_hseq>IRGVVKAVPEGSGKVQVED----------AASGNVETIPLTRVHGYIPQAFDAENPDLFHLNDLHVAPALHCIKQRFEELHLQYSLLGEVVLSVNPFQPMPFNTDKNREKYLTSPNQRLLPPHVWQVAHRAYVQIIVRGLRNQSVVISGESGSGKTETTKMLVGYLGQMSHQRSGNPMQRRVADKVSDSLEWSNPVLESFGNARTLRNHNSSRFGKYIKLYFDSVSGVMVGGKVSTYLLEKSRIVRQASGERNYHIFYEMLAGLSPEEKAELGGLKTSADYKCLRVGNTFDRRGVDGETLNDAEEFSKVRKALTNLGIANNTSRSMFKILAAILHL--LELEFTSDQNDKACIVDEGPFLA-ACGLLQVDPKLLRECFLVKSSTS---IVTIHANKREAEGFCGAFCKAIYVGLFDLLVKLVNASI---APQESTNECKYIGLLDIFGFENFSTNGFEQLCINYANDVLQNHYNKYTFLNDEAECKSEGVSIPEVAFPDNTECIGMFEQKRFGIFALLDNECNYKAGTSERFTQNVWDHWRTLNTFFVLPKSTVPNQFGVRHYASFVNYTTGDWLEKNTDGIKHEVYQTVSNSADAFIRSLF----SDGPVLNDRKHTVGLRFQNQLTALREELELTETQFVRCIKPNMSASPHLFENVLVSNQLESTSLLQTIKLKRQGYPVRRSIHDFCRYFFLIMPR-SPAELYKRHCIEEAAKTMLAVYQKLYDWATPNFAVGRTKVFLR</Hsp_hseq>
+      <Hsp_midline>I  VVK     SG+VQV D            + +++ +  T VHG           D+  L DL+ A  L  +  R+ + HL Y+  G ++++VNP+Q +   + ++  +Y T+     +PPH++ +A   Y  +  R  R+Q  +ISGESG+GKTE+TK+++ +L  +S Q S   ++++V +        + P+LE+FGNA+T+RN NSSRFGKYI ++F+   G + G K+  YLLEKSR+ RQA  ERNYH+FY ML G+S ++K +LG L  ++DY  L +GN      +  E   D++E++ +R A+  L   +  +  + K+LAAILHL  L+ E  + +N  AC V   P LA A  LL+V+P  L  C   ++  +    V+   ++ +A     AF K IY  LF  +V  +NA+I     Q+  N  + IGLLDIFGFENF+ N FEQLCIN+AN+ LQ  + ++ F  ++ E   E +    + F DN + + M   K   I +L+D E  +  GT       + +    LN  ++ PK+    QFG+ H+A  V Y T  +LEKN D +  ++ Q V +S + FI+ +F    + G     R  T+  +F+  L  L   L   +  FVRCIKPN    P LF+  L   QL  + +++TI+++R GYP+R S  +F   + +++P   PA  YK+  +    + M       +D    ++ +G+TK+FL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|788028270|ref|XP_011780975.1|</Hit_id>
+  <Hit_def>myosin heavy chain, putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011780975</Hit_accession>
+  <Hit_len>1059</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>390.578</Hsp_bit-score>
+      <Hsp_score>1002</Hsp_score>
+      <Hsp_evalue>3.74126e-114</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>729</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>745</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>251</Hsp_identity>
+      <Hsp_positive>400</Hsp_positive>
+      <Hsp_gaps>62</Hsp_gaps>
+      <Hsp_align-len>744</Hsp_align-len>
+      <Hsp_qseq>IGAVVKLC--DSGQVQVVDDEDNEHWISPQNATHIKPMHPTSVHGV---------EDMIRLGDLNEAGILRNLLIRYRD-HLIYTYTGSILVAVNPYQLLSIYSPEHIRQY-TNKKIGEMPPHIFAIADNCYFNM-KRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW--IEQQVLE--------ATPILEAFGNAKTIRNDNSSRFGKYIDIHFNK-RGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLG-LGQASDYNYLAMGNC-----ITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKL-NSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPA--YKQGDLRGTCQRMAEAVLGTHD----DWQIGKTKIFLK</Hsp_qseq>
+      <Hsp_hseq>IRGVVKAVPEGSGKVQVED----------AASGNVETIPITRVHGYIPQAFDAENPDLFHLNDLHVAPALHCIKQRFEELHLQYSLLGEVVLSVNPFQPMPFNTDKNREKYLTSPNQRLLPPHVWQVAHRAYVQIIVRGLRNQSVVISGESGSGKTETTKMLVGYLGQMSHQRSGNPMQRRVADKVSDSLEWSNPVLESFGNARTLRNHNSSRFGKYIKLYFDSVSGVMVGGKVSTYLLEKSRIVRQASGERNYHIFYEMLAGLSPEEKAELGGLKTSADYKCLRVGNTFDRRGVDGETLNDAEEFSKVRKALTNLGIANNTSRSMFKILAVILHLLELEF---TSDQNDKAYIVDEGPFLTACGLLQVDPKLLRECFLVKS---STNIVTIHANKREAEGFCGAFCKAIYVGLFDRLVKLVNASI---APQESTNECKYIGLLDIFGFENFSTNGFEQLCINYANDVLQNHYNKYTFLNDEAECKSEGVSIPEVAFPDNTECIGMFEQKRFGIFALLDNECNYKTGTSERFTQNVWDHWRTLNTFFVLPKSTVPNQFGVRHYASFVNYTTGDWLEKNTDGIKHEVYQTVSNSADTFIRSLF----SDGPVLNDRKHTVGLRFQNQLTALREELELTETQFVRCIKPNMSASPHLFENVLVSNQLESTSLLQTIKLKRQGYPVRRSIHDFCRYFFLIMPR-SPAELYKRHCIEEAAKTMLAVYQKLYDWASPNFAVGRTKVFLR</Hsp_hseq>
+      <Hsp_midline>I  VVK     SG+VQV D            + +++ +  T VHG           D+  L DL+ A  L  +  R+ + HL Y+  G ++++VNP+Q +   + ++  +Y T+     +PPH++ +A   Y  +  R  R+Q  +ISGESG+GKTE+TK+++ +L  +S Q S   ++++V +        + P+LE+FGNA+T+RN NSSRFGKYI ++F+   G + G K+  YLLEKSR+ RQA  ERNYH+FY ML G+S ++K +LG L  ++DY  L +GN      +  E   D++E++ +R A+  L   +  +  + K+LA ILHL  L++   T +  D   ++      TA  LL+V+P  L  C   ++       V+   ++ +A     AF K IY  LF  +V  +NA+I     Q+  N  + IGLLDIFGFENF+ N FEQLCIN+AN+ LQ  + ++ F  ++ E   E +    + F DN + + M   K   I +L+D E  +  GT       + +    LN  ++ PK+    QFG+ H+A  V Y T  +LEKN D +  ++ Q V +S + FI+ +F    + G     R  T+  +F+  L  L   L   +  FVRCIKPN    P LF+  L   QL  + +++TI+++R GYP+R S  +F   + +++P   PA  YK+  +    + M       +D    ++ +G+TK+FL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_157436</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_157437</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_157438</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|72392841|ref|XP_847221.1|</Hit_id>
+  <Hit_def>hypothetical protein [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_847221</Hit_accession>
+  <Hit_len>370</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>6.27568e-07</Hsp_evalue>
+      <Hsp_query-from>1732</Hsp_query-from>
+      <Hsp_query-to>1833</Hsp_query-to>
+      <Hsp_hit-from>82</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>107</Hsp_align-len>
+      <Hsp_qseq>ENFAHPPNISPSACPLPP-----PPPISPPSPPPAPAPLAPPPDISPFSLFCPPPSPPSIPLPLPPPTFFPLSVSTSGPPTPPLLPPFPTPLPPPPPSIPCPPPPSA</Hsp_qseq>
+      <Hsp_hseq>DNGKQPPPPAGYGQPPPPAGYGQPPPPAGYGQPPPPAGYGQPP---PPAGYGQPPPPAGYGQP-PPPAGYGQPPPPAGYGQPP--PPAGYGQPPPPAGYGQPPPPAG</Hsp_hseq>
+      <Hsp_midline>+N   PP  +    P PP     PPP +    PP PA    PP   P + +  PP P     P PPP  +      +G   PP  PP     PPPP     PPPP+ </Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>6.67155e-07</Hsp_evalue>
+      <Hsp_query-from>1734</Hsp_query-from>
+      <Hsp_query-to>1833</Hsp_query-to>
+      <Hsp_hit-from>93</Hsp_hit-from>
+      <Hsp_hit-to>191</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>FAHPPNISPSACPLPP-----PPPISPPSPPPAPAPLAPPPDISPFSLFCPPPSPPSIPLPLPPPTFFPLSVSTSGPPTPPLLPPFPTPLPPPPPSIPCPPPPSA</Hsp_qseq>
+      <Hsp_hseq>YGQPPPPAGYGQPPPPAGYGQPPPPAGYGQPPPPAGYGQPP---PPAGYGQPPPPAGYGQP-PPPAGYGQPPPPAGYGQPP--PPAGYGQPPPPAGYGQPPPPAG</Hsp_hseq>
+      <Hsp_midline>+  PP  +    P PP     PPP +    PP PA    PP   P + +  PP P     P PPP  +      +G   PP  PP     PPPP     PPPP+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|788008515|ref|XP_011774888.1|</Hit_id>
+  <Hit_def>LOW QUALITY PROTEIN: hypothetical protein, conserved [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011774888</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.7582</Hsp_bit-score>
+      <Hsp_score>125</Hsp_score>
+      <Hsp_evalue>1.01897e-06</Hsp_evalue>
+      <Hsp_query-from>1742</Hsp_query-from>
+      <Hsp_query-to>1834</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>95</Hsp_align-len>
+      <Hsp_qseq>PSACPLPPPPPISPPSPPPAPAPLAPPPDISPFSLFCPPPSPPSIPLPLPPPTFFPLSVSTSGPPTPPL--LPPFPTPLPPPPPSIPCPPPPSAS</Hsp_qseq>
+      <Hsp_hseq>PPLAAVPQPPMAGVPQPPMAAVP-QPPMAAVPQPPMAAVPQPPMAAVPQPPMAAVP-QPPMAAVPQPPMAAVPQPPMAAVPQPPMAAVPQPPMAA</Hsp_hseq>
+      <Hsp_midline>P    +P PP    P PP A  P  PP    P       P PP   +P PP    P     +  P PP+  +P  P    P PP    P PP A+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>51.6026</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>2.48589e-06</Hsp_evalue>
+      <Hsp_query-from>1747</Hsp_query-from>
+      <Hsp_query-to>1834</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>LPPPPPISPPSPPPAPAPLAPPPDISPFSLFCPPPSPPSIPLPLPPPTFFPLSVSTSGPPTPPL--LPPFPTPLPPPPPSIPCPPPPSAS</Hsp_qseq>
+      <Hsp_hseq>MPDPPLAAVPQPPMAGVP-QPPMAAVPQPPMAAVPQPPMAAVPQPPMAAVP-QPPMAAVPQPPMAAVPQPPMAAVPQPPMAAVPQPPMAA</Hsp_hseq>
+      <Hsp_midline>+P PP  + P PP A  P  PP    P       P PP   +P PP    P     +  P PP+  +P  P    P PP    P PP A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_157439</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|71755303|ref|XP_828566.1|</Hit_id>
+  <Hit_def>hypothetical protein [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_828566</Hit_accession>
+  <Hit_len>392</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.299</Hsp_bit-score>
+      <Hsp_score>129</Hsp_score>
+      <Hsp_evalue>4.66291e-08</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>159</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>111</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECV</Hsp_qseq>
+      <Hsp_hseq>HFAAFNGDLDMLYMLLEYKPTLSLKNYDGNTPLIMAAKVRQHEAIKVLVDAGADVNFRTPTGGTAAHFAASMGHVDTVRYLVGLGADVMHVDCETGSLLHWAAHSGDVDCL</Hsp_hseq>
+      <Hsp_midline>H AA +G L++L      +  L+  + DG TP + AA     E+++++V  G D +     G T  H AAS GH+  + +LV  GA++  +D +  + L  AA  G ++C+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|788023546|ref|XP_011779699.1|</Hit_id>
+  <Hit_def>hypothetical protein, conserved [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011779699</Hit_accession>
+  <Hit_len>392</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.9138</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>5.46728e-08</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>159</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>111</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKE--ATRKELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECV</Hsp_qseq>
+      <Hsp_hseq>HFAAFNGDLDMLYMLLEYKPTLSLKNYDGNTPLIMAAKVRQHEAIKVLVDAGADVNFRTPTGGTAAHFAASMGHVDTVRYLVGLGADVMHVDCETGSLLHWAAHSGDVDCL</Hsp_hseq>
+      <Hsp_midline>H AA +G L++L      +  L+  + DG TP + AA     E+++++V  G D +     G T  H AAS GH+  + +LV  GA++  +D +  + L  AA  G ++C+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|72390567|ref|XP_845578.1|</Hit_id>
+  <Hit_def>hypothetical protein [Trypanosoma brucei brucei TREU927] &gt;gi|788006480|ref|XP_011774250.1| hypothetical protein, conserved [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_845578</Hit_accession>
+  <Hit_len>413</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>2.15576e-07</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>162</Hsp_hit-from>
+      <Hsp_hit-to>265</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATR--KELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAM</Hsp_qseq>
+      <Hsp_hseq>HKSASDGDVRVSKWLVEHGAEVDQKDADDTTPLLMAVKMGKPDVAEYLIKQDANRDQADSHGNRPVHYCAIRCDYKILKILIDAGATVNVQNNDLNNPLHLAAI</Hsp_hseq>
+      <Hsp_midline>H++A DG + + K       E++  D D  TP L A   G  +    ++ +  + D+ D  GN P+H  A       L  L+  GA +   +ND + PL +AA+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|72390982|ref|XP_845785.1|</Hit_id>
+  <Hit_def>6-phosphofructo-2-kinase/fructose-2,6-biphosphatase [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_845785</Hit_accession>
+  <Hit_len>648</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>2.97706e-07</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>126</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>158</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>GNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSS</Hsp_qseq>
+      <Hsp_hseq>GDTVGIRVLLSGGADCNCVDYHGRTPLHLACLMGHVTVARVLLEFGADVTATDKEGKTPMDLAVRSDTREIVELLMSHCICDSS</Hsp_hseq>
+      <Hsp_midline>G+   +R+++S G D +  D  G TPLHLA   GH+     L+ FGA++   D +  TP+D+A      E V  L S     SS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|788007190|ref|XP_011774472.1|</Hit_id>
+  <Hit_def>6-phosphofructo-2-kinase/fructose-2,6-biphospha tase,putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011774472</Hit_accession>
+  <Hit_len>653</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>2.98654e-07</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>126</Hsp_query-to>
+      <Hsp_hit-from>80</Hsp_hit-from>
+      <Hsp_hit-to>163</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>GNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSS</Hsp_qseq>
+      <Hsp_hseq>GDTVGIRVLLSGGADCNCVDYHGRTPLHLACLMGHVTVARVLLEFGADVTATDKEGKTPMDLAVRSDTREIVELLMSHCICDSS</Hsp_hseq>
+      <Hsp_midline>G+   +R+++S G D +  D  G TPLHLA   GH+     L+ FGA++   D +  TP+D+A      E V  L S     SS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|71745818|ref|XP_827539.1|</Hit_id>
+  <Hit_def>hypothetical protein [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_827539</Hit_accession>
+  <Hit_len>179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.9802</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>2.40181e-06</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>128</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>132</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKEATRKELNAPDEDGMTPTLW--AAYHGNLESLRLIVSRGG---------DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLN</Hsp_qseq>
+      <Hsp_hseq>ACRNGNEARVEEYVRHGGSVVEYDKFRMTLLHHAAYSGNIRVVDFILSAQCSGQQQQQRIDLDAADADGWTPLHYAADRGFVSITARLLEEGANVNAKDGMKRTPLHLAATSGRVDVVKLLLSSGAMRGVKN</Hsp_hseq>
+      <Hsp_midline>A R+G    ++E  R   +  + D    TL   AAY GN+  +  I+S            D D  D  G TPLH AA  G +   + L+  GAN+   D    TPL +AA  G ++ V+ L S  A +   N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|788015249|ref|XP_011777000.1|</Hit_id>
+  <Hit_def>ankyrin repeat protein, putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011777000</Hit_accession>
+  <Hit_len>179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.9802</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>2.4941e-06</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>128</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>132</Hsp_align-len>
+      <Hsp_qseq>AARDGYLELLKEATRKELNAPDEDGMTPTLW--AAYHGNLESLRLIVSRGG---------DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLN</Hsp_qseq>
+      <Hsp_hseq>ACRNGNEARVEEYVRHGGSVVEYDKFRMTLLHHAAYSGNIRVVDFILSAQCSGQQQQQRIDLDAADADGWTPLHYAADRGFVSITARLLEEGANVNAKDGMKRTPLHLAATSGRVDVVKLLLSSGAVRGVKN</Hsp_hseq>
+      <Hsp_midline>A R+G    ++E  R   +  + D    TL   AAY GN+  +  I+S            D D  D  G TPLH AA  G +   + L+  GAN+   D    TPL +AA  G ++ V+ L S  A +   N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|788000011|ref|XP_011772231.1|</Hit_id>
+  <Hit_def>6-phosphofructo-2-kinase/fructose-2,6-biphospha tase,putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011772231</Hit_accession>
+  <Hit_len>1023</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>2.5861e-06</Hsp_evalue>
+      <Hsp_query-from>57</Hsp_query-from>
+      <Hsp_query-to>120</Hsp_query-to>
+      <Hsp_hit-from>309</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSI</Hsp_qseq>
+      <Hsp_hseq>DVNQRDYNGCTPLHVAALGGNESVVRVLISFGADITAIDNTGRTPLDWAAENRHSGVCRLLVAV</Hsp_hseq>
+      <Hsp_midline>D ++ D  G TPLH+AA  G+   +  L+SFGA+I  +DN   TPLD AA   H    R L ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|72386879|ref|XP_843864.1|</Hit_id>
+  <Hit_def>6-phosphofructo-2-kinase/fructose-2,6-biphosphatase [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_843864</Hit_accession>
+  <Hit_len>1023</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>2.74707e-06</Hsp_evalue>
+      <Hsp_query-from>57</Hsp_query-from>
+      <Hsp_query-to>120</Hsp_query-to>
+      <Hsp_hit-from>309</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSI</Hsp_qseq>
+      <Hsp_hseq>DVNQRDYNGCTPLHVAALGGNESVVRVLISFGADITAIDNTGRTPLDWAAENRHSGVCRLLVAV</Hsp_hseq>
+      <Hsp_midline>D ++ D  G TPLH+AA  G+   +  L+SFGA+I  +DN   TPLD AA   H    R L ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|74025862|ref|XP_829497.1|</Hit_id>
+  <Hit_def>hypothetical protein [Trypanosoma brucei brucei TREU927] &gt;gi|788027406|ref|XP_011780760.1| hypothetical protein, conserved [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_829497</Hit_accession>
+  <Hit_len>527</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>6.94959e-06</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>80</Hsp_align-len>
+      <Hsp_qseq>LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDM</Hsp_qseq>
+      <Hsp_hseq>VNWKSSDGNTLLHWAATLGHMCAVRLLLDAGANCDSPNVVGATPLHCAAFGGSVAVIDELLLRGANAMAKNRKGHTMFDF</Hsp_hseq>
+      <Hsp_midline>+N    DG T   WAA  G++ ++RL++  G + D  ++ G TPLH AA  G +  +  L+  GAN    +   HT  D </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_157440</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|71746484|ref|XP_822297.1|</Hit_id>
+  <Hit_def>calcineurin B subunit [Trypanosoma brucei brucei TREU927]</Hit_def>
+  <Hit_accession>XP_822297</Hit_accession>
+  <Hit_len>179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>64.6994</Hsp_bit-score>
+      <Hsp_score>156</Hsp_score>
+      <Hsp_evalue>7.11417e-14</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDM</Hsp_qseq>
+      <Hsp_hseq>NPLLSRVLTVVSSSGDGNISFVDFAKAFAVFLPQTDRQEKLRFTYMMYDIDGDGKISNSDLMEALKMMVGPNLTDVQLQQIVDKTFIEVDFNRDGFITFSDFEKL</Hsp_hseq>
+      <Hsp_midline>NP   R++   S  G+GN++F DF   F+V      R+ K  + + +YD + D  I   DL   L  +    L + ++  + DK   E D + DG + F+DFE +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|788015679|ref|XP_011777215.1|</Hit_id>
+  <Hit_def>calcineurin B subunit, putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011777215</Hit_accession>
+  <Hit_len>179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>1.26667e-13</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDM</Hsp_qseq>
+      <Hsp_hseq>NPLLSRVLTVVSSSGDGNISFVDFAKAFAVFLPQTDRQEKLRFTYMMYDIDGDDKISNSDLMEALKMMVGPNLTDVQLQQIVDKTFIEVDSNRDGFITFSDFEKL</Hsp_hseq>
+      <Hsp_midline>NP   R++   S  G+GN++F DF   F+V      R+ K  + + +YD + D+ I   DL   L  +    L + ++  + DK   E D + DG + F+DFE +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|74025586|ref|XP_829359.1|</Hit_id>
+  <Hit_def>calmodulin [Trypanosoma brucei brucei TREU927] &gt;gi|74025588|ref|XP_829360.1| calmodulin [Trypanosoma brucei brucei TREU927] &gt;gi|74025590|ref|XP_829361.1| calmodulin [Trypanosoma brucei brucei TREU927] &gt;gi|74025592|ref|XP_829362.1| calmodulin [Trypanosoma brucei brucei TREU927] &gt;gi|788026732|ref|XP_011780594.1| calmodulin, putative [Trypanosoma brucei gambiense DAL972] &gt;gi|788026736|ref|XP_011780595.1| calmodulin, putative [Trypanosoma brucei gambiense DAL972] &gt;gi|788026740|ref|XP_011780596.1| calmodulin, putative [Trypanosoma brucei gambiense DAL972] &gt;gi|788026744|ref|XP_011780597.1| calmodulin, putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_829359</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.6026</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>2.90708e-09</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>146</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFK---ERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQDMINEVDQDGSGTIDFPEFLTLMARKMQDSDSEEEIKEAFRVFDKDGNGFISAAELRHIMTNLGEKLTDEE-----VDEMIREADVDGDGQINYEEFVKMM</Hsp_hseq>
+      <Hsp_midline>M  L +NP +   + ++    +DG G + F +F+ + +   + +  E +   AF+++D + + FI   +L   +  L +   DEE      D++I EAD+DGDG++ + +F  M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|788026728|ref|XP_011780593.1|</Hit_id>
+  <Hit_def>calmodulin, putative, (fragment), partial [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_011780593</Hit_accession>
+  <Hit_len>148</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>6.84538e-08</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>145</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFK---ERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQDMINEVDQDGSGTIDFPEFLTLMARKMQDSDSEEEIKEAFRVFDKDGNGFISAAELRHIMTNLGEKLTDEE-----VDEMIREADVDRDGQINYEEFVKMM</Hsp_hseq>
+      <Hsp_midline>M  L +NP +   + ++    +DG G + F +F+ + +   + +  E +   AF+++D + + FI   +L   +  L +   DEE      D++I EAD+D DG++ + +F  M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|74024954|ref|XP_829043.1|</Hit_id>
+  <Hit_def>calmodulin [Trypanosoma brucei brucei TREU927] &gt;gi|788025308|ref|XP_011780243.1| calmodulin, putative [Trypanosoma brucei gambiense DAL972]</Hit_def>
+  <Hit_accession>XP_829043</Hit_accession>
+  <Hit_len>163</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.2098</Hsp_bit-score>
+      <Hsp_score>108</Hsp_score>
+      <Hsp_evalue>3.72553e-07</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>126</Hsp_query-to>
+      <Hsp_hit-from>59</Hsp_hit-from>
+      <Hsp_hit-to>143</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>DGEGNLTFNDFVDMFSV-LCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADF</Hsp_qseq>
+      <Hsp_hseq>DSNGVIDFPEFLTLVATKLNDPEEKELKLRRAFELYDLGNTGFITTTDLRIVMERLGCYLTPEKAF-----EMINEADLDGDGRLSYEEF</Hsp_hseq>
+      <Hsp_midline>D  G + F +F+ + +  L +   +ELK   AF++YD     FI   DL + + RL      E+       ++I EADLDGDG+L + +F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_157441</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_157442</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_157443</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_157444</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_157445</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>16905</Statistics_db-num>
+      <Statistics_db-len>8359189</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

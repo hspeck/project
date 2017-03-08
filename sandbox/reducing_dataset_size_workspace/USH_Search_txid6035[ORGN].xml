@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_233949</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_233949</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|19074177|ref|NP_584783.1|</Hit_id>
+  <Hit_def>MYOSIN HEAVY CHAIN [Encephalitozoon cuniculi GB-M1]</Hit_def>
+  <Hit_accession>NP_584783</Hit_accession>
+  <Hit_len>1700</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>441.425</Hsp_bit-score>
+      <Hsp_score>1134</Hsp_score>
+      <Hsp_evalue>6.5209e-128</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>947</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>994</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>321</Hsp_identity>
+      <Hsp_positive>496</Hsp_positive>
+      <Hsp_gaps>72</Hsp_gaps>
+      <Hsp_align-len>940</Hsp_align-len>
+      <Hsp_qseq>ISPQNATHIKPMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW---IEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGL-GQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYE----ARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEF-TDNQDALDMI-ANKPMNIISLIDEESKFPKGTDTTMLHKLNSQ---HKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRS--PTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLG--------THDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIR---GFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHRLWAVLTVQAYARGMIARRLHQRLR-----AEYLWRLEAEKMRLAEE-EKLRKEM-SAKKAKEEAERKHQERLAQLAREDAE-----RELKEKEAA--RRKKELLEQMERARHEPVNHSDMVDKMF</Hsp_qseq>
+      <Hsp_hseq>IVRHKSCEVFRMNPPKFDMVDDLAELSYLNEPGVLHNLRRRYQNGRIYTYSGLFLLAINPYKDLRIYGEKDARKYTLSKKYELEPHIFAVANEAYRLMLSNRENQSILITGESGAGKTENTKRVVEFLAMVGGCKGMEVSIDRQIIDANPILEAFGNAQTVKNDNSSRFGKFIKIKFNG-GNICGAHIEKYLLEKSRVTSQNRNERNYHIFYQLLGCDDQMLKKQLFLDGEPKDYRFLK-DSRFKIPDVDDAKEFRSLRESMRVLGIGEEEQIGYFKIVSAILHLGNIEFREKDGAAEIANLDVAE--------KACKLLSIPLAEFIKRLIHPVIKAGNEYVAHSRSREQALKIVDGLSRILYDKMFEGVIDRINMSLDSPHKGNF------IGVLDIAGFEIFEKNSFEQLCINYTNEKLQQFFNHHMFILEQEVYRQENIEWDFIDFGLDLQPTIDLIEKSNPIGILSYLDEECVMPMATEKTFLGKLMKNIRDEKFEVDKIRD------AFVLNHYAGDVEYTVDDWLSKNKDSHSEALTSLIRASGSELVSRL-----SLNEEAVKKGFFRTVSQKHKEQLASLMSELRRTNPHFVRCIIPNLEKSGEHLDNGIVLGQLKCNGVLEGIRISRQGFPSRMGHREFVQRYRIMMKEKILVDESWD-EGVCMELYKEIGGKILSEIGISTSQYRLGRTKVFFRQGVLADIEDMRDVKVSEVVKEIQALIRRRLAFRKYNQAQRRMQGILVIQRNGRICCDLQRWNWWRL-YLKIKPLLDVRKRDGEMK-EKEAMIQEYA--RMLDAEKSRREEVEDMLKAMSLKRELLEKSVEDEKRFSMEKDELLMALRYKSDETAQELEKARKEVFDGHEERKMWETRVNEVAIQLEEKDSEILRLRREVSEQKGALSQQEKEICSLREEVVSKLSEKDAMVEKML</Hsp_hseq>
+      <Hsp_midline>I    +  +  M+P     V+D+  L  LNE G+L NL  RY++  IYTY+G  L+A+NPY+ L IY  +  R+YT  K  E+ PHIFA+A+  Y  M  N  +Q  +I+GESGAGKTE+TK +++FLA + G       I++Q+++A PILEAFGNA+T++NDNSSRFGK+I I FN  G I GA IE+YLLEKSRV  Q  +ERNYH+FY +L    +  KK+L L G+  DY +L   +        D++E+ ++R +M+VL   + E     K+++AILHLGN+++     A    NLD  E         A  LL +   + +  L    +    E V+   SREQAL + D   + +Y ++F  ++D+IN ++  P   +       IG+LDI GFE F  NSFEQLCIN+ NE LQQFF  H+F LEQE Y  E+I+W  I+F  D Q  +D+I  + P+ I+S +DEE   P  T+ T L KL       K   + I         F +NH+AG V Y    +L KN+D+    +  L+ +S ++ + ++     ++  E  K+    T+S + K  L  LM  L    P FVRCI PN  K     D  + + QL+ +G++E IRI R G+P R    EFV+RYR+++       +  D  G C  + + + G        +   +++G+TK+F +      +E  RD  +++ V  +Q +IR    F+  +   +      +IQR+ R     + +   RL +L+++ L   RK   + +  ++ +IQ  A  R     K+ R  +  +L   +  R ++ + +    R      E L  L  +    A+E EK RKE+    + ++  E +  E   QL  +D+E     RE+ E++ A  +++KE+    E    +      MV+KM </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|85014511|ref|XP_955751.1|</Hit_id>
+  <Hit_def>myosin heavy chain [Encephalitozoon cuniculi GB-M1]</Hit_def>
+  <Hit_accession>XP_955751</Hit_accession>
+  <Hit_len>1082</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>289.271</Hsp_bit-score>
+      <Hsp_score>739</Hsp_score>
+      <Hsp_evalue>2.37429e-81</Hsp_evalue>
+      <Hsp_query-from>68</Hsp_query-from>
+      <Hsp_query-to>690</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>573</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>329</Hsp_positive>
+      <Hsp_gaps>61</Hsp_gaps>
+      <Hsp_align-len>627</Hsp_align-len>
+      <Hsp_qseq>EDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFY--CMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVD-SQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIE-FTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLP</Hsp_qseq>
+      <Hsp_hseq>DDLCELSNLNENAVVDILEKRYASGKIYTKSGLVFLALNPYENIGSCGGETMQSCSSYS----HPHVYDVAEASHQDLLVHG-NQTIVISGESGSGKTENAKLVIKYLLEGTASSTSIEKGITAANTILEAFGNAQTALNDNSSRFGKRIKLMFD--GKITGAKFETYLLEKSRVTHHELGEKNFHIFYQFCASKGLSLK-------NDFIDTSSLA-GN---KEGLIRLSEEYETTCSAMKSIGICSLK--AIEDCLLGILYLGSIQFNSDGI-----LKAVRNEYFTEFCKLHGIQEDTFEESLVKFSIQVKGETIEVFNTLKQAITIRNSMARLLYSNVFNYITASINNCL-------GGSGEHSISVLDIFGFEIFESNGLDQLCINWTNEKIQNDFIKKIFRDKQKMYKEEGIEWSDVECFDNNQCILDF--EKPCGLMDLISEESFNAWGNVKNLSVKI--KNYLNGRI---RTKAGDKIVVSHYAGDVEYDLRSFLDKNRE--KGNL-------------RIFKNPLIADEESKE---DLVKYFKDSMNKLLSSINETQAKYIKCIRPNSHRRPRIFDRQLVSKQLAECGILETIRISKQCFPQEIAKDEFESRYRILGP</Hsp_hseq>
+      <Hsp_midline>+D+  L +LNE  ++  L  RY    IYT +G + +A+NPY+ +     E ++  ++       PH++ +A+  + ++  +  +Q  +ISGESG+GKTE+ KL++++L   +   + IE+ +  A  ILEAFGNA+T  NDNSSRFGK I + F+  G I GAK E YLLEKSRV    L E+N+H+FY  C  +G+S             D + LA GN    EG +  S+EY    SAMK +     +   I   L  IL+LG++Q+ +         + + +        L  +        L   ++  +GET+    + +QA+ +R++  + +Y  +F +I   IN  +         +   SI +LDIFGFE F  N  +QLCIN+ NE +Q  F++ +F+ +Q+ Y  E I+W  +E F +NQ  LD    KP  ++ LI EES    G    +  K+  ++ LN      +     +  ++H+AG V Y+ + FL+KNR+   G++             +IF+  +    E+++    L   FK S+  L+ ++   Q  +++CI+PN  ++P +FDR L  +QL   G++ETIRI +  +P   +  EF  RYR+L P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_233950</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_233951</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_233952</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_233953</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_233954</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|19173343|ref|NP_597146.1|</Hit_id>
+  <Hit_def>CALCINEURIN BETA SUBUNIT [Encephalitozoon cuniculi GB-M1]</Hit_def>
+  <Hit_accession>NP_597146</Hit_accession>
+  <Hit_len>200</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.2022</Hsp_bit-score>
+      <Hsp_score>95</Hsp_score>
+      <Hsp_evalue>2.81435e-06</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>134</Hsp_query-to>
+      <Hsp_hit-from>53</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>QMPELRENPFKERIVAAFSE--DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIAKAP</Hsp_qseq>
+      <Hsp_hseq>NIPEFQSNPFSHLIMKSIEKMTDYE-KMTFPHFLEFLGIFSERNSKRNRIRYLFDIFDLNGDGRLCRN----VLIRINKM-MGQDGRVEEAENLLNIYDEGGKGYLDISDFTRFYESDP</Hsp_hseq>
+      <Hsp_midline> +PE + NPF   I+ +  +  D E  +TF  F++   +  E   +  +  Y F I+D N D  +C+      L R+ K  + ++  V   + ++   D  G G L  +DF       P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_233955</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_233956</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_233957</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_233958</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_233959</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1908</Statistics_db-num>
+      <Statistics_db-len>693525</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
