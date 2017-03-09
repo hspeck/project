@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_33539</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_33539</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_33540</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_33541</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_33542</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_33543</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|546324522|ref|XP_005718392.1|</Hit_id>
+  <Hit_def>unnamed protein product [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005718392</Hit_accession>
+  <Hit_len>483</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>1.25615e-10</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>160</Hsp_query-to>
+      <Hsp_hit-from>312</Hsp_hit-from>
+      <Hsp_hit-to>473</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>NDQYHRAARDGYLE----LLKEATRKE--LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKC-DIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKLVGKLKDKAFREAERRIRECAKLQRRHHER</Hsp_qseq>
+      <Hsp_hseq>NKVLHKAAAEGDVKEVRKLLAENGEMKGLINDLDMFAYTPLHIAAENGNLDVCKVLIELNADVKACTKMYSSTALHYAVFKGHDDVAKLLLENGAEVNALTDDKRTPLFQAAFKGHLPCVELLLKHGADQNIPN----DEGKTPAQVATTDAIRECFEAEPATKKR</Hsp_hseq>
+      <Hsp_midline>N   H+AA +G ++    LL E    +  +N  D    TP   AA +GNL+  ++++    D   C  ++ +T LH A   GH      L+  GA +  L +D  TPL  AA KGH+ CV  L    A Q+  N     + K  A       IREC + +    +R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|546327036|ref|XP_005719140.1|</Hit_id>
+  <Hit_def>unnamed protein product [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005719140</Hit_accession>
+  <Hit_len>999</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.32505e-09</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>132</Hsp_query-to>
+      <Hsp_hit-from>812</Hsp_hit-from>
+      <Hsp_hit-to>921</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>110</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMEC-VRYLDSIAAKQSSLNPKLV</Hsp_qseq>
+      <Hsp_hseq>KLDLVDNEQETPLHKACYKGIYQNVRLLLRRGAAPSQVNKKNVTPLHLAAANGNEETVKALLRYGADVHAQDEDNRTPYAVASENNHRKVMILMFRAIAVALEDIAPRVI</Hsp_hseq>
+      <Hsp_midline>+L+  D +  TP   A Y G  +++RL++ RG  P + +    TPLHLAA+NG+   +  L+ +GA++   D D  TP  +A+   H +  +    +IA     + P+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|546327079|ref|XP_005719161.1|</Hit_id>
+  <Hit_def>unnamed protein product [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005719161</Hit_accession>
+  <Hit_len>1887</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>2.15246e-09</Hsp_evalue>
+      <Hsp_query-from>34</Hsp_query-from>
+      <Hsp_query-to>123</Hsp_query-to>
+      <Hsp_hit-from>384</Hsp_hit-from>
+      <Hsp_hit-to>473</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>TPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAK</Hsp_qseq>
+      <Hsp_hseq>TPLCLAAQKGFAKVVQMLLEHGADPNNEDEGKYTPLHLSASNGFVPCVELLLQAGARVDSTTRKGVTPLHYAVQGAHADAVKLLIAAGAK</Hsp_hseq>
+      <Hsp_midline>TP   AA  G  + +++++  G DP+  D    TPLHL+ASNG + C+  L+  GA +        TPL  A    H + V+ L +  AK</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>3.28015e-06</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>316</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>MTPTLWAAYHGNLESLRLIVSRGGDPD-KCDIWGNTPLHLAAS-NGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>LTALAWAAHKGYMRCCQLLIEYGAKPSTKCGD-GVTALHLAASGGGHIAICKLLIDRKAPVSARSAKKQTPLCLAAQKGFAKVVQML</Hsp_hseq>
+      <Hsp_midline>+T   WAA+ G +   +L++  G  P  KC   G T LHLAAS  GH+     L+   A +        TPL +AA KG  + V+ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|546312182|ref|XP_005714890.1|</Hit_id>
+  <Hit_def>unnamed protein product [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005714890</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>5.08386e-08</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>130</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>LNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>IDARASSGSTPLHLAAWHGCTEHVELLVARGASVTALTRAGRGPLHFAARRGHAEVIMALARAGADLNQTDAKGMSALHFAADGGHMEAAKEL</Hsp_hseq>
+      <Hsp_midline>++A    G TP   AA+HG  E + L+V+RG         G  PLH AA  GH   +  L   GA++   D    + L  AA  GHME  + L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|546327800|ref|XP_005719381.1|</Hit_id>
+  <Hit_def>unnamed protein product [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005719381</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>7.42965e-07</Hsp_evalue>
+      <Hsp_query-from>63</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>119</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>55</Hsp_align-len>
+      <Hsp_qseq>IWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>ISGNKALHFCAANGHLDILHVLLRNGADINVTNLSGSTPLHYAALTGQLEIVKEL</Hsp_hseq>
+      <Hsp_midline>I GN  LH  A+NGHL  L  L+  GA+I   +    TPL  AA+ G +E V+ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_33544</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|546297184|ref|XP_005710147.1|</Hit_id>
+  <Hit_def>unnamed protein product [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005710147</Hit_accession>
+  <Hit_len>172</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>2.13983e-19</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>159</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>IIQMPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>LLMIPELSMNPLHPRLLAVFE-----NVNFHEFVNNIAAFSPSGAEEKKVDFAFKVYDVDADGFISKHDLDTVIRMLVGEHIPDETVQEVVARVVEAADLDKDGRISRSEFTSAV</Hsp_hseq>
+      <Hsp_midline>++ +PEL  NP   R++A F      N+ F++FV+  +    S   E K ++AFK+YD + D FI K DL+  +  L    + +E V  V  +V+E ADLD DG++  ++F   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|546320686|ref|XP_005717351.1|</Hit_id>
+  <Hit_def>Calmodulin [Chondrus crispus]</Hit_def>
+  <Hit_accession>XP_005717351</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.9726</Hsp_bit-score>
+      <Hsp_score>97</Hsp_score>
+      <Hsp_evalue>4.21486e-06</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIA</Hsp_qseq>
+      <Hsp_hseq>MRNMGQNPTEGELQQMISEVDADGNGLIDFAEFVTLMARKMNNTDKDAEIREAFNVFDKDGSGKISGDELRQIMKSLGE-DLTEEEI----QQMIREADTNGDGEIDYEEFVRMLS</Hsp_hseq>
+      <Hsp_midline>M  + +NP +  +    SE   DG G + F +FV + +    +  ++ +   AF ++D +    I  ++L   +  L + +L EEE+     ++I EAD +GDG++ + +F  M++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_33545</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_33546</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_33547</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_33548</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_33549</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>9627</Statistics_db-num>
+      <Statistics_db-len>3417617</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

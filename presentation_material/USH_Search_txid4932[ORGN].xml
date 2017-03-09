@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_105459</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_105459</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|6324902|ref|NP_014971.1|</Hit_id>
+  <Hit_def>myosin 2 [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_014971</Hit_accession>
+  <Hit_len>1574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>532.332</Hsp_bit-score>
+      <Hsp_score>1370</Hsp_score>
+      <Hsp_evalue>7.45951e-159</Hsp_evalue>
+      <Hsp_query-from>60</Hsp_query-from>
+      <Hsp_query-to>932</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>978</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>330</Hsp_identity>
+      <Hsp_positive>507</Hsp_positive>
+      <Hsp_gaps>57</Hsp_gaps>
+      <Hsp_align-len>922</Hsp_align-len>
+      <Hsp_qseq>HPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAI------SGQH----SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY-EARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTD---TTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQA--DVAMGAE-------------------TRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPG-------VKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYG-LMRLGFLR-LQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFR--HRLWAVLTVQAYARGMIARRLHQRLRAEYLWRLEAEKMRLAEE--EKLRKEMSAKKAKEEAERKHQERLAQLAREDAERELKEKEAARRKKELLEQMERA</Hsp_qseq>
+      <Hsp_hseq>NPPILEATEDLTSLSYLNEPAVLHAIKQRYSQLNIYTYSGIVLIATNPFDRVDQLYTQDMIQAYAGKRRGELEPHLFAIAEEAYRLMKNDKQNQTIVVSGESGAGKTVSAKYIMRYFASVEEENSATVQHQVEMSETEQKILATNPIMEAFGNAKTTRNDNSSRFGKYLEILFDKDTSIIGARIRTYLLERSRLVYQPPIERNYHIFYQLMAGLPAQTKEELHLTDASDYFYMNQGGDTKINGIDDAKEYKITVDALTLVGITKETQHQIFKILAALLHIGNIEIKKTRNDASLSADE----PNLKLACELLGIDAYNFAKWVTKKQIITRSEKIVSNLNYSQALVAKDSVAKFIYSALFDWLVENINTVLCNPAVNDQISS--FIGVLDIYGFEHFEKNSFEQFCINYANEKLQQEFNQHVFKLEQEEYVKEEIEWSFIEFNDNQPCIDLIENK-LGILSLLDEESRLPAGSDESWTQKLYQTLDKSPTNKVFSKPRFG-QTKFIVSHYALDVAYDVEGFIEKNRDTVSDGHLEVLKASTNETLINILEGLEKAAKKLEEAKKLELEQAGSKKPGPIRTVNRKPTLGSMFKQSLIELMNTINSTNVHYIRCIKPNADKEAWQFDNLMVLSQLRACGVLETIRISCAGFPSRWTFEEFVLRYYILIPHEQWDLIFKKKETTEEDIISVVKMILDATVKDKSKYQIGNTKIFFKAGMLAYLEKLRSNKMHNSIVMIQKKIRAKYYRKQYLQISQAIKYLQNNIKGFIIRQRVNDEMKVNCATLLQAAYRGHSIRANVFSVLRTITNLQKKIRKELKQRQLKQEHEYNAAVTIQSKVRTFEPRSRFLRTKKDTVVVQSLIRRRAAQRKLKQLKADAKSVNHLKEVSYKLENKVIELTQNLASKVKENKEMTERIKELQVQVEES</Hsp_hseq>
+      <Hsp_midline>+P  +   ED+  L  LNE  +L  +  RY    IYTY+G +L+A NP+  +  +Y+ + I+ Y  K+ GE+ PH+FAIA+  Y  MK + ++Q  ++SGESGAGKT S K I+++ A++      + QH    S  EQ++L   PI+EAFGNAKT RNDNSSRFGKY++I F+K  +I GA+I  YLLE+SR+  Q   ERNYH+FY ++ G+    K++L L  ASDY Y+  G      G  D++EY     A+ ++  T     +I K+LAA+LH+GN++  + R   +L A E    P+L  A  LL ++  +    +T + +ITR E + + L+  QAL  +D+  K IY  LF W+V+ IN  +  P   D  +S   IG+LDI+GFE+F  NSFEQ CIN+ANE LQQ F +HVFKLEQEEY  E I+W  IEF DNQ  +D+I NK + I+SL+DEES+ P G+D   T  L++   +   N  +  P+   +T+F ++H+A  V Y+ +GF+EKNRDT+    ++++ +S N+ +  I +     A   E                   T  R PTL S FK+SL  LM T+ +    ++RCIKPN  K+   FD  + + QLR  G++ETIRI  AG+P R++F EFV RY +L+P         K    + D+    + + +A +     +QIG TKIF K      LE  R   + + ++++QK IR    R  +L++  A   +Q + +G   R+     M++     LQA +R   +        + I   Q + R  L ++  +  H   A +T+Q+  R    R    R + + +      + R A+   ++L+ +  +    +E   K + ++ +L +  A +  + KE   R KEL  Q+E +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|6319290|ref|NP_009373.1|</Hit_id>
+  <Hit_def>myosin 4 [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_009373</Hit_accession>
+  <Hit_len>1471</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.25</Hsp_bit-score>
+      <Hsp_score>1362</Hsp_score>
+      <Hsp_evalue>9.83541e-159</Hsp_evalue>
+      <Hsp_query-from>60</Hsp_query-from>
+      <Hsp_query-to>875</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>915</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>320</Hsp_identity>
+      <Hsp_positive>469</Hsp_positive>
+      <Hsp_gaps>52</Hsp_gaps>
+      <Hsp_align-len>859</Hsp_align-len>
+      <Hsp_qseq>HPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQH--------SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNN-------HETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIF----------------QADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLL-----PGV--KPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGH--NCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHR--LWAVLTVQAYARGMIARRLHQRLRAEYLWRLEAEKMRLA</Hsp_qseq>
+      <Hsp_hseq>NPPILESTDDLTTLSYLNEPAVLHAIKKRYMNGQIYTYSGIVLIAANPFDKVDHLYSREMIQNYSSKRKDELEPHLFAIAEEAYRFMVHEKANQTVVVSGESGAGKTVSAKYIMRYFASVQESNNREGEVEMSQIESQILATNPIMEAFGNAKTTRNDNSSRFGKYLQILFDENTTIRGSKIRTYLLEKSRLVYQPETERNYHIFYQILEGLPEPVKQELHLSSPKDYHYTNQGGQPNIAGIDEAREYKITTDALSLVGINHETQLGIFKILAGLLHIGNI--EMKMTRN-DASLSSEEQNLQIACELLGIDPFNFAKWIVKKQIVTRSEKIVTNLNYNQALIARDSVAKFIYSTLFDWLVDNINKTLYDPELDQQDHVFSFIGILDIYGFEHFEKNSFEQFCINYANEKLQQEFNQHVFKLEQEEYVKEEIEWSFIEFSDNQPCIDLIENK-LGILSLLDEESRLPSGSDESWASKLYS-----AFNKPPSNEVFSKPRFGQTKFIVSHYAVDVEYEVEGFIEKNRDSVSLGHLDVFKATTNPIFKQILDNRELRSDDAPEEQNTEKKIMIPARLSQKKPTLGSMFKKSLGELMAIINSTNVHYIRCIKPNSEKKPWEFDNLMVLSQLRACGVLETIRISCAGFPSRWTFDEFVQRYFLLTDYSLWSGILYNPDLPKEAIVNFCQSILDATISDSAKYQIGNTKIFFKAGMLAFLEKLRTNKMNEICIIIQKKIRARYYRLQYLQTMESIKKCQSQIRSLLVRTRVDHELKTRAAILLQTNIRALWKREYYRAAIGQIIKLQCTCKRKLILDSVNRKFMLMAAVIIQSYIRSYGHKTDYRTLKRSSILVQSAMRMQLA</Hsp_hseq>
+      <Hsp_midline>+P  +   +D+  L  LNE  +L  +  RY +  IYTY+G +L+A NP+  +  +YS E I+ Y++K+  E+ PH+FAIA+  Y  M     +Q  ++SGESGAGKT S K I+++ A++   +        S IE Q+L   PI+EAFGNAKT RNDNSSRFGKY+ I F++   I G+KI  YLLEKSR+  Q   ERNYH+FY +LEG+ E  K++L L    DY+Y   G      G  +++EY     A+ ++         I K+LA +LH+GN+  E +   N DA       +L  A  LL ++P +    +  + ++TR E + T L+  QAL  RD+  K IY  LF W+VD IN  +Y P      +    IG+LDI+GFE+F  NSFEQ CIN+ANE LQQ F +HVFKLEQEEY  E I+W  IEF+DNQ  +D+I NK + I+SL+DEES+ P G+D +   KL S     A   PP N         +T+F ++H+A  V YE +GF+EKNRD++    + +  ++ N   KQI                 +  + + A   ++ PTL S FK+SL  LM  + +    ++RCIKPN  KKP  FD  + + QLR  G++ETIRI  AG+P R++F EFV+RY +L       G+   P   +  +   CQ + +A +     +QIG TKIF K      LE  R   + +  I++QK IR    R  +L+   +    Q   R      R ++ L     + LQ   R+    + YR A  +II+ Q  C+  L+  +   +  L A + +Q+Y R    +  ++ L+   +    A +M+LA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|330443650|ref|NP_012793.2|</Hit_id>
+  <Hit_def>myosin 3 [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_012793</Hit_accession>
+  <Hit_len>1272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>473.396</Hsp_bit-score>
+      <Hsp_score>1217</Hsp_score>
+      <Hsp_evalue>6.51739e-141</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>805</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>774</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>415</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>760</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW----IEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLAT-AASLLEVNPPDLMSCLTSRTLIT-----RGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMI-ANKPMNIISLIDEESKFP----KGTDTTMLHKLNSQHKLNAN-YIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYK---QGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDML-LEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRK</Hsp_qseq>
+      <Hsp_hseq>GISDLTLLSKISDESINENLKKRFKNGIIYTYIGHVLISVNPFRDLGIYTNAVLESYKGKNRLEVPPHVFAIAESMYYNLKSYNENQCVIISGESGAGKTEAAKRIMQYIAAASNSHSESIGKIKDMVLATNPLLESFGCAKTLRNNNSSRHGKYLEIKFNSQFEPCAGNITNYLLEKQRVVGQIKNERNFHIFYQFTKGASDTYKQMFGVQMPEQYIYTAAAGCTTADTIDDVKDYEGTLEAMRTIGLVQEEQDQIFRMLAAILWIGNISF----IENEEGNAQVGDTSVTDFVAYLLQVDASLLVKCLVERIMQTSHGMKRGSVYHVPLNPVQATAVRDALAKAIYNNLFDWIVDRVNVSLQAFPGAD-----KSIGILDIYGFEIFEHNSFEQICINYVNEKLQQIFIQLTLKAEQETYEREKIKWTPIKYFDNKVVCDLIEAKNPPGILAAMNDSIATAHADSNAADQAFAQRLNL---FNSNPYFELRAN---KFVIKHYAGDVTYDINGITDKNKDQLQKDLIELIGTTTNTFLSTIFPDDV--DKDSKRRPPTAGDKIIKSANELVETLSKAEPSYIRTIKPNQTKSPNDYDDHQVLHQVKYLGLQENVRIRRAGFAYRQTFEKFVERFYLLSPDCSYAGDYTWDGDTLEAVKLILRDAMIPEKEFQLGVTSVFIKTPESLFALEDMRDKYWYNMAARIQRAWRRFLQRR-----IDAAIKIQRTIREKKGGNKYVKLRDYGTKLLAGKKERR</Hsp_hseq>
+      <Hsp_midline>G+ D+  L  +++  I  NL  R+++ +IYTY G +L++VNP++ L IY+   +  Y  K   E+PPH+FAIA++ Y+N+K  + +QC IISGESGAGKTE+ K I+Q++AA S  HS     I+  VL   P+LE+FG AKT+RN+NSSR GKY++I FN +       I  YLLEK RV  Q  +ERN+H+FY   +G S+  K+  G+     Y Y A   C T +   D ++Y     AM+ +     E  +I ++LAAIL +GN+ +     EN +    +   S+    A LL+V+   L+ CL  R + T     RG     PL+  QA  VRDA  K IY  LF WIVD++N ++   P  D     +SIG+LDI+GFE F  NSFEQ+CIN+ NE LQQ F++   K EQE Y+ E I W  I++ DN+   D+I A  P  I++ +++            D     +LN     N+N Y   + N   +F I H+AG V Y+  G  +KN+D L  D+I+L+ ++ N F+  IF  DV    ++++R PT   +  +S   L+ TL   +P ++R IKPN+ K P  +D H  + Q++Y G+ E +RIRRAG+  R +F +FVER+ +L P    A      GD     + +    +    ++Q+G T +F+K    +  LE  RDK   +    +Q+  R F  R       +AA  IQR  R       Y  +R    +L A  + R+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|6323756|ref|NP_013827.1|</Hit_id>
+  <Hit_def>myosin 5 [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_013827</Hit_accession>
+  <Hit_len>1219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>461.455</Hsp_bit-score>
+      <Hsp_score>1186</Hsp_score>
+      <Hsp_evalue>2.8451e-137</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>793</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>768</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>414</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>750</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSW----IEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLAT-AASLLEVNPPDLMSCLTSRTLIT-----RGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMI-ANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNN-HETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYK---QGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDML-LEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWR----GHNCRK--NYGLMRLG</Hsp_qseq>
+      <Hsp_hseq>GVSDLTLLSKISDEAINENLKKRFLNATIYTYIGHVLISVNPFRDLGIYTDAVMNEYKGKNRLEVPPHVFAIAESMYYNMKSYNENQCVIISGESGAGKTEAAKRIMQYIAAASSTHTESIGKIKDMVLATNPLLESFGCAKTLRNNNSSRHGKYLEIKFNNQFEPCAGNITNYLLEKQRVVSQIKNERNFHIFYQFTKGASDAYRQTFGVQKPEQYVYTAAAGCISAETIDDLQDYQETLKAMRVIGLGQEEQDQIFRMLAAILWIGNVSF----IENEEGNAQVRDTSVTDFVAYLLQIDSQLLIKSLVERIMETNHGMKRGSVYHVPLNIVQADAVRDALAKAIYNNLFDWIVSRVNKSL-----QAFPGAEKSIGILDIYGFEIFEHNSFEQICINYVNEKLQQIFIQLTLKSEQETYEREKIQWTPIKYFDNKVVCDLIEARRPPGIFAAMN-DSVATAHADSNAADQAFAQ-RLNLFTTNPHFDLRSNKFVIKHYAGDVTYDIDGITDKNKDQLQKDLVELIGTTTNTFLATIFPDTV--DRESKRRPPTAGDKIIKSANDLVETLSKAQPSYIRTIKPNETKSPNDYDDRQVLHQIKYLGLQENVRIRRAGFAYRQVFEKFVERFYLLSPHCSYAGDYTWQGDTLDAVKYILQDSSIPQQEYQLGVTSVFIKTPETLFALEHMRDRYWHNMAARIQRAWRRFLQRR-----IDAATKIQRTIRERKEGNKYEKLRDYGTKVLG</Hsp_hseq>
+      <Hsp_midline>GV D+  L  +++  I  NL  R+ +  IYTY G +L++VNP++ L IY+   + +Y  K   E+PPH+FAIA++ Y+NMK  + +QC IISGESGAGKTE+ K I+Q++AA S  H+     I+  VL   P+LE+FG AKT+RN+NSSR GKY++I FN +       I  YLLEK RV  Q  +ERN+H+FY   +G S+  ++  G+ +   Y Y A   CI+ E   D Q+Y     AM+V+     E  +I ++LAAIL +GN+ +     EN +    +   S+    A LL+++   L+  L  R + T     RG     PL+  QA  VRDA  K IY  LF WIV ++N ++     Q    + +SIG+LDI+GFE F  NSFEQ+CIN+ NE LQQ F++   K EQE Y+ E I W  I++ DN+   D+I A +P  I + ++ +S      D+    +  +Q +LN     P  +    +F I H+AG V Y+  G  +KN+D L  D+++L+ ++ N F+  IF   V    E+++R PT   +  +S   L+ TL   QP ++R IKPNE K P  +D    + Q++Y G+ E +RIRRAG+  R  F +FVER+ +L P    A     QGD     + + +       ++Q+G T +F+K    +  LE  RD+   +    +Q+  R F  R       +AAT IQR  R    G+   K  +YG   LG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|6321812|ref|NP_011888.1|</Hit_id>
+  <Hit_def>myosin 1 [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_011888</Hit_accession>
+  <Hit_len>1928</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>454.907</Hsp_bit-score>
+      <Hsp_score>1169</Hsp_score>
+      <Hsp_evalue>7.14138e-131</Hsp_evalue>
+      <Hsp_query-from>58</Hsp_query-from>
+      <Hsp_query-to>761</Hsp_query-to>
+      <Hsp_hit-from>68</Hsp_hit-from>
+      <Hsp_hit-to>811</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>291</Hsp_identity>
+      <Hsp_positive>425</Hsp_positive>
+      <Hsp_gaps>74</Hsp_gaps>
+      <Hsp_align-len>761</Hsp_align-len>
+      <Hsp_qseq>PMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNK-------KIGE-----MPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAI-SGQHSWI------------EQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLG--QASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFT-DTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEF-TDNQDALDMIANK--PMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQAD----VAMGAETR------KRSP------TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLP----------GVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDR</Hsp_qseq>
+      <Hsp_hseq>PVNPSTFDKVENMSELTHLNEPSVLYNLEKRYDCDLIYTYSGLFLVAINPYHNLNLYSEDHINLYHNKHNRLSKSRLDENSHEKLPPHIFAIAEEAYENLLSEGKDQSILVTGESGAGKTENTKKILQYLASITSGSPSNIAPVSGSSIVESFEMKILQSNPILESFGNAQTVRNNNSSRFGKFIKIEFNEHGMINGAHIEWYLLEKSRIVHQNSKERNYHIFYQLLSGLDDSELKNLRLKSRNVKDYKILSNSNQDIIPGINDVENFKELLSALNIIGFSKDQIRW-IFQVVAIILLIGNIEFVSDRAE-----QASFKNDVSAICSNLGVDEKDFQTAILRPRSKAGKEWVSQSKNSQQAKFILNALSRNLYERLFGYIVDMINKNLDHGSA-----TLNYIGLLDIAGFEIFENNSFEQLCINYTNEKLQQFFNNHMFVLEQSEYLKENIQWDYIDYGKDLQLTIDLIESKGPPTGVLPLLDEEAVLPKSTDESFYSKLISTWDQNSSKF-KRSRLKNGFILKHYAGDVEYTVEGWLSKNKDPLNDNLLSLLSSSQNDIISKLFQPEGEKSSSAGVEANISNQEVKKSARTSTFKTTSSRHREQQITLLNQLASTHPHFVRCIIPNNVKKVKTFNRRLILDQLRCNGVLEGIRLAREGYPNRIAFQEFFQRYRILYPENSTTTTFSSKLKASTKQN-----CEFLLTSLQLDTKVYKIGNTKLFFKAGVLADLEKQKDVKLNNIMIKLTATIRGYTVR</Hsp_hseq>
+      <Hsp_midline>P++P++   VE+M  L  LNE  +L NL  RY   LIYTY+G  LVA+NPY  L++YS +HI  Y NK       ++ E     +PPHIFAIA+  Y N+    +DQ  +++GESGAGKTE+TK ILQ+LA+I SG  S I            E ++L++ PILE+FGNA+T+RN+NSSRFGK+I I FN+ G I GA IE YLLEKSR+  Q   ERNYH+FY +L G+ + + K L L      DY  L+  N     G  D + +  + SA+ ++ F+ D   W I +++A IL +GN+++ +   E     +  F   ++   S L V+  D  + +         E VS   + +QA  + +A  + +Y RLF +IVD IN  +    +     +   IGLLDI GFE F  NSFEQLCIN+ NE LQQFF  H+F LEQ EY  E+I W +I++  D Q  +D+I +K  P  ++ L+DEE+  PK TD +   KL S    N++    ++  +  F + H+AG V Y  +G+L KN+D L+ +++ L+ SS+N  I ++FQ +     + G E        K+S       T SS+ +     L+  L +  P FVRCI PN  KK   F+R L + QLR +G++E IR+ R GYP R +F EF +RYR+L P           +K + KQ      C+ +  ++      ++IG TK+F K      LE ++D  + + +I L   IRG+  R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_105460</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_105461</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_105462</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_105463</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|6322079|ref|NP_012154.1|</Hit_id>
+  <Hit_def>Hos4p [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_012154</Hit_accession>
+  <Hit_len>1083</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>1.39995e-07</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>327</Hsp_hit-from>
+      <Hsp_hit-to>418</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGG-DPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGA--NIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>DSGGRTRLQIACDKGKYDVVKKMIEEGGYDINDQDNAGNTALHEAALQGHIEIVELLIENGADVNIKSIEMFGDTPLIDASANGHLDVVKYL</Hsp_hseq>
+      <Hsp_midline>D  G T    A   G  + ++ ++  GG D +  D  GNT LH AA  GH+  +  L+  GA  NI  ++    TPL  A+  GH++ V+YL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|6323713|ref|NP_013784.1|</Hit_id>
+  <Hit_def>Avo2p [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_013784</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.8322</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>2.47564e-07</Hsp_evalue>
+      <Hsp_query-from>65</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>109</Hsp_hit-from>
+      <Hsp_hit-to>161</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>53</Hsp_align-len>
+      <Hsp_qseq>GNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>GRAPIHIACMNDYYQCLSLLIGVGADLWVMDTNGDTPLHVCLEYGSISCMKML</Hsp_hseq>
+      <Hsp_midline>G  P+H+A  N +  CLS L+  GA++W +D +  TPL +    G + C++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|6319899|ref|NP_009980.1|</Hit_id>
+  <Hit_def>hypothetical protein YCR051W [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_009980</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.9062</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>3.37785e-07</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>102</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>75</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>75</Hsp_align-len>
+      <Hsp_qseq>MTPTLW-AAYHGNLESLRLIV--SRGG-DPDKCDIWGNTPLHLAASNGHLHCLSFLVS-FGANIWCLDNDYHTPL</Hsp_qseq>
+      <Hsp_hseq>MNANIWVAASDGNLDRVEHILRESKGAMTPQSKDINGYTPMHAAAAYGHLDLLKKMCNEYNGDINVLDNDGDTPL</Hsp_hseq>
+      <Hsp_midline>M   +W AA  GNL+ +  I+  S+G   P   DI G TP+H AA+ GHL  L  + + +  +I  LDND  TPL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_105464</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|6322658|ref|NP_012731.1|</Hit_id>
+  <Hit_def>calcineurin regulatory subunit B [Saccharomyces cerevisiae S288c]</Hit_def>
+  <Hit_accession>NP_012731</Hit_accession>
+  <Hit_len>175</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.6481</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>6.85284e-21</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>160</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>114</Hsp_align-len>
+      <Hsp_qseq>IQMPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MSIPGVSSNPLAGRIMEVFDADNSGDVDFQEFITGLSIFSGRGSKDEKLRFAFKIYDIDKDGFISNGELFIVLKIMVGSNLDDEQLQQIVDRTIVENDSDGDGRLSFEEFKNAI</Hsp_hseq>
+      <Hsp_midline>+ +P +  NP   RI+  F  D  G++ F +F+   S+      ++ K  +AFKIYD + D FI   +L + L  +  S LD+E++  + D+ I E D DGDG+L F +F++ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_105465</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_105466</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_105467</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_105468</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_105469</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6008</Statistics_db-num>
+      <Statistics_db-len>2933708</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

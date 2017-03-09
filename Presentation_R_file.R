@@ -1,0 +1,52 @@
+
+rm(list = ls())
+library(ape)
+### Basic Tree!
+
+WHRN_tree <- read.tree("/home/eeb177-student/Desktop/eeb-177/project/RAxML_bestTree.WHRNtn2")
+plot(WHRN_tree)
+#bring in the tree from where ever it is and plot it
+
+#############################################
+# Read in and format the annotation data
+WHRN_gene_annotations <- read.csv("/home/eeb177-student/Desktop/eeb-177/project/sandbox/reducing_dataset_size_workspace/WHRN_gene&sci&annotation.txt", 
+                                  header =FALSE, 
+                                  stringsAsFactors = FALSE)
+names(WHRN_gene_annotations) <- c("GeneID", "OrgName", "Annotation", "Group", "CombinedName", "Genus_Gene")
+rownames(WHRN_gene_annotations) <- WHRN_gene_annotations$GeneID
+
+
+
+# Reorder data frame to match rows
+
+order <- match(WHRN_tree$tip.label, rownames(WHRN_gene_annotations))
+WHRN_gene_annotations <- WHRN_gene_annotations[,][order,]
+
+
+WHRN_tree$tip.label <- WHRN_gene_annotations$Genus_Gene
+# Rename tips of Tree to increase Readability
+
+plot(WHRN_tree, cex = 0.5, label.offset = 0.1)
+# decrease size of labels a bit
+
+title("Whirlin (USH2D) best hits tree")
+#add a title
+add.scale.bar()
+#add a scale bar!
+
+# Color the tips to indicate which lineage the organism belongs to
+
+WHRN_gene_annotations$Group <- as.factor(WHRN_gene_annotations$Group)
+
+#start by setting the Group to factor
+lineages <- unique(WHRN_gene_annotations$Group)
+cols <- rainbow(n = length(lineages))
+#color vector for legend
+colvec <- cols[WHRN_gene_annotations$Group]
+#color vector for tree
+tiplabels(pch = 19, col = colvec)
+
+
+# Add a legend!
+legend(x = "bottomright", lwd =0, pch = 19 , legend = levels(lineages), col = cols, cex = 0.7)
+

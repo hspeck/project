@@ -1,0 +1,942 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_106413</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</BlastOutput_query-def>
+  <BlastOutput_query-len>2215</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_106413</Iteration_query-ID>
+  <Iteration_query-def>gi|1235670|gb|AAB03679.1| myosin VIIA [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>2215</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|694541662|ref|XP_009497107.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_04966 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009497107</Hit_accession>
+  <Hit_len>1618</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>522.702</Hsp_bit-score>
+      <Hsp_score>1345</Hsp_score>
+      <Hsp_evalue>4.92785e-155</Hsp_evalue>
+      <Hsp_query-from>58</Hsp_query-from>
+      <Hsp_query-to>905</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>942</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>99</Hsp_gaps>
+      <Hsp_align-len>934</Hsp_align-len>
+      <Hsp_qseq>PMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQH---SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQ--------------------------ALDERNYHVFYCMLEGMSEDQKKKLGL-GQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDA--CEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPS--------------QDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQ-HKLNANYIPPK--NNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQAD------VAMGAETR-----KRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVK------PAYKQGDLRGTCQRMAEAVLGTH----DDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMR----LGFLR---LQALHRSRKLHQQYRLARQRIIQFQARCRAYL---VRKAFRHRLWAVLTVQAYARGMIARRLHQRLR-----AEYLWRLEAEKMRLAEEEKLRKEMSAKKAKE-EAERKHQERLAQLA</Hsp_qseq>
+      <Hsp_hseq>PIH----EGVDDLTTLSYLHEPGVLHNIAARYANQIVYTYSGIVLVAINPYQSLNIYNFSTIKAYAGTTQGELEPHLFAVAENAFRTMVREGRNQSIIVTGESGAGKTVSTKFIMRYFASVESTDDTMTAVERQVMATNPAIEAFGNARTLRNDNSSRFGKYIEVAFDSADRISSARIRTFLLERSRVVSPGSSGGLDSHSQQRSMASSGYHDDLGLSIGERNYHVFYQLVVGASDEDREAFFLTDDPEDYRILSVGGCTEIEDVDDAHEYSETRASLSTIGMSEADQHSLFKTVAALLHLGNVEFTSPSVRDDKASITDTSAESPLARACELLGVDRALLAKWLISRRIHTVGETIVSPRTLVDALAARDALAKFLYARLFDWLIGFINQAIGIPANATDASGKKLSAAERRKAAANRRFVGLLDIYGFEIFKVNSFEQFCINYANEKLQQEFVQHVFKLEQEIYVKEEIEWTYINYADNKPCIELIEGK-FGILSLLDDQCRLARGSDTAFTMKLHEQCGAAFPNHLSKQRLGGGDDSFIVAHYAQPVTYDTKGFLEKNRDTVTDELLELLLASSDSYVQLVTKGDGSDGLVVAAPANGRGGLASANKLTLGSIFKNSLNDLMTTIRGTTSHYIRCIKPNEQKAAFVFDSAMVLQQLRACGVLETIKISAAGFPSRGDFSEFTDRYQLLLSSDRWFGKRTPAL--ADMRTITGDLLRLAFGDDAEGADKYRVGKTKVFLRAGQLAILEKMRSDKLKRAAVNIQRMVRGFLARAHYVRLRPAAIHAQRLFRGLQARRLYANLRRERALATVRRYILRKVCRRRFLAQ-----RQAVEQLQMAARYYFSLTLRQSIRQFRKAVM-IQAAVRGWLARRQYLRERRQIILVQNLWRRRVARQALRALRMEARDISKIKEKSFNMERKVLELSQQLA</Hsp_hseq>
+      <Hsp_midline>P+H     GV+D+  L  L+E G+L N+  RY + ++YTY+G +LVA+NPYQ L+IY+   I+ Y     GE+ PH+FA+A+N +  M R  R+Q  I++GESGAGKT STK I+++ A++       + +E+QV+   P +EAFGNA+T+RNDNSSRFGKYI++ F+    I  A+I  +LLE+SRV                             ++ ERNYHVFY ++ G S++ ++   L     DY  L++G C   E   D+ EY+  R+++  +  ++ +   + K +AA+LHLGN+++ + +  +  A   +      LA A  LL V+   L   L SR + T GET+ +P +   AL  RDA  K +Y RLF W++  IN AI  P +              +    +RR +GLLDI+GFE F VNSFEQ CIN+ANE LQQ FV+HVFKLEQE Y  E I+W +I + DN+  +++I  K   I+SL+D++ +  +G+DT    KL+ Q      N++  +     +  F + H+A  V Y+T+GFLEKNRDT+  ++++L+ +S + +++ + + D      VA  A  R         TL S FK SL  LM T+      ++RCIKPNE K   +FD  + ++QLR  G++ETI+I  AG+P R  F EF +RY++LL   +      PA    D+R     +     G      D +++GKTK+FL+     +LE  R   +    + +Q+++RGF  R+++++L+ AA   QR +RG   R+ Y  +R    L  +R   L+ + R R L Q     RQ + Q Q   R Y    +R++ R    AV+ +QA  RG +ARR + R R      + LWR    +  L       +++S  K K    ERK  E   QLA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|694544509|ref|XP_009497927.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_05852 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009497927</Hit_accession>
+  <Hit_len>2960</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.413</Hsp_bit-score>
+      <Hsp_score>1378</Hsp_score>
+      <Hsp_evalue>5.59337e-155</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>821</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>856</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>312</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>107</Hsp_gaps>
+      <Hsp_align-len>850</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRD-----QCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY----EARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRS------------------------------------IGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHK------------LNANYIPPKNNH---------ETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQAD-----------------VAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTH-----------DDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQ</Hsp_qseq>
+      <Hsp_hseq>GVEDMIHLPVLSEASILENLRERFVRGFIYTYTGSILVAANPYKWLPIYEEPVIREYQAGEQSKLPPHIFAIAQATYRGLCQGLLDGANANQAVVISGESGAGKTESTKLILRYLTAVTSNDDWVEQQIMEANTVLESFGNAKTVRNNNSSRFGKFIQVHFDRAARIVGASVDNYLLEKSRVVLQSADERSYHIFYELCAGASDEERAELHIGQAEEYRYLSQSGCTTIEGHDDARGLEALRIALMVLGMEPDTIRAVFAVLSAILHLGNVEFGEPEGGTSAVGAEGSVILNMPVVALVAGLLGVEAESLAESLLFRSIIVRGEQSKIPLRGDQPQVSRDAVSKALYSRLFDWLTAYINRSISPGARQAAAAAAASAAGSMPTAVGGRGLSVDTQAAGGPGEAGAPAADTHFIGVLDIFGFEHFTRNSFEQFCINLANEKLHGFFTDYIFRLEQAEYSQEGVVWSQIDFVDNAQCIDLFESRPAGLLALLDEESRFPRATDATLLDKWNAAHGGPTGTLSRASMMVGSGPGGPNLGHMHYVRARLSATEFGIAHYAGVVTYDIEGFLDKNKDEVSEMVFDVLAASRVPLVRDLAAGTPAEPVSSAQAPPTPSTPMAGQAPTARRRNTIASHFKMQLSSLVATLANTSAHYVRCLKPNHEKSALLFDAELVEAQLRYSGMLETIRIRKAGFPLRLDFETFCRRMWALMP-TKPASPE-----AARDVALAIIESFGPRLANGQPDMDQIQLGLTKVFFRHASYDTFASQAESAERRAAARVTAAVAMFYHRTRYLRVVAAERVIKGNMRVH-------LARVRFLRARAAAIVLQSHFRGLLGRRRVVAIR</Hsp_hseq>
+      <Hsp_midline>GVEDMI L  L+EA IL NL  R+    IYTYTGSILVA NPY+ L IY    IR+Y   +  ++PPHIFAIA   Y  + +   D     Q  +ISGESGAGKTESTKLIL++L A++    W+EQQ++EA  +LE+FGNAKT+RN+NSSRFGK+I +HF++   I GA ++ YLLEKSRV  Q+ DER+YH+FY +  G S++++ +L +GQA +Y YL+   C T EG  D++    +R A+ VL         +  +L+AILHLGN+++       +    +   +L  P +A  A LL V    L   L  R++I RGE    PL  +Q    RDA  K +Y RLF W+   IN +I     Q    +  S                                    IG+LDIFGFE+F  NSFEQ CIN ANE L  FF  ++F+LEQ EY  E + W  I+F DN   +D+  ++P  +++L+DEES+FP+ TD T+L K N+ H             + +    P   H          T+FGI H+AG+V Y+ +GFL+KN+D +   +  ++ +SR   ++ +                     +A  A T +R  T++S FK  L  L+ TL      +VRC+KPN  K  +LFD  L   QLRYSGM+ETIRIR+AG+P+R  F  F  R   L+P  KPA  +       + +A A++ +            D  Q+G TK+F +         + + A       +   +  F  R+ +L++  A  +I+ + R H       L R+ FLR +A     + H +  L R+R++  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|694529857|ref|XP_009493712.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_01540 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009493712</Hit_accession>
+  <Hit_len>1058</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>493.426</Hsp_bit-score>
+      <Hsp_score>1269</Hsp_score>
+      <Hsp_evalue>7.33413e-150</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>786</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>749</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>435</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>753</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQ-LLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQH------SWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSP-SLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFP-KGTDTTMLHKLNSQHKLNANYIPPKN-NHETQ-------FGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIF--QADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLP----GVKPAYKQGD--------LRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDM-LLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKN</Hsp_qseq>
+      <Hsp_hseq>GVPDFVLIEPVSEEALIENMRVRFQADAIYTAIGPVVVSVNPYRNLPDMYTRKLIDAYKAKHSFEMPPHIYAIAADAYRDMSTFNRDQCIIISGESGAGKTEASKHVMHYIAAASGDGAREADVTRVKDQLLQSNPVLEAFGNARTTRNDNSSRFGKYMDIQFNRSGDPVGGQITVYLLEKSRVVRQAAGDRNFHAFYQVLSSGALGAGAK-----AADFHYLNQSGVDTVRTINDAKDFTIVKSAMRILGFTDLEITSAFDIVAAVLHIGNINFVATSEGHSAVCTQAGSQNALNNAAQKLGVTAAGLATALTQRTVATRGDSVQAHSSAEQATHTRDALAKGLYDRLFSWLVTRINNSIQYIP-QTSYDTPSVIGVLDIYGFEVFELNSFEQFCINYCNEKLQQLFIALTLKAEQDEYASEGITWEPVEYFNNSIICELIDAPRQGIIALLDEECLRPGQPTDDTFVTKISEAHQNHAHFASRENAAHRSDKTLPHGAFRLRHYAGDVTYHAQGFLDKNTDLLQRDLRVLGGSSSVAVVRELFPDAAASQAQSGAAKRPVTAGTAFKTSLAALVNNLEQKQPNYIRCLKPNARQQASLWDADLVIHQTRYLGLLENVRVRRAGFAYRTHHERWLARYKMLHPRLWIGARDTYSRSDANLPAAEQCRMLCQHLG---LGS-DDFRIGRTKVFIRSPRTLDLFEQTRARALPAIATTIQRMWRGLRARL-WVRRTRAALVIQMVYRGYKASKH</Hsp_hseq>
+      <Hsp_midline>GV D + +  ++E  ++ N+ +R++   IYT  G ++V+VNPY+ L  +Y+ + I  Y  K   EMPPHI+AIA + Y +M   +RDQC IISGESGAGKTE++K ++ ++AA SG        + ++ Q+L++ P+LEAFGNA+T RNDNSSRFGKY+DI FN+ G   G +I  YLLEKSRV RQA  +RN+H FY +L   +     K     A+D++YL      T     D++++  ++SAM++L FTD E      ++AA+LH+GN+ + A +  +   C    S  +L  AA  L V    L + LT RT+ TRG++V    S EQA   RDA  KG+Y RLF W+V +IN +I   P Q   ++   IG+LDI+GFE F +NSFEQ CIN+ NE LQQ F+    K EQ+EY  E I W  +E+ +N    ++I      II+L+DEE   P + TD T + K++  H+ +A++   +N  H +        F + H+AG V Y  QGFL+KN D L  D+  L  SS    ++++F   A     +   KR  T  + FK SL  L+  L   QP ++RC+KPN  ++  L+D  L + Q RY G++E +R+RRAG+  R     ++ RY++L P    G +  Y + D         R  CQ +    LG+ DD++IG+TK+F++    + L E  R +A+      +Q++ RG + R  +++   AA +IQ  +RG+   K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|694543932|ref|XP_009497760.1|</Hit_id>
+  <Hit_def>myosin heavy chain [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009497760</Hit_accession>
+  <Hit_len>1224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.582</Hsp_bit-score>
+      <Hsp_score>1272</Hsp_score>
+      <Hsp_evalue>1.36695e-148</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>759</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>767</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>439</Hsp_positive>
+      <Hsp_gaps>52</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>VVKLCDSGQVQVVDDEDNEHWISPQNATHIKPMHPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG----QHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY------EARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEF-TDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNAN-YIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQ-----ADVAMGAETRKRSP---TLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQG--DLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFK</Hsp_qseq>
+      <Hsp_hseq>IIKDHGGGKITVQANDGKEYEVSQDD---LEPMNPPKYDKSEDMATLLHLNESSVLHNLRDRYMSDLIYTYSGLFLVVINPWRNLPIYSDEIIQLYKGKKRKEMPPHIFAVCDEAYRDMLGNKENQSLLITGESGAGKTENTKKVIQYLASVAGTSGTNQSQLEKQIILTNPLLEAFGNAKTIRNNNSSRFGKFIRIEFGSDGKIVGCNIDNYLLEKNRVITHAKAERSFHIFYQLIAGATAEQKKDLLLEGVRAYRYLEGEANI--DNVDDAKEFRDTLDAMRIIGFSEEEQTSIWQILSGLLQFGNLEFVGSRRDETASFKD--------AATADRVSHLLGIKSADFQRCLLKPRVKAGREWVTQMVTTDRAGHNSNALVKAVYERLFKWIISKINSTL-----ETHGRAQTFIGCLDIAGFEIFDHNSFEQLCINLTNEKLQQFFNHHMFVLEQEEYMREGIEWKFVDFGLDLQPTIDLI-EKPLGILSILDEECLLPRSTDKTFIEKCHMQHENKHDKYHKPRLNPDM-FILDHYAGSVSYNTAEWIEKNKDPINDNVASLFAKSTNPLLATIFEDFQVNDDGTLVTDRKGKASSFITVSQRHKQSLNALISTLRATQPHFVRCIIPNESKKPGMIDAPLVLDQLRCNGVLEGIRIVRLGFPNRIPFAEFKQRYELLAPGIIP---KGFMDGRVIAQKLLDALKIEKEFYRIGQSKVFFKAGTVAELEERRDARLSE-------LISGFQ</Hsp_hseq>
+      <Hsp_midline>++K    G++ V  ++  E+ +S  +   ++PM+P      EDM  L  LNE+ +L NL  RY   LIYTY+G  LV +NP++ L IYS E I+ Y  KK  EMPPHIFA+ D  Y +M  N  +Q  +I+GESGAGKTE+TK ++Q+LA+++G      S +E+Q++   P+LEAFGNAKTIRN+NSSRFGK+I I F   G I G  I+ YLLEK+RV   A  ER++H+FY ++ G + +QKK L L     Y YL     I  +   D++E+ +   AM+++ F++ E   I ++L+ +L  GNL++      E  +F++        + +    + LL +   D   CL    +    E V+  ++ ++A    +A VK +Y RLF WI+ KIN+ +     +    ++  IG LDI GFE F  NSFEQLCIN  NE LQQFF  H+F LEQEEY  E I+W  ++F  D Q  +D+I  KP+ I+S++DEE   P+ TD T + K + QH+   + Y  P+ N +  F ++H+AG V Y T  ++EKN+D ++ ++  L   S N  +  IF+      D  +  + + ++    T+S + K+SL  L+ TL A QP FVRCI PNE KKP + D  L + QLR +G++E IRI R G+P R  F EF +RY +L PG+ P   +G  D R   Q++ +A+    + ++IG++K+F K      LE  RD  +++       +I GF+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|694538337|ref|XP_009496147.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_04004 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009496147</Hit_accession>
+  <Hit_len>1534</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.975</Hsp_bit-score>
+      <Hsp_score>1286</Hsp_score>
+      <Hsp_evalue>7.59014e-148</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>729</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>824</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>435</Hsp_positive>
+      <Hsp_gaps>63</Hsp_gaps>
+      <Hsp_align-len>775</Hsp_align-len>
+      <Hsp_qseq>VILQQGDHVWMDLRLGQEFDVPIGAVVKLCDSGQVQV-VDDEDNEHWISPQNATHIKPM-HPTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPY-QLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFL------AAISGQHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGA-IEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKL----GLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQY---------EARTFENLDACEVLFSP--SLATAASLLEVNPPDLMSCLTSRTLIT----RGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQ-------FGINHFAGIVYYETQGFLEKNRDTLHGDIIQLV-HSSRNKFIKQIFQADVA-----MGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHD-----DWQIGKTKIFLK</Hsp_qseq>
+      <Hsp_hseq>VQLQRGDRVWV-AHPTQAYTL---ATVKQIEEGGSKITIFDEAYQTSTLPR--SKILPASNPLNTKGVDDNTELMYLHDAALLDNLRVRYDMQNYYSYTAYILIALNPYHQVPGLYGPERIAEYSNKPIGRKPPHIYALADRAYRSLRASKSNQTIVVSGESGAGKTESCKLITRFLTTVASPASASGQLQQLEERILQSNPLLEAFGNAKTARNVNSSRFGKYTELLFDRKDLHVAGATIETYLLETSRVVRQSAIERNFHIFHYLLAGASDRQRAEFHLASGAGAGKLYAYLA-GAAPTIDGVDDAAEFTRVIQAMDVLGVSRVHQNEILRMLAATLHLGNIRFLDADENAAAGGGASETADACKVCPTSQKALEHAAELLCLPADALKRALVTRTMVAGTSARRDVYTLPLRPAEAQGSRDSLAKHLYAGIFRWVVDCVNRAV--PVAAGAASGTRTIGLLDLSGFEIFETNSLEQFCINFANEKIQQYFDRQVLGQEQEIYELEGLRWRRVEFKDNAAIIDLVENKRFGILSLLDEECLMPKSTDASLAIKLHTTHTNNEYISKPKIGQGRKRITDREGFVIRHFAGEVTYEVAGFLAKNNDTLHDDLLGLLTRATENPFISGMFATQVADDPTSAQLTTGGRFKSLAGGFQLQLTSLMSKLSATTSHFVRCVKPNDRQQAGLFEPVRVLEQLRYSGMCTALVLMQSGFPTRIGFDELYERYAPLMP--EPIA-----RLAPQTFCEALLVALDLHGGRDFQMGLTKVFFR</Hsp_hseq>
+      <Hsp_midline>V LQ+GD VW+     Q + +   A VK  + G  ++ + DE  +    P+  + I P  +P +  GV+D   L  L++A +L NL +RY     Y+YT  IL+A+NPY Q+  +Y PE I +Y+NK IG  PPHI+A+AD  Y +++ +  +Q  ++SGESGAGKTES KLI +FL      A+ SGQ   +E+++L++ P+LEAFGNAKT RN NSSRFGKY ++ F+++   + GA IE YLLE SRV RQ+  ERN+H+F+ +L G S+ Q+ +     G G    Y YLA G   T +G  D+ E+  +  AM VL  +     EI ++LAA LHLGN+++              E  DAC+V  +   +L  AA LL +    L   L +RT++     R +  + PL   +A   RD+  K +Y  +F W+VD +N A+  P +    +  R+IGLLD+ GFE F  NS EQ CINFANE +QQ+F R V   EQE Y+LE + W  +EF DN   +D++ NK   I+SL+DEE   PK TD ++  KL++ H  N     PK     +       F I HFAG V YE  GFL KN DTLH D++ L+  ++ N FI  +F   VA         T  R  +L+  F+  L  LM  L A    FVRC+KPN+ ++  LF+    + QLRYSGM   + + ++G+P R  F E  ERY  L+P  +P       R   Q   EA+L   D     D+Q+G TK+F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|694527378|ref|XP_009492990.1|</Hit_id>
+  <Hit_def>myosin I [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009492990</Hit_accession>
+  <Hit_len>1113</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.1</Hsp_bit-score>
+      <Hsp_score>1237</Hsp_score>
+      <Hsp_evalue>5.70887e-145</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>800</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>750</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>286</Hsp_identity>
+      <Hsp_positive>420</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHSWIEQQ---VLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITRGETVST-----PLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLHIEFTDNQDALDMIANK-PMNIISLIDEES----KFPKGTDTTMLHKLNSQHKLNANYIPPKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQIGKTKIFLKDHHDM-LLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRGHNCRKNYGLMR------LGFLRLQAL</Hsp_qseq>
+      <Hsp_hseq>GLEDMVLLTKIAEDAICDNLKKRFNDDLIYTYIGPILIVVNPFKYLPYYSENEMEMYQNCTPHEVPPHIWAITDHMYREMLIEGEDQCVIISGESGAGKTVAAKHIIQYIAGVAPKAPGLEKIKDIIIESNPLLESFGNAKTLRNNNSSRFGKYFQIEFSRGGIPDGGKISNFLLEKSRVTYQQKGERNFHIFYQLVLGASPAEKESLGLVNCQYFHYLNMSGTFDADGQDDEKDFKETRNAMTVCGISPSDQEAMLRLVAGILHMGNIQF----MEDGTNSRVSKPEALEFPAYLLGIDAHALNLKLTSRQMITRAPGGRTSIYEVPLNVDQANFTRDALVKSIYTRMFDWIVYAVNAQLRK------EGESMCLGVLDIYGFEIFDRNGFEQFCINYVNEKLQQIFIELTLRAEQDEYAREGIQWTPIDFFNNKIVCELIEEKRPVGIMAVLDDVCAQMHAQTDGADVTFINKASSLIN-NKHFIGLSN----AFTVRHYAGNVTYDANGFCESNRDTLFQDLIVLMQSTNVPFLRNLFPEDTTV--DDRKRPTTASLKIRNQANELVDTLMRCTPHYVRCIKPNETKRPRDWENDRVLHQVRYLNLKENIRIRRAGYAFRQPFDKFVRRFAILTPETFPEWRSGTAQQGCLHIMKACDVDPTQYQMGNSKIFIKSPESLFMLEELRNRKYHGYALKIQRAYRRWKAAKYFVELKQRS---QDIMYGQKERKRISLRREFIGDYIGFIENPAL</Hsp_hseq>
+      <Hsp_midline>G+EDM+ L  + E  I  NL  R+ D LIYTY G IL+ VNP++ L  YS   +  Y N    E+PPHI+AI D+ Y  M     DQC IISGESGAGKT + K I+Q++A ++ +   +E+    ++E+ P+LE+FGNAKT+RN+NSSRFGKY  I F++ G  +G KI  +LLEKSRV  Q   ERN+H+FY ++ G S  +K+ LGL     ++YL M      +G+ D +++   R+AM V   + ++   + +L+A ILH+GN+Q+     E+     V    +L   A LL ++   L   LTSR +ITR     T     PL+ +QA   RDA VK IY R+F WIV  +NA + K      +     +G+LDI+GFE F  N FEQ CIN+ NE LQQ F+    + EQ+EY  E I W  I+F +N+   ++I  K P+ I++++D+          G D T ++K +S    N ++I   N     F + H+AG V Y+  GF E NRDTL  D+I L+ S+   F++ +F  D  +  + RKR  T S + +     L+ TL  C P +VRCIKPNE K+P  ++    + Q+RY  + E IRIRRAGY  R  F +FV R+ +L P   P ++ G  +  C  + +A       +Q+G +KIF+K    + +LE  R++      + +Q+  R +K    F++LK  +   Q    G   RK   L R      +GF+   AL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|694532536|ref|XP_009494485.1|</Hit_id>
+  <Hit_def>myosin I [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009494485</Hit_accession>
+  <Hit_len>1183</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>452.981</Hsp_bit-score>
+      <Hsp_score>1164</Hsp_score>
+      <Hsp_evalue>1.27577e-134</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>701</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>666</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>664</Hsp_align-len>
+      <Hsp_qseq>GVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLS-IYSPEHIRQYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISGQHS-----WIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKSRVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASD-YNYL-AMGNCITCEGRVDSQEYANIRSAMKVLMFTDTENWEISKLLAAILHLGNLQYE--------ARTFENLDACEVLFSPSLATAASLLEVNPPDLMSCLTSRTLITR---GETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYKPPSQDVKNSRRS-IGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLESIDWLH-IEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDT-TMLHKLNSQHKLNANYIPPKNNHETQ------FGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMGAETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSGMMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDL</Hsp_qseq>
+      <Hsp_hseq>GLRDFGLMAEVSEKLFVENLETRFKANEIYTFIGHVVVAVNPYRSMGDLYSDRVIDQYRSNSSYNLPPHIYSIADSAYRNMRDRGEDQCILISGESGAGKTEASKLIMRYIAATSVRSDSERIKTIRDQLLNANPVLEAFGNAKTSRNNNSSRFGKYMDLEFDFRGSPAGGVITQYLLEKSRVIHHAPGERNFHKFYQLLRGSTPERLDQLGLANNPEQYKYLGAYGSVYSIDGVNDRLEHVAVRDAMQTVGFTAEQIDAIDQLVAAVLHLGNVEIRGPGWPQGIALPGADPSAATVVDGHHFDMAARLLGVDRTALAFSLTHRTVKDSSRAGADMRVGLNLKAAVNSRDALAKAIYDRLFSHVVHTINGNIRR----DVGEPRGSVIGVLDIYGFEVLQTNSFEQFCINYCNEKLQQLFIERTLREEQLEYEREGVQWNSPVDFFDNAIICKLIEERKHGIIDLLDDECLLPGEVTTGTLMAKLNMAFGEHPHFVTRANHRSDKTLGPCDFRLKHYAGDVQYEAELFVEKNRDTLFRDLQHCMNSSTLEIVRQLFPEGPA--TVDLKRPLSASSSFRKSMDELMNNLLSKHPHYVRCIKPNGQQQPHMFDAELVSHQVRYLGLLENVRVRRAGFCFRQTFETFVERYKMLAPTTWPCYKKKGL</Hsp_hseq>
+      <Hsp_midline>G+ D   + +++E   + NL  R++ + IYT+ G ++VAVNPY+ +  +YS   I QY +     +PPHI++IAD+ Y NM+    DQC +ISGESGAGKTE++KLI++++AA S +        I  Q+L A P+LEAFGNAKT RN+NSSRFGKY+D+ F+ RG+  G  I QYLLEKSRV   A  ERN+H FY +L G + ++  +LGL    + Y YL A G+  + +G  D  E+  +R AM+ + FT  +   I +L+AA+LHLGN++          A    +  A  V+       AA LL V+   L   LT RT+      G  +   L+ + A++ RDA  K IY RLF  +V  IN  I +    DV   R S IG+LDI+GFE    NSFEQ CIN+ NE LQQ F+    + EQ EY+ E + W   ++F DN     +I  +   II L+D+E   P    T T++ KLN     + +++   N+   +      F + H+AG V YE + F+EKNRDTL  D+   ++SS  + ++Q+F    A      KR  + SS F++S++ LM  L +  P +VRCIKPN  ++P +FD  L   Q+RY G++E +R+RRAG+  R +F  FVERY++L P   P YK+  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|694536199|ref|XP_009495535.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_03395 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009495535</Hit_accession>
+  <Hit_len>2557</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>2.0034e-08</Hsp_evalue>
+      <Hsp_query-from>1972</Hsp_query-from>
+      <Hsp_query-to>2198</Hsp_query-to>
+      <Hsp_hit-from>154</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>102</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>WIKKARPIKDGIVPSLTYQVFFMKKLWT-TTVPGKDPMADSIFHYYQELPKYLRGYHKCTREEVLQLGALIYRV-------------KFEEDKSYFPSIPKLLRELVPQDLIRQVSPDDWKRSIVAYFNKHAGKSKEEAKLAFLKLIFKWPTFGSAFFEVKQTTEPNFPEIL--LIAINKYGVSLIDPKTKDILTTHPFTKISNWSSGNTYFHITIGNLVRGSKLLCETSLGYKMDDLLTSYI</Hsp_qseq>
+      <Hsp_hseq>WLIPSKTLKEQDVDESEVLIFRKKFFFSDQNIDRNDPVQLNLV-YNQAQQSIIRGVNPCTQDEAAQFAALQCQILTGNHEPDKHTKSGFIEWKNYLPD--------------EYVGKKDVEKKVYMEHRKIQGMTAENAKFRYIQLCRSLKTYGITFFHVKEKL-PRRNKLIDVLLGVTRDSVMRFDGETKALRDNFPLTTLRRWAATPTHFTMDFGDYA-DSYLIFQTQEGDAISQLISGYI</Hsp_hseq>
+      <Hsp_midline>W+  ++ +K+  V      +F  K  ++   +   DP+  ++  Y Q     +RG + CT++E  Q  AL  ++              F E K+Y P                 V   D ++ +     K  G + E AK  +++L     T+G  FF VK+   P   +++  L+ + +  V   D +TK +    P T +  W++  T+F +  G+    S L+ +T  G  +  L++ YI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|694534507|ref|XP_009495055.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_02885 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009495055</Hit_accession>
+  <Hit_len>836</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.2174</Hsp_bit-score>
+      <Hsp_score>121</Hsp_score>
+      <Hsp_evalue>2.32245e-06</Hsp_evalue>
+      <Hsp_query-from>1157</Hsp_query-from>
+      <Hsp_query-to>1245</Hsp_query-to>
+      <Hsp_hit-from>496</Hsp_hit-from>
+      <Hsp_hit-to>591</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>IIGNGILRPALRDEIYCQISKQLTHNPSKSSYARGWILVSLCVGCFAPSEKFVKYLRNFIHGGPPGYAPYCEERLRRTFV-------NGTRTQPPS</Hsp_qseq>
+      <Hsp_hseq>LVDVGVNRGAMRDELYVQLCKQLNGNQNTVSIMLGWALMAVYAVSFPPSKDFDNYLLSFTADRLIGVAPMTSEGYTGLGLTPPGPADSGTNIPPPS</Hsp_hseq>
+      <Hsp_midline>++  G+ R A+RDE+Y Q+ KQL  N +  S   GW L+++    F PS+ F  YL +F      G AP   E      +       +GT   PPS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_106414</Iteration_query-ID>
+  <Iteration_query-def>gi|41281808|ref|NP_710142.1| harmonin isoform b3 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>899</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_106415</Iteration_query-ID>
+  <Iteration_query-def>gi|18077851|gb|AAG27034.2| cadherin 23 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>3354</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_106416</Iteration_query-ID>
+  <Iteration_query-def>gi|14581464|gb|AAK31804.1| protocadherin 15 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1955</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_106417</Iteration_query-ID>
+  <Iteration_query-def>gi|81175048|sp|Q495M9.1|USH1G_HUMAN RecName: Full=Usher syndrome type-1G protein; AltName: Full=Scaffold protein containing ankyrin repeats and SAM domain</Iteration_query-def>
+  <Iteration_query-len>461</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|694532501|ref|XP_009494475.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_02300 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009494475</Hit_accession>
+  <Hit_len>206</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>1.58933e-11</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>77</Hsp_hit-from>
+      <Hsp_hit-to>178</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRKEL--NAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>HEAAKRGNVELLKEALEVGLSVNTLDHSGATPLHWASRGGHDEAVRLLLQRKPVLDVKNKLGDTPLHMAAWGGHPAVIKTLLEAGAARDLLNNEGQSPYQLA</Hsp_hseq>
+      <Hsp_midline>H AA+ G +ELLKEA    L  N  D  G TP  WA+  G+ E++RL++ R    D  +  G+TPLH+AA  GH   +  L+  GA    L+N+  +P  +A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|694545908|ref|XP_009498325.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_06308 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009498325</Hit_accession>
+  <Hit_len>167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>9.8358e-09</Hsp_evalue>
+      <Hsp_query-from>37</Hsp_query-from>
+      <Hsp_query-to>128</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>102</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>LWAAYHGNLESLRLIVS-RGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLN</Hsp_qseq>
+      <Hsp_hseq>VLAARHGELDEVKAMLELDGADINAVNDYGNAALHMACANSELEVVAFLLEKGANVNLPNSSGNTPLHWASLVGSVEAVKLLLAAGASASPRN</Hsp_hseq>
+      <Hsp_midline>+ AA HG L+ ++ ++   G D +  + +GN  LH+A +N  L  ++FL+  GAN+   ++  +TPL  A++ G +E V+ L +  A  S  N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|694535991|ref|XP_009495477.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_03342 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009495477</Hit_accession>
+  <Hit_len>2059</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.5286</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>7.05757e-08</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>122</Hsp_query-to>
+      <Hsp_hit-from>1434</Hsp_hit-from>
+      <Hsp_hit-to>1527</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAA</Hsp_qseq>
+      <Hsp_hseq>DADGRTQLHLAAYHRQLLAASTLLGQGADVNARDAAGWTPVHAAALRGHISAIILLYDAGADLNAQTDDGQTALHMASLGGHRPAFLLLVRLGA</Hsp_hseq>
+      <Hsp_midline>D DG T    AAYH  L +   ++ +G D +  D  G TP+H AA  GH+  +  L   GA++    +D  T L MA++ GH      L  + A</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.31488e-06</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>1572</Hsp_hit-from>
+      <Hsp_hit-to>1672</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>HRAARDGYLELLKEATRKELNA------PDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDM</Hsp_qseq>
+      <Hsp_hseq>HRVAADGD----TTAVRRALNAGAAIDQPDDSGRTPLFEAILGDHTDVGSLLLHYGADPNVRGPHRVAPLHEAAERGQFAAVALLLVFGADVHARTDRQQTPLDL</Hsp_hseq>
+      <Hsp_midline>HR A DG       A R+ LNA      PD+ G TP   A    + +   L++  G DP+        PLH AA  G    ++ L+ FGA++    +   TPLD+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|694540377|ref|XP_009496731.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_04574 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009496731</Hit_accession>
+  <Hit_len>723</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.447</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>6.22319e-07</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>117</Hsp_query-to>
+      <Hsp_hit-from>108</Hsp_hit-from>
+      <Hsp_hit-to>213</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>106</Hsp_align-len>
+      <Hsp_qseq>EDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLA-----ASNG-------------HLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYL</Hsp_qseq>
+      <Hsp_hseq>EDGQTALHMAALYGRAPAVRMLLCLGADPNVQDNLGATPLHMASECKRATSGWEGGGTSAPPQQNHLLCVAYLLEAGASTQPEDLLGRRPVDMVFLGSHAELIKML</Hsp_hseq>
+      <Hsp_midline>EDG T    AA +G   ++R+++  G DP+  D  G TPLH+A     A++G             HL C+++L+  GA+    D     P+DM  +  H E ++ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|694527021|ref|XP_009492886.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_00728 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009492886</Hit_accession>
+  <Hit_len>911</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>7.19465e-07</Hsp_evalue>
+      <Hsp_query-from>51</Hsp_query-from>
+      <Hsp_query-to>144</Hsp_query-to>
+      <Hsp_hit-from>685</Hsp_hit-from>
+      <Hsp_hit-to>774</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>IVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSLNPKLVGKLKDKAFREAE</Hsp_qseq>
+      <Hsp_hseq>IASRRASPNDQSFSGLAALHYAAEAGDLDFCKFLIQHGADPNIYDVDGWTPLHTAALMGHLEVIRFL----VEECNADAGILNNENKTAYDEAE</Hsp_hseq>
+      <Hsp_midline>I SR   P+     G   LH AA  G L    FL+  GA+    D D  TPL  AA+ GH+E +R+L     ++ + +  ++      A+ EAE</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>48.9062</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.9933e-06</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>705</Hsp_hit-from>
+      <Hsp_hit-to>773</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>39</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>WAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLV-SFGANIWCLDNDYHTPLDMA</Hsp_qseq>
+      <Hsp_hseq>YAAEAGDLDFCKFLIQHGADPNIYDVDGWTPLHTAALMGHLEVIRFLVEECNADAGILNNENKTAYDEA</Hsp_hseq>
+      <Hsp_midline>+AA  G+L+  + ++  G DP+  D+ G TPLH AA  GHL  + FLV    A+   L+N+  T  D A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|694533649|ref|XP_009494808.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_02622 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009494808</Hit_accession>
+  <Hit_len>889</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>8.42593e-07</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>106</Hsp_query-to>
+      <Hsp_hit-from>62</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>83</Hsp_align-len>
+      <Hsp_qseq>ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAA</Hsp_qseq>
+      <Hsp_hseq>DINTINDDSMTILHVAATSGYAEYLRRAIDLGARVDIVDRTGNTALHYAAWGNHPECVRVLLEAGVPVDGLNNDQCSPLHLAA</Hsp_hseq>
+      <Hsp_midline>++N  ++D MT    AA  G  E LR  +  G   D  D  GNT LH AA   H  C+  L+  G  +  L+ND  +PL +AA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|694540528|ref|XP_009496776.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_04616 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009496776</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>43.8986</Hsp_bit-score>
+      <Hsp_score>102</Hsp_score>
+      <Hsp_evalue>3.08297e-06</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>90</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>39</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGAN</Hsp_qseq>
+      <Hsp_hseq>DPNGISLVHAAADYGHVDILRLLISRGLPVNEVDSSGFTPLELAAMEGHYNATVFLLESGAS</Hsp_hseq>
+      <Hsp_midline>D +G++    AA +G+++ LRL++SRG   ++ D  G TPL LAA  GH +   FL+  GA+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|694541132|ref|XP_009496957.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_04818 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009496957</Hit_accession>
+  <Hit_len>864</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.1358</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>3.19098e-06</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>106</Hsp_query-to>
+      <Hsp_hit-from>672</Hsp_hit-from>
+      <Hsp_hit-to>749</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>DEDGMTPTLWAAYHGNLESLRLIVSRGGDPDKCDIWGNTPLHLAASNGHLHCLSFLVSFGANIWCLDNDYHTPLDMAA</Hsp_qseq>
+      <Hsp_hseq>NDEGLTPLHCAACNGYVDITEYLLSKGARPNVFDVDGWTPLHGAASCGSLDVARQLILSGASLLARNVEDDTPLTLSS</Hsp_hseq>
+      <Hsp_midline>+++G+TP   AA +G ++    ++S+G  P+  D+ G TPLH AAS G L     L+  GA++   + +  TPL +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|694539914|ref|XP_009496603.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_04452 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009496603</Hit_accession>
+  <Hit_len>337</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.2098</Hsp_bit-score>
+      <Hsp_score>108</Hsp_score>
+      <Hsp_evalue>6.95792e-06</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>195</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>200</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>29</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>MNDQYHRAARDGYLELLKEATRK---ELNAPDEDGMTPTLWAAYHGNLESLRLIVSRGGDP-DKCDIWGNTPLHLAASNGHLHCLSFLVSFGA---NIWCLDNDYHTPLDMAAMKGHMECVRYLDSIAAKQSSL-----NPKLVGK-LKDKAFREAERRIRECAKLQRRHHERMERR----YRRELAERSDTLSFSSLTSSTLSRRLQHLAL</Hsp_qseq>
+      <Hsp_hseq>MNDLF-RIVEHGDVATLKEIIHSGSIDINACIADGSTILHYACTIGNPAIVSTLLSHPNIILDATNSDGNTPLHVAAAYTHLAIVKLLIKAGNTPHSIFSHNIKGKLPIDYAV---HPEVHSYLESCMSIHDQIYNFTPDPNVLKKYIIDLTIEWSEFQLRA----QEVIHEQIEQKQIALHKLHLVERATGVTDSNGAASV----IDHLAL</Hsp_hseq>
+      <Hsp_midline>MND + R    G +  LKE       ++NA   DG T   +A   GN   +  ++S      D  +  GNTPLH+AA+  HL  +  L+  G    +I+  +     P+D A    H E   YL+S  +    +     +P ++ K + D     +E ++R     Q   HE++E++    ++  L ER+  ++ S+  +S     + HLAL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_106418</Iteration_query-ID>
+  <Iteration_query-def>gi|116283777|gb|AAH33108.1| CIB2 protein [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>144</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|694529743|ref|XP_009493678.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_01507 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009493678</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>70.0922</Hsp_bit-score>
+      <Hsp_score>170</Hsp_score>
+      <Hsp_evalue>3.14698e-16</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>126</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKS----ELDEEEVVLVCDKVIEEADLDGDGKLGFADF</Hsp_qseq>
+      <Hsp_hseq>IPELAMNPLAERICAVLDPHDTETIHFRQFCEVLGAFSPHASRERKLMFAFKIYDVNDDGFITADEMLTVLQMLAGTGGPDSLSLAQLTALAEQTVKDADLDGDGRVSFQEF</Hsp_hseq>
+      <Hsp_midline>+PEL  NP  ERI A         + F  F ++       A RE K  +AFKIYD N D FI  +++   L  L  +     L   ++  + ++ +++ADLDGDG++ F +F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|694543354|ref|XP_009497593.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_05494 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009497593</Hit_accession>
+  <Hit_len>188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.9214</Hsp_bit-score>
+      <Hsp_score>141</Hsp_score>
+      <Hsp_evalue>5.73793e-12</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>137</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>180</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>NPFKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI---AKAPDFL</Hsp_qseq>
+      <Hsp_hseq>NPLARRIIQVLDADGGGDVDFAEFARALKIFSTRGTHLERLEFMFRVYDVDRDGFISPGDLFRVLRTMVGDNLGPVQLQQLVDRAMISGDHDGDGLINFEDFQKLLNSSGAAPEVL</Hsp_hseq>
+      <Hsp_midline>NP   RI+     DG G++ F +F     +         +  + F++YD + D FI   DL   L  +    L   ++  + D+ +   D DGDG + F DF+ ++     AP+ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|694531446|ref|XP_009494169.1|</Hit_id>
+  <Hit_def>calmodulin [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009494169</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>9.1838e-10</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>146</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>MPELRENPFKERIVAAFSE---DGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMI</Hsp_qseq>
+      <Hsp_hseq>MRSLGQNPTEAELQDMINEVDADGSGTIDFPEFLQMMARKMKDTDSEEEIREAFKVFDKDGNGYISAAELRHVMTNLGEKLTDEE-----VDEMIKEADRDGDGQINYQEFVSMM</Hsp_hseq>
+      <Hsp_midline>M  L +NP +  +    +E   DG G + F +F+ M +   +    E +   AFK++D + + +I   +L   +  L +   DEE      D++I+EAD DGDG++ + +F  M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|694527877|ref|XP_009493135.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_00971 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009493135</Hit_accession>
+  <Hit_len>267</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.0618</Hsp_bit-score>
+      <Hsp_score>118</Hsp_score>
+      <Hsp_evalue>1.61015e-08</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>144</Hsp_query-to>
+      <Hsp_hit-from>164</Hsp_hit-from>
+      <Hsp_hit-to>265</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>103</Hsp_align-len>
+      <Hsp_qseq>NLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDLELTLARLTKSELDEEEVVLVCDKVIEEADLDGDGKLGFADFEDMIAKAPDFLSTFHIRI</Hsp_qseq>
+      <Hsp_hseq>QIEFIHFLNLCSVFSVKATPGVKALYAFRIFDFDEDGCLNRYDLLRLVGRITCCSSNDELQRIV-GRIFEEFGIKDCDSLSLFELNQILQMSPDFLTSFNMRI</Hsp_hseq>
+      <Hsp_midline> + F  F+++ SV    A   +KA YAF+I+DF+ D  + + DL   + R+T    ++E   +V  ++ EE  +     L   +   ++  +PDFL++F++RI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|694528808|ref|XP_009493407.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_01248 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009493407</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.3654</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>1.6872e-07</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>85</Hsp_query-to>
+      <Hsp_hit-from>85</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>67</Hsp_align-len>
+      <Hsp_qseq>RENP----FKERIVAAFSEDGEGNLTFNDFVDMFSVLCESAPRELKANYAFKIYDFNTDNFICKEDL</Hsp_qseq>
+      <Hsp_hseq>RTNPGVRLFAARVFASFDREGRGIVTFKDLIHGFSIATRGTIEE-KLEWAFRIYDVDRDQMIGREEM</Hsp_hseq>
+      <Hsp_midline>R NP    F  R+ A+F  +G G +TF D +  FS+       E K  +AF+IYD + D  I +E++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_106419</Iteration_query-ID>
+  <Iteration_query-def>gi|91207975|sp|O75445.3|USH2A_HUMAN RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein; AltName: Full=Usher syndrome type-2A protein; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>5202</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|694535683|ref|XP_009495393.1|</Hit_id>
+  <Hit_def>hypothetical protein H696_03232 [Fonticula alba]</Hit_def>
+  <Hit_accession>XP_009495393</Hit_accession>
+  <Hit_len>1691</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>8.4322e-08</Hsp_evalue>
+      <Hsp_query-from>753</Hsp_query-from>
+      <Hsp_query-to>1037</Hsp_query-to>
+      <Hsp_hit-from>963</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>53</Hsp_gaps>
+      <Hsp_align-len>300</Hsp_align-len>
+      <Hsp_qseq>GSVNKFCNPHSGQCECKKEAKGLQCDTCRENFYGLDVTNCKACDCDTAGSLPGTVCNAKTGQCICKPNVEGRQCNKCLEGNFYLRQNNSFLCLPCNCDKTGTINGSL--LCNKSTGQCP-CKLGVTGLRCNQCEPHRYNLTIDNFQHCQMC--ECDSLGTLPGTICDPISGQCL-----CVPNRQGRRCNQCQPGFYISPGNATGCLPC--SCHTTGAVNHICNSLTGQCVCQ-DASIAGQRCDQC-KDHYFGFDPQTGRCQPCNCHL-SGALNETCHLVTGQCFCKQFVTGSKCDACVP</Hsp_qseq>
+      <Hsp_hseq>GTFGVECQPCDAICQACHGPGPADCTVCRAWLAGQPETCLAECP-------PGQYPDLLTGQCGC--HAECKQCQAQASGEYQ--------CVACHPGQALAPGDSRPDRCHACHDTCAECAVPGDPATCTACGPAR-------FLHAGICHTECPS-----GLWADARAGQCIPCPGGCASCSSADMCSACQPGHFLPPGSGT-CLPCDGSCGTCAEAGACATCRPGLVFLQPDPQVASLCASTCPPGEYVG----PNRCTECQTSSPSGATGQCVPCDPGCASC----TADRCLACEP</Hsp_hseq>
+      <Hsp_midline>G+    C P    C+         C  CR    G   T    C        PG   +  TGQC C  + E +QC     G +         C+ C+  +      S    C+     C  C +      C  C P R       F H  +C  EC S     G   D  +GQC+     C        C+ CQPG ++ PG+ T CLPC  SC T            G    Q D  +A      C    Y G      RC  C     SGA  +      G   C    T  +C AC P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_106420</Iteration_query-ID>
+  <Iteration_query-def>gi|327478512|sp|Q8WXG9.2|GPR98_HUMAN RecName: Full=G-protein coupled receptor 98; AltName: Full=Monogenic audiogenic seizure susceptibility protein 1 homolog; AltName: Full=Usher syndrome type-2C protein; AltName: Full=Very large G-protein coupled receptor 1; Flags: Precursor</Iteration_query-def>
+  <Iteration_query-len>6306</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_106421</Iteration_query-ID>
+  <Iteration_query-def>gi|296453079|sp|Q9P202.3|WHRN_HUMAN RecName: Full=Whirlin; AltName: Full=Autosomal recessive deafness type 31 protein</Iteration_query-def>
+  <Iteration_query-len>907</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_106422</Iteration_query-ID>
+  <Iteration_query-def>gi|49902371|gb|AAH74971.1| Clarin 1 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>232</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_106423</Iteration_query-ID>
+  <Iteration_query-def>gi|255969516|gb|ACU45386.1| PDZD7 [Homo sapiens]</Iteration_query-def>
+  <Iteration_query-len>1033</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>6244</Statistics_db-num>
+      <Statistics_db-len>4258807</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
