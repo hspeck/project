@@ -1,0 +1,12 @@
+Salpingoeca_rosetta,946362
+Capsaspora_owczarzaki,192875
+Trichoplax_adhaerens,10228
+Amphimedon_queenslandica,400682
+Homo_sapiens,9606
+Nematostella_vectensis,45351
+Hydra_vulgaris,6087
+Strongylocentrotus_purpuratus,7668
+Caenorhabditis_elegans,6239
+Drosophila_melanogaster,7227
+Octopus_bimaculoides,37653
+Lingula_anatina,7574
