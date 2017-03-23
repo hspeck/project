@@ -1,0 +1,5 @@
+NP_777367.1,Hom_sap, clarin-1 isoform a ,Deuterostome,"Hom_sap  clarin-1 isoform a ","Homo  clarin-1 isoform a "
+XP_001629167.1,Nem_vec, predicted protein ,Cnidaria,"Nem_vec  predicted protein ","Nematostella  predicted protein "
+XP_781677.3,Str_pur, PREDICTED: clarin-1 ,Deuterostome,"Str_pur  PREDICTED: clarin-1 ","Strongylocentrotus  PREDICTED: clarin-1 "
+XP_014786516.1,Oct_bim, PREDICTED: clarin-2-like ,Protostome,"Oct_bim  PREDICTED: clarin-2-like ","Octopus  PREDICTED: clarin-2-like "
+XP_013378707.1,Lin_ana, PREDICTED: clarin-3-like isoform X3 ,Protostome,"Lin_ana  PREDICTED: clarin-3-like isoform X3 ","Lingula  PREDICTED: clarin-3-like isoform X3 "
