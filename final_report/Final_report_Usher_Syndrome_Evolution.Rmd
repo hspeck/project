@@ -9,25 +9,25 @@ bibliography: USH_biblio.bib
 csl: methods-in-ecology-and-evolution.csl
 ---
 
-## Introduction
+# Introduction
 Usher Syndrome (USH), a genetic sensory disorder, is the most common cause of combined blindness-deafness in humans.  The genes associated with Usher syndrome play key structural and functional roles in ciliated sensory cells of the vertebrate retina and inner ear.  Usher genes form interciliary links and their anchoring complexes in photoreceptors and the mechanosensory hair cell [@Kremer2006].  When a mutation occurs in one of these genes,  mechanotransduction is abolished and the retina degenerates, resulting in blindness, deafness and impaired vestibular function.  
 
 Given the key role these genes play in vertebrate sensory structures, it is concievable that these genes may serve similar sensory functions in other Metazoan groups.  Previously thought to be confined to vertebrates, USH homologs have been identifed within the genome of the Echinoderm *Strongylocentrotus* [@Sodergren2006].  Recently, USH homologs have been shown to be upregulated in the choanocytes of the sponge *Ephydatia*, hinting that these genes may play a conserved role in the evolution of ciliated sensory structures of the Metazoa [@Pena2016].  The morphological similarity of verteberate inner ear hair cells and the ciliated structure of choanoflagelates has long been noted, and lends itself to the notion that these structures may be related by common descent [@Fritzsch2014].  By investigating the evolutionary history of the genes involved in Usher syndrome, this project can better determine how the suite of genes involved with Usher syndrome were assembled within the Metazoa and its close relatives, and what role these genes might have played in the sensory evolution of early animals.  This project begins to address these questions by finding likely Usher Syndrome homologs from animals and their close relatives.
 
-## Methods
+# Methods
 
-#### Overview
-Genetic sequences representing the longest known isoforms of the proteins were downloaded from NCBI [@Benson2005].  Biopython's NCBIWWW module was used to remotely querry the NCBI refseq_protein database using BLASTp to discover likely homologs within various Metazoa and closely related organisms [@Cock2009; @Altschul1990].  BLAST and other sequence searching programs find similar sequences to the querry sequence  and calculate an expected value ("e-value") evaluating the likelihood of the match occuring purely by chance. This e-value is based on the size of the database searched and size of the sequence used to querry the database.  An "excess of similarity" (i.e. low e-value) is a strong indication for homology between two sequences [@Pearson2014].  As protein based searches are more sensitive to distant homologs, an e-value cutoff of 0.00001 was used for the BLAST searches, although only the top hit or top several hits were used.  For almost all cases, the e-values of the sequences used to build the trees were far below that of the cutoff used in the search.
+## Overview
+Genetic sequences representing the longest known isoforms of the proteins were downloaded from NCBI [@Benson2005].  Biopython's NCBIWWW module was used to remotely querry the NCBI refseq_protein database using BLASTp to discover likely homologs within various Metazoa and closely related organisms [@Cock2009; @Altschul1990].  BLAST and other sequence searching programs find similar sequences to the querry sequence  and calculate an expected value ("e-value") evaluating the likelihood of the match occuring purely by chance. This e-value is based on the size of the database searched and size of the sequence used to querry the database.  An "excess of similarity" (i.e. low e-value) is a strong indication for homology between two sequences [@Pearson2014].  As protein based searches are better able to detect distant homologs than nucleotide based searches, an e-value cutoff of 0.00001 was used, although only the top hit or top several hits were used.  For almost all cases, the e-values of the sequences used to build the trees were far below that of the cutoff used in the search.
 
-Blast results were parsed by the Biopthon NCBIXML module and likely homologs discovered by the BLAST search were retrieved from NCBI's Entrez databases using Biopython's Entrez module [@Cock2009].  Multiple sequence alignments were then created using MUSCLE, run through Biopython's MUSCLE wrapper [@Edgar2004, @Cock2009].  Alignmets were used to generate maximum likelihood gene trees using RAxML [@Stamatakis2014].  Gene tree files were visualized in R using the ape library, and annotation files for the trees were generated using a mix of python and bash commands [@Paradis2004].
+Blast results were parsed by the Biopthon NCBIXML module, and likely homologs discovered by the BLAST search were retrieved from NCBI's Entrez databases using Biopython's Entrez module [@Cock2009].  Multiple sequence alignments were then created using MUSCLE, run through Biopython's MUSCLE wrapper [@Edgar2004, @Cock2009].  Alignmets were used to generate maximum likelihood gene trees using RAxML [@Stamatakis2014].  Gene tree files were visualized in R using the ape library, and annotation files for the trees were generated using a mix of python and bash commands [@Paradis2004].
 
-#### Data Description
-Data consisted of FASTA formated protein sequences retrieved from remote databases.  Protein sequences were used as they offered a greater chance of detecting distant homologs than nucleotide sequences, due to the greater selective pressure acting upon them [@Pearson2014].  The increased sensitivity offered by protein sequences is particularly imortant as several of the taxa of searched in this report shared a common ancestor with vertebrates more than 500 million years ago [@Erwin2011].   Organism database were selected to widely sample within major Metazoan lineages, as well as sample Opisthokont groups more closely related to Animals than Fungi.  Unfortunately, not all lineages are wellrepresented with full genomes and protein repetoires in NCBI's sequence database, so some lineages were represented by a single taxa.  In lineages where many well supported organism databases were available, preference was given to well-characterized model systems (e.g. *Drosophila* within the Protostomes).  The list of taxa used for the trees made in this report and the major lineages they belong to are as follows: Porifera: *Amphimedon queenslandica*; Cnidaria: *Hydra vulgaris*, *Nematostella vectensis*; Placozoa *Trichoplax adhaerens*; Deuterostomes: *Homo sapiens*, *Strongylocentrotus purpuratus*; Protostomes: *Octopus bimaculoides*, *Lingula anatina*, *Caenorhabditis elegans*, *Drosophila melanogaster*; Choanoflagellate: *Salpingoeca rosetta* ; Holozoa: *Capsaspora owczarki*.  Data from other taxa was also downloaded, but ultimately left for later analysis.  A full list of the taxa searched and their taxa ids can be found in the document "list_of_org_IDs_long.csv" found [**here**](https://github.com/hspeck/project/tree/master/sandbox/Testrun_multi_genes_same_org)
+## Data Description
+Data consisted of FASTA formated protein sequences retrieved from remote databases.  Protein sequences were used as they offered a greater chance of detecting distant homologs than nucleotide sequences, due to the greater selective pressure acting upon them [@Pearson2014].  The increased sensitivity offered by protein sequences is particularly imortant as several of the taxa of searched in this report shared a common ancestor with vertebrates more than 500 million years ago [@Erwin2011].   Organism database were selected to widely sample within major Metazoan lineages, as well as  Opisthokont groups more closely related to Animals than they are to Fungi.  Unfortunately, not all lineages have a large number of taxa full genomes and complete protein repetoires in NCBI's sequence database, so some lineages were represented by a single taxa, and other groups of interest, such as Ctenophores were excluded from the analysis.  In lineages where many organism databases were available, preference was given to well-characterized model systems (e.g. *Drosophila* within the Protostomes).  The list of taxa used for this report and the major lineages they belong to are as follows: Porifera: *Amphimedon queenslandica*; Cnidaria: *Hydra vulgaris*, *Nematostella vectensis*; Placozoa *Trichoplax adhaerens*; Deuterostomes: *Homo sapiens*, *Strongylocentrotus purpuratus*; Protostomes: *Octopus bimaculoides*, *Lingula anatina*, *Caenorhabditis elegans*, *Drosophila melanogaster*; Choanoflagellate: *Salpingoeca rosetta* ; Holozoa: *Capsaspora owczarki*.  Data from other taxa was also downloaded, but ultimately left for later analysis.  A full list of the taxa searched and their taxa ids can be found in the document "list_of_org_IDs_long.csv" found [**here**](https://github.com/hspeck/project/tree/master/sandbox/Testrun_multi_genes_same_org)
 
-#### Code
+## Code
 Below are the scripts and functions used throughout the workflow of the project.
 
-##### Remote BLAST search
+### Remote BLAST search
 
 This function searches for Usher syndrome associated genes with BLAST in taxa specified by a list of taxa IDs
 ```{python, eval=FALSE}
@@ -92,7 +92,7 @@ def search_taxa_all_gene_delay(list_of_taxa):
 The list of taxa used in this study and the function itself can be found [**here**](https://github.com/hspeck/project/tree/master/sandbox/Testrun_multi_genes_same_org/Batch_run_workspace).
 
 
-##### Parsing the Files
+### Parsing the Files
 This function Breaks apart the BLAST search result and gives relevant summary statistics that can be easily viewed by humans (similar to NCBI's website BLAST summary page) and can be used to create file for easier data manipulation.  Such manipulations include retrieving gene ID numbers and parsing the sequence's annotation for use in tree creation and annotation.
 ```{python, eval=FALSE}
 def parse_and_summarize(blast_output_xml):
@@ -129,7 +129,7 @@ def parse_and_summarize(blast_output_xml):
 ```
 This function can be found in the document "Workshop_assemble_list_of_gene_ids_all_orgs.ipynb" found [**here**](https://github.com/hspeck/project/tree/master/sandbox/Testrun_multi_genes_same_org/Batch_run_workspace). 
 
-##### Downloading Sequences from NCBI database
+### Downloading Sequences from NCBI database
 This function takes a list of gene IDs and posts them to NCBI.  The sequences are then be retrieved from NCBI at a measured rate.  One very important note is that NCBI does not want users to retrieve more than 100 sequences at a time during peak US hours.  Therefore, if one intends to retrieve lots of data from NCBI, this program should only be used during the weekend or late at night.  Otherwise, the administrators will ban the user from accessing the system.  This is why it is important to specify your email in the program, as NCBI will try to contact you before banning you.  The input sequences to download can be generated using bash commands to extract the first column of the summary file generated by the parsing program
 ```{python, eval=FALSE}
 def download_seqs_from_list_and_autoname(in_filename):    
@@ -203,8 +203,8 @@ def download_seqs_from_list_and_autoname(in_filename):
 ```
 This program and the sets of sequences downloaded can be found [**here**](https://github.com/hspeck/project/tree/master/sandbox/reducing_dataset_size_workspace) and for the gene trees using only the top hit, the sequences can be found [**here**](https://github.com/hspeck/project/tree/master/sandbox/Best_hits).
 
-##### Align the sequences using MUSCLE
-
+### Align the sequences using MUSCLE
+This uses the Biopython wrapper to run MUSCLE on a file of sequences.  It can be combined with the above function to produce a script that downloads and aligns sequences with one input(seen below).
 ```{python, eval=FALSE}
 from Bio.Align.Applications import MuscleCommandline
 muscle_cline = MuscleCommandline(input = Sequences_to_align_file_name, 
@@ -212,8 +212,8 @@ muscle_cline = MuscleCommandline(input = Sequences_to_align_file_name,
 stdout, stder = muscle_cline()
 ```
 
-##### Combined Download and alignment
-This function downloads and immediately aligns the resulting sequence files
+### Combined Download and alignment
+This function downloads and immediately aligns the resulting sequence files, using a list of Gene IDs provided to it
 ```{python, eval=FALSE}
 def download_seqs_from_list_autoname_align(in_filename):    
     with open(in_filename, "r") as query_file:
@@ -241,7 +241,6 @@ def download_seqs_from_list_autoname_align(in_filename):
 
     batch_size = 20
     #this determines how many things we retrieve and write to the file
-    #can safely be larger in the future
 
     out_filename = str(in_filename[:-7]+".fasta")
     #let's alter the file name a bit so we can easily move on
@@ -304,7 +303,7 @@ def download_seqs_from_list_autoname_align(in_filename):
 ```
 This function is found the document "best_hit_generation_tree_building.ipynb" [**here**](https://github.com/hspeck/project/tree/master/sandbox/Best_hits).
 
-##### Generate the Tree using RAxML
+### Generate the Tree using RAxML
 Call this command in a directory containing the RAxML program in order to generate a tree. The options used specify the following: -p gives a numerical seed so that the random results can be repofduced consistently, -# specifies the number of times the program attemtps to fit a model to the data, and -m specifies the model of substitution to be used (in this case amino acid substitution).
 ```{bash, eval=FALSE}
 ./raxmlHPC -m PROTGAMMAWAG -p 12345 -s Path/to/alignment/aligned_file  
@@ -312,7 +311,7 @@ Call this command in a directory containing the RAxML program in order to genera
 ```
 
 
-##### Generate Annotations with Python
+### Generate Tree Annotations with Python
 This function will generate annotations based on the summary csv files generated by the parsing step.  Bash scripts can be used to gather a list of all appropriate files and run them through the annotation building program.
 ```{python, eval=FALSE}
 def annotations_for_treebuilding(file_input):
@@ -399,7 +398,7 @@ def annotations_for_treebuilding(file_input):
 ```
 This script is found in the "renaming_seqs_tree_annotations.ipynb" document [**here**](https://github.com/hspeck/project/tree/master/sandbox/Best_hits).
 
-##### Generate the Tree Figures
+### Generate the Tree Figures
 Using the tree files generated by RAxML this R function creates PDFs of the annotated trees.  The annotation function gives several columns of data that could be used to name the tips of the trees.  In the example below, I've opted to use the column that includes the genus of the organism the gene was found in, as well as the sequence annotation.
 ```{r, eval=FALSE}
 make_gene_tree_pdf <- function(gene_tree_file, 
@@ -488,17 +487,19 @@ The workflow and files used to generate this tree can be found [**here**](https:
 
 Gene trees for the top search results for each gene can be found in Appendix I, while the code and files used to generate them can be found [**here**](https://github.com/hspeck/project/tree/master/sandbox/Best_hits).
 
-## Results
+# Results
 
-Homologs for several Usher syndrome associated genes were found not only in the Sponge *Amphimedon queenslandica*, but also in the Choanoflagellate *Salpingoeca rosetta*, supporting findings from Pena et al 2016 [@Pena2016].  This supports the idea that these genes may have played a structural role in the microvillar and ciliated cells of the most recent Metazoan common ancestor.  Examination of the gene trees for the PDZ scaffold proteins Harmonin, Whirlin and PDZD7 showed these genes to be closely related to one another, prompting the assembly of a Harmonin-Whirlin-PDZD7 combined tree (seen above).  This tree shows PDZD7 and Whirlin diverging from each other following their divergence from Harmonin. Investigation the best hit trees shows that the closest homolog of many Usher syndrome genes present in *Caenorhabditis elegans* are only distantly related to Usher Syndrome homologs found in closely related taxa. This is a likely indication of loss of these genes in *C. elegans* or nematodes more generally, as other Protostome lineages, including the Ecdysozoan *Drosophila melanogaster*, possesed homologs of most of these genes.  Further work will be needed to determine whether Usher syndrome homologs play functional and structural roles in the taxa searched here similar to the ones they play in the vertebrate eye and ear.
+Homologs for several Usher syndrome associated genes were found not only in the Sponge *Amphimedon queenslandica*, but also in the Choanoflagellate *Salpingoeca rosetta*, supporting findings from Pena et al 2016 [@Pena2016].  This supports the idea that these genes may have played a structural role in the microvillar and ciliated cells of the most recent Metazoan common ancestor.  Examination of the gene trees for the PDZ scaffold proteins Harmonin, Whirlin and PDZD7 showed these genes to be closely related to one another, prompting the assembly of a Harmonin-Whirlin-PDZD7 combined tree (seen above).  This tree shows PDZD7 and Whirlin diverging from each other following their divergence from Harmonin, with PDZD7 relatively restricted in distribution in the taxa investigated.  As Harmonin and Whirlin mostly associate with different protein complexes and links in the hair cell created by different Usher Syndrome proteins, the timing of the initial divergence betwen the two genes may indicate the timing of the origin of these different complexes [@Kremer2006]. Investigation the best hit trees shows that the closest homolog of many Usher syndrome genes present in *Caenorhabditis elegans* are only distantly related to Usher Syndrome homologs found in closely related taxa. This is a likely indication of loss of these genes in *C. elegans* or nematodes more generally, as other Protostome lineages, including the Ecdysozoan *Drosophila melanogaster*, posses homologs of most of these genes.  Loss of a number of Usher Syndrome associated genes also seems likely in *Trichoplax adhaerens*, given the presence of many of these genes in the Choanoflagellate *S. rosetta*, which shared a common ancestor with the vertebrates less recently than *T. adhaerens* given *T. adhaerens'* status as an animal.  Further work will be needed to determine whether Usher syndrome homologs play functional and structural roles in the taxa searched here similar to the ones they play in the vertebrate eye and ear, and how the domain structure of these genes evolved within certain lineages.
 
-## Github Repository
+# Github Repository
 The full project repository can be found at the following link:
-[https://github.com/hspeck/project](https://github.com/hspeck/project)
+
+[**https://github.com/hspeck/project**](https://github.com/hspeck/project)
 
 \clearpage
 
-## Appendix I - Best hit trees for Usher syndrome genes and candidate genes
+# Appendix I - Best hit trees for Usher syndrome genes and candidate genes
+Genes are divided by which version of Usher Syndrome they are associated with. USH1 causes the most severe effects on hearing and vision, while USH3 is the least deleterious, and USH2 is intermediate between the other two forms [@Kremer2006].
 
 Usher Syndrome 1 associated genes: USH1B-D, USH1F-G, USH1J.
 
@@ -508,7 +509,6 @@ Usher Syndrome 3 associated gene, USH3
 
 Usher Syndrome gene of unknown association: PDZD7
 
-\clearpage
 
 \begin{figure}[h]
 \label{fig:pop}
@@ -589,4 +589,4 @@ Usher Syndrome gene of unknown association: PDZD7
 
 \clearpage
 
-## References
+# References
