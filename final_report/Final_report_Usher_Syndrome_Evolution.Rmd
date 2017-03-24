@@ -1,0 +1,133 @@
+---
+title: "Evolution of Usher Syndrome"
+author: "Hayden Speck"
+date: "March 23, 2017"
+output:
+  pdf_document: default
+fontsize: 12pt
+bibliography: USH_biblio.bib
+csl: methods-in-ecology-and-evolution.csl
+---
+
+## Introduction
+Usher Syndrome (USH), a genetic sensory disorder, is the most common cause of combined blindness-deafness in humans.  The genes associated with Usher syndrome play key structural and functional roles in ciliated sensory cells of the vertebrate retina and inner ear.  Usher genes form interciliary links and their anchoring complexes in photoreceptors and the mechanosensory hair cell [@Kremer2006].  When a mutation occurs in one of these genes,  mechanotransduction is abolished and the retina degenerates, resulting in blindness, deafness and impaired vestibular function.  
+
+Given the key role these genes play in vertebrate sensory structures, it is concievable that these genes may serve similar sensory functions in other Metazoan groups.  Previously thought to be confined to vertebrates, USH homologs have been identifed within the genome of the Echinoderm *Strongylocentrotus* [@Sodergren2006].  Recently, USH homologs have been shown to be upregulated in the choanocytes of the sponge *Ephydatia*, hinting that these genes may play a conserved role in the evolution of ciliated sensory structures of the Metazoa, and begging the question of these genes arose [@Pena2016].  The morphological similarity of verteberate inner ear hair cells and the ciliated structure of choanoflagelates has long been noted, and lends itself to the notion that these structures may be related by common descent [@Fritzsch2014].  By investigating the evolutionary history of the genes involved in Usher syndrome, this project can better determine how the suite of genes involved with Usher syndrome were assembled within the Metazoa and its close relatives, and what role these genes might have played in the sensory evolution of early animals.  To this end, I have constructed gene trees for known Usher syndrome associated genes, and proposed candidate genes.
+
+## Methods
+
+#### Overview
+Genetic sequences representing the longest known isoforms of the proteins were downloaded from NCBI [@Benson2005].  Biopython's NCBIWWW module was used to remotely querry the NCBI refseq_protein database using BLASTp to discover likely homologs within various Metazoa and closely related organisms [@Cock2009; @Altschul1990].  BLAST searches and other sequence searching programs find similar sequences to the sequence used as a querry and calculate an expected value ("e-value") evaluating the likelihood of the match occuring purely by chance, based on the size of the database searched and size of the sequence used to querry the database.  An "excess of similarity" (i.e. low e-value) is a strong indication for homology between two sequences [@Pearson2014].  As protein based searches are more sensitive to distant homologs, an e-value cutoff of 0.00001 was used for the BLAST searches, although only the top hit or top several hits were used.  For almost all cases, the e-values of the sequences used to build the trees were far below that of the cutoff used in the search.
+
+Blast results were parsed by the Biopthon NCBIXML module and Likely homologs discovered by the BLAST search were retrieved from NCBI's Entrez databases using Biopython's Entrez module [@Cock2009].  Multiple sequence alignments were then created using MUSCLE, run using Biopython's MUSCLE wrapper [@Edgar2004, @Cock2009].  Alignmets were used to generate maximum likelihood gene trees using RAxML [@Stamatakis2014].  Gene tree files were visualized in R using the ape library, and annotation files for the trees were generated using a mix of python and bash commands [@Paradis2014].
+
+#### Data Description
+Data consisted of FASTA formated protein sequences retrieved from remote databases.  Protein sequences were used as they offered a greater chance of detecting distant homologs than nucleotide sequences, due to the greater selective pressure acting upon them [@Pearson2014].  The increased sensitivity offered by protein sequences is particularly imortant as several of the taxa of searched in this report shared a common ancestor with vertebrates more than 500 million years ago [@Erwin2011].   
+
+#### Code
+Below are the scripts and functions used throughout the workflow of the project.
+
+##### Remote BLAST search
+
+This function searches for Usher syndrome associated genes with BLAST in taxa specified by a list of taxa IDs
+```{python, eval=FALSE}
+def search_taxa_all_gene_delay(list_of_taxa):
+    # blasts sequences in a file against a list of taxa
+    # loop through the list and run blast for each one
+    # will save each result to a separate xml file
+
+    from Bio.Blast import NCBIWWW
+ # imports the NCBIWWW module to allow remote Searching
+
+    import time
+ # delays imputs to the NCBI servers and get kicked off
+
+    with open("USH_Search_seq.fasta", "r") as fasta_file:
+        sequences = fasta_file.read()
+        fasta_file.close()
+        #reads in sequences we will be searching
+
+    for i in list_of_taxa:
+
+        result_handle = NCBIWWW.qblast("blastp", 
+# specifies the program for a protein-protein search
+                                       "refseq_protein",  
+#  database of protein sequences
+                                       sequences, 
+# our list of sequences we read in
+                                       alignments = 100, 
+# asks for 100 best hits
+                                       descriptions = 100, 
+                                       expect = 0.00001, 
+# specifies max E-value(likelihood of a random match for our query)
+                                       entrez_query = str(i)) 
+# specifies the taxa as we loop through it
+
+                                       
+        file_name=str("USH_Search_"+str(i)+".xml") 
+#this creates a name for the file
+
+        save_file=open(file_name, "w")  
+#we are opening a file that does not yet exist to write to it        
+
+        save_file.write(result_handle.read())  
+#writing the result of our blast search to local file
+        
+        save_file.close() 
+#closing it to allow the file to actually write it
+
+        result_handle.close() 
+#close the results handle
+
+        
+        print("created "+ file_name) 
+#this is just a nice way to track the progress of the program
+        
+
+        time.sleep(60)  
+# 1 minute delay writing the output and requests to the ncbi server
+
+# NCBI is a shared resource, shouldn't monopolize computer time
+```
+The list of taxa used in this study and the function itself can be found at
+
+
+##### Parsing the Files
+This function Breaks apart the BLAST search result and gives relevant summary statistics
+```{python, eval=FALSE}
+def parse_and_summarize(blast_output_xml):
+# goes through the output of a BLAST xml file 
+# finds the relevant stats to summarize the search
+    from Bio.Blast import NCBIXML
+    from Bio.SeqRecord import SeqRecord
+    #import the required libraries
+    
+    for file_name in blast_output_xml:
+        result_handle = open(str(file_name), "r") 
+# sets the result handle
+        
+        blast_records = NCBIXML.parse(result_handle)
+        #need to use parse if it has multiple records in it
+        
+        for blast_record in blast_records:
+            org_desig=file_name.split("_")[2]\
+.split("[")[0].replace(" ", "_")
+ #properly formats the taxa id so to name things
+            
+            homo_sapiens = "[Homo sapiens]"
+            blast_query=blast_record.query
+            if homo_sapiens in blast_query:
+                gene_name=blast_record.query.split("|")[4]\
+.split("[")[0]\.replace(" ", "_").replace("_protein", "")\
+.replace("_isoform_b3", "")
+                formated_gene_name = gene_name[1:-1]
+            else:
+                formated_gene_name=blast_query.split("|")\
+[4].split("_")[0]
+#this conditional formats the gene name 
+#switches between two formats in spliting the name
+```
+
+## Result
+
+## References

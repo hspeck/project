@@ -58,3 +58,14 @@ make_gene_tree_pdf <- function(gene_tree_file, gene_annotation_file, title, outp
          cex = 0.5) # resize the key
   dev.off()
 }
+
+####### make the tree
+make_gene_tree_pdf(gene_tree_file = "RAxML_bestTree.WHRN_family1",
+                   gene_annotation_file = "annotations_tree_nonredundant_WHRN_harm_PDZD7.txt",
+                   title = "Whirlin-Harmonin-PDZD7 family tree",
+                   output_file_name = "WHRN_harmonin_PDZD7_tree_figure.pdf")
+
+
+Whirlin_family_tree = read.tree("/home/eeb177-student/Desktop/eeb-177/project/sandbox/WHRN-Harm-PDZD7_comparisson/RAxML_bestTree.WHRN_family1")
+plot(Whirlin_family_tree)
+
